@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>GitHub Page on Kodebaper - Newbie Programming dan ngobrol produktif</title>
+    <link>http://mazzempong.github.io/tags/github-page/</link>
+    <description>Recent content in GitHub Page on Kodebaper - Newbie Programming dan ngobrol produktif</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Aug 2020 00:45:39 +0700</lastBuildDate>
+    
+	<atom:link href="http://mazzempong.github.io/tags/github-page/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Memanfaatkan Github Page Untuk Deploy Hugo</title>
+      <link>http://mazzempong.github.io/blog/mengenal-github-page-untuk-deploy-hugo/</link>
+      <pubDate>Fri, 21 Aug 2020 00:45:39 +0700</pubDate>
+      
+      <guid>http://mazzempong.github.io/blog/mengenal-github-page-untuk-deploy-hugo/</guid>
+      <description>Memanfaatkan Github Page Untuk Deploy Hugo Beberapa waktu lalu saya, sudah mengenalkan tentang perkenalan singkat saya dengan blog saya pribadi ini yang menggunakan static site generator dari Hugo. Pada kesempatan kali ini saya akan mengenalkan alternatif yang saya gunakan untuk menghosting blog hugo saya secara gratis, setelah baca-baca dan mencari tau di internet ternyata saya menemukan cara yang sudah di dokumentasikan dengan sangat jelas oleh tim Hugo di website resmi Hugo tentang bagaimana melakukan deploy blog hugo kita di layanan GitHub.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Kodebaper - Newbie Programming dan ngobrol produktif</title>
+    <link>http://mazzempong.github.io/categories/</link>
+    <description>Recent content in Categories on Kodebaper - Newbie Programming dan ngobrol produktif</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Fri, 21 Aug 2020 00:46:17 +0700</lastBuildDate>
+    
+	<atom:link href="http://mazzempong.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cloud</title>
+      <link>http://mazzempong.github.io/categories/cloud/</link>
+      <pubDate>Fri, 21 Aug 2020 00:46:17 +0700</pubDate>
+      
+      <guid>http://mazzempong.github.io/categories/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>http://mazzempong.github.io/categories/git/</link>
+      <pubDate>Fri, 21 Aug 2020 00:45:39 +0700</pubDate>
+      
+      <guid>http://mazzempong.github.io/categories/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>http://mazzempong.github.io/categories/hugo/</link>
+      <pubDate>Fri, 21 Aug 2020 00:44:44 +0700</pubDate>
+      
+      <guid>http://mazzempong.github.io/categories/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Secangkir Kopi</title>
+      <link>http://mazzempong.github.io/categories/secangkir-kopi/</link>
+      <pubDate>Fri, 21 Aug 2020 00:36:50 +0700</pubDate>
+      
+      <guid>http://mazzempong.github.io/categories/secangkir-kopi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
