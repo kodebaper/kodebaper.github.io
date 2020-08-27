@@ -2,40 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kodebaper - Newbie Programming dan ngobrol produktif</title>
-    <link>http://mazzempong.github.io/</link>
+    <link>https://kodebaper.github.io/</link>
     <description>Recent content on Kodebaper - Newbie Programming dan ngobrol produktif</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 21 Aug 2020 00:46:17 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2020 00:39:06 +0700</lastBuildDate>
     
-	<atom:link href="http://mazzempong.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kodebaper.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Error Saat Deploy Hugo Ke GitHub Page</title>
+      <link>https://kodebaper.github.io/blog/error-saat-deploy-hugo-ke-github-page/</link>
+      <pubDate>Fri, 28 Aug 2020 00:39:06 +0700</pubDate>
+      
+      <guid>https://kodebaper.github.io/blog/error-saat-deploy-hugo-ke-github-page/</guid>
+      <description>Untuk Pertama Kalinya Deploy Hugo di GitHub Pertama kali saya melakukan Deploy blog static site Hugo saya ini ke repository GitHub yang sudah saya buat dan saya persiapkan, saya sempat mengalami beberapa error, adapun error yang saya alami selama proses Deploy telah saya rangkum, semoga beberapa error-solved yang saya dokumentasikan di blog ini cukup membantu untuk siapa saja yang sedang melakukan deploy dengan permasalahan yang sama, walaupun sebenarnya saya tidak secara lengkap mendokumentasikan error karena terlalu banyak error yang saya temui sehingga saya waktu melakukan deploy tidak sempat mencatatnya satu persatu.</description>
+    </item>
+    
+    <item>
       <title>Mengenal Layanan DNS Cloudflare</title>
-      <link>http://mazzempong.github.io/blog/mengenal-layanan-dns-cloudflare/</link>
+      <link>https://kodebaper.github.io/blog/mengenal-layanan-dns-cloudflare/</link>
       <pubDate>Fri, 21 Aug 2020 00:46:17 +0700</pubDate>
       
-      <guid>http://mazzempong.github.io/blog/mengenal-layanan-dns-cloudflare/</guid>
+      <guid>https://kodebaper.github.io/blog/mengenal-layanan-dns-cloudflare/</guid>
       <description>Mengenal Layanan DNS Cloudflare Mengenal apa itu Cloudflare dan untuk apa sebenarnya Cloudflare itu sendiiri. Saya sendiri saat ini menggunakan layanan dari Cloudflare baru sebatas penggunaan dengan memanfaatkan layanan gratis untuk setting DNS blog saya ini, adapun di lain kesempatan saya akan membahas cara setting DNS di Cloudflare dari Github page untuk blog static site Hugo.
 Berawal dari blog ini mendeploy ke GitHub page lalu memesan Domain dot com dari Domainesia, waktu itu setup custom domain di Cloudflare berlangsung.</description>
     </item>
     
     <item>
       <title>Memanfaatkan Github Page Untuk Deploy Hugo</title>
-      <link>http://mazzempong.github.io/blog/mengenal-github-page-untuk-deploy-hugo/</link>
+      <link>https://kodebaper.github.io/blog/mengenal-github-page-untuk-deploy-hugo/</link>
       <pubDate>Fri, 21 Aug 2020 00:45:39 +0700</pubDate>
       
-      <guid>http://mazzempong.github.io/blog/mengenal-github-page-untuk-deploy-hugo/</guid>
+      <guid>https://kodebaper.github.io/blog/mengenal-github-page-untuk-deploy-hugo/</guid>
       <description>Memanfaatkan Github Page Untuk Deploy Hugo Beberapa waktu lalu saya, sudah mengenalkan tentang perkenalan singkat saya dengan blog saya pribadi ini yang menggunakan static site generator dari Hugo. Pada kesempatan kali ini saya akan mengenalkan alternatif yang saya gunakan untuk menghosting blog hugo saya secara gratis, setelah baca-baca dan mencari tau di internet ternyata saya menemukan cara yang sudah di dokumentasikan dengan sangat jelas oleh tim Hugo di website resmi Hugo tentang bagaimana melakukan deploy blog hugo kita di layanan GitHub.</description>
     </item>
     
     <item>
       <title>Apa itu Static Site Generator Hugo ?</title>
-      <link>http://mazzempong.github.io/blog/mengenal-static-site-generator-hugo/</link>
+      <link>https://kodebaper.github.io/blog/mengenal-static-site-generator-hugo/</link>
       <pubDate>Fri, 21 Aug 2020 00:44:44 +0700</pubDate>
       
-      <guid>http://mazzempong.github.io/blog/mengenal-static-site-generator-hugo/</guid>
+      <guid>https://kodebaper.github.io/blog/mengenal-static-site-generator-hugo/</guid>
       <description>Apa itu Static Site Generator Hugo ?  
 Pada kesempatan kali ini kita akan mengenal lebih jauh apa itu static site generator Hugo dan 5 alasan utama saya memilih ngeblog menggunakan Hugo.
 Hal ini berawal dari keinginan kuat saya belajar programming dimana saya mencoba keluar dari rutinitas keilmuan saya yang lebih banyak berkecimpung dengan Networking, akhirnya saya memutuskan untuk belajar permrograman yang sedang tren yaitu pemrograman untuk mobile apps.</description>
@@ -43,20 +52,20 @@ Hal ini berawal dari keinginan kuat saya belajar programming dimana saya mencoba
     
     <item>
       <title>Opini Saya Tentang Mahasiswa</title>
-      <link>http://mazzempong.github.io/blog/opini-saya-tentang-mahasiswa/</link>
+      <link>https://kodebaper.github.io/blog/opini-saya-tentang-mahasiswa/</link>
       <pubDate>Fri, 21 Aug 2020 00:36:50 +0700</pubDate>
       
-      <guid>http://mazzempong.github.io/blog/opini-saya-tentang-mahasiswa/</guid>
+      <guid>https://kodebaper.github.io/blog/opini-saya-tentang-mahasiswa/</guid>
       <description>Opini Saya Tentang Mahasiswa  
 Berikut ini ada beberapa opini yang saya dapatkan sendiri selama menjadi mahasiswa dan saat ini baru menginjak semester IV, berbicara seorang mahasiswa khusunya yang ambil kuliah jurusan teknik komputer tentunya ada beberapa harapan &amp;ldquo;harusnya sih meurut saya pribadi&amp;rdquo; yang bisa di sematkan buat mahasiswa dengan jurusan tersebut. Opini saya sendiri juga bukan berarti saya ini paling hebat di bidang IT, tapi lebih ke pendapat saya sendiri tentang karakter-karakter mahasiswa yang saya temui di kampus tempat saya kuliah.</description>
     </item>
     
     <item>
       <title>Bingung, akhirnya migrasi ke Hugo</title>
-      <link>http://mazzempong.github.io/blog/bingung/</link>
+      <link>https://kodebaper.github.io/blog/bingung/</link>
       <pubDate>Wed, 19 Aug 2020 04:23:11 +0700</pubDate>
       
-      <guid>http://mazzempong.github.io/blog/bingung/</guid>
+      <guid>https://kodebaper.github.io/blog/bingung/</guid>
       <description>migrasi, dari CMS ke Static site Hugo Akhirnya, dari CMS saya memutuskan menggunakan framework yang katanya masuk jadi framework tercepat. Dan sangat terasa sekali saya baru pertama kalinya mencicipi asiknya nulis di blog menggunakan static site, untuk lai ini saya memutuskan static site generator dengan Hugo. karena saya sebelumnya sudah cukup familiar menggunakan terminal di linux, pengalaman menulis di blog menggunakan Hugo sunggu berasa ngeblog di dalam terminal Linux &amp;lsquo;menutu saya sih&amp;rsquo;.</description>
     </item>
     

@@ -3,15 +3,19 @@
   <meta charset="UTF-8" />
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <meta name="description" content="Belajar Programming bareng Kodebaper 'Categories'" />
-  <title>Categories  | Kodebaper - Newbie Programming dan ngobrol produktif</title>
-  <meta property="og:title" content="Categories" />
+  <meta name="description" content="Belajar Programming bareng Kodebaper 'Error Saat Deploy Hugo Ke GitHub Page'" />
+  <title>Error Saat Deploy Hugo Ke GitHub Page  | Kodebaper - Newbie Programming dan ngobrol produktif</title>
+  <meta property="og:title" content="Error Saat Deploy Hugo Ke GitHub Page" />
   
-  <meta property="og:type" content="website" />
-  
-  <meta property="og:url" content="https://kodebaper.github.io/categories/" />
+  <meta property="og:type" content="article" />
+  <meta property="article:published_time" content="2020-08-28"> 
+  <meta property="og:url" content="https://kodebaper.github.io/blog/error-saat-deploy-hugo-ke-github-page/" />
   <meta property="og:site_name" content="Kodebaper - Newbie Programming dan ngobrol produktif" />
    <meta property="og:image" content="https://kodebaper.github.io/images/thumbnail.png">  
+  <meta property="og:tags" content="Hugo Error" />
+  
+  <meta property="og:tags" content="Deploy" />
+  
 
   
   <link rel="icon" href="/favicon.ico" type="image/x-icon" />
@@ -83,110 +87,102 @@
 </header><div class="container">
       <div class="row justify-content-center">
         <div class="col-12 col-lg-8">
-<div class="categories">
-  <h1>
-    <i class="far fa-folder-open"></i>
-    Categories
-  </h1>
-  <p>Read an article by categories. You can read the recent article when you click the title.</p>
-  <ul>
-      
-    <li>
-      <span class="title">
-        <a href="https://kodebaper.github.io/categories/cloud">
-          <i class="far fa-folder" aria-hidden="true"></i>
-          CLOUD (1 EA)
-        </a>
-      </span>
-      <span class="links">
-        
-        <a href="https://kodebaper.github.io/blog/mengenal-layanan-dns-cloudflare/">
-          <small>2020-08-21</small>
-          <span class="recent-title">Mengenal Layanan DNS Cloudflare</span>
-        </a>
-        
-      </span>
-    </li>
+
+<div class="post-title">
+  <a href="https://kodebaper.github.io/blog/error-saat-deploy-hugo-ke-github-page/">
+    <div class="post-meta">
+      <time></time>
+    </div>
+  </a>
+</div>
+<section class="post-content">
+  
+  
+
+<h2 id="untuk-pertama-kalinya-deploy-hugo-di-github">Untuk Pertama Kalinya Deploy Hugo di GitHub</h2>
+
+<p>Pertama kali saya melakukan Deploy blog static site Hugo saya ini ke repository GitHub yang sudah saya buat dan saya persiapkan, saya sempat mengalami beberapa error, adapun error yang saya alami selama proses Deploy telah saya rangkum, semoga beberapa error-solved yang saya dokumentasikan di blog ini cukup membantu untuk siapa saja yang sedang melakukan deploy dengan permasalahan yang sama, walaupun sebenarnya saya tidak secara lengkap mendokumentasikan error karena terlalu banyak error yang saya temui sehingga saya waktu melakukan deploy tidak sempat mencatatnya satu persatu.</p>
+
+<p>Akan tetapi sejauh ini apa yang saya dokumentasikan ini akan cukup membantu untuk permasalahan seputar <strong>langkah melakukan deploy hugo static site ke GitHub page</strong> dan berikut beberapa error yang saya temui selama proses Deploy Hugo ke github page :</p>
+
+</section>
+<time>
+  <i class="far fa-clock"></i>
+  Friday, Aug 28, 2020 00:39
+</time>
+ 
+<i class="far fa-folder"></i>
+<a href="https://kodebaper.github.io//categories/hugo">Hugo</a>
+ 
+<div class="post-comment">
+  <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
     
-    <li>
-      <span class="title">
-        <a href="https://kodebaper.github.io/categories/git">
-          <i class="far fa-folder" aria-hidden="true"></i>
-          GIT (1 EA)
-        </a>
-      </span>
-      <span class="links">
-        
-        <a href="https://kodebaper.github.io/blog/mengenal-github-page-untuk-deploy-hugo/">
-          <small>2020-08-21</small>
-          <span class="recent-title">Memanfaatkan Github Page Untuk Deploy Hugo</span>
-        </a>
-        
-      </span>
-    </li>
     
-    <li>
-      <span class="title">
-        <a href="https://kodebaper.github.io/categories/hugo">
-          <i class="far fa-folder" aria-hidden="true"></i>
-          HUGO (3 EA)
-        </a>
-      </span>
-      <span class="links">
-        
-        <a href="https://kodebaper.github.io/blog/error-saat-deploy-hugo-ke-github-page/">
-          <small>2020-08-28</small>
-          <span class="recent-title">Error Saat Deploy Hugo Ke GitHub Page</span>
-        </a>
-        
-      </span>
-    </li>
     
-    <li>
-      <span class="title">
-        <a href="https://kodebaper.github.io/categories/secangkir-kopi">
-          <i class="far fa-folder" aria-hidden="true"></i>
-          SECANGKIR-KOPI (1 EA)
-        </a>
-      </span>
-      <span class="links">
-        
-        <a href="https://kodebaper.github.io/blog/opini-saya-tentang-mahasiswa/">
-          <small>2020-08-21</small>
-          <span class="recent-title">Opini Saya Tentang Mahasiswa</span>
-        </a>
-        
-      </span>
-    </li>
-    
-  </ul>
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "YOUR_DISQUS_SHORT_NAME" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 </div>
 
+
+<hr class="summary-sep" />
+<div class="recommend-articles">
+  <h3>
+    Recommend these articles
+  </h3>
+  <ul>
+    
+    <li>
+      <a href="https://kodebaper.github.io/blog/mengenal-layanan-dns-cloudflare/" rel="prev">
+        <span>Mengenal Layanan DNS Cloudflare</span>
+      </a>
+    </li>
+     
+  </ul>
+</div>
+ 
         </div>
 
         <div id="sidebar" class="col-12 col-md-8 col-lg-4">
           <div class="post-sidebar-area">
-<div class="sidebar-widget-area">
+<div id="post-toc" class="sidebar-widget-area">
   <div class="title">
-    <i class="fa fa-business-time"></i>
-    Recents
+    <i class="fa fa-list"></i>
+    TOC
   </div>
   <div class="widget-content">
+    <nav id="TableOfContents">
+<ul>
+<li>
+<ul>
+<li><a href="#untuk-pertama-kalinya-deploy-hugo-di-github">Untuk Pertama Kalinya Deploy Hugo di GitHub</a></li>
+</ul></li>
+</ul>
+</nav>
   </div>
 </div>
-
 <div class="sidebar-widget-area">
   <div class="title">
     <i class="fa fa-tags fa-1x" Style="color: #black"></i>
     Tags
   </div>
   <div class="widget-content">
-    <a href="/tags/anak-kampus/" class="badge badge-secondary">anak-kampus</a>
-    <a href="/tags/deploy/" class="badge badge-secondary">Deploy</a>
-    <a href="/tags/github-page/" class="badge badge-secondary">GitHub Page</a>
-    <a href="/tags/hugo-error/" class="badge badge-secondary">Hugo Error</a>
-    <a href="/tags/static-site/" class="badge badge-secondary">Static site</a>
-    <a href="/tags/static-site-hugo/" class="badge badge-secondary">Static Site Hugo</a>
+     
+    <a href="https://kodebaper.github.io/tags/hugo-error" class="badge badge-secondary">Hugo Error</a>
+    <a href="https://kodebaper.github.io/tags/deploy" class="badge badge-secondary">Deploy</a>
   </div>
 </div>
 

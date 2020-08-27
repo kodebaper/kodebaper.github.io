@@ -3,98 +3,115 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://mazzempong.github.io/blog/</loc>
+    <loc>https://kodebaper.github.io/blog/</loc>
+    <lastmod>2020-08-28T00:39:06+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/categories/</loc>
+    <lastmod>2020-08-28T00:39:06+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/tags/deploy/</loc>
+    <lastmod>2020-08-28T00:39:06+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/blog/error-saat-deploy-hugo-ke-github-page/</loc>
+    <lastmod>2020-08-28T00:39:06+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/categories/hugo/</loc>
+    <lastmod>2020-08-28T00:39:06+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/tags/hugo-error/</loc>
+    <lastmod>2020-08-28T00:39:06+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/</loc>
+    <lastmod>2020-08-28T00:39:06+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/tags/</loc>
+    <lastmod>2020-08-28T00:39:06+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/categories/cloud/</loc>
     <lastmod>2020-08-21T00:46:17+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mazzempong.github.io/categories/</loc>
+    <loc>https://kodebaper.github.io/blog/mengenal-layanan-dns-cloudflare/</loc>
+    <lastmod>2020-08-21T00:46:17+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/tags/static-site/</loc>
     <lastmod>2020-08-21T00:46:17+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mazzempong.github.io/categories/cloud/</loc>
-    <lastmod>2020-08-21T00:46:17+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mazzempong.github.io/</loc>
-    <lastmod>2020-08-21T00:46:17+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mazzempong.github.io/blog/mengenal-layanan-dns-cloudflare/</loc>
-    <lastmod>2020-08-21T00:46:17+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://mazzempong.github.io/tags/static-site/</loc>
-    <lastmod>2020-08-21T00:46:17+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mazzempong.github.io/tags/</loc>
-    <lastmod>2020-08-21T00:46:17+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mazzempong.github.io/categories/git/</loc>
+    <loc>https://kodebaper.github.io/categories/git/</loc>
     <lastmod>2020-08-21T00:45:39+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mazzempong.github.io/tags/github-page/</loc>
+    <loc>https://kodebaper.github.io/tags/github-page/</loc>
     <lastmod>2020-08-21T00:45:39+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mazzempong.github.io/blog/mengenal-github-page-untuk-deploy-hugo/</loc>
+    <loc>https://kodebaper.github.io/blog/mengenal-github-page-untuk-deploy-hugo/</loc>
     <lastmod>2020-08-21T00:45:39+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mazzempong.github.io/blog/mengenal-static-site-generator-hugo/</loc>
+    <loc>https://kodebaper.github.io/blog/mengenal-static-site-generator-hugo/</loc>
     <lastmod>2020-08-21T00:44:44+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mazzempong.github.io/categories/hugo/</loc>
-    <lastmod>2020-08-21T00:44:44+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://mazzempong.github.io/blog/opini-saya-tentang-mahasiswa/</loc>
+    <loc>https://kodebaper.github.io/blog/opini-saya-tentang-mahasiswa/</loc>
     <lastmod>2020-08-21T00:36:50+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mazzempong.github.io/categories/secangkir-kopi/</loc>
+    <loc>https://kodebaper.github.io/categories/secangkir-kopi/</loc>
     <lastmod>2020-08-21T00:36:50+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mazzempong.github.io/tags/anak-kampus/</loc>
+    <loc>https://kodebaper.github.io/tags/anak-kampus/</loc>
     <lastmod>2020-08-21T00:36:50+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://mazzempong.github.io/blog/bingung/</loc>
+    <loc>https://kodebaper.github.io/blog/bingung/</loc>
     <lastmod>2020-08-19T04:23:11+07:00</lastmod>
   </url>
   
   <url>
-    <loc>http://mazzempong.github.io/tags/static-site-hugo/</loc>
+    <loc>https://kodebaper.github.io/tags/static-site-hugo/</loc>
     <lastmod>2020-08-19T04:23:11+07:00</lastmod>
     <priority>0</priority>
   </url>

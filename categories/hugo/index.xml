@@ -2,21 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Kodebaper - Newbie Programming dan ngobrol produktif</title>
-    <link>http://mazzempong.github.io/categories/hugo/</link>
+    <link>https://kodebaper.github.io/categories/hugo/</link>
     <description>Recent content in Hugo on Kodebaper - Newbie Programming dan ngobrol produktif</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 21 Aug 2020 00:44:44 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 28 Aug 2020 00:39:06 +0700</lastBuildDate>
     
-	<atom:link href="http://mazzempong.github.io/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kodebaper.github.io/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Error Saat Deploy Hugo Ke GitHub Page</title>
+      <link>https://kodebaper.github.io/blog/error-saat-deploy-hugo-ke-github-page/</link>
+      <pubDate>Fri, 28 Aug 2020 00:39:06 +0700</pubDate>
+      
+      <guid>https://kodebaper.github.io/blog/error-saat-deploy-hugo-ke-github-page/</guid>
+      <description>Untuk Pertama Kalinya Deploy Hugo di GitHub Pertama kali saya melakukan Deploy blog static site Hugo saya ini ke repository GitHub yang sudah saya buat dan saya persiapkan, saya sempat mengalami beberapa error, adapun error yang saya alami selama proses Deploy telah saya rangkum, semoga beberapa error-solved yang saya dokumentasikan di blog ini cukup membantu untuk siapa saja yang sedang melakukan deploy dengan permasalahan yang sama, walaupun sebenarnya saya tidak secara lengkap mendokumentasikan error karena terlalu banyak error yang saya temui sehingga saya waktu melakukan deploy tidak sempat mencatatnya satu persatu.</description>
+    </item>
+    
+    <item>
       <title>Apa itu Static Site Generator Hugo ?</title>
-      <link>http://mazzempong.github.io/blog/mengenal-static-site-generator-hugo/</link>
+      <link>https://kodebaper.github.io/blog/mengenal-static-site-generator-hugo/</link>
       <pubDate>Fri, 21 Aug 2020 00:44:44 +0700</pubDate>
       
-      <guid>http://mazzempong.github.io/blog/mengenal-static-site-generator-hugo/</guid>
+      <guid>https://kodebaper.github.io/blog/mengenal-static-site-generator-hugo/</guid>
       <description>Apa itu Static Site Generator Hugo ?  
 Pada kesempatan kali ini kita akan mengenal lebih jauh apa itu static site generator Hugo dan 5 alasan utama saya memilih ngeblog menggunakan Hugo.
 Hal ini berawal dari keinginan kuat saya belajar programming dimana saya mencoba keluar dari rutinitas keilmuan saya yang lebih banyak berkecimpung dengan Networking, akhirnya saya memutuskan untuk belajar permrograman yang sedang tren yaitu pemrograman untuk mobile apps.</description>
@@ -24,10 +33,10 @@ Hal ini berawal dari keinginan kuat saya belajar programming dimana saya mencoba
     
     <item>
       <title>Bingung, akhirnya migrasi ke Hugo</title>
-      <link>http://mazzempong.github.io/blog/bingung/</link>
+      <link>https://kodebaper.github.io/blog/bingung/</link>
       <pubDate>Wed, 19 Aug 2020 04:23:11 +0700</pubDate>
       
-      <guid>http://mazzempong.github.io/blog/bingung/</guid>
+      <guid>https://kodebaper.github.io/blog/bingung/</guid>
       <description>migrasi, dari CMS ke Static site Hugo Akhirnya, dari CMS saya memutuskan menggunakan framework yang katanya masuk jadi framework tercepat. Dan sangat terasa sekali saya baru pertama kalinya mencicipi asiknya nulis di blog menggunakan static site, untuk lai ini saya memutuskan static site generator dengan Hugo. karena saya sebelumnya sudah cukup familiar menggunakan terminal di linux, pengalaman menulis di blog menggunakan Hugo sunggu berasa ngeblog di dalam terminal Linux &amp;lsquo;menutu saya sih&amp;rsquo;.</description>
     </item>
     
