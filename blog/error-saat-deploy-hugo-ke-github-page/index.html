@@ -103,11 +103,33 @@
 <img src="/images/hugoerror.png">
 </center></p>
 
-<h2 id="untuk-pertama-kalinya-deploy-hugo-di-github">Untuk Pertama Kalinya Deploy Hugo di GitHub</h2>
+<h2 id="1-prakata-sebelum-pembahasana-di-artikel-ini">1. Prakata sebelum pembahasana di Artikel ini</h2>
 
-<p>Pertama kali saya melakukan Deploy blog static site Hugo saya ini ke repository GitHub yang sudah saya buat dan saya persiapkan, saya sempat mengalami beberapa error, adapun error yang saya alami selama proses Deploy telah saya rangkum, semoga beberapa error-solved yang saya dokumentasikan di blog ini cukup membantu untuk siapa saja yang sedang melakukan deploy dengan permasalahan yang sama, walaupun sebenarnya saya tidak secara lengkap mendokumentasikan error karena terlalu banyak error yang saya temui sehingga saya waktu melakukan deploy tidak sempat mencatatnya satu persatu.</p>
+<p>Pada artikel pembahasan kali ini akan lebih mudah dan nyambung jika sebelumnya kamu sudah terlebih dahulu membaca artikel yang saya tulis sebelumnya yang berjudul <u><strong>Langkah mudah Deploy Hugo static site ke GitHub page</strong></u> karena dengan membaca artikel tersebut terlebih dahulu maka akan mudah memahami script error yang terjadi di setiap langkah saat melakukan proses deploy.</p>
 
-<p>Akan tetapi sejauh ini apa yang saya dokumentasikan ini akan cukup membantu untuk permasalahan seputar <strong>langkah melakukan deploy hugo static site ke GitHub page</strong> dan berikut beberapa error yang saya temui selama proses Deploy Hugo ke github page :</p>
+<h2 id="2-untuk-pertama-kalinya-deploy-hugo-di-github-page">2. Untuk Pertama Kalinya Deploy Hugo di GitHub Page</h2>
+
+<p>Pertama kali melakukan Deploy blog static site Hugo saya ini ke repository GitHub yang sudah saya buat dan saya persiapkan sebelumnya, saya sempat mengalami beberapa error, adapun error yang saya alami selama proses Deploy telah saya rangkum, semoga beberapa <strong>[error-solved]</strong> yang saya dokumentasikan di blog ini dapat membantu untuk siapa saja yang sedang melakukan deploy kemudian menemui kendala dengan permasalahan yang sama seperti yang saya temui.</p>
+
+<p>Walaupun sebenarnya saya tidak secara lengkap mendokumentasikan error karena terlalu banyak error yang saya temui waktu itu sehingga saya tidak sempat mencatat satu persatu dengan rinci setiap error pada saat saya melakukan deploy ke GitHub page.
+Akan tetapi sejauh ini apa yang saya dokumentasikan ini akan cukup membantu untuk permasalahan seputar <strong>langkah melakukan deploy hugo static site ke GitHub page</strong>, dan berikut ini beberapa error yang saya temui selama proses Deploy Hugo ke github page.</p>
+
+<h2 id="3-permasalahan-pada-repository-yang-telah-ada">3. Permasalahan pada repository yang telah ada</h2>
+
+<p>Ini adalah permasalahan pertama yang saya temui, dimana saya mengalami kendala saat mencoba melakukan deploy pertama kali ke github page, saya menemui masalah dengan pesan yang tertera seperti di bawah ini.</p>
+
+<pre><code>$ git remote add origin git@github.com:mazzempong/blog.git [perintah yang saya masukan]
+  fatal: remote origin already exists [pesan errornya]
+</code></pre>
+
+<p>Setelah mencari beberapa saat untuk memperbaiki error tersebut, akhirnya saya menemukan untuk mengatasi permasalahan dengan pesan seperti diatas, saya menemukan solusi ini di situs <em>stackoverflow</em> berikut untuk mengatasinya.</p>
+
+<pre><code>$ git remote rm origin
+</code></pre>
+
+<p>Dan permasalahan pun selesai dengan baris perintah ini.</p>
+
+<h2 id="4-gagal-clone-repository-ke-dalam-direktori-public">4. Gagal clone repository ke dalam direktori public.</h2>
 
 </section>
 <time>
@@ -172,7 +194,10 @@
 <ul>
 <li>
 <ul>
-<li><a href="#untuk-pertama-kalinya-deploy-hugo-di-github">Untuk Pertama Kalinya Deploy Hugo di GitHub</a></li>
+<li><a href="#1-prakata-sebelum-pembahasana-di-artikel-ini">1. Prakata sebelum pembahasana di Artikel ini</a></li>
+<li><a href="#2-untuk-pertama-kalinya-deploy-hugo-di-github-page">2. Untuk Pertama Kalinya Deploy Hugo di GitHub Page</a></li>
+<li><a href="#3-permasalahan-pada-repository-yang-telah-ada">3. Permasalahan pada repository yang telah ada</a></li>
+<li><a href="#4-gagal-clone-repository-ke-dalam-direktori-public">4. Gagal clone repository ke dalam direktori public.</a></li>
 </ul></li>
 </ul>
 </nav>
