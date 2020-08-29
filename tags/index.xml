@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Kodebaper - Newbie Programming dan ngobrol produktif</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 28 Aug 2020 00:39:06 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2020 22:21:33 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Deploy</title>
       <link>https://kodebaper.github.io/tags/deploy/</link>
-      <pubDate>Fri, 28 Aug 2020 00:39:06 +0700</pubDate>
+      <pubDate>Sat, 29 Aug 2020 22:21:33 +0700</pubDate>
       
       <guid>https://kodebaper.github.io/tags/deploy/</guid>
       <description></description>
@@ -23,45 +23,45 @@
     <item>
       <title>Hugo Error</title>
       <link>https://kodebaper.github.io/tags/hugo-error/</link>
-      <pubDate>Fri, 28 Aug 2020 00:39:06 +0700</pubDate>
+      <pubDate>Sat, 29 Aug 2020 22:21:33 +0700</pubDate>
       
       <guid>https://kodebaper.github.io/tags/hugo-error/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Static site</title>
-      <link>https://kodebaper.github.io/tags/static-site/</link>
+      <title>Cloud</title>
+      <link>https://kodebaper.github.io/tags/cloud/</link>
       <pubDate>Fri, 21 Aug 2020 00:46:17 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/tags/static-site/</guid>
+      <guid>https://kodebaper.github.io/tags/cloud/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>GitHub Page</title>
-      <link>https://kodebaper.github.io/tags/github-page/</link>
+      <title>GitHub</title>
+      <link>https://kodebaper.github.io/tags/github/</link>
       <pubDate>Fri, 21 Aug 2020 00:45:39 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/tags/github-page/</guid>
+      <guid>https://kodebaper.github.io/tags/github/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>anak-kampus</title>
+      <title>Hugo SSG</title>
+      <link>https://kodebaper.github.io/tags/hugo-ssg/</link>
+      <pubDate>Fri, 21 Aug 2020 00:44:44 +0700</pubDate>
+      
+      <guid>https://kodebaper.github.io/tags/hugo-ssg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anak Kampus</title>
       <link>https://kodebaper.github.io/tags/anak-kampus/</link>
       <pubDate>Fri, 21 Aug 2020 00:36:50 +0700</pubDate>
       
       <guid>https://kodebaper.github.io/tags/anak-kampus/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Static Site Hugo</title>
-      <link>https://kodebaper.github.io/tags/static-site-hugo/</link>
-      <pubDate>Wed, 19 Aug 2020 04:23:11 +0700</pubDate>
-      
-      <guid>https://kodebaper.github.io/tags/static-site-hugo/</guid>
       <description></description>
     </item>
     

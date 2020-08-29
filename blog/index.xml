@@ -6,10 +6,19 @@
     <description>Recent content in Blogs on Kodebaper - Newbie Programming dan ngobrol produktif</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 28 Aug 2020 00:39:06 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 29 Aug 2020 22:21:33 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Error Failed to Push Some Refs To</title>
+      <link>https://kodebaper.github.io/blog/error-failed-to-push-some-refs-to/</link>
+      <pubDate>Sat, 29 Aug 2020 22:21:33 +0700</pubDate>
+      
+      <guid>https://kodebaper.github.io/blog/error-failed-to-push-some-refs-to/</guid>
+      <description>Masalah error Saat Upload Artikel Beberapa waktu lalu saya sempat menemui error pada saat akan melakukan posting artikel terbaru, seperti biasa saya update artikel di blog ini karena masih menggunakan layanan dari GitHub page dan belum ada niatan untuk pindah menggunakan layanan dari Netlifiy ataupun Forestry karena saya merasa masih nyaman untuk melakukan segala sesuatu baik update artikel terbaru penyempurnaan blog ataupun perubahan dengan cara push ke GitHub.</description>
+    </item>
     
     <item>
       <title>Error Saat Deploy Hugo Ke GitHub Page</title>
