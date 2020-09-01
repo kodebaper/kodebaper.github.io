@@ -6,10 +6,21 @@
     <description>Recent content in Deploy on Kodebaper - Belajar Programming dan Ngobrol Produktif</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 29 Aug 2020 22:21:33 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 01 Sep 2020 13:26:03 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.github.io/tags/deploy/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Solved: Fatal Not a Git Repository or Any of the Parent Directories</title>
+      <link>https://kodebaper.github.io/blog/solved-fatal-not-a-git-repository-or-any-of-the-parent-directories/</link>
+      <pubDate>Tue, 01 Sep 2020 13:26:03 +0700</pubDate>
+      
+      <guid>https://kodebaper.github.io/blog/solved-fatal-not-a-git-repository-or-any-of-the-parent-directories/</guid>
+      <description>Solved : Fatal Not a Git Repository or Any of the Parent Directories.
+ 
+Bagi saya untuk mendokumentasikan setiap error yang di temui dalam setiap pembelajaran sangatlah penting, terlebih saya adalah seorang pemula untuk belajar membangun blog dengan menggunakan static site Hugo, kemudian belajar programming dengan Kotlin maka dari itu mendokumentasikan setiap pembelajaran dengan menuangkan dalam sebuah tulisan di blog merupakan suatu keharusan untuk saya sendiri dimana ini akan bermanfaat kedepannya.</description>
+    </item>
     
     <item>
       <title>Error Failed to Push Some Refs To</title>
