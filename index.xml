@@ -6,10 +6,19 @@
     <description>Recent content on Kodebaper - Belajar Programming dan Ngobrol Produktif</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 29 Aug 2020 22:21:33 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 31 Aug 2020 23:44:45 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Saya Meracik Templat Hugo Buatan Orang Lain</title>
+      <link>https://kodebaper.github.io/blog/saya-meracik-templat-hugo-buatan-orang-lain/</link>
+      <pubDate>Mon, 31 Aug 2020 23:44:45 +0700</pubDate>
+      
+      <guid>https://kodebaper.github.io/blog/saya-meracik-templat-hugo-buatan-orang-lain/</guid>
+      <description>0. Tips menggunakan template karya orang lain Pada pembahasan artikel kali ini, saya akan membahas detail template yang di pakai pada blog saya saat ini. Namun sebelum membahasnya saya sempatkan juga untuk membahas tips menggunakan template hasil karya orang lain agar kita memahami setiap bagian dan tata letaknya. Dimana hal yang saya lakukan setelah mendownload template hasil karya orang lain saya akan membedah dan bila perlu mencatat satu persatu isi dari file yang ada di template tersebut.</description>
+    </item>
     
     <item>
       <title>Error Failed to Push Some Refs To</title>
