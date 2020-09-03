@@ -4,14 +4,43 @@
   
   <url>
     <loc>https://kodebaper.github.io/blog/</loc>
-    <lastmod>2020-09-01T16:15:01+07:00</lastmod>
+    <lastmod>2020-09-02T19:35:23+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.github.io/categories/</loc>
-    <lastmod>2020-09-01T16:15:01+07:00</lastmod>
+    <lastmod>2020-09-02T19:35:23+07:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/categories/hugo/</loc>
+    <lastmod>2020-09-02T19:35:23+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/tags/hugo-ssg/</loc>
+    <lastmod>2020-09-02T19:35:23+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/</loc>
+    <lastmod>2020-09-02T19:35:23+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/tags/</loc>
+    <lastmod>2020-09-02T19:35:23+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/blog/tips-menulis-artikel-di-hugo-static-site/</loc>
+    <lastmod>2020-09-02T19:35:23+07:00</lastmod>
   </url>
   
   <url>
@@ -27,30 +56,12 @@
   </url>
   
   <url>
-    <loc>https://kodebaper.github.io/</loc>
-    <lastmod>2020-09-01T16:15:01+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kodebaper.github.io/blog/perintah-dasar-git-untuk-pemula/</loc>
     <lastmod>2020-09-01T16:15:01+07:00</lastmod>
   </url>
   
   <url>
-    <loc>https://kodebaper.github.io/tags/</loc>
-    <lastmod>2020-09-01T16:15:01+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kodebaper.github.io/tags/deploy/</loc>
-    <lastmod>2020-09-01T13:26:03+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.github.io/categories/hugo/</loc>
     <lastmod>2020-09-01T13:26:03+07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -64,12 +75,6 @@
   <url>
     <loc>https://kodebaper.github.io/blog/solved-fatal-not-a-git-repository-or-any-of-the-parent-directories/</loc>
     <lastmod>2020-09-01T13:26:03+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.github.io/tags/hugo-ssg/</loc>
-    <lastmod>2020-08-31T23:44:45+07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

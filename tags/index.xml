@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Kodebaper - Belajar Programming dan Ngobrol Produktif</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 01 Sep 2020 16:15:01 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 02 Sep 2020 19:35:23 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo SSG</title>
+      <link>https://kodebaper.github.io/tags/hugo-ssg/</link>
+      <pubDate>Wed, 02 Sep 2020 19:35:23 +0700</pubDate>
+      
+      <guid>https://kodebaper.github.io/tags/hugo-ssg/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>GitHub</title>
@@ -35,15 +44,6 @@
       <pubDate>Tue, 01 Sep 2020 13:26:03 +0700</pubDate>
       
       <guid>https://kodebaper.github.io/tags/hugo-error/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo SSG</title>
-      <link>https://kodebaper.github.io/tags/hugo-ssg/</link>
-      <pubDate>Mon, 31 Aug 2020 23:44:45 +0700</pubDate>
-      
-      <guid>https://kodebaper.github.io/tags/hugo-ssg/</guid>
       <description></description>
     </item>
     
