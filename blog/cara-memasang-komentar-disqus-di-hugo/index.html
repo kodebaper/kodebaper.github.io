@@ -2,42 +2,42 @@
 <html lang="en-US"><head>
   <meta charset="UTF-8" />
   
-<meta itemprop="name" content="Mengenal Layanan DNS Cloudflare">
-<meta itemprop="description" content="Mengenal Layanan DNS Cloudflare">
+<meta itemprop="name" content="Cara Memasang Komentar Disqus Di Hugo">
+<meta itemprop="description" content="Cara Memasang Komentar Disqus Di Hugo">
 
 
-<meta itemprop="datePublished" content="2020-08-21T00:46:17&#43;07:00" />
-<meta itemprop="dateModified" content="2020-08-21T00:46:17&#43;07:00" />
-<meta itemprop="wordCount" content="310">
+<meta itemprop="datePublished" content="2020-09-04T00:41:46&#43;07:00" />
+<meta itemprop="dateModified" content="2020-09-04T00:41:46&#43;07:00" />
+<meta itemprop="wordCount" content="423">
 
 
 
-<meta itemprop="keywords" content="Cloud," />
+<meta itemprop="keywords" content="Hugo SSG," />
 
   
-  <meta property="og:title" content="Mengenal Layanan DNS Cloudflare" />
-<meta property="og:description" content="Mengenal Layanan DNS Cloudflare" />
+  <meta property="og:title" content="Cara Memasang Komentar Disqus Di Hugo" />
+<meta property="og:description" content="Cara Memasang Komentar Disqus Di Hugo" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://kodebaper.github.io/blog/mengenal-layanan-dns-cloudflare/" />
-<meta property="article:published_time" content="2020-08-21T00:46:17&#43;07:00"/>
-<meta property="article:modified_time" content="2020-08-21T00:46:17&#43;07:00"/>
+<meta property="og:url" content="https://kodebaper.github.io/blog/cara-memasang-komentar-disqus-di-hugo/" />
+<meta property="article:published_time" content="2020-09-04T00:41:46&#43;07:00"/>
+<meta property="article:modified_time" content="2020-09-04T00:41:46&#43;07:00"/>
 
   <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Mengenal Layanan DNS Cloudflare"/>
-<meta name="twitter:description" content="Mengenal Layanan DNS Cloudflare"/>
+<meta name="twitter:title" content="Cara Memasang Komentar Disqus Di Hugo"/>
+<meta name="twitter:description" content="Cara Memasang Komentar Disqus Di Hugo"/>
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <meta name="description" content="Belajar Programming dan Ngobrol Produktif 'Mengenal Layanan DNS Cloudflare'" />
-  <title>Mengenal Layanan DNS Cloudflare  | Kodebaper - Belajar Programming dan Ngobrol Produktif</title>
-  <meta property="og:title" content="Mengenal Layanan DNS Cloudflare" />
+  <meta name="description" content="Belajar Programming dan Ngobrol Produktif 'Cara Memasang Komentar Disqus Di Hugo'" />
+  <title>Cara Memasang Komentar Disqus Di Hugo  | Kodebaper - Belajar Programming dan Ngobrol Produktif</title>
+  <meta property="og:title" content="Cara Memasang Komentar Disqus Di Hugo" />
   
   <meta property="og:type" content="article" />
-  <meta property="article:published_time" content="2020-08-21"> 
-  <meta property="og:url" content="https://kodebaper.github.io/blog/mengenal-layanan-dns-cloudflare/" />
+  <meta property="article:published_time" content="2020-09-04"> 
+  <meta property="og:url" content="https://kodebaper.github.io/blog/cara-memasang-komentar-disqus-di-hugo/" />
   <meta property="og:site_name" content="Kodebaper - Belajar Programming dan Ngobrol Produktif" />
    <meta property="og:image" content="https://kodebaper.github.io/images/thumbnail.png">  
-  <meta property="og:tags" content="Cloud" />
+  <meta property="og:tags" content="Hugo SSG" />
   
 
   
@@ -112,7 +112,7 @@
         <div class="col-12 col-lg-8">
 
 <div class="post-title">
-  <a href="https://kodebaper.github.io/blog/mengenal-layanan-dns-cloudflare/">
+  <a href="https://kodebaper.github.io/blog/cara-memasang-komentar-disqus-di-hugo/">
     <div class="post-meta">
       <time></time>
     </div>
@@ -120,36 +120,87 @@
 </div>
 <section class="post-content">
   
-  
+  <p align="center"><font size="5"><b> Bagaimana Memasang komentar Disqus di Hugo?</b></font></p>
+
+<p><br>
+   <center>
+        <img src="/images/disqusbaper.png" width="642" height="362">
+    </center>
+</br></p>
+
+<p>Pekerjaan selanjutnya setelah kita membuat blog dengan static site Hugo lalu memasang template dan mulai mengisi dengan konten, hal yang tak kalah penting adalah menghadirkan fitur komentar di setiap artikel pada blog. Ini akan sangat penting agar tulisan kita layaknya sebuah percakapan yang membutuhkan lawan bicara untuk menanggapi percakapan kita yaitu melalui kolom komentar cara lawan bicara kita menanggapinya.</p>
+
+<p>Pada kesempatan kali ini saya akan membahas konfigurasi Disqus comment yang di hadirkan pada blog hugo saya, pada dasarnya di website resmi hugo pada bagian dokumentasinya sudah di jelaskan dengan sangat rinci untuk bagaimana mengkonfigurasi disqus comment di hugo.</p>
+
+<p>Untuk itu saya berpatokan dari dokumentasi Hugo dan memang sudah ada konfigurasi khusus ke bagian template yang saya download dan saya pasang di blog saya ini sehingga saya tinggal melakukan kofigurasi dan meregistrasi blog saya di website resminya Disqus lalu saya tinggal menambahkan disqus shortname di file <strong>config.toml</strong> hugo saya.</p>
+
+<ol>
+<li><p>Pertama disini saya anggap sudah mendaftarkan account di website resmi Disqus.</p></li>
+
+<li><p>Setelah itu kita akan di hadapkan dengan tampilan seperti ini, pilih saja
+<u><strong>GET STARTED</strong></u></p>
 
 <p><center>
-<img src="/images/cloudflarekbaper.png">
+    <img src="/images/dis1.png" width="642" height="362">
+</center></p></li>
+
+<li><p>Kemudian selanjutnya kita akan di hadapkan pada tampilan seperti di bawah ini, pilih saja <u><strong>I want to install Disqus on my site</strong></u></p>
+
+<p><center>
+    <img src="/images/dis2.png" width="642" height="362">
+</center></p></li>
+
+<li><p>Pada langkah ini kita akan di hadapkan dengan tampilan seperti ini, lalu isi saja sesuai dengan yang tertera kemudian pilih <u><strong>Creat Site</strong></u></p>
+
+<p><center>
+    <img src="/images/dis3.png" width="642" height="362">
+</center></p></li>
+
+<li><p>Langkah berikutnya kita mendapati tampilan seperti di bawah ini, namun kita akan menginstallnya secara manual dengan memasukan code yang akan diberikan oleh Disqus nantinya untuk kemudian kita pasang di blog Hugo kita, langkahnya cukup mudah scroll saja sampai mentok kebawah lalu ada petunjuk untuk memasang disqus secara manual.</p>
+
+<p><center>
+    <img src="/images/dis4.png" width="642" height="362">
 </center></p>
 
-<h1 id="mengenal-layanan-dns-cloudflare">Mengenal Layanan DNS Cloudflare</h1>
+<p>Pada bagian paling bawah ada form seperti ini untuk menginstall disqus secara manual, lalu klik saja petunjuk dibawah ini.</p>
 
-<p>Mengenal apa itu Cloudflare dan untuk apa sebenarnya Cloudflare itu sendiiri.
-Saya sendiri saat ini menggunakan layanan dari Cloudflare baru sebatas penggunaan dengan memanfaatkan layanan gratis untuk setting DNS blog saya ini, adapun di lain kesempatan saya akan membahas cara setting DNS di Cloudflare dari Github page untuk blog static site Hugo.</p>
+<p><center>
+    <img src="/images/dis5.png" width="642" height="362">
+</center></p></li>
 
-<p>Berawal dari blog ini mendeploy ke GitHub page lalu memesan Domain <strong>dot com</strong> dari Domainesia, waktu itu setup custom domain di Cloudflare berlangsung. Di tengah perjalanan terkendala pada Proses pemanggilan domain dari semula <strong>mazzempong.github.io</strong>menjadi <strong>kodebaper.com</strong> karena hasilnya tidak sampai di custom domain di GitHub saja, namun ada setup lanjutan di Cloudflare. Dari sinilah saya mulai belajar dan mengenal apa itu Cloudflare.</p>
+<li><p>Tampilan berikutnya setelah kita klik akan seperti gambar dibawah ini, scrol saja kebawah dan bisa mengikuti petunjuk yang sudah di jelaskan pada videonya, saya tidak akan membahasnya disini karena memang di videonya sudah di jelaskan tinggal menontonnya saja.</p>
 
-<p><em>Jadi, apa itu Cloudflare ?</em></p>
+<p><center>
+    <img src="/images/dis6.png" width="642" height="362">
+</center></p></li>
 
-<p>Cloudflare adalah sebuah jasa jaringan penyalur konten, pencegahan keamanan Internet dan &lsquo;Peladen&rsquo; domain terdistribusi. Produk Cloudflare adalah perantara pengunjung web, dan penyedia hosting pengguna Cloudflare [Penjelasan versi Wikipedia].
-Penjelasan ini saya dapat dari wikipedia, tapi bagi saya sendiri memahami Cloudflare merupakan sebuah CDN (Content Delivery Network) dimana Cloudflare sendiri berada di antara nama domain dan web hosting yang memiliki kemampuan untuk mem-filter trafik dan mempercapat akses website. Adapun untuk keamanan tambahan yang di sedikan oleh Cloudflare salah satunya yaitu keamanan dari serangan DDoS dan lain sebagainya.</p>
+<li><p>Kita akan masuk ke tahap akhir dimana kita tinggal satu langkah lagi untuk mengakhiri proses konfigurasi di website Disqus nya itu sendiri. Kemudian kita memasuki tampilan seperti pada gambar di bawah ini.</p>
 
-<p>Saya baru mengenal Clodflare kurang lebih sekitar 6 bulan lalu dan mulai familiar dengan beberapa fitur yang ada di dalamnya, saya memanfaatkan Cloudflare sebagai bagian dari rangkaian Setup saat saya melakukan custom domain di GitHub page dengan domain <strong>dot com</strong>. Menarik bukan menggunakan Hugo ? semakin di selami kita jadi tau banyak ilmu salah satu contohnya jadi mengenal apa itu layanan yang di sediakan oleh Cloudflare, kemudian untuk keuntungan lain diantaranya karena kita tidak hanya sekedar ngeblog biasa namun jadi ada tambahan ilmu lain yang kita pelajari dengan ngeblog melalui satic site generator menggunakan Hugo.</p>
+<p><center>
+    <img src="/images/dis7.png" width="642" height="362">
+</center></p>
 
-<p>semoga artikel ini bermanfaat, selamat belajar !</p>
+<p>Kemudian isi saja sesuai apa yang tertera dari petunjuk di masing-masing formnya.</p>
+
+<p>Langkah terakhir kita akan memasukan Disqus shortname nya ke pengaturan file <u><strong>config.toml</strong></u> di dalam file hugo kita.</p></li>
+
+<li><p>Isi saja dengan diqus shortname kita, pada file <u><strong>config.toml</strong></u> seperti gambar di bawah ini.</p>
+
+<p><center>
+    <img src="/images/dis8.png" width="642" height="362">
+</center></p>
+
+<p>Ini merupakan langkah terakhir kita melakukan konfigurasi untuk memasang komentar Disqus pada blog hugo, semoga artikel ini bermanfaat, selamat belajar!!!</p></li>
+</ol>
 
 </section>
 <time>
   <i class="far fa-clock"></i>
-  Friday, Aug 21, 2020 00:46
+  Friday, Sep 4, 2020 00:41
 </time>
  
 <i class="far fa-folder"></i>
-<a href="https://kodebaper.github.io//categories/cloud">Cloud</a>
+<a href="https://kodebaper.github.io//categories/hugo">Hugo</a>
  
 <div class="post-comment">
   <div id="disqus_thread"></div>
@@ -183,14 +234,14 @@ Penjelasan ini saya dapat dari wikipedia, tapi bagi saya sendiri memahami Cloudf
   <ul>
     
     <li>
-      <a href="https://kodebaper.github.io/blog/mengenal-github-page-untuk-deploy-hugo/" rel="prev">
-        <span>Memanfaatkan Github Page Untuk Deploy Hugo</span>
+      <a href="https://kodebaper.github.io/blog/tips-menulis-artikel-di-hugo-static-site/" rel="prev">
+        <span>Tips Menulis Artikel Di Hugo Static Site</span>
       </a>
     </li>
      
     <li>
-      <a href="https://kodebaper.github.io/blog/error-saat-deploy-hugo-ke-github-page/" rel="next">
-        <span>Error Saat Deploy Hugo Ke GitHub Page</span>
+      <a href="https://kodebaper.github.io/blog/membuat-website-mudah-cukup-dari-terminal/" rel="next">
+        <span>Membuat Website Mudah Cukup Dari Terminal</span>
       </a>
     </li>
     
@@ -207,11 +258,7 @@ Penjelasan ini saya dapat dari wikipedia, tapi bagi saya sendiri memahami Cloudf
     Daftar Isi Artikel
   </div>
   <div class="widget-content">
-    <nav id="TableOfContents">
-<ul>
-<li><a href="#mengenal-layanan-dns-cloudflare">Mengenal Layanan DNS Cloudflare</a></li>
-</ul>
-</nav>
+    
   </div>
 </div>
 <div class="sidebar-widget-area">
@@ -221,7 +268,7 @@ Penjelasan ini saya dapat dari wikipedia, tapi bagi saya sendiri memahami Cloudf
   </div>
   <div class="widget-content">
      
-    <a href="https://kodebaper.github.io/tags/cloud" class="badge badge-secondary">Cloud</a>
+    <a href="https://kodebaper.github.io/tags/hugo-ssg" class="badge badge-secondary">Hugo SSG</a>
   </div>
 </div>
 

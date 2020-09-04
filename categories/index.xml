@@ -6,15 +6,24 @@
     <description>Recent content in Categories on Kodebaper - Belajar Programming dan Ngobrol Produktif</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 02 Sep 2020 19:35:23 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 04 Sep 2020 10:47:51 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Secangkir Kopi</title>
+      <link>https://kodebaper.github.io/categories/secangkir-kopi/</link>
+      <pubDate>Fri, 04 Sep 2020 10:47:51 +0700</pubDate>
+      
+      <guid>https://kodebaper.github.io/categories/secangkir-kopi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Hugo</title>
       <link>https://kodebaper.github.io/categories/hugo/</link>
-      <pubDate>Wed, 02 Sep 2020 19:35:23 +0700</pubDate>
+      <pubDate>Fri, 04 Sep 2020 00:41:46 +0700</pubDate>
       
       <guid>https://kodebaper.github.io/categories/hugo/</guid>
       <description></description>
@@ -35,15 +44,6 @@
       <pubDate>Fri, 21 Aug 2020 00:46:17 +0700</pubDate>
       
       <guid>https://kodebaper.github.io/categories/cloud/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Secangkir Kopi</title>
-      <link>https://kodebaper.github.io/categories/secangkir-kopi/</link>
-      <pubDate>Fri, 21 Aug 2020 00:36:50 +0700</pubDate>
-      
-      <guid>https://kodebaper.github.io/categories/secangkir-kopi/</guid>
       <description></description>
     </item>
     

@@ -4,37 +4,59 @@
   
   <url>
     <loc>https://kodebaper.github.io/blog/</loc>
-    <lastmod>2020-09-02T19:35:23+07:00</lastmod>
+    <lastmod>2020-09-04T10:47:51+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.github.io/categories/</loc>
-    <lastmod>2020-09-02T19:35:23+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.github.io/categories/hugo/</loc>
-    <lastmod>2020-09-02T19:35:23+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.github.io/tags/hugo-ssg/</loc>
-    <lastmod>2020-09-02T19:35:23+07:00</lastmod>
+    <lastmod>2020-09-04T10:47:51+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.github.io/</loc>
-    <lastmod>2020-09-02T19:35:23+07:00</lastmod>
+    <lastmod>2020-09-04T10:47:51+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/blog/membuat-website-mudah-cukup-dari-terminal/</loc>
+    <lastmod>2020-09-04T10:47:51+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/tags/ngobrol-produktif/</loc>
+    <lastmod>2020-09-04T10:47:51+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/categories/secangkir-kopi/</loc>
+    <lastmod>2020-09-04T10:47:51+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.github.io/tags/</loc>
-    <lastmod>2020-09-02T19:35:23+07:00</lastmod>
+    <lastmod>2020-09-04T10:47:51+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/blog/cara-memasang-komentar-disqus-di-hugo/</loc>
+    <lastmod>2020-09-04T00:41:46+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/categories/hugo/</loc>
+    <lastmod>2020-09-04T00:41:46+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/tags/hugo-ssg/</loc>
+    <lastmod>2020-09-04T00:41:46+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -128,12 +150,6 @@
   <url>
     <loc>https://kodebaper.github.io/blog/opini-saya-tentang-mahasiswa/</loc>
     <lastmod>2020-08-21T00:36:50+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.github.io/categories/secangkir-kopi/</loc>
-    <lastmod>2020-08-21T00:36:50+07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
