@@ -6,10 +6,28 @@
     <description>Recent content in Categories on Kodebaper - Belajar Programming dan Ngobrol Produktif</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 04 Sep 2020 23:57:14 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2020 03:04:01 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Linux Enthusiast</title>
+      <link>https://kodebaper.github.io/categories/linux-enthusiast/</link>
+      <pubDate>Sun, 06 Sep 2020 03:04:01 +0700</pubDate>
+      
+      <guid>https://kodebaper.github.io/categories/linux-enthusiast/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Pemrograman</title>
+      <link>https://kodebaper.github.io/categories/pemrograman/</link>
+      <pubDate>Sat, 05 Sep 2020 18:39:13 +0700</pubDate>
+      
+      <guid>https://kodebaper.github.io/categories/pemrograman/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Secangkir Kopi</title>

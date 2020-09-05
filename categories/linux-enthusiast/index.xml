@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux Enthusiast on Kodebaper - Belajar Programming dan Ngobrol Produktif</title>
+    <link>https://kodebaper.github.io/categories/linux-enthusiast/</link>
+    <description>Recent content in Linux Enthusiast on Kodebaper - Belajar Programming dan Ngobrol Produktif</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 06 Sep 2020 03:04:01 +0700</lastBuildDate>
+    
+	<atom:link href="https://kodebaper.github.io/categories/linux-enthusiast/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pertama Kali Saya Migrasi Ke OS Linux Ubuntu</title>
+      <link>https://kodebaper.github.io/blog/pertama-kali-saya-migrasi-ke-os-linux-ubuntu/</link>
+      <pubDate>Sun, 06 Sep 2020 03:04:01 +0700</pubDate>
+      
+      <guid>https://kodebaper.github.io/blog/pertama-kali-saya-migrasi-ke-os-linux-ubuntu/</guid>
+      <description>SEASON 1
+ Migrasi ke linux untuk Pemula Introduction Pada kesempatan kali ini saya akan mulai menulisakn artikel berseri mengenai pengalaman saya menggunakan linux kurang lebih hampir 10 tahun hingga sekarang, dimana pada saat itu pertama kalinya saya mengnal sistem operasi open source linux dan pertama kalinya juga saya bisa mengoperasikan Komputer itupun karena saya bisa mengenyam pendidikan ke jenjang bangku SMK. Tanpa latar belakang menyukai dunia IT karena memang terbatasnya pembelajaran di bidang IT sewaktu saya duduk di bangku SMP tapi begitu lulus SMP saya memutuskan untuk meneruskan pendidikan ke jenjang SMK dengan mengambil jurusan Teknik Komputer dan Jaringan.</description>
+    </item>
+    
+  </channel>
+</rss>

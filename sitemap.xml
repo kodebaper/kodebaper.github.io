@@ -4,24 +4,64 @@
   
   <url>
     <loc>https://kodebaper.github.io/blog/</loc>
-    <lastmod>2020-09-04T23:57:14+07:00</lastmod>
+    <lastmod>2020-09-06T03:04:01+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.github.io/categories/</loc>
-    <lastmod>2020-09-04T23:57:14+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.github.io/tags/inspirasi-saya/</loc>
-    <lastmod>2020-09-04T23:57:14+07:00</lastmod>
+    <lastmod>2020-09-06T03:04:01+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.github.io/</loc>
+    <lastmod>2020-09-06T03:04:01+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/tags/linux-dasar/</loc>
+    <lastmod>2020-09-06T03:04:01+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/categories/linux-enthusiast/</loc>
+    <lastmod>2020-09-06T03:04:01+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/blog/pertama-kali-saya-migrasi-ke-os-linux-ubuntu/</loc>
+    <lastmod>2020-09-06T03:04:01+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/tags/</loc>
+    <lastmod>2020-09-06T03:04:01+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/tags/belajar-kotlin/</loc>
+    <lastmod>2020-09-05T18:39:13+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/blog/first-impression-belajar-kotlin/</loc>
+    <lastmod>2020-09-05T18:39:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/categories/pemrograman/</loc>
+    <lastmod>2020-09-05T18:39:13+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/tags/inspirasi-saya/</loc>
     <lastmod>2020-09-04T23:57:14+07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -33,12 +73,6 @@
   
   <url>
     <loc>https://kodebaper.github.io/categories/secangkir-kopi/</loc>
-    <lastmod>2020-09-04T23:57:14+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.github.io/tags/</loc>
     <lastmod>2020-09-04T23:57:14+07:00</lastmod>
     <priority>0</priority>
   </url>
