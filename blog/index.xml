@@ -6,10 +6,20 @@
     <description>Recent content in Blogs on Kodebaper - Belajar Programming dan Ngobrol Produktif</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 06 Sep 2020 03:04:01 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 06 Sep 2020 20:19:39 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Distro Linux Untuk Seorang Pemula</title>
+      <link>https://kodebaper.github.io/blog/distro-linux-untuk-seorang-pemula/</link>
+      <pubDate>Sun, 06 Sep 2020 20:19:39 +0700</pubDate>
+      
+      <guid>https://kodebaper.github.io/blog/distro-linux-untuk-seorang-pemula/</guid>
+      <description>SEASON 2
+ Distro Linux yang cocok untuk Pemula Pada artikel di season 1 saya telah membahas 5 point penting untuk seorang pemula setelah memutuskan untuk bermigrasi ke sistem operasi open source, nah pada kesempatan ini saya akan mulai membahas point pertama. jika dibaca pada artikel pertama yang saya bahas di season 1 sengaja saya tidak jabarkan terlalu panjang karena saya berasumsi bahwa artikel yang terlalu panjang lebar yang di sajikan pada satu post artikel akan membuat rasa malas pembacanya.</description>
+    </item>
     
     <item>
       <title>Pertama Kali Saya Migrasi Ke OS Linux Ubuntu</title>
