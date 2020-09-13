@@ -6,10 +6,19 @@
     <description>Recent content on Kodebaper - Belajar Programming dan Ngobrol Produktif</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 06 Sep 2020 20:19:39 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 12 Sep 2020 00:26:12 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Peran Teknologi di masa Covid19</title>
+      <link>https://kodebaper.github.io/blog/peran-teknologi-di-masa-pandemi-covid19/</link>
+      <pubDate>Sat, 12 Sep 2020 00:26:12 +0700</pubDate>
+      
+      <guid>https://kodebaper.github.io/blog/peran-teknologi-di-masa-pandemi-covid19/</guid>
+      <description>Dalam keadaan dimasa Pandemi covid 19 ini merupakan keadaan dimana banyak orang di paksa untuk mampu menggunakan teknologi dan memanfaatkannya, karena memang segala sesuatu yang mungkin tanpa sedikit pun terbenak di pikiran kita dengan datangnya pandemi covid19 yang saat ini melanda, membuat aktivitas kehidupan manusia mengalami perubahan aktifitas yang dulunya bisa dilakukan dengan bebas namun kini segala aktifitas kehidupan mesti di lakukan secara jarak jauh antar manusia, dimana pertemuaan dan aktifitas jarak jauh antar manusia ini mejadi peran dari teknologi untuk mengatasi permasalahan di masa pandemi seperti saat ini, nah saat teknologi menjadi solusi di masa pandemi Covid19, lalu apa permasalahannya ?</description>
+    </item>
     
     <item>
       <title>Distro Linux Untuk Seorang Pemula</title>
