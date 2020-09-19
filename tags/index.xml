@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Kodebaper - Belajar Programming dan Ngobrol Produktif</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 12 Sep 2020 00:26:12 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2020 23:56:26 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Linux Dasar</title>
+      <link>https://kodebaper.github.io/tags/linux-dasar/</link>
+      <pubDate>Sun, 13 Sep 2020 23:56:26 +0700</pubDate>
+      
+      <guid>https://kodebaper.github.io/tags/linux-dasar/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ngobrol IT</title>
@@ -17,15 +26,6 @@
       <pubDate>Sat, 12 Sep 2020 00:26:12 +0700</pubDate>
       
       <guid>https://kodebaper.github.io/tags/ngobrol-it/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux Dasar</title>
-      <link>https://kodebaper.github.io/tags/linux-dasar/</link>
-      <pubDate>Sun, 06 Sep 2020 20:19:39 +0700</pubDate>
-      
-      <guid>https://kodebaper.github.io/tags/linux-dasar/</guid>
       <description></description>
     </item>
     
