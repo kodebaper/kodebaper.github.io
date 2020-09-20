@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Belajar Server on Kodebaper - Belajar Programming dan Ngobrol Produktif</title>
+    <link>https://kodebaper.github.io/tags/belajar-server/</link>
+    <description>Recent content in Belajar Server on Kodebaper - Belajar Programming dan Ngobrol Produktif</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Sun, 20 Sep 2020 01:18:07 +0700</lastBuildDate>
+    
+	<atom:link href="https://kodebaper.github.io/tags/belajar-server/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Membuat Server Cloud Storage Menggunakan Sistem Operasi Ubuntu</title>
+      <link>https://kodebaper.github.io/blog/membuat-server-cloud-storage-menggunakan-sistem-operasi-ubuntu/</link>
+      <pubDate>Sun, 20 Sep 2020 01:18:07 +0700</pubDate>
+      
+      <guid>https://kodebaper.github.io/blog/membuat-server-cloud-storage-menggunakan-sistem-operasi-ubuntu/</guid>
+      <description> PANDUAN PEMBUATAN SERVER CLOUD STORAGE DAN TESTING SEDANG DI BUAT ARTIKEL SIAP DI BACA PADA 25 NOVEMBER 2020 </description>
+    </item>
+    
+    <item>
+      <title>Persiapan Membuat Server Cloud Storage Menggunakan Sistem Operasi Ubuntu</title>
+      <link>https://kodebaper.github.io/blog/persiapan-membuat-server-cloud-storage-menggunakan-sistem-operasi-ubuntu/</link>
+      <pubDate>Sun, 20 Sep 2020 01:17:57 +0700</pubDate>
+      
+      <guid>https://kodebaper.github.io/blog/persiapan-membuat-server-cloud-storage-menggunakan-sistem-operasi-ubuntu/</guid>
+      <description>SESION 2 Persiapan membangun server Cloud Storage Artikel ini melanjutkan dan rangkaian dari pada bagian sesion 1 kemudian di artikel sesion 2 ini meliputi persiapan yang saya lakukan dalam praktek membuat server cloud Storage tentang apa saja yang mesti di persiapkan, adapun persiapan yang saya lakukan sebelum praktek adalah sebagai berikut:
+ Sistem Operasi Ubuntu 16.04 Server Edition
+Saya memutuskan untuk praktek pembuatan server cloud storage dengan menggunakan sistem operasi linux Ubuntu 16.</description>
+    </item>
+    
+    <item>
+      <title>Rencana Belajar Membangun Cloud Storage Di Server Sendiri</title>
+      <link>https://kodebaper.github.io/blog/rencana-belajar-membangun-cloud-storage-di-server-sendiri/</link>
+      <pubDate>Sun, 20 Sep 2020 01:17:40 +0700</pubDate>
+      
+      <guid>https://kodebaper.github.io/blog/rencana-belajar-membangun-cloud-storage-di-server-sendiri/</guid>
+      <description>SESION 1 Pengenalan tujuan pembuatan Server Cloud Storage  
+Praktek membuat cloud storage dari server sendiri yang saya buat dari nol di dasari keinginan saya untuk memilik tempat backup terhadap data-data yang saya miliki alih-alih ingin mempunyai backup penyimpanan data seperti layaknya Google Drive akhirnya saya putuskan untuk membuat cloud storage versi sendiri, Artikel ini merupakan bagian dari 3 artikel yang akan saya bahas kedepan, seperti biasa saya menuliskan panduan dalam bentuk artikel ini secara berseri mulai dari</description>
+    </item>
+    
+  </channel>
+</rss>

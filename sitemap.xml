@@ -3,21 +3,60 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kodebaper.github.io/tags/belajar-server/</loc>
+    <lastmod>2020-09-20T01:18:07+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kodebaper.github.io/blog/</loc>
-    <lastmod>2020-09-13T23:56:26+07:00</lastmod>
+    <lastmod>2020-09-20T01:18:07+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.github.io/categories/</loc>
-    <lastmod>2020-09-13T23:56:26+07:00</lastmod>
+    <lastmod>2020-09-20T01:18:07+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/tags/cloud-server/</loc>
+    <lastmod>2020-09-20T01:18:07+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.github.io/</loc>
-    <lastmod>2020-09-13T23:56:26+07:00</lastmod>
+    <lastmod>2020-09-20T01:18:07+07:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/categories/linux-enthusiast/</loc>
+    <lastmod>2020-09-20T01:18:07+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/blog/membuat-server-cloud-storage-menggunakan-sistem-operasi-ubuntu/</loc>
+    <lastmod>2020-09-20T01:18:07+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/tags/</loc>
+    <lastmod>2020-09-20T01:18:07+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/blog/persiapan-membuat-server-cloud-storage-menggunakan-sistem-operasi-ubuntu/</loc>
+    <lastmod>2020-09-20T01:17:57+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/blog/rencana-belajar-membangun-cloud-storage-di-server-sendiri/</loc>
+    <lastmod>2020-09-20T01:17:40+07:00</lastmod>
   </url>
   
   <url>
@@ -27,20 +66,8 @@
   </url>
   
   <url>
-    <loc>https://kodebaper.github.io/categories/linux-enthusiast/</loc>
-    <lastmod>2020-09-13T23:56:26+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kodebaper.github.io/blog/mencoba-bermain-main-dengan-perintah-dasar-terminal-untuk-pemula/</loc>
     <lastmod>2020-09-13T23:56:26+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.github.io/tags/</loc>
-    <lastmod>2020-09-13T23:56:26+07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
