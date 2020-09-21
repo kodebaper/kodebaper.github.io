@@ -6,10 +6,20 @@
     <description>Recent content on Kodebaper - Belajar Programming dan Ngobrol Produktif</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 20 Sep 2020 01:18:07 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2020 21:46:46 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.github.io/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Benarkah Kuliah untuk mencari ilmu ?</title>
+      <link>https://kodebaper.github.io/blog/kuliah-mau-mencari-ilmu/</link>
+      <pubDate>Mon, 21 Sep 2020 21:46:46 +0700</pubDate>
+      
+      <guid>https://kodebaper.github.io/blog/kuliah-mau-mencari-ilmu/</guid>
+      <description>Ini merupakan tanggapan saya menjadi mahasiswa yang sudah memasuki semester 5
+Apa kabar kamu mahasiswa IT, apa yang menyebabkan kamu hingga sampai di artikel ini ? semoga kamu selalu memiliki motivasi belajar untuk mencapai tujuan kamu ya sehingga memilih untuk melanjutkan pendidikan di jenjang bangku perkuliahan pasti kamu sudah memiliki goal untuk nantinya setelah kamu lulus ya. Oh ia apa kabar kamu anak teknik informatika dan sejenisnya yang ada hubunganya sama jurusan IT, semoga kamu tidak punya pikiran loh gua udah kuliah sampai semester 4/5/6/7 atau malah udah mau wisuda tapi selama kuliah bisa apa ya ?</description>
+    </item>
     
     <item>
       <title>Membuat Server Cloud Storage Menggunakan Sistem Operasi Ubuntu</title>

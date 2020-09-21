@@ -3,31 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kodebaper.github.io/tags/anak-kampus/</loc>
+    <lastmod>2020-09-21T21:46:46+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/blog/kuliah-mau-mencari-ilmu/</loc>
+    <lastmod>2020-09-21T21:46:46+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/blog/</loc>
+    <lastmod>2020-09-21T21:46:46+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/categories/</loc>
+    <lastmod>2020-09-21T21:46:46+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/</loc>
+    <lastmod>2020-09-21T21:46:46+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/categories/secangkir-kopi/</loc>
+    <lastmod>2020-09-21T21:46:46+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.github.io/tags/</loc>
+    <lastmod>2020-09-21T21:46:46+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kodebaper.github.io/tags/belajar-server/</loc>
     <lastmod>2020-09-20T01:18:07+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kodebaper.github.io/blog/</loc>
-    <lastmod>2020-09-20T01:18:07+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.github.io/categories/</loc>
-    <lastmod>2020-09-20T01:18:07+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kodebaper.github.io/tags/cloud-server/</loc>
-    <lastmod>2020-09-20T01:18:07+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.github.io/</loc>
     <lastmod>2020-09-20T01:18:07+07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -41,12 +64,6 @@
   <url>
     <loc>https://kodebaper.github.io/blog/membuat-server-cloud-storage-menggunakan-sistem-operasi-ubuntu/</loc>
     <lastmod>2020-09-20T01:18:07+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.github.io/tags/</loc>
-    <lastmod>2020-09-20T01:18:07+07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -94,12 +111,6 @@
   <url>
     <loc>https://kodebaper.github.io/blog/peran-teknologi-di-masa-pandemi-covid19/</loc>
     <lastmod>2020-09-12T00:26:12+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.github.io/categories/secangkir-kopi/</loc>
-    <lastmod>2020-09-12T00:26:12+07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -247,12 +258,6 @@
   <url>
     <loc>https://kodebaper.github.io/blog/mengenal-static-site-generator-hugo/</loc>
     <lastmod>2020-08-21T00:44:44+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.github.io/tags/anak-kampus/</loc>
-    <lastmod>2020-08-21T00:36:50+07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
