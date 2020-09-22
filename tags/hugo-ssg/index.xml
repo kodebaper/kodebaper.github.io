@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo SSG on Kodebaper - Belajar Programming dan Ngobrol Produktif</title>
-    <link>https://www.kodebaper.com/tags/hugo-ssg/</link>
+    <link>https://kodebaper.github.io/tags/hugo-ssg/</link>
     <description>Recent content in Hugo SSG on Kodebaper - Belajar Programming dan Ngobrol Produktif</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 04 Sep 2020 00:41:46 +0700</lastBuildDate>
     
-	<atom:link href="https://www.kodebaper.com/tags/hugo-ssg/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kodebaper.github.io/tags/hugo-ssg/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cara Memasang Komentar Disqus Di Hugo</title>
-      <link>https://www.kodebaper.com/blog/cara-memasang-komentar-disqus-di-hugo/</link>
+      <link>https://kodebaper.github.io/blog/cara-memasang-komentar-disqus-di-hugo/</link>
       <pubDate>Fri, 04 Sep 2020 00:41:46 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/cara-memasang-komentar-disqus-di-hugo/</guid>
+      <guid>https://kodebaper.github.io/blog/cara-memasang-komentar-disqus-di-hugo/</guid>
       <description>Bagaimana Memasang komentar Disqus di Hugo?
 
   
@@ -25,29 +25,29 @@ Pekerjaan selanjutnya setelah kita membuat blog dengan static site Hugo lalu mem
     
     <item>
       <title>Tips Menulis Artikel Di Hugo Static Site</title>
-      <link>https://www.kodebaper.com/blog/tips-menulis-artikel-di-hugo-static-site/</link>
+      <link>https://kodebaper.github.io/blog/tips-menulis-artikel-di-hugo-static-site/</link>
       <pubDate>Wed, 02 Sep 2020 19:35:23 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/tips-menulis-artikel-di-hugo-static-site/</guid>
+      <guid>https://kodebaper.github.io/blog/tips-menulis-artikel-di-hugo-static-site/</guid>
       <description>Tips Menulis Artikel Di Hugo Static Site
 Sebagai seorang blogger yang menggunakan static site Hugo sebagai mesin blognya, ngeblog dengan terminal merupakan suatu hal yang cukup berbeda bagi saya karena sebelumnya dari dulu saya selalu membuat blog menggunakan CMS yang kaya akan fitur graphical user interfacenya. Namun kali ini saya dihadapkan dengan keadaan yang berbeda dimana menulis artikel di blog menggunakan Hugo cukup menggunakan text editor saja.</description>
     </item>
     
     <item>
       <title>Saya Meracik Templat Hugo Buatan Orang Lain</title>
-      <link>https://www.kodebaper.com/blog/saya-meracik-templat-hugo-buatan-orang-lain/</link>
+      <link>https://kodebaper.github.io/blog/saya-meracik-templat-hugo-buatan-orang-lain/</link>
       <pubDate>Mon, 31 Aug 2020 23:44:45 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/saya-meracik-templat-hugo-buatan-orang-lain/</guid>
+      <guid>https://kodebaper.github.io/blog/saya-meracik-templat-hugo-buatan-orang-lain/</guid>
       <description>0. Tips menggunakan template karya orang lain Pada pembahasan artikel kali ini, saya akan membahas detail template yang di pakai pada blog saya saat ini. Namun sebelum membahasnya saya sempatkan juga untuk membahas tips menggunakan template hasil karya orang lain agar kita memahami setiap bagian dan tata letaknya. Dimana hal yang saya lakukan setelah mendownload template hasil karya orang lain saya akan membedah dan bila perlu mencatat satu persatu isi dari file yang ada di template tersebut.</description>
     </item>
     
     <item>
       <title>Apa itu Static Site Generator Hugo ?</title>
-      <link>https://www.kodebaper.com/blog/mengenal-static-site-generator-hugo/</link>
+      <link>https://kodebaper.github.io/blog/mengenal-static-site-generator-hugo/</link>
       <pubDate>Fri, 21 Aug 2020 00:44:44 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/mengenal-static-site-generator-hugo/</guid>
+      <guid>https://kodebaper.github.io/blog/mengenal-static-site-generator-hugo/</guid>
       <description>Apa itu Static Site Generator Hugo ?  
 Pada kesempatan kali ini kita akan mengenal lebih jauh apa itu static site generator Hugo dan 5 alasan utama saya memilih ngeblog menggunakan Hugo.
 Hal ini berawal dari keinginan kuat saya belajar programming dimana saya mencoba keluar dari rutinitas keilmuan saya yang lebih banyak berkecimpung dengan Networking, akhirnya saya memutuskan untuk belajar permrograman yang sedang tren yaitu pemrograman untuk mobile apps.</description>
@@ -55,10 +55,10 @@ Hal ini berawal dari keinginan kuat saya belajar programming dimana saya mencoba
     
     <item>
       <title>Bingung, akhirnya migrasi ke Hugo</title>
-      <link>https://www.kodebaper.com/blog/bingung/</link>
+      <link>https://kodebaper.github.io/blog/bingung/</link>
       <pubDate>Wed, 19 Aug 2020 04:23:11 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/bingung/</guid>
+      <guid>https://kodebaper.github.io/blog/bingung/</guid>
       <description>migrasi, dari CMS ke Static site Hugo Akhirnya, dari CMS saya memutuskan menggunakan framework yang katanya masuk jadi framework tercepat. Dan sangat terasa sekali saya baru pertama kalinya mencicipi asiknya nulis di blog menggunakan static site, untuk lai ini saya memutuskan static site generator dengan Hugo. karena saya sebelumnya sudah cukup familiar menggunakan terminal di linux, pengalaman menulis di blog menggunakan Hugo sunggu berasa ngeblog di dalam terminal Linux &amp;lsquo;menutu saya sih&amp;rsquo;.</description>
     </item>
     

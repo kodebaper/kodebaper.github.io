@@ -2,71 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Linux Dasar on Kodebaper - Belajar Programming dan Ngobrol Produktif</title>
-    <link>https://www.kodebaper.com/tags/linux-dasar/</link>
+    <link>https://kodebaper.github.io/tags/linux-dasar/</link>
     <description>Recent content in Linux Dasar on Kodebaper - Belajar Programming dan Ngobrol Produktif</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sun, 13 Sep 2020 23:56:26 +0700</lastBuildDate>
     
-	<atom:link href="https://www.kodebaper.com/tags/linux-dasar/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kodebaper.github.io/tags/linux-dasar/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Mencoba Bermain Main Dengan Perintah Dasar Terminal Untuk Pemula</title>
-      <link>https://www.kodebaper.com/blog/mencoba-bermain-main-dengan-perintah-dasar-terminal-untuk-pemula/</link>
+      <link>https://kodebaper.github.io/blog/mencoba-bermain-main-dengan-perintah-dasar-terminal-untuk-pemula/</link>
       <pubDate>Sun, 13 Sep 2020 23:56:26 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/mencoba-bermain-main-dengan-perintah-dasar-terminal-untuk-pemula/</guid>
+      <guid>https://kodebaper.github.io/blog/mencoba-bermain-main-dengan-perintah-dasar-terminal-untuk-pemula/</guid>
       <description>SEASON 6
  Pahami perintah dasar Terminal ini jika kamu seorang Pemula Ini merupakan sesion terkahir yang saya bahas mulai dari sesion 1 sampai dengan sesion 6 ini dimana saya membahas mengenai perjalanan saya menggunakan sistem Operasi Linux Ubuntu untuk pertama kalinya dan saya selipkan juga sebagai langkah awal untuk kamu yang memutuskan untuk migrasi ke sistem operasi Linux. Pada pembahasan langkah ke 6 ini merupakan pembahasan paling dasar dimana seorang pemula, mulai mengenal apa itu aplikasi Terminal pada Ubuntu dan menggunakan perintah-perintah di terminal.</description>
     </item>
     
     <item>
       <title>Apakah Penting Dual Booting Linux Dan Windows</title>
-      <link>https://www.kodebaper.com/blog/apakah-penting-dual-booting-linux-dan-windows/</link>
+      <link>https://kodebaper.github.io/blog/apakah-penting-dual-booting-linux-dan-windows/</link>
       <pubDate>Sun, 13 Sep 2020 23:54:52 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/apakah-penting-dual-booting-linux-dan-windows/</guid>
+      <guid>https://kodebaper.github.io/blog/apakah-penting-dual-booting-linux-dan-windows/</guid>
       <description>SEASON 5
  Saya rasa penting tidak penting dual booting sistem operasi Saya utarakan disini mengenai pendapat saya pribadi tentang penting atau tidaknya kita memutuskan untuk dual booting, misalkan kita memutuskan untuk sistem operasi Windows dan Linux terpasang di laptop/komputer kita. Disini saya mengutarakan dua jawaban yang bagi saya menjadi pertimbangan kamu apakah kamu benar-benar sudah mantap untuk hanya menggunakan jenis sistem operasi dari Linux atau masih berbarengan antara masih menggunakan Windows dan Linux.</description>
     </item>
     
     <item>
       <title>Pemahaman Dasar Sistem Operasi Linux Ubuntu Untuk Pemula</title>
-      <link>https://www.kodebaper.com/blog/pemahaman-dasar-sistem-operasi-linux-ubuntu-untuk-pemula/</link>
+      <link>https://kodebaper.github.io/blog/pemahaman-dasar-sistem-operasi-linux-ubuntu-untuk-pemula/</link>
       <pubDate>Sun, 13 Sep 2020 23:53:22 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/pemahaman-dasar-sistem-operasi-linux-ubuntu-untuk-pemula/</guid>
+      <guid>https://kodebaper.github.io/blog/pemahaman-dasar-sistem-operasi-linux-ubuntu-untuk-pemula/</guid>
       <description>SEASON 4
  Memahami Dasar Sistem Operasi Linux Pemahaman dasar mengenai sistem operasi Linux Ubuntu telah saya praktekan sejak awal saya mulai mengenal sistem operasi Linux, hal ini akan sangat penting karena bagi saya sebelum memahami lebih jauh sistem operasi ubuntu maka ini suatu pondasi yang kuat untuk memahami Ubuntu dari hal yang paling dasar. Semua yang saya lakukan merupakan metode yang saya pakai dulu saat mulai berkenalan dengan sistem operasi ubuntu, jadi memang ini benar-benar saya lakukan dan cara seperti ini saya pelajari sendiri dalam pembelajaran awal-awal saya saat itu.</description>
     </item>
     
     <item>
       <title>Alasan Migrasi Ke Sistem Operasi Linux</title>
-      <link>https://www.kodebaper.com/blog/alasan-migrasi-ke-sistem-operasi-linux/</link>
+      <link>https://kodebaper.github.io/blog/alasan-migrasi-ke-sistem-operasi-linux/</link>
       <pubDate>Sun, 13 Sep 2020 23:50:12 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/alasan-migrasi-ke-sistem-operasi-linux/</guid>
+      <guid>https://kodebaper.github.io/blog/alasan-migrasi-ke-sistem-operasi-linux/</guid>
       <description>SEASON 3
  Saya menggunakan Linux karena ingin Belajar Alasan utama saya memilih sistem operasi Linux ubuntu untuk saya pasang ke notebook pertama saya adalah, saya sempat terinspirasi dari beberapa perangkat teknologi yang di bangun menggunakan sistem operasi linux, salah satunya adalah dimana berbagai macam server teknologi ternyata di bangun dan di kembangkan menggunakan sistem operasi Linux (kala itu saya baca-baca git sih). Tapi inti poin dari semua itu bukan disini, saya merasa bahwa Linux menjadi sistem operasi pilihan saya karena disamping saya melanjutkan pendidikan ke jenjang SMK dengan jurusan Teknik Komputer dan Jaringan, saya juga sama sekali belum pernah mengoperasikan yang namanya komputer atau Laptop.</description>
     </item>
     
     <item>
       <title>Distro Linux Untuk Seorang Pemula</title>
-      <link>https://www.kodebaper.com/blog/distro-linux-untuk-seorang-pemula/</link>
+      <link>https://kodebaper.github.io/blog/distro-linux-untuk-seorang-pemula/</link>
       <pubDate>Sun, 06 Sep 2020 20:19:39 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/distro-linux-untuk-seorang-pemula/</guid>
+      <guid>https://kodebaper.github.io/blog/distro-linux-untuk-seorang-pemula/</guid>
       <description>SEASON 2
  Distro Linux yang cocok untuk Pemula Pada artikel di season 1 saya telah membahas 5 point penting untuk seorang pemula setelah memutuskan untuk bermigrasi ke sistem operasi open source, nah pada kesempatan ini saya akan mulai membahas point pertama. jika dibaca pada artikel pertama yang saya bahas di season 1 sengaja saya tidak jabarkan terlalu panjang karena saya berasumsi bahwa artikel yang terlalu panjang lebar yang di sajikan pada satu post artikel akan membuat rasa malas pembacanya.</description>
     </item>
     
     <item>
       <title>Pertama Kali Saya Migrasi Ke OS Linux Ubuntu</title>
-      <link>https://www.kodebaper.com/blog/pertama-kali-saya-migrasi-ke-os-linux-ubuntu/</link>
+      <link>https://kodebaper.github.io/blog/pertama-kali-saya-migrasi-ke-os-linux-ubuntu/</link>
       <pubDate>Sun, 06 Sep 2020 03:04:01 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/pertama-kali-saya-migrasi-ke-os-linux-ubuntu/</guid>
+      <guid>https://kodebaper.github.io/blog/pertama-kali-saya-migrasi-ke-os-linux-ubuntu/</guid>
       <description>SEASON 1
  Migrasi ke linux untuk Pemula Introduction Pada kesempatan kali ini saya akan mulai menulisakn artikel berseri mengenai pengalaman saya menggunakan linux kurang lebih hampir 10 tahun hingga sekarang, dimana pada saat itu pertama kalinya saya mengnal sistem operasi open source linux dan pertama kalinya juga saya bisa mengoperasikan Komputer itupun karena saya bisa mengenyam pendidikan ke jenjang bangku SMK. Tanpa latar belakang menyukai dunia IT karena memang terbatasnya pembelajaran di bidang IT sewaktu saya duduk di bangku SMP tapi begitu lulus SMP saya memutuskan untuk meneruskan pendidikan ke jenjang SMK dengan mengambil jurusan Teknik Komputer dan Jaringan.</description>
     </item>
