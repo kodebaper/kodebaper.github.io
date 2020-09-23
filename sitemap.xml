@@ -4,19 +4,42 @@
   
   <url>
     <loc>https://www.kodebaper.com/blog/</loc>
-    <lastmod>2020-09-24T01:14:45+07:00</lastmod>
+    <lastmod>2020-09-24T01:56:21+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.kodebaper.com/categories/</loc>
-    <lastmod>2020-09-24T01:14:45+07:00</lastmod>
+    <lastmod>2020-09-24T01:56:21+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.kodebaper.com/tags/deploy/</loc>
-    <lastmod>2020-09-24T01:14:45+07:00</lastmod>
+    <lastmod>2020-09-24T01:56:21+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kodebaper.com/categories/hugo/</loc>
+    <lastmod>2020-09-24T01:56:21+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kodebaper.com/</loc>
+    <lastmod>2020-09-24T01:56:21+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kodebaper.com/blog/prepare-sebelum-custom-domain-blog-hugo-di-github-page/</loc>
+    <lastmod>2020-09-24T01:56:21+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kodebaper.com/tags/</loc>
+    <lastmod>2020-09-24T01:56:21+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -26,25 +49,7 @@
   </url>
   
   <url>
-    <loc>https://www.kodebaper.com/categories/hugo/</loc>
-    <lastmod>2020-09-24T01:14:45+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kodebaper.com/tags/hugo-error/</loc>
-    <lastmod>2020-09-24T01:14:45+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kodebaper.com/</loc>
-    <lastmod>2020-09-24T01:14:45+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kodebaper.com/tags/</loc>
     <lastmod>2020-09-24T01:14:45+07:00</lastmod>
     <priority>0</priority>
   </url>

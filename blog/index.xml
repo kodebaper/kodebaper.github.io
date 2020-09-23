@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Kodebaper - Belajar Programming dan Ngobrol Produktif</title>
+    <title>Blogs on Kodebaper - Belajar Programming dan Ngobrol Seputar IT</title>
     <link>https://www.kodebaper.com/blog/</link>
-    <description>Recent content in Blogs on Kodebaper - Belajar Programming dan Ngobrol Produktif</description>
+    <description>Recent content in Blogs on Kodebaper - Belajar Programming dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 24 Sep 2020 01:14:45 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2020 01:56:21 +0700</lastBuildDate>
     
 	<atom:link href="https://www.kodebaper.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Prepare Sebelum Custom Domain Blog Hugo Di Github Page</title>
+      <link>https://www.kodebaper.com/blog/prepare-sebelum-custom-domain-blog-hugo-di-github-page/</link>
+      <pubDate>Thu, 24 Sep 2020 01:56:21 +0700</pubDate>
+      
+      <guid>https://www.kodebaper.com/blog/prepare-sebelum-custom-domain-blog-hugo-di-github-page/</guid>
+      <description>Berikut merupakan hal-hal yang perlu di siapkan sebelum melakukan custom domain terhadap Blog Hugo ini, dimana saya mealkukan perubahan atau custom domain ini dengan menggunakan layanan dari Github Page, adapun untuk persiapannya sebagai berikut.
+ menyiapkan domain yang kamu pilih   </description>
+    </item>
     
     <item>
       <title>Git push rejected non-fast-forward</title>

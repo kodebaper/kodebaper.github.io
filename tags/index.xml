@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Kodebaper - Belajar Programming dan Ngobrol Produktif</title>
+    <title>Tags on Kodebaper - Belajar Programming dan Ngobrol Seputar IT</title>
     <link>https://www.kodebaper.com/tags/</link>
-    <description>Recent content in Tags on Kodebaper - Belajar Programming dan Ngobrol Produktif</description>
+    <description>Recent content in Tags on Kodebaper - Belajar Programming dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 24 Sep 2020 01:14:45 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2020 01:56:21 +0700</lastBuildDate>
     
 	<atom:link href="https://www.kodebaper.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Deploy</title>
       <link>https://www.kodebaper.com/tags/deploy/</link>
-      <pubDate>Thu, 24 Sep 2020 01:14:45 +0700</pubDate>
+      <pubDate>Thu, 24 Sep 2020 01:56:21 +0700</pubDate>
       
       <guid>https://www.kodebaper.com/tags/deploy/</guid>
       <description></description>
