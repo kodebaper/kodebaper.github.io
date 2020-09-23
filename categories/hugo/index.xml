@@ -6,10 +6,22 @@
     <description>Recent content in Hugo on Kodebaper - Belajar Programming dan Ngobrol Produktif</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 04 Sep 2020 00:41:46 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2020 01:14:45 +0700</lastBuildDate>
     
 	<atom:link href="https://www.kodebaper.com/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Git push rejected non-fast-forward</title>
+      <link>https://www.kodebaper.com/blog/git-push-rejected-non-fast-forward/</link>
+      <pubDate>Thu, 24 Sep 2020 01:14:45 +0700</pubDate>
+      
+      <guid>https://www.kodebaper.com/blog/git-push-rejected-non-fast-forward/</guid>
+      <description>Git push rejected &#34;non-fast-forward&#34;
+beberapa hari yang lalu saya sempat mengalami error setelah melakukan custom domain di github page, dimana ketika perubahan blog ini saya lakukan dan ingin melakukan update perubahan tersebut dengan cara push hasil perubahan ke repository github namun di tolak, kurang lebih untuk pesan error seperti di bawah ini :
+Perintah git untuk untuk push perubahan sebagai berikut
+# git push -u origin master  Pada step ini saya mendapati error kurang lebih seperti di bawah ini :</description>
+    </item>
     
     <item>
       <title>Cara Memasang Komentar Disqus Di Hugo</title>

@@ -2,33 +2,45 @@
 <html lang="en-US"><head>
   <meta charset="UTF-8" />
   
-<meta itemprop="name" content="Categories">
-<meta itemprop="description" content="Belajar Programming dan Ngobrol Produktif">
+<meta itemprop="name" content="Git push rejected non-fast-forward">
+<meta itemprop="description" content="Git push rejected non-fast-forward">
 
+
+<meta itemprop="datePublished" content="2020-09-24T01:14:45&#43;07:00" />
+<meta itemprop="dateModified" content="2020-09-24T01:14:45&#43;07:00" />
+<meta itemprop="wordCount" content="284">
+
+
+
+<meta itemprop="keywords" content="Hugo Error,Deploy," />
 
   
-  <meta property="og:title" content="Categories" />
-<meta property="og:description" content="Belajar Programming dan Ngobrol Produktif" />
-<meta property="og:type" content="website" />
-<meta property="og:url" content="https://www.kodebaper.com/categories/" />
-
-<meta property="og:updated_time" content="2020-09-24T01:14:45&#43;07:00"/>
+  <meta property="og:title" content="Git push rejected non-fast-forward" />
+<meta property="og:description" content="Git push rejected non-fast-forward" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.kodebaper.com/blog/git-push-rejected-non-fast-forward/" />
+<meta property="article:published_time" content="2020-09-24T01:14:45&#43;07:00"/>
+<meta property="article:modified_time" content="2020-09-24T01:14:45&#43;07:00"/>
 
   <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="Categories"/>
-<meta name="twitter:description" content="Belajar Programming dan Ngobrol Produktif"/>
+<meta name="twitter:title" content="Git push rejected non-fast-forward"/>
+<meta name="twitter:description" content="Git push rejected non-fast-forward"/>
 
   <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-  <meta name="description" content="Belajar Programming dan Ngobrol Produktif 'Categories'" />
-  <title>Categories  | Kodebaper - Belajar Programming dan Ngobrol Produktif</title>
-  <meta property="og:title" content="Categories" />
+  <meta name="description" content="Belajar Programming dan Ngobrol Produktif 'Git push rejected non-fast-forward'" />
+  <title>Git push rejected non-fast-forward  | Kodebaper - Belajar Programming dan Ngobrol Produktif</title>
+  <meta property="og:title" content="Git push rejected non-fast-forward" />
   
-  <meta property="og:type" content="website" />
-  
-  <meta property="og:url" content="https://www.kodebaper.com/categories/" />
+  <meta property="og:type" content="article" />
+  <meta property="article:published_time" content="2020-09-24"> 
+  <meta property="og:url" content="https://www.kodebaper.com/blog/git-push-rejected-non-fast-forward/" />
   <meta property="og:site_name" content="Kodebaper - Belajar Programming dan Ngobrol Produktif" />
    <meta property="og:image" content="https://www.kodebaper.com/images/thumbnail.png">  
+  <meta property="og:tags" content="Hugo Error" />
+  
+  <meta property="og:tags" content="Deploy" />
+  
 
   
   <link rel="icon" href="/favicon.ico" type="image/x-icon" />
@@ -112,151 +124,127 @@
 </header><div class="container">
       <div class="row justify-content-center">
         <div class="col-12 col-lg-8">
-<div class="categories">
-  <h1>
-    <i class="far fa-folder-open"></i>
-    Categories
-  </h1>
-  <p></p>
-  <ul>
-      
-    <li>
-      <span class="title">
-        <a href="https://www.kodebaper.com/categories/cloud">
-          <i class="far fa-folder" aria-hidden="true"></i>
-          CLOUD (1 EA)
-        </a>
-      </span>
-      <span class="links">
-        
-        <a href="https://www.kodebaper.com/blog/mengenal-layanan-dns-cloudflare/">
-          <small>2020-08-21</small>
-          <span class="recent-title">Mengenal Layanan DNS Cloudflare</span>
-        </a>
-        
-      </span>
-    </li>
+
+<div class="post-title">
+  <a href="https://www.kodebaper.com/blog/git-push-rejected-non-fast-forward/">
+    <div class="post-meta">
+      <time></time>
+    </div>
+  </a>
+</div>
+<section class="post-content">
+  
+  <p>
+<p align="left"><font size="8"><b> Git push rejected "non-fast-forward"</b></font></p>
+</p>
+
+<p>beberapa hari yang lalu saya sempat mengalami error setelah melakukan custom domain di github page, dimana ketika perubahan blog ini saya lakukan dan ingin melakukan update perubahan tersebut dengan cara push hasil perubahan ke repository github namun di tolak, kurang lebih untuk pesan error seperti di bawah ini :</p>
+
+<p>Perintah git untuk untuk push perubahan sebagai berikut</p>
+
+<pre><code># git push -u origin master     
+</code></pre>
+
+<p>Pada step ini saya mendapati error kurang lebih seperti di bawah ini :</p>
+
+<pre><code>error: failed to push some refs to 'https://github.com/kodebaper/kodebaper.github.io.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+</code></pre>
+
+<p>Sedikit penjelasan dari yang saya baca dari Stackoverflow untuk kasus ini, bahwa perubahan dari blog untuk di push ke repository github di tolak karena ada indikasinya repository lain yang terdorong ke repository sebelumnya, disini mungkin penyebabnya saya melakukan perubahan terhadap file <code>.toml</code> dimana saya merubah domain saya yang semula <code>https://kodebaper.github.io</code> menjadi <code>https://kodebaper.com</code>. Tapi tidak perlu khawatir karena disini ada penyelesaian singkatnya melalui perintah dibawah ini.</p>
+
+<pre><code>git fetch origin master:tmp
+git rebase tmp
+git push origin HEAD:master
+git branch -D tmp
+</code></pre>
+
+<p>setelah ini di masukan saatnya kita tes dengan melakukan perubahan kembali terhadap blog, kemudian seperti biasa push ulang ke Github Page dengan cara seperti berikut :</p>
+
+<pre><code>hugo
+cd /public
+git add .
+git commit -m &quot;catatan push&quot;
+git push -u origin master
+</code></pre>
+
+<p>selanjutnya untuk tahapan ini semestinya sudah bisa berjalan normal, demikian artikel kali ini semoga bermanfaat !</p>
+
+</section>
+<time>
+  <i class="far fa-clock"></i>
+  Thursday, Sep 24, 2020 01:14
+</time>
+ 
+<i class="far fa-folder"></i>
+<a href="https://www.kodebaper.com//categories/hugo">Hugo</a>
+ 
+<div class="post-comment">
+  <div id="disqus_thread"></div>
+<script type="application/javascript">
+    var disqus_config = function () {
     
-    <li>
-      <span class="title">
-        <a href="https://www.kodebaper.com/categories/git">
-          <i class="far fa-folder" aria-hidden="true"></i>
-          GIT (2 EA)
-        </a>
-      </span>
-      <span class="links">
-        
-        <a href="https://www.kodebaper.com/blog/perintah-dasar-git-untuk-pemula/">
-          <small>2020-09-01</small>
-          <span class="recent-title">Perintah Dasar Git Untuk Pemula</span>
-        </a>
-        
-      </span>
-    </li>
     
-    <li>
-      <span class="title">
-        <a href="https://www.kodebaper.com/categories/hugo">
-          <i class="far fa-folder" aria-hidden="true"></i>
-          HUGO (9 EA)
-        </a>
-      </span>
-      <span class="links">
-        
-        <a href="https://www.kodebaper.com/blog/git-push-rejected-non-fast-forward/">
-          <small>2020-09-24</small>
-          <span class="recent-title">Git push rejected non-fast-forward</span>
-        </a>
-        
-      </span>
-    </li>
     
-    <li>
-      <span class="title">
-        <a href="https://www.kodebaper.com/categories/linux-enthusiast">
-          <i class="far fa-folder" aria-hidden="true"></i>
-          LINUX-ENTHUSIAST (8 EA)
-        </a>
-      </span>
-      <span class="links">
-        
-        <a href="https://www.kodebaper.com/blog/persiapan-membuat-server-cloud-storage-menggunakan-sistem-operasi-ubuntu/">
-          <small>2020-09-20</small>
-          <span class="recent-title">Persiapan Membuat Server Cloud Storage Menggunakan Sistem Operasi Ubuntu</span>
-        </a>
-        
-      </span>
-    </li>
-    
-    <li>
-      <span class="title">
-        <a href="https://www.kodebaper.com/categories/pemrograman">
-          <i class="far fa-folder" aria-hidden="true"></i>
-          PEMROGRAMAN (1 EA)
-        </a>
-      </span>
-      <span class="links">
-        
-        <a href="https://www.kodebaper.com/blog/first-impression-belajar-kotlin/">
-          <small>2020-09-05</small>
-          <span class="recent-title">First Impression Belajar Kotlin</span>
-        </a>
-        
-      </span>
-    </li>
-    
-    <li>
-      <span class="title">
-        <a href="https://www.kodebaper.com/categories/secangkir-kopi">
-          <i class="far fa-folder" aria-hidden="true"></i>
-          SECANGKIR-KOPI (5 EA)
-        </a>
-      </span>
-      <span class="links">
-        
-        <a href="https://www.kodebaper.com/blog/kuliah-mau-mencari-ilmu/">
-          <small>2020-09-21</small>
-          <span class="recent-title">Benarkah Kuliah untuk mencari ilmu ?</span>
-        </a>
-        
-      </span>
-    </li>
-    
-  </ul>
+    };
+    (function() {
+        if (["localhost", "127.0.0.1"].indexOf(window.location.hostname) != -1) {
+            document.getElementById('disqus_thread').innerHTML = 'Disqus comments not available by default when the website is previewed locally.';
+            return;
+        }
+        var d = document, s = d.createElement('script'); s.async = true;
+        s.src = '//' + "maskodebaper" + '.disqus.com/embed.js';
+        s.setAttribute('data-timestamp', +new Date());
+        (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+<a href="https://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 </div>
 
+
+<hr class="summary-sep" />
+<div class="recommend-articles">
+  <h3>
+    Rekomendasi Artikel
+  </h3>
+  <ul>
+    
+    <li>
+      <a href="https://www.kodebaper.com/blog/kuliah-mau-mencari-ilmu/" rel="prev">
+        <span>Benarkah Kuliah untuk mencari ilmu ?</span>
+      </a>
+    </li>
+     
+  </ul>
+</div>
+ 
         </div>
 
         <div id="sidebar" class="col-12 col-md-8 col-lg-4">
           <div class="post-sidebar-area">
-<div class="sidebar-widget-area">
+<div id="post-toc" class="sidebar-widget-area">
   <div class="title">
-    <i class="fab fa-buffer"></i>
-    Recents
+    <i class="fa fa-list"></i>
+    Daftar Isi Artikel
   </div>
   <div class="widget-content">
+    
   </div>
 </div>
-
 <div class="sidebar-widget-area">
   <div class="title">
-    <i class="fa fa-tags fa-1x" Style="color: #red"></i>
+    <i class="fa fa-tags fa-1x" Style="color: #black"></i>
     Tags
   </div>
   <div class="widget-content">
-    <a href="/tags/anak-kampus/" class="badge badge-secondary">Anak Kampus</a>
-    <a href="/tags/belajar-kotlin/" class="badge badge-secondary">Belajar Kotlin</a>
-    <a href="/tags/belajar-server/" class="badge badge-secondary">Belajar Server</a>
-    <a href="/tags/cloud/" class="badge badge-secondary">Cloud</a>
-    <a href="/tags/cloud-server/" class="badge badge-secondary">Cloud Server</a>
-    <a href="/tags/deploy/" class="badge badge-secondary">Deploy</a>
-    <a href="/tags/github/" class="badge badge-secondary">GitHub</a>
-    <a href="/tags/hugo-error/" class="badge badge-secondary">Hugo Error</a>
-    <a href="/tags/hugo-ssg/" class="badge badge-secondary">Hugo SSG</a>
-    <a href="/tags/inspirasi-saya/" class="badge badge-secondary">Inspirasi Saya</a>
-    <a href="/tags/linux-dasar/" class="badge badge-secondary">Linux Dasar</a>
-    <a href="/tags/ngobrol-it/" class="badge badge-secondary">Ngobrol IT</a>
-    <a href="/tags/ngobrol-produktif/" class="badge badge-secondary">Ngobrol Produktif</a>
+     
+    <a href="https://www.kodebaper.com/tags/hugo-error" class="badge badge-secondary">Hugo Error</a>
+    <a href="https://www.kodebaper.com/tags/deploy" class="badge badge-secondary">Deploy</a>
   </div>
 </div>
 

@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Kodebaper - Belajar Programming dan Ngobrol Produktif</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 21 Sep 2020 21:46:46 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2020 01:14:45 +0700</lastBuildDate>
     
 	<atom:link href="https://www.kodebaper.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deploy</title>
+      <link>https://www.kodebaper.com/tags/deploy/</link>
+      <pubDate>Thu, 24 Sep 2020 01:14:45 +0700</pubDate>
+      
+      <guid>https://www.kodebaper.com/tags/deploy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo Error</title>
+      <link>https://www.kodebaper.com/tags/hugo-error/</link>
+      <pubDate>Thu, 24 Sep 2020 01:14:45 +0700</pubDate>
+      
+      <guid>https://www.kodebaper.com/tags/hugo-error/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Anak Kampus</title>
@@ -98,24 +116,6 @@
       <pubDate>Tue, 01 Sep 2020 16:15:01 +0700</pubDate>
       
       <guid>https://www.kodebaper.com/tags/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deploy</title>
-      <link>https://www.kodebaper.com/tags/deploy/</link>
-      <pubDate>Tue, 01 Sep 2020 13:26:03 +0700</pubDate>
-      
-      <guid>https://www.kodebaper.com/tags/deploy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo Error</title>
-      <link>https://www.kodebaper.com/tags/hugo-error/</link>
-      <pubDate>Tue, 01 Sep 2020 13:26:03 +0700</pubDate>
-      
-      <guid>https://www.kodebaper.com/tags/hugo-error/</guid>
       <description></description>
     </item>
     

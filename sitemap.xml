@@ -3,6 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.kodebaper.com/blog/</loc>
+    <lastmod>2020-09-24T01:14:45+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kodebaper.com/categories/</loc>
+    <lastmod>2020-09-24T01:14:45+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kodebaper.com/tags/deploy/</loc>
+    <lastmod>2020-09-24T01:14:45+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kodebaper.com/blog/git-push-rejected-non-fast-forward/</loc>
+    <lastmod>2020-09-24T01:14:45+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.kodebaper.com/categories/hugo/</loc>
+    <lastmod>2020-09-24T01:14:45+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kodebaper.com/tags/hugo-error/</loc>
+    <lastmod>2020-09-24T01:14:45+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kodebaper.com/</loc>
+    <lastmod>2020-09-24T01:14:45+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.kodebaper.com/tags/</loc>
+    <lastmod>2020-09-24T01:14:45+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://www.kodebaper.com/tags/anak-kampus/</loc>
     <lastmod>2020-09-21T21:46:46+07:00</lastmod>
     <priority>0</priority>
@@ -14,31 +61,7 @@
   </url>
   
   <url>
-    <loc>https://www.kodebaper.com/blog/</loc>
-    <lastmod>2020-09-21T21:46:46+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kodebaper.com/categories/</loc>
-    <lastmod>2020-09-21T21:46:46+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kodebaper.com/</loc>
-    <lastmod>2020-09-21T21:46:46+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kodebaper.com/categories/secangkir-kopi/</loc>
-    <lastmod>2020-09-21T21:46:46+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kodebaper.com/tags/</loc>
     <lastmod>2020-09-21T21:46:46+07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -163,12 +186,6 @@
   </url>
   
   <url>
-    <loc>https://www.kodebaper.com/categories/hugo/</loc>
-    <lastmod>2020-09-04T00:41:46+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://www.kodebaper.com/tags/hugo-ssg/</loc>
     <lastmod>2020-09-04T00:41:46+07:00</lastmod>
     <priority>0</priority>
@@ -194,18 +211,6 @@
   <url>
     <loc>https://www.kodebaper.com/blog/perintah-dasar-git-untuk-pemula/</loc>
     <lastmod>2020-09-01T16:15:01+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://www.kodebaper.com/tags/deploy/</loc>
-    <lastmod>2020-09-01T13:26:03+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://www.kodebaper.com/tags/hugo-error/</loc>
-    <lastmod>2020-09-01T13:26:03+07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
