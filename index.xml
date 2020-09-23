@@ -2,41 +2,41 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kodebaper - Belajar Programming dan Ngobrol Produktif</title>
-    <link>https://kodebaper.github.io/</link>
+    <link>https://www.kodebaper.com/</link>
     <description>Recent content on Kodebaper - Belajar Programming dan Ngobrol Produktif</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 21 Sep 2020 21:46:46 +0700</lastBuildDate>
     
-	<atom:link href="https://kodebaper.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.kodebaper.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Benarkah Kuliah untuk mencari ilmu ?</title>
-      <link>https://kodebaper.github.io/blog/kuliah-mau-mencari-ilmu/</link>
+      <link>https://www.kodebaper.com/blog/kuliah-mau-mencari-ilmu/</link>
       <pubDate>Mon, 21 Sep 2020 21:46:46 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/kuliah-mau-mencari-ilmu/</guid>
+      <guid>https://www.kodebaper.com/blog/kuliah-mau-mencari-ilmu/</guid>
       <description>Ini merupakan tanggapan saya menjadi mahasiswa yang sudah memasuki semester 5
 Apa kabar kamu mahasiswa IT, apa yang menyebabkan kamu hingga sampai di artikel ini ? semoga kamu selalu memiliki motivasi belajar untuk mencapai tujuan kamu ya sehingga memilih untuk melanjutkan pendidikan di jenjang bangku perkuliahan pasti kamu sudah memiliki goal untuk nantinya setelah kamu lulus ya. Oh ia apa kabar kamu anak teknik informatika dan sejenisnya yang ada hubunganya sama jurusan IT, semoga kamu tidak punya pikiran loh gua udah kuliah sampai semester 4/5/6/7 atau malah udah mau wisuda tapi selama kuliah bisa apa ya ?</description>
     </item>
     
     <item>
       <title>Membuat Server Cloud Storage Menggunakan Sistem Operasi Ubuntu</title>
-      <link>https://kodebaper.github.io/blog/membuat-server-cloud-storage-menggunakan-sistem-operasi-ubuntu/</link>
+      <link>https://www.kodebaper.com/blog/membuat-server-cloud-storage-menggunakan-sistem-operasi-ubuntu/</link>
       <pubDate>Sun, 20 Sep 2020 01:18:07 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/membuat-server-cloud-storage-menggunakan-sistem-operasi-ubuntu/</guid>
+      <guid>https://www.kodebaper.com/blog/membuat-server-cloud-storage-menggunakan-sistem-operasi-ubuntu/</guid>
       <description> PANDUAN PEMBUATAN SERVER CLOUD STORAGE DAN TESTING DALAM PROSES Adapun saat ini untuk panduan masih dalam proses
 ARTIKEL SIAP DI BACA PADA 26 NOVEMBER 2020 </description>
     </item>
     
     <item>
       <title>Persiapan Membuat Server Cloud Storage Menggunakan Sistem Operasi Ubuntu</title>
-      <link>https://kodebaper.github.io/blog/persiapan-membuat-server-cloud-storage-menggunakan-sistem-operasi-ubuntu/</link>
+      <link>https://www.kodebaper.com/blog/persiapan-membuat-server-cloud-storage-menggunakan-sistem-operasi-ubuntu/</link>
       <pubDate>Sun, 20 Sep 2020 01:17:57 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/persiapan-membuat-server-cloud-storage-menggunakan-sistem-operasi-ubuntu/</guid>
+      <guid>https://www.kodebaper.com/blog/persiapan-membuat-server-cloud-storage-menggunakan-sistem-operasi-ubuntu/</guid>
       <description>SESION 2 Persiapan membangun server Cloud Storage Artikel ini melanjutkan dan rangkaian dari pada bagian sesion 1 kemudian di artikel sesion 2 ini meliputi persiapan yang saya lakukan dalam praktek membuat server cloud Storage tentang apa saja yang mesti di persiapkan, adapun persiapan yang saya lakukan sebelum praktek adalah sebagai berikut:
  Sistem Operasi Ubuntu 16.04 Server Edition
 Saya memutuskan untuk praktek pembuatan server cloud storage dengan menggunakan sistem operasi linux Ubuntu 16.</description>
@@ -44,89 +44,89 @@ Saya memutuskan untuk praktek pembuatan server cloud storage dengan menggunakan 
     
     <item>
       <title>Rencana Belajar Membangun Cloud Storage Di Server Sendiri</title>
-      <link>https://kodebaper.github.io/blog/rencana-belajar-membangun-cloud-storage-di-server-sendiri/</link>
+      <link>https://www.kodebaper.com/blog/rencana-belajar-membangun-cloud-storage-di-server-sendiri/</link>
       <pubDate>Sun, 20 Sep 2020 01:17:40 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/rencana-belajar-membangun-cloud-storage-di-server-sendiri/</guid>
+      <guid>https://www.kodebaper.com/blog/rencana-belajar-membangun-cloud-storage-di-server-sendiri/</guid>
       <description>SESION 1 Pengenalan tujuan pembuatan Server Cloud Storage  
 Praktek membuat cloud storage dari server sendiri yang saya buat dari nol di dasari keinginan saya untuk memilik tempat backup terhadap data-data yang saya miliki alih-alih ingin mempunyai backup penyimpanan data seperti layaknya Google Drive akhirnya saya putuskan untuk membuat cloud storage versi sendiri, Artikel ini merupakan bagian dari 3 artikel yang akan saya bahas kedepan, seperti biasa saya menuliskan panduan dalam bentuk artikel ini secara berseri mulai dari</description>
     </item>
     
     <item>
       <title>Mencoba Bermain Main Dengan Perintah Dasar Terminal Untuk Pemula</title>
-      <link>https://kodebaper.github.io/blog/mencoba-bermain-main-dengan-perintah-dasar-terminal-untuk-pemula/</link>
+      <link>https://www.kodebaper.com/blog/mencoba-bermain-main-dengan-perintah-dasar-terminal-untuk-pemula/</link>
       <pubDate>Sun, 13 Sep 2020 23:56:26 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/mencoba-bermain-main-dengan-perintah-dasar-terminal-untuk-pemula/</guid>
+      <guid>https://www.kodebaper.com/blog/mencoba-bermain-main-dengan-perintah-dasar-terminal-untuk-pemula/</guid>
       <description>SEASON 6
  Pahami perintah dasar Terminal ini jika kamu seorang Pemula Ini merupakan sesion terkahir yang saya bahas mulai dari sesion 1 sampai dengan sesion 6 ini dimana saya membahas mengenai perjalanan saya menggunakan sistem Operasi Linux Ubuntu untuk pertama kalinya dan saya selipkan juga sebagai langkah awal untuk kamu yang memutuskan untuk migrasi ke sistem operasi Linux. Pada pembahasan langkah ke 6 ini merupakan pembahasan paling dasar dimana seorang pemula, mulai mengenal apa itu aplikasi Terminal pada Ubuntu dan menggunakan perintah-perintah di terminal.</description>
     </item>
     
     <item>
       <title>Apakah Penting Dual Booting Linux Dan Windows</title>
-      <link>https://kodebaper.github.io/blog/apakah-penting-dual-booting-linux-dan-windows/</link>
+      <link>https://www.kodebaper.com/blog/apakah-penting-dual-booting-linux-dan-windows/</link>
       <pubDate>Sun, 13 Sep 2020 23:54:52 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/apakah-penting-dual-booting-linux-dan-windows/</guid>
+      <guid>https://www.kodebaper.com/blog/apakah-penting-dual-booting-linux-dan-windows/</guid>
       <description>SEASON 5
  Saya rasa penting tidak penting dual booting sistem operasi Saya utarakan disini mengenai pendapat saya pribadi tentang penting atau tidaknya kita memutuskan untuk dual booting, misalkan kita memutuskan untuk sistem operasi Windows dan Linux terpasang di laptop/komputer kita. Disini saya mengutarakan dua jawaban yang bagi saya menjadi pertimbangan kamu apakah kamu benar-benar sudah mantap untuk hanya menggunakan jenis sistem operasi dari Linux atau masih berbarengan antara masih menggunakan Windows dan Linux.</description>
     </item>
     
     <item>
       <title>Pemahaman Dasar Sistem Operasi Linux Ubuntu Untuk Pemula</title>
-      <link>https://kodebaper.github.io/blog/pemahaman-dasar-sistem-operasi-linux-ubuntu-untuk-pemula/</link>
+      <link>https://www.kodebaper.com/blog/pemahaman-dasar-sistem-operasi-linux-ubuntu-untuk-pemula/</link>
       <pubDate>Sun, 13 Sep 2020 23:53:22 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/pemahaman-dasar-sistem-operasi-linux-ubuntu-untuk-pemula/</guid>
+      <guid>https://www.kodebaper.com/blog/pemahaman-dasar-sistem-operasi-linux-ubuntu-untuk-pemula/</guid>
       <description>SEASON 4
  Memahami Dasar Sistem Operasi Linux Pemahaman dasar mengenai sistem operasi Linux Ubuntu telah saya praktekan sejak awal saya mulai mengenal sistem operasi Linux, hal ini akan sangat penting karena bagi saya sebelum memahami lebih jauh sistem operasi ubuntu maka ini suatu pondasi yang kuat untuk memahami Ubuntu dari hal yang paling dasar. Semua yang saya lakukan merupakan metode yang saya pakai dulu saat mulai berkenalan dengan sistem operasi ubuntu, jadi memang ini benar-benar saya lakukan dan cara seperti ini saya pelajari sendiri dalam pembelajaran awal-awal saya saat itu.</description>
     </item>
     
     <item>
       <title>Alasan Migrasi Ke Sistem Operasi Linux</title>
-      <link>https://kodebaper.github.io/blog/alasan-migrasi-ke-sistem-operasi-linux/</link>
+      <link>https://www.kodebaper.com/blog/alasan-migrasi-ke-sistem-operasi-linux/</link>
       <pubDate>Sun, 13 Sep 2020 23:50:12 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/alasan-migrasi-ke-sistem-operasi-linux/</guid>
+      <guid>https://www.kodebaper.com/blog/alasan-migrasi-ke-sistem-operasi-linux/</guid>
       <description>SEASON 3
  Saya menggunakan Linux karena ingin Belajar Alasan utama saya memilih sistem operasi Linux ubuntu untuk saya pasang ke notebook pertama saya adalah, saya sempat terinspirasi dari beberapa perangkat teknologi yang di bangun menggunakan sistem operasi linux, salah satunya adalah dimana berbagai macam server teknologi ternyata di bangun dan di kembangkan menggunakan sistem operasi Linux (kala itu saya baca-baca git sih). Tapi inti poin dari semua itu bukan disini, saya merasa bahwa Linux menjadi sistem operasi pilihan saya karena disamping saya melanjutkan pendidikan ke jenjang SMK dengan jurusan Teknik Komputer dan Jaringan, saya juga sama sekali belum pernah mengoperasikan yang namanya komputer atau Laptop.</description>
     </item>
     
     <item>
       <title>Peran Teknologi di masa Covid19</title>
-      <link>https://kodebaper.github.io/blog/peran-teknologi-di-masa-pandemi-covid19/</link>
+      <link>https://www.kodebaper.com/blog/peran-teknologi-di-masa-pandemi-covid19/</link>
       <pubDate>Sat, 12 Sep 2020 00:26:12 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/peran-teknologi-di-masa-pandemi-covid19/</guid>
+      <guid>https://www.kodebaper.com/blog/peran-teknologi-di-masa-pandemi-covid19/</guid>
       <description>Dalam keadaan dimasa Pandemi covid 19 ini merupakan keadaan dimana banyak orang di paksa untuk mampu menggunakan teknologi dan memanfaatkannya, karena memang segala sesuatu yang mungkin tanpa sedikit pun terbenak di pikiran kita dengan datangnya pandemi covid19 yang saat ini melanda, membuat aktivitas kehidupan manusia mengalami perubahan aktifitas yang dulunya bisa dilakukan dengan bebas namun kini segala aktifitas kehidupan mesti di lakukan secara jarak jauh antar manusia, dimana pertemuaan dan aktifitas jarak jauh antar manusia ini mejadi peran dari teknologi untuk mengatasi permasalahan di masa pandemi seperti saat ini, nah saat teknologi menjadi solusi di masa pandemi Covid19, lalu apa permasalahannya ?</description>
     </item>
     
     <item>
       <title>Distro Linux Untuk Seorang Pemula</title>
-      <link>https://kodebaper.github.io/blog/distro-linux-untuk-seorang-pemula/</link>
+      <link>https://www.kodebaper.com/blog/distro-linux-untuk-seorang-pemula/</link>
       <pubDate>Sun, 06 Sep 2020 20:19:39 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/distro-linux-untuk-seorang-pemula/</guid>
+      <guid>https://www.kodebaper.com/blog/distro-linux-untuk-seorang-pemula/</guid>
       <description>SEASON 2
  Distro Linux yang cocok untuk Pemula Pada artikel di season 1 saya telah membahas 5 point penting untuk seorang pemula setelah memutuskan untuk bermigrasi ke sistem operasi open source, nah pada kesempatan ini saya akan mulai membahas point pertama. jika dibaca pada artikel pertama yang saya bahas di season 1 sengaja saya tidak jabarkan terlalu panjang karena saya berasumsi bahwa artikel yang terlalu panjang lebar yang di sajikan pada satu post artikel akan membuat rasa malas pembacanya.</description>
     </item>
     
     <item>
       <title>Pertama Kali Saya Migrasi Ke OS Linux Ubuntu</title>
-      <link>https://kodebaper.github.io/blog/pertama-kali-saya-migrasi-ke-os-linux-ubuntu/</link>
+      <link>https://www.kodebaper.com/blog/pertama-kali-saya-migrasi-ke-os-linux-ubuntu/</link>
       <pubDate>Sun, 06 Sep 2020 03:04:01 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/pertama-kali-saya-migrasi-ke-os-linux-ubuntu/</guid>
+      <guid>https://www.kodebaper.com/blog/pertama-kali-saya-migrasi-ke-os-linux-ubuntu/</guid>
       <description>SEASON 1
  Migrasi ke linux untuk Pemula Introduction Pada kesempatan kali ini saya akan mulai menulisakn artikel berseri mengenai pengalaman saya menggunakan linux kurang lebih hampir 10 tahun hingga sekarang, dimana pada saat itu pertama kalinya saya mengnal sistem operasi open source linux dan pertama kalinya juga saya bisa mengoperasikan Komputer itupun karena saya bisa mengenyam pendidikan ke jenjang bangku SMK. Tanpa latar belakang menyukai dunia IT karena memang terbatasnya pembelajaran di bidang IT sewaktu saya duduk di bangku SMP tapi begitu lulus SMP saya memutuskan untuk meneruskan pendidikan ke jenjang SMK dengan mengambil jurusan Teknik Komputer dan Jaringan.</description>
     </item>
     
     <item>
       <title>First Impression Belajar Kotlin</title>
-      <link>https://kodebaper.github.io/blog/first-impression-belajar-kotlin/</link>
+      <link>https://www.kodebaper.com/blog/first-impression-belajar-kotlin/</link>
       <pubDate>Sat, 05 Sep 2020 18:39:13 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/first-impression-belajar-kotlin/</guid>
+      <guid>https://www.kodebaper.com/blog/first-impression-belajar-kotlin/</guid>
       <description>Yakin mau belajar KOTLIN?
 
  
@@ -135,10 +135,10 @@ Ini merupakan artikel perdana saya, dimana pada artikel ini merupakan catatan pe
     
     <item>
       <title>Saya Terinspirasi Petani Kode Dan Kecanduan Baca Di Medium</title>
-      <link>https://kodebaper.github.io/blog/saya-terinspirasi-petani-kode-dan-kecanduan-baca-di-medium/</link>
+      <link>https://www.kodebaper.com/blog/saya-terinspirasi-petani-kode-dan-kecanduan-baca-di-medium/</link>
       <pubDate>Fri, 04 Sep 2020 23:57:14 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/saya-terinspirasi-petani-kode-dan-kecanduan-baca-di-medium/</guid>
+      <guid>https://www.kodebaper.com/blog/saya-terinspirasi-petani-kode-dan-kecanduan-baca-di-medium/</guid>
       <description>Petani Kode   &amp;amp;  Medium ? 
  
 Blog ini di bangun karena hobi saya membaca dan suka menulis sesuatu yang sudah pernah saya pelajari, serta saya senang mengagendakan ilmu-ilmu yang kedepan ingin saya pelajari dan kuasai. Itu sebabnya dari dulu saya suka ngeblog dan salah satu hal yang menarik perhatian saya yaitu Medium sebagai platform untuk menulis blog, di Medium kita bisa menemukan berbagai macam artikel dari tulisan orang-orang di seluruh dunia yang begitu menarik dan sangat enak untuk di baca menurut saya.</description>
@@ -146,20 +146,20 @@ Blog ini di bangun karena hobi saya membaca dan suka menulis sesuatu yang sudah 
     
     <item>
       <title>Membuat Website Mudah Cukup Dari Terminal</title>
-      <link>https://kodebaper.github.io/blog/membuat-website-mudah-cukup-dari-terminal/</link>
+      <link>https://www.kodebaper.com/blog/membuat-website-mudah-cukup-dari-terminal/</link>
       <pubDate>Fri, 04 Sep 2020 10:47:51 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/membuat-website-mudah-cukup-dari-terminal/</guid>
+      <guid>https://www.kodebaper.com/blog/membuat-website-mudah-cukup-dari-terminal/</guid>
       <description>Buat blog dari nol cukup dipersenjatai aplikasi console Terminal dan Text Editor
 Saya mengawali dunia Blogging dari CMS&amp;hellip;.. Ngobrol produktif kali ini saya akan bercerita sedikit tentang pertama kalinya saya membuat website sendiri lebih tepatnya blog sebenarnya hingga dapat di akses di internet, karena ternyata tidak semua website di buat dengan kerumitan yang selalu di bayangkan oleh seorang yang masih awam dalam dunia programming khususnya web progrmming, orang awamnya itu saya sendiri tentunya.</description>
     </item>
     
     <item>
       <title>Cara Memasang Komentar Disqus Di Hugo</title>
-      <link>https://kodebaper.github.io/blog/cara-memasang-komentar-disqus-di-hugo/</link>
+      <link>https://www.kodebaper.com/blog/cara-memasang-komentar-disqus-di-hugo/</link>
       <pubDate>Fri, 04 Sep 2020 00:41:46 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/cara-memasang-komentar-disqus-di-hugo/</guid>
+      <guid>https://www.kodebaper.com/blog/cara-memasang-komentar-disqus-di-hugo/</guid>
       <description>Bagaimana Memasang komentar Disqus di Hugo?
 
   
@@ -168,20 +168,20 @@ Pekerjaan selanjutnya setelah kita membuat blog dengan static site Hugo lalu mem
     
     <item>
       <title>Tips Menulis Artikel Di Hugo Static Site</title>
-      <link>https://kodebaper.github.io/blog/tips-menulis-artikel-di-hugo-static-site/</link>
+      <link>https://www.kodebaper.com/blog/tips-menulis-artikel-di-hugo-static-site/</link>
       <pubDate>Wed, 02 Sep 2020 19:35:23 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/tips-menulis-artikel-di-hugo-static-site/</guid>
+      <guid>https://www.kodebaper.com/blog/tips-menulis-artikel-di-hugo-static-site/</guid>
       <description>Tips Menulis Artikel Di Hugo Static Site
 Sebagai seorang blogger yang menggunakan static site Hugo sebagai mesin blognya, ngeblog dengan terminal merupakan suatu hal yang cukup berbeda bagi saya karena sebelumnya dari dulu saya selalu membuat blog menggunakan CMS yang kaya akan fitur graphical user interfacenya. Namun kali ini saya dihadapkan dengan keadaan yang berbeda dimana menulis artikel di blog menggunakan Hugo cukup menggunakan text editor saja.</description>
     </item>
     
     <item>
       <title>Perintah Dasar Git Untuk Pemula</title>
-      <link>https://kodebaper.github.io/blog/perintah-dasar-git-untuk-pemula/</link>
+      <link>https://www.kodebaper.com/blog/perintah-dasar-git-untuk-pemula/</link>
       <pubDate>Tue, 01 Sep 2020 16:15:01 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/perintah-dasar-git-untuk-pemula/</guid>
+      <guid>https://www.kodebaper.com/blog/perintah-dasar-git-untuk-pemula/</guid>
       <description>Yuk belajar! Perintah Dasar Git Untuk Pemula
  
 Berikut merupakan perintah dasar dalam penggunaan Git yang cocok untuk di ketahui dan di pahami oleh seorang pemula, lebih tepatnya untuk saya pribadi karena dengan hadirnya artikel ini salah satunya sebagai tempat saya merangkum apa-apa yang sudah saya pelajari, dan untuk seorang pemula seperti saya ini sangatlah perlu. Saya sendiri sampai dengan artikel ini di posting, saya baru mengenal Git sekitar 7 bulan yang lalu.</description>
@@ -189,10 +189,10 @@ Berikut merupakan perintah dasar dalam penggunaan Git yang cocok untuk di ketahu
     
     <item>
       <title>Solved: Fatal Not a Git Repository or Any of the Parent Directories</title>
-      <link>https://kodebaper.github.io/blog/solved-fatal-not-a-git-repository-or-any-of-the-parent-directories/</link>
+      <link>https://www.kodebaper.com/blog/solved-fatal-not-a-git-repository-or-any-of-the-parent-directories/</link>
       <pubDate>Tue, 01 Sep 2020 13:26:03 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/solved-fatal-not-a-git-repository-or-any-of-the-parent-directories/</guid>
+      <guid>https://www.kodebaper.com/blog/solved-fatal-not-a-git-repository-or-any-of-the-parent-directories/</guid>
       <description>Solved : Fatal Not a Git Repository or Any of the Parent Directories.
  
 Bagi saya untuk mendokumentasikan setiap error yang di temui dalam setiap pembelajaran sangatlah penting, terlebih saya adalah seorang pemula untuk belajar membangun blog dengan menggunakan static site Hugo, kemudian belajar programming dengan Kotlin maka dari itu mendokumentasikan setiap pembelajaran dengan menuangkan dalam sebuah tulisan di blog merupakan suatu keharusan untuk saya sendiri dimana ini akan bermanfaat kedepannya.</description>
@@ -200,57 +200,57 @@ Bagi saya untuk mendokumentasikan setiap error yang di temui dalam setiap pembel
     
     <item>
       <title>Saya Meracik Templat Hugo Buatan Orang Lain</title>
-      <link>https://kodebaper.github.io/blog/saya-meracik-templat-hugo-buatan-orang-lain/</link>
+      <link>https://www.kodebaper.com/blog/saya-meracik-templat-hugo-buatan-orang-lain/</link>
       <pubDate>Mon, 31 Aug 2020 23:44:45 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/saya-meracik-templat-hugo-buatan-orang-lain/</guid>
+      <guid>https://www.kodebaper.com/blog/saya-meracik-templat-hugo-buatan-orang-lain/</guid>
       <description>0. Tips menggunakan template karya orang lain Pada pembahasan artikel kali ini, saya akan membahas detail template yang di pakai pada blog saya saat ini. Namun sebelum membahasnya saya sempatkan juga untuk membahas tips menggunakan template hasil karya orang lain agar kita memahami setiap bagian dan tata letaknya. Dimana hal yang saya lakukan setelah mendownload template hasil karya orang lain saya akan membedah dan bila perlu mencatat satu persatu isi dari file yang ada di template tersebut.</description>
     </item>
     
     <item>
       <title>Error Failed to Push Some Refs To</title>
-      <link>https://kodebaper.github.io/blog/error-failed-to-push-some-refs-to/</link>
+      <link>https://www.kodebaper.com/blog/error-failed-to-push-some-refs-to/</link>
       <pubDate>Sat, 29 Aug 2020 22:21:33 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/error-failed-to-push-some-refs-to/</guid>
+      <guid>https://www.kodebaper.com/blog/error-failed-to-push-some-refs-to/</guid>
       <description>Masalah error Saat Upload Artikel Beberapa waktu lalu saya sempat menemui error pada saat akan melakukan posting artikel terbaru, seperti biasa saya update artikel di blog ini karena masih menggunakan layanan dari GitHub page dan belum ada niatan untuk pindah menggunakan layanan dari Netlifiy ataupun Forestry karena saya merasa masih nyaman untuk melakukan segala sesuatu baik update artikel terbaru penyempurnaan blog ataupun perubahan dengan cara push ke GitHub.</description>
     </item>
     
     <item>
       <title>Error Saat Deploy Hugo Ke GitHub Page</title>
-      <link>https://kodebaper.github.io/blog/error-saat-deploy-hugo-ke-github-page/</link>
+      <link>https://www.kodebaper.com/blog/error-saat-deploy-hugo-ke-github-page/</link>
       <pubDate>Fri, 28 Aug 2020 00:39:06 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/error-saat-deploy-hugo-ke-github-page/</guid>
+      <guid>https://www.kodebaper.com/blog/error-saat-deploy-hugo-ke-github-page/</guid>
       <description>1. Prakata sebelum pembahasana di Artikel ini Pada artikel pembahasan kali ini akan lebih mudah dan nyambung jika sebelumnya kamu sudah terlebih dahulu membaca artikel yang saya tulis sebelumnya yang berjudul Langkah mudah Deploy Hugo static site ke GitHub page karena dengan membaca artikel tersebut terlebih dahulu maka akan mudah memahami script error yang terjadi di setiap langkah saat melakukan proses deploy.
 2. Untuk Pertama Kalinya Deploy Hugo di GitHub Page Pertama kali melakukan Deploy blog static site Hugo saya ini ke repository GitHub yang sudah saya buat dan saya persiapkan sebelumnya, saya sempat mengalami beberapa error.</description>
     </item>
     
     <item>
       <title>Mengenal Layanan DNS Cloudflare</title>
-      <link>https://kodebaper.github.io/blog/mengenal-layanan-dns-cloudflare/</link>
+      <link>https://www.kodebaper.com/blog/mengenal-layanan-dns-cloudflare/</link>
       <pubDate>Fri, 21 Aug 2020 00:46:17 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/mengenal-layanan-dns-cloudflare/</guid>
+      <guid>https://www.kodebaper.com/blog/mengenal-layanan-dns-cloudflare/</guid>
       <description>Mengenal Layanan DNS Cloudflare Mengenal apa itu Cloudflare dan untuk apa sebenarnya Cloudflare itu sendiiri. Saya sendiri saat ini menggunakan layanan dari Cloudflare baru sebatas penggunaan dengan memanfaatkan layanan gratis untuk setting DNS blog saya ini, adapun di lain kesempatan saya akan membahas cara setting DNS di Cloudflare dari Github page untuk blog static site Hugo.
 Berawal dari blog ini mendeploy ke GitHub page lalu memesan Domain dot com dari Domainesia, waktu itu setup custom domain di Cloudflare berlangsung.</description>
     </item>
     
     <item>
       <title>Memanfaatkan Github Page Untuk Deploy Hugo</title>
-      <link>https://kodebaper.github.io/blog/mengenal-github-page-untuk-deploy-hugo/</link>
+      <link>https://www.kodebaper.com/blog/mengenal-github-page-untuk-deploy-hugo/</link>
       <pubDate>Fri, 21 Aug 2020 00:45:39 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/mengenal-github-page-untuk-deploy-hugo/</guid>
+      <guid>https://www.kodebaper.com/blog/mengenal-github-page-untuk-deploy-hugo/</guid>
       <description>Memanfaatkan Github Page Untuk Deploy Hugo Beberapa waktu yang lalu saya sudah memposting artikel tentang perkenalan singkat blog pribadi saya ini yang menggunakan static site generator dari Hugo, nah untuk kesempatan kali ini saya akan mengenalkan alternatif yang saya gunakan untuk menghosting blog hugo saya secara gratis, setelah baca-baca dokumentasi yang tersedia di website resmi Hugo, ternyata saya menemukan cara yang sudah di dokumentasikan dengan sangat jelas oleh tim Hugo tentang bagaimana melakukan deploy hugo di layanan GitHub Page.</description>
     </item>
     
     <item>
       <title>Apa itu Static Site Generator Hugo ?</title>
-      <link>https://kodebaper.github.io/blog/mengenal-static-site-generator-hugo/</link>
+      <link>https://www.kodebaper.com/blog/mengenal-static-site-generator-hugo/</link>
       <pubDate>Fri, 21 Aug 2020 00:44:44 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/mengenal-static-site-generator-hugo/</guid>
+      <guid>https://www.kodebaper.com/blog/mengenal-static-site-generator-hugo/</guid>
       <description>Apa itu Static Site Generator Hugo ?  
 Pada kesempatan kali ini kita akan mengenal lebih jauh apa itu static site generator Hugo dan 5 alasan utama saya memilih ngeblog menggunakan Hugo.
 Hal ini berawal dari keinginan kuat saya belajar programming dimana saya mencoba keluar dari rutinitas keilmuan saya yang lebih banyak berkecimpung dengan Networking, akhirnya saya memutuskan untuk belajar permrograman yang sedang tren yaitu pemrograman untuk mobile apps.</description>
@@ -258,20 +258,20 @@ Hal ini berawal dari keinginan kuat saya belajar programming dimana saya mencoba
     
     <item>
       <title>Opini Saya Tentang Mahasiswa</title>
-      <link>https://kodebaper.github.io/blog/opini-saya-tentang-mahasiswa/</link>
+      <link>https://www.kodebaper.com/blog/opini-saya-tentang-mahasiswa/</link>
       <pubDate>Fri, 21 Aug 2020 00:36:50 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/opini-saya-tentang-mahasiswa/</guid>
+      <guid>https://www.kodebaper.com/blog/opini-saya-tentang-mahasiswa/</guid>
       <description>Opini Saya Tentang Mahasiswa  
 Berikut ini ada beberapa opini yang saya dapatkan sendiri selama menjadi mahasiswa dan saat ini baru menginjak semester IV, berbicara seorang mahasiswa khusunya yang ambil kuliah jurusan teknik komputer tentunya ada beberapa harapan &amp;ldquo;harusnya sih meurut saya pribadi&amp;rdquo; yang bisa di sematkan buat mahasiswa dengan jurusan tersebut. Opini saya sendiri juga bukan berarti saya ini paling hebat di bidang IT, tapi lebih ke pendapat saya sendiri tentang karakter-karakter mahasiswa yang saya temui di kampus tempat saya kuliah.</description>
     </item>
     
     <item>
       <title>Bingung, akhirnya migrasi ke Hugo</title>
-      <link>https://kodebaper.github.io/blog/bingung/</link>
+      <link>https://www.kodebaper.com/blog/bingung/</link>
       <pubDate>Wed, 19 Aug 2020 04:23:11 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/blog/bingung/</guid>
+      <guid>https://www.kodebaper.com/blog/bingung/</guid>
       <description>migrasi, dari CMS ke Static site Hugo Akhirnya, dari CMS saya memutuskan menggunakan framework yang katanya masuk jadi framework tercepat. Dan sangat terasa sekali saya baru pertama kalinya mencicipi asiknya nulis di blog menggunakan static site, untuk lai ini saya memutuskan static site generator dengan Hugo. karena saya sebelumnya sudah cukup familiar menggunakan terminal di linux, pengalaman menulis di blog menggunakan Hugo sunggu berasa ngeblog di dalam terminal Linux &amp;lsquo;menutu saya sih&amp;rsquo;.</description>
     </item>
     

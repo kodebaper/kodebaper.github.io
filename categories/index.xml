@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Kodebaper - Belajar Programming dan Ngobrol Produktif</title>
-    <link>https://kodebaper.github.io/categories/</link>
+    <link>https://www.kodebaper.com/categories/</link>
     <description>Recent content in Categories on Kodebaper - Belajar Programming dan Ngobrol Produktif</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Mon, 21 Sep 2020 21:46:46 +0700</lastBuildDate>
     
-	<atom:link href="https://kodebaper.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.kodebaper.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Secangkir Kopi</title>
-      <link>https://kodebaper.github.io/categories/secangkir-kopi/</link>
+      <link>https://www.kodebaper.com/categories/secangkir-kopi/</link>
       <pubDate>Mon, 21 Sep 2020 21:46:46 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/categories/secangkir-kopi/</guid>
+      <guid>https://www.kodebaper.com/categories/secangkir-kopi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linux Enthusiast</title>
-      <link>https://kodebaper.github.io/categories/linux-enthusiast/</link>
+      <link>https://www.kodebaper.com/categories/linux-enthusiast/</link>
       <pubDate>Sun, 20 Sep 2020 01:18:07 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/categories/linux-enthusiast/</guid>
+      <guid>https://www.kodebaper.com/categories/linux-enthusiast/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Pemrograman</title>
-      <link>https://kodebaper.github.io/categories/pemrograman/</link>
+      <link>https://www.kodebaper.com/categories/pemrograman/</link>
       <pubDate>Sat, 05 Sep 2020 18:39:13 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/categories/pemrograman/</guid>
+      <guid>https://www.kodebaper.com/categories/pemrograman/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://kodebaper.github.io/categories/hugo/</link>
+      <link>https://www.kodebaper.com/categories/hugo/</link>
       <pubDate>Fri, 04 Sep 2020 00:41:46 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/categories/hugo/</guid>
+      <guid>https://www.kodebaper.com/categories/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Git</title>
-      <link>https://kodebaper.github.io/categories/git/</link>
+      <link>https://www.kodebaper.com/categories/git/</link>
       <pubDate>Tue, 01 Sep 2020 16:15:01 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/categories/git/</guid>
+      <guid>https://www.kodebaper.com/categories/git/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cloud</title>
-      <link>https://kodebaper.github.io/categories/cloud/</link>
+      <link>https://www.kodebaper.com/categories/cloud/</link>
       <pubDate>Fri, 21 Aug 2020 00:46:17 +0700</pubDate>
       
-      <guid>https://kodebaper.github.io/categories/cloud/</guid>
+      <guid>https://www.kodebaper.com/categories/cloud/</guid>
       <description></description>
     </item>
     
