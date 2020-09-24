@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ngobrol Produktif on Kodebaper - Belajar Programming dan Ngobrol Seputar IT</title>
-    <link>https://www.kodebaper.com/tags/ngobrol-produktif/</link>
+    <link>https://kodebaper.com/tags/ngobrol-produktif/</link>
     <description>Recent content in Ngobrol Produktif on Kodebaper - Belajar Programming dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Fri, 04 Sep 2020 10:47:51 +0700</lastBuildDate>
     
-	<atom:link href="https://www.kodebaper.com/tags/ngobrol-produktif/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kodebaper.com/tags/ngobrol-produktif/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Membuat Website Mudah Cukup Dari Terminal</title>
-      <link>https://www.kodebaper.com/blog/membuat-website-mudah-cukup-dari-terminal/</link>
+      <link>https://kodebaper.com/blog/membuat-website-mudah-cukup-dari-terminal/</link>
       <pubDate>Fri, 04 Sep 2020 10:47:51 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/membuat-website-mudah-cukup-dari-terminal/</guid>
+      <guid>https://kodebaper.com/blog/membuat-website-mudah-cukup-dari-terminal/</guid>
       <description>Buat blog dari nol cukup dipersenjatai aplikasi console Terminal dan Text Editor
 Saya mengawali dunia Blogging dari CMS&amp;hellip;.. Ngobrol produktif kali ini saya akan bercerita sedikit tentang pertama kalinya saya membuat website sendiri lebih tepatnya blog sebenarnya hingga dapat di akses di internet, karena ternyata tidak semua website di buat dengan kerumitan yang selalu di bayangkan oleh seorang yang masih awam dalam dunia programming khususnya web progrmming, orang awamnya itu saya sendiri tentunya.</description>
     </item>

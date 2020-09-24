@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>GitHub on Kodebaper - Belajar Programming dan Ngobrol Seputar IT</title>
-    <link>https://www.kodebaper.com/tags/github/</link>
+    <link>https://kodebaper.com/tags/github/</link>
     <description>Recent content in GitHub on Kodebaper - Belajar Programming dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Tue, 01 Sep 2020 16:15:01 +0700</lastBuildDate>
     
-	<atom:link href="https://www.kodebaper.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kodebaper.com/tags/github/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Perintah Dasar Git Untuk Pemula</title>
-      <link>https://www.kodebaper.com/blog/perintah-dasar-git-untuk-pemula/</link>
+      <link>https://kodebaper.com/blog/perintah-dasar-git-untuk-pemula/</link>
       <pubDate>Tue, 01 Sep 2020 16:15:01 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/perintah-dasar-git-untuk-pemula/</guid>
+      <guid>https://kodebaper.com/blog/perintah-dasar-git-untuk-pemula/</guid>
       <description>Yuk belajar! Perintah Dasar Git Untuk Pemula
  
 Berikut merupakan perintah dasar dalam penggunaan Git yang cocok untuk di ketahui dan di pahami oleh seorang pemula, lebih tepatnya untuk saya pribadi karena dengan hadirnya artikel ini salah satunya sebagai tempat saya merangkum apa-apa yang sudah saya pelajari, dan untuk seorang pemula seperti saya ini sangatlah perlu. Saya sendiri sampai dengan artikel ini di posting, saya baru mengenal Git sekitar 7 bulan yang lalu.</description>
@@ -24,10 +24,10 @@ Berikut merupakan perintah dasar dalam penggunaan Git yang cocok untuk di ketahu
     
     <item>
       <title>Memanfaatkan Github Page Untuk Deploy Hugo</title>
-      <link>https://www.kodebaper.com/blog/mengenal-github-page-untuk-deploy-hugo/</link>
+      <link>https://kodebaper.com/blog/mengenal-github-page-untuk-deploy-hugo/</link>
       <pubDate>Fri, 21 Aug 2020 00:45:39 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/mengenal-github-page-untuk-deploy-hugo/</guid>
+      <guid>https://kodebaper.com/blog/mengenal-github-page-untuk-deploy-hugo/</guid>
       <description>Memanfaatkan Github Page Untuk Deploy Hugo Beberapa waktu yang lalu saya sudah memposting artikel tentang perkenalan singkat blog pribadi saya ini yang menggunakan static site generator dari Hugo, nah untuk kesempatan kali ini saya akan mengenalkan alternatif yang saya gunakan untuk menghosting blog hugo saya secara gratis, setelah baca-baca dokumentasi yang tersedia di website resmi Hugo, ternyata saya menemukan cara yang sudah di dokumentasikan dengan sangat jelas oleh tim Hugo tentang bagaimana melakukan deploy hugo di layanan GitHub Page.</description>
     </item>
     

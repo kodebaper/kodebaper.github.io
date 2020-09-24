@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo on Kodebaper - Belajar Programming dan Ngobrol Seputar IT</title>
-    <link>https://www.kodebaper.com/categories/hugo/</link>
+    <link>https://kodebaper.com/categories/hugo/</link>
     <description>Recent content in Hugo on Kodebaper - Belajar Programming dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 24 Sep 2020 01:56:21 +0700</lastBuildDate>
     
-	<atom:link href="https://www.kodebaper.com/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kodebaper.com/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Prepare Sebelum Custom Domain Blog Hugo Di Github Page</title>
-      <link>https://www.kodebaper.com/blog/prepare-sebelum-custom-domain-blog-hugo-di-github-page/</link>
+      <link>https://kodebaper.com/blog/prepare-sebelum-custom-domain-blog-hugo-di-github-page/</link>
       <pubDate>Thu, 24 Sep 2020 01:56:21 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/prepare-sebelum-custom-domain-blog-hugo-di-github-page/</guid>
+      <guid>https://kodebaper.com/blog/prepare-sebelum-custom-domain-blog-hugo-di-github-page/</guid>
       <description>Prepare Sebelum Custom Domain Blog Hugo Di Github Page
 Berikut merupakan hal-hal yang perlu di siapkan sebelum melakukan custom domain terhadap Blog Hugo ini, dimana saya mealkukan perubahan atau custom domain ini dengan menggunakan layanan dari Github Page, adapun untuk persiapannya sebagai berikut.
  Menyiapkan domain
@@ -25,10 +25,10 @@ Pastikan kamu sudah membeli domain ya, jika kamu menggunakan domain yang berbaya
     
     <item>
       <title>Git push rejected non-fast-forward</title>
-      <link>https://www.kodebaper.com/blog/git-push-rejected-non-fast-forward/</link>
+      <link>https://kodebaper.com/blog/git-push-rejected-non-fast-forward/</link>
       <pubDate>Thu, 24 Sep 2020 01:14:45 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/git-push-rejected-non-fast-forward/</guid>
+      <guid>https://kodebaper.com/blog/git-push-rejected-non-fast-forward/</guid>
       <description>Git push rejected &#34;non-fast-forward&#34;
 beberapa hari yang lalu saya sempat mengalami error setelah melakukan custom domain di github page, dimana ketika perubahan blog ini saya lakukan dan ingin melakukan update perubahan tersebut dengan cara push hasil perubahan ke repository github namun di tolak, kurang lebih untuk pesan error seperti di bawah ini :
 Perintah git untuk untuk push perubahan sebagai berikut
@@ -37,10 +37,10 @@ Perintah git untuk untuk push perubahan sebagai berikut
     
     <item>
       <title>Cara Memasang Komentar Disqus Di Hugo</title>
-      <link>https://www.kodebaper.com/blog/cara-memasang-komentar-disqus-di-hugo/</link>
+      <link>https://kodebaper.com/blog/cara-memasang-komentar-disqus-di-hugo/</link>
       <pubDate>Fri, 04 Sep 2020 00:41:46 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/cara-memasang-komentar-disqus-di-hugo/</guid>
+      <guid>https://kodebaper.com/blog/cara-memasang-komentar-disqus-di-hugo/</guid>
       <description>Bagaimana Memasang komentar Disqus di Hugo?
 
   
@@ -49,20 +49,20 @@ Pekerjaan selanjutnya setelah kita membuat blog dengan static site Hugo lalu mem
     
     <item>
       <title>Tips Menulis Artikel Di Hugo Static Site</title>
-      <link>https://www.kodebaper.com/blog/tips-menulis-artikel-di-hugo-static-site/</link>
+      <link>https://kodebaper.com/blog/tips-menulis-artikel-di-hugo-static-site/</link>
       <pubDate>Wed, 02 Sep 2020 19:35:23 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/tips-menulis-artikel-di-hugo-static-site/</guid>
+      <guid>https://kodebaper.com/blog/tips-menulis-artikel-di-hugo-static-site/</guid>
       <description>Tips Menulis Artikel Di Hugo Static Site
 Sebagai seorang blogger yang menggunakan static site Hugo sebagai mesin blognya, ngeblog dengan terminal merupakan suatu hal yang cukup berbeda bagi saya karena sebelumnya dari dulu saya selalu membuat blog menggunakan CMS yang kaya akan fitur graphical user interfacenya. Namun kali ini saya dihadapkan dengan keadaan yang berbeda dimana menulis artikel di blog menggunakan Hugo cukup menggunakan text editor saja.</description>
     </item>
     
     <item>
       <title>Solved: Fatal Not a Git Repository or Any of the Parent Directories</title>
-      <link>https://www.kodebaper.com/blog/solved-fatal-not-a-git-repository-or-any-of-the-parent-directories/</link>
+      <link>https://kodebaper.com/blog/solved-fatal-not-a-git-repository-or-any-of-the-parent-directories/</link>
       <pubDate>Tue, 01 Sep 2020 13:26:03 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/solved-fatal-not-a-git-repository-or-any-of-the-parent-directories/</guid>
+      <guid>https://kodebaper.com/blog/solved-fatal-not-a-git-repository-or-any-of-the-parent-directories/</guid>
       <description>Solved : Fatal Not a Git Repository or Any of the Parent Directories.
  
 Bagi saya untuk mendokumentasikan setiap error yang di temui dalam setiap pembelajaran sangatlah penting, terlebih saya adalah seorang pemula untuk belajar membangun blog dengan menggunakan static site Hugo, kemudian belajar programming dengan Kotlin maka dari itu mendokumentasikan setiap pembelajaran dengan menuangkan dalam sebuah tulisan di blog merupakan suatu keharusan untuk saya sendiri dimana ini akan bermanfaat kedepannya.</description>
@@ -70,38 +70,38 @@ Bagi saya untuk mendokumentasikan setiap error yang di temui dalam setiap pembel
     
     <item>
       <title>Saya Meracik Templat Hugo Buatan Orang Lain</title>
-      <link>https://www.kodebaper.com/blog/saya-meracik-templat-hugo-buatan-orang-lain/</link>
+      <link>https://kodebaper.com/blog/saya-meracik-templat-hugo-buatan-orang-lain/</link>
       <pubDate>Mon, 31 Aug 2020 23:44:45 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/saya-meracik-templat-hugo-buatan-orang-lain/</guid>
+      <guid>https://kodebaper.com/blog/saya-meracik-templat-hugo-buatan-orang-lain/</guid>
       <description>0. Tips menggunakan template karya orang lain Pada pembahasan artikel kali ini, saya akan membahas detail template yang di pakai pada blog saya saat ini. Namun sebelum membahasnya saya sempatkan juga untuk membahas tips menggunakan template hasil karya orang lain agar kita memahami setiap bagian dan tata letaknya. Dimana hal yang saya lakukan setelah mendownload template hasil karya orang lain saya akan membedah dan bila perlu mencatat satu persatu isi dari file yang ada di template tersebut.</description>
     </item>
     
     <item>
       <title>Error Failed to Push Some Refs To</title>
-      <link>https://www.kodebaper.com/blog/error-failed-to-push-some-refs-to/</link>
+      <link>https://kodebaper.com/blog/error-failed-to-push-some-refs-to/</link>
       <pubDate>Sat, 29 Aug 2020 22:21:33 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/error-failed-to-push-some-refs-to/</guid>
+      <guid>https://kodebaper.com/blog/error-failed-to-push-some-refs-to/</guid>
       <description>Masalah error Saat Upload Artikel Beberapa waktu lalu saya sempat menemui error pada saat akan melakukan posting artikel terbaru, seperti biasa saya update artikel di blog ini karena masih menggunakan layanan dari GitHub page dan belum ada niatan untuk pindah menggunakan layanan dari Netlifiy ataupun Forestry karena saya merasa masih nyaman untuk melakukan segala sesuatu baik update artikel terbaru penyempurnaan blog ataupun perubahan dengan cara push ke GitHub.</description>
     </item>
     
     <item>
       <title>Error Saat Deploy Hugo Ke GitHub Page</title>
-      <link>https://www.kodebaper.com/blog/error-saat-deploy-hugo-ke-github-page/</link>
+      <link>https://kodebaper.com/blog/error-saat-deploy-hugo-ke-github-page/</link>
       <pubDate>Fri, 28 Aug 2020 00:39:06 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/error-saat-deploy-hugo-ke-github-page/</guid>
+      <guid>https://kodebaper.com/blog/error-saat-deploy-hugo-ke-github-page/</guid>
       <description>1. Prakata sebelum pembahasana di Artikel ini Pada artikel pembahasan kali ini akan lebih mudah dan nyambung jika sebelumnya kamu sudah terlebih dahulu membaca artikel yang saya tulis sebelumnya yang berjudul Langkah mudah Deploy Hugo static site ke GitHub page karena dengan membaca artikel tersebut terlebih dahulu maka akan mudah memahami script error yang terjadi di setiap langkah saat melakukan proses deploy.
 2. Untuk Pertama Kalinya Deploy Hugo di GitHub Page Pertama kali melakukan Deploy blog static site Hugo saya ini ke repository GitHub yang sudah saya buat dan saya persiapkan sebelumnya, saya sempat mengalami beberapa error.</description>
     </item>
     
     <item>
       <title>Apa itu Static Site Generator Hugo ?</title>
-      <link>https://www.kodebaper.com/blog/mengenal-static-site-generator-hugo/</link>
+      <link>https://kodebaper.com/blog/mengenal-static-site-generator-hugo/</link>
       <pubDate>Fri, 21 Aug 2020 00:44:44 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/mengenal-static-site-generator-hugo/</guid>
+      <guid>https://kodebaper.com/blog/mengenal-static-site-generator-hugo/</guid>
       <description>Apa itu Static Site Generator Hugo ?  
 Pada kesempatan kali ini kita akan mengenal lebih jauh apa itu static site generator Hugo dan 5 alasan utama saya memilih ngeblog menggunakan Hugo.
 Hal ini berawal dari keinginan kuat saya belajar programming dimana saya mencoba keluar dari rutinitas keilmuan saya yang lebih banyak berkecimpung dengan Networking, akhirnya saya memutuskan untuk belajar permrograman yang sedang tren yaitu pemrograman untuk mobile apps.</description>
@@ -109,10 +109,10 @@ Hal ini berawal dari keinginan kuat saya belajar programming dimana saya mencoba
     
     <item>
       <title>Bingung, akhirnya migrasi ke Hugo</title>
-      <link>https://www.kodebaper.com/blog/bingung/</link>
+      <link>https://kodebaper.com/blog/bingung/</link>
       <pubDate>Wed, 19 Aug 2020 04:23:11 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/bingung/</guid>
+      <guid>https://kodebaper.com/blog/bingung/</guid>
       <description>migrasi, dari CMS ke Static site Hugo Akhirnya, dari CMS saya memutuskan menggunakan framework yang katanya masuk jadi framework tercepat. Dan sangat terasa sekali saya baru pertama kalinya mencicipi asiknya nulis di blog menggunakan static site, untuk lai ini saya memutuskan static site generator dengan Hugo. karena saya sebelumnya sudah cukup familiar menggunakan terminal di linux, pengalaman menulis di blog menggunakan Hugo sunggu berasa ngeblog di dalam terminal Linux &amp;lsquo;menutu saya sih&amp;rsquo;.</description>
     </item>
     

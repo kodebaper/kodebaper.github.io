@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hugo Error on Kodebaper - Belajar Programming dan Ngobrol Seputar IT</title>
-    <link>https://www.kodebaper.com/tags/hugo-error/</link>
+    <link>https://kodebaper.com/tags/hugo-error/</link>
     <description>Recent content in Hugo Error on Kodebaper - Belajar Programming dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Thu, 24 Sep 2020 01:14:45 +0700</lastBuildDate>
     
-	<atom:link href="https://www.kodebaper.com/tags/hugo-error/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://kodebaper.com/tags/hugo-error/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Git push rejected non-fast-forward</title>
-      <link>https://www.kodebaper.com/blog/git-push-rejected-non-fast-forward/</link>
+      <link>https://kodebaper.com/blog/git-push-rejected-non-fast-forward/</link>
       <pubDate>Thu, 24 Sep 2020 01:14:45 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/git-push-rejected-non-fast-forward/</guid>
+      <guid>https://kodebaper.com/blog/git-push-rejected-non-fast-forward/</guid>
       <description>Git push rejected &#34;non-fast-forward&#34;
 beberapa hari yang lalu saya sempat mengalami error setelah melakukan custom domain di github page, dimana ketika perubahan blog ini saya lakukan dan ingin melakukan update perubahan tersebut dengan cara push hasil perubahan ke repository github namun di tolak, kurang lebih untuk pesan error seperti di bawah ini :
 Perintah git untuk untuk push perubahan sebagai berikut
@@ -25,10 +25,10 @@ Perintah git untuk untuk push perubahan sebagai berikut
     
     <item>
       <title>Solved: Fatal Not a Git Repository or Any of the Parent Directories</title>
-      <link>https://www.kodebaper.com/blog/solved-fatal-not-a-git-repository-or-any-of-the-parent-directories/</link>
+      <link>https://kodebaper.com/blog/solved-fatal-not-a-git-repository-or-any-of-the-parent-directories/</link>
       <pubDate>Tue, 01 Sep 2020 13:26:03 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/solved-fatal-not-a-git-repository-or-any-of-the-parent-directories/</guid>
+      <guid>https://kodebaper.com/blog/solved-fatal-not-a-git-repository-or-any-of-the-parent-directories/</guid>
       <description>Solved : Fatal Not a Git Repository or Any of the Parent Directories.
  
 Bagi saya untuk mendokumentasikan setiap error yang di temui dalam setiap pembelajaran sangatlah penting, terlebih saya adalah seorang pemula untuk belajar membangun blog dengan menggunakan static site Hugo, kemudian belajar programming dengan Kotlin maka dari itu mendokumentasikan setiap pembelajaran dengan menuangkan dalam sebuah tulisan di blog merupakan suatu keharusan untuk saya sendiri dimana ini akan bermanfaat kedepannya.</description>
@@ -36,19 +36,19 @@ Bagi saya untuk mendokumentasikan setiap error yang di temui dalam setiap pembel
     
     <item>
       <title>Error Failed to Push Some Refs To</title>
-      <link>https://www.kodebaper.com/blog/error-failed-to-push-some-refs-to/</link>
+      <link>https://kodebaper.com/blog/error-failed-to-push-some-refs-to/</link>
       <pubDate>Sat, 29 Aug 2020 22:21:33 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/error-failed-to-push-some-refs-to/</guid>
+      <guid>https://kodebaper.com/blog/error-failed-to-push-some-refs-to/</guid>
       <description>Masalah error Saat Upload Artikel Beberapa waktu lalu saya sempat menemui error pada saat akan melakukan posting artikel terbaru, seperti biasa saya update artikel di blog ini karena masih menggunakan layanan dari GitHub page dan belum ada niatan untuk pindah menggunakan layanan dari Netlifiy ataupun Forestry karena saya merasa masih nyaman untuk melakukan segala sesuatu baik update artikel terbaru penyempurnaan blog ataupun perubahan dengan cara push ke GitHub.</description>
     </item>
     
     <item>
       <title>Error Saat Deploy Hugo Ke GitHub Page</title>
-      <link>https://www.kodebaper.com/blog/error-saat-deploy-hugo-ke-github-page/</link>
+      <link>https://kodebaper.com/blog/error-saat-deploy-hugo-ke-github-page/</link>
       <pubDate>Fri, 28 Aug 2020 00:39:06 +0700</pubDate>
       
-      <guid>https://www.kodebaper.com/blog/error-saat-deploy-hugo-ke-github-page/</guid>
+      <guid>https://kodebaper.com/blog/error-saat-deploy-hugo-ke-github-page/</guid>
       <description>1. Prakata sebelum pembahasana di Artikel ini Pada artikel pembahasan kali ini akan lebih mudah dan nyambung jika sebelumnya kamu sudah terlebih dahulu membaca artikel yang saya tulis sebelumnya yang berjudul Langkah mudah Deploy Hugo static site ke GitHub page karena dengan membaca artikel tersebut terlebih dahulu maka akan mudah memahami script error yang terjadi di setiap langkah saat melakukan proses deploy.
 2. Untuk Pertama Kalinya Deploy Hugo di GitHub Page Pertama kali melakukan Deploy blog static site Hugo saya ini ke repository GitHub yang sudah saya buat dan saya persiapkan sebelumnya, saya sempat mengalami beberapa error.</description>
     </item>
