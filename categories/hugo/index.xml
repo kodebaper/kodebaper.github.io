@@ -6,10 +6,19 @@
     <description>Recent content in Hugo on Kodebaper - Belajar Programming dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 24 Sep 2020 01:56:21 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2020 06:53:27 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.com/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Solved : Enforce HTTPS—Unavailable for Your Site Because Your Domain Is Not Properly Configured to Support HTTPS Github</title>
+      <link>https://kodebaper.com/blog/solved-enforce-httpsunavailable-for-your-site-because-your-domain-is-not-properly-configured-to-support-https-github/</link>
+      <pubDate>Fri, 25 Sep 2020 06:53:27 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/blog/solved-enforce-httpsunavailable-for-your-site-because-your-domain-is-not-properly-configured-to-support-https-github/</guid>
+      <description>Solved : Enforce HTTPS—Unavailable for Your Site Dua hari setelah proses custom domain untuk blog saya ini di github page, setelah menunggu proses propagasi DNS yang memang cukup memakan waktu biasanya sampai 1x24 jam dan melakukan beberapa konfigurasi terkait dengan DNS di cloudflare, saya menemui masalah baru dimana blog saya ini untuk SSL dari sisi pengaturan di GitHub tidak bisa di aktifkan alhasil saya hanya bisa mengaktifkan SSL blog dari fitur yang ada di cloudflare namun tidak untuk di pengaturan GitHub Page, lalu dampaknya apa saja jika seperti ini ?</description>
+    </item>
     
     <item>
       <title>Prepare Sebelum Custom Domain Blog Hugo Di Github Page</title>
