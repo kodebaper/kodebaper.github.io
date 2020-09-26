@@ -6,10 +6,20 @@
     <description>Recent content in Hugo on Kodebaper - Belajar Programming dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 25 Sep 2020 23:37:55 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2020 13:05:43 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.com/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cara Mengaktifkan DNSSEC CloudFlare Untuk Blog Hugo</title>
+      <link>https://kodebaper.com/blog/cara-mengaktifkan-dnssec-cloudflare-untuk-blog-hugo/</link>
+      <pubDate>Sat, 26 Sep 2020 13:05:43 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/blog/cara-mengaktifkan-dnssec-cloudflare-untuk-blog-hugo/</guid>
+      <description>Cara Mengaktifkan DNSSEC CloudFlare Untuk Blog Hugo Pada artikel kali ini saya akan membahas mengenai cara mengaktifkan DNSSEC pada CloudFlare untuk blog hugo yang saya pakai ini, DNSSEC adalah layer keamanan untuk DNS sehingga lebih menambah keamanannya, sekalipun domain kita sudah menggunakan protokol https. Pada kasus ini saya menggunakan layanan DNSSEC dari CloudFlare, dan tentunya untuk fitur ini juga Gratis.
+Tahapan untuk mengaktifkan DNSSEC pada CloudFlare yang saya lakukan adalah</description>
+    </item>
     
     <item>
       <title>Cara Custom Domain Blog Hugo Di GitHub Page</title>
