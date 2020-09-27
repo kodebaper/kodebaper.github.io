@@ -6,10 +6,19 @@
     <description>Recent content in Secangkir Kopi on Kodebaper - Belajar Programming dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 21 Sep 2020 21:46:46 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 27 Sep 2020 20:42:39 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.com/categories/secangkir-kopi/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Pengalaman Langganan Domain Di Domainesia</title>
+      <link>https://kodebaper.com/blog/pengalaman-langganan-domain-di-domainesia/</link>
+      <pubDate>Sun, 27 Sep 2020 20:42:39 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/blog/pengalaman-langganan-domain-di-domainesia/</guid>
+      <description>Pengalaman Langganan Domain Di Domainesia Disini saya akan ceritakan sedikit mengenai pengalaman saya beberapa kali berlangganan domain dan Hosting di Domainesia hingga sekarang, khususnya untuk domain karena saat ini saya menggunakan blog dengan static site generator dari Hugo yang di deploy ke GitHub jadi untuk menyewa sebuah hosting sementara ini belum di butuhkan lagi. Pertama kali saya meyakinkan diri untuk berlangganan domain di Domainesia lebih tepatnya karena alasan review di internet yang banyak positifnya dari customer.</description>
+    </item>
     
     <item>
       <title>Benarkah Kuliah untuk mencari ilmu ?</title>
