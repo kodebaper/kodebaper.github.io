@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kodebaper - Belajar Programming dan Ngobrol Seputar IT</title>
+    <title>Kodebaper - Belajar Pemrograman dan Ngobrol Seputar IT</title>
     <link>https://kodebaper.com/</link>
-    <description>Recent content on Kodebaper - Belajar Programming dan Ngobrol Seputar IT</description>
+    <description>Recent content on Kodebaper - Belajar Pemrograman dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 27 Sep 2020 20:42:39 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2020 22:35:16 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ngobrolin Isi Pembahasan Dari Blog Kodebaper</title>
+      <link>https://kodebaper.com/blog/ngobrolin-isi-pembahasan-dari-blog-kodebaper/</link>
+      <pubDate>Mon, 28 Sep 2020 22:35:16 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/blog/ngobrolin-isi-pembahasan-dari-blog-kodebaper/</guid>
+      <description>Ngobrolin apa di Kodebaper ? Pada kesempatan kali saya akan membahas lebih jauh mengenai isi dari struktur blog ini. Lebih tepatnya saya menjelaskan mengenai pembahasan apa saja sebenarnya isi dari konten blog saya, oke saya mulai dari pembahasan pertama dari Blog ini ya.
+DevOps DevOps adalah serangkaian pekerjaan yang mengotomatisasi proses antara Software Development dan Development Team agar mereka dapat melakukan proses build, test dan release perangkat lunak lebih cepat dan lebih handal.</description>
+    </item>
     
     <item>
       <title>Pengalaman Langganan Domain Di Domainesia</title>
