@@ -3,6 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kodebaper.com/about/</loc>
+    <lastmod>2019-03-26T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
     <loc>https://kodebaper.com/blog/</loc>
     <lastmod>2020-09-28T22:35:16+07:00</lastmod>
     <priority>0</priority>
