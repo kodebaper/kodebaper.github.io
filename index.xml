@@ -6,10 +6,19 @@
     <description>Recent content on Kodebaper - Belajar Pemrograman dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 28 Sep 2020 22:35:16 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 17 Oct 2020 15:17:30 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ngeblog Tidak Semudah Setelah Jadi</title>
+      <link>https://kodebaper.com/blog/ngeblog-tidak-semudah-setelah-jadi/</link>
+      <pubDate>Sat, 17 Oct 2020 15:17:30 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/blog/ngeblog-tidak-semudah-setelah-jadi/</guid>
+      <description>Ngeblog Tidak Semudah Setelah Jadi Hal yang paling membuat saya semangat ngeblog adalah, saya ngeblog menggunakan hugo jadi ada rasa kesenangan tersendiri karena dengan menggunakan hugo berasa ada sensasi lain saat ngeblog ketimbang menggunakan platofrm lain semacam CMS, menurut saya sih. Dan yang tak kalah penting saat ngeblog adalah hal pertama kali kita membangun sebuah blog untuk menampung tulisan-tulisan kita, diantaranya seperti mendesain blog, menyiapkan segala sesuatu untuk membuat blog tampak lebih profesional dan powerfull.</description>
+    </item>
     
     <item>
       <title>Ngobrolin Isi Pembahasan Dari Blog Kodebaper</title>
