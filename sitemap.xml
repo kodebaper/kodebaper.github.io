@@ -371,4 +371,10 @@
     <priority>7</priority>
   </url>
   
+  <url>
+    <loc>https://kodebaper.com/about/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
 </urlset>
