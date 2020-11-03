@@ -6,10 +6,20 @@
     <description>Recent content on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 03 Nov 2020 14:45:24 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2020 17:28:35 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cara Membuat About Page Di Hugo SSG</title>
+      <link>https://kodebaper.com/blog/cara-membuat-about-page-di-hugo-ssg/</link>
+      <pubDate>Tue, 03 Nov 2020 17:28:35 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/blog/cara-membuat-about-page-di-hugo-ssg/</guid>
+      <description>Cara Membuat About Page Di Hugo SSG Beberapa waktu yang lalu saya sempat mengalami kesulitan untuk membuat halaman about atau sering di sebut about page, saya mengalami kesulitan karena memang baru pertama kali mempelajari dunia programming sederhana dari praktek yang juga sederhana dengan studi kasus untuk membuat beberapa halaman static di blog dengan static site generator dari Hugo.
+Dan akhirnya saya menemukan beberapa langkah sederhana dan cukup mudah untuk membuat halaman di blog dengan menggunakan Hugo ssg, adapun cara yang saya dapat untuk membuat about page di hugo ssg yaitu sebagai berikut:</description>
+    </item>
     
     <item>
       <title>Cara Menambahkan Static Page Di Hugo SSG</title>
@@ -353,26 +363,6 @@ Berikut ini ada beberapa opini yang saya dapatkan sendiri selama menjadi mahasis
       
       <guid>https://kodebaper.com/blog/bingung/</guid>
       <description>migrasi, dari CMS ke Static site Hugo Akhirnya dari CMS, saya memutuskan menggunakan framework yang katanya masuk jadi framework tercepat. Dan sangat terasa sekali saya baru pertama kalinya mencicipi asiknya nulis di blog menggunakan static site, untuk lai ini saya memutuskan static site generator dengan Hugo. karena saya sebelumnya sudah cukup familiar menggunakan terminal di linux, pengalaman menulis di blog menggunakan Hugo sunggu berasa ngeblog di dalam terminal Linux &amp;lsquo;menutu saya sih&amp;rsquo;.</description>
-    </item>
-    
-    <item>
-      <title>Roadmap</title>
-      <link>https://kodebaper.com/roadmap/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kodebaper.com/roadmap/</guid>
-      <description>Kodebaper Roadmap  Jelajahi Kodebaper dengan Roadmap untuk lebih mudah
-         Devops Tutorial Hugo Tutorial Linux Tutorial        Pemrograman  Secangkir Kopi       Lebih Dekat ? Yuk, sapa saya disini   Baca Ebook |  My Slide |  Hugo Theme |  About |  Contact |  FaQ    </description>
-    </item>
-    
-    <item>
-      <title>Tentang Kodebaper</title>
-      <link>https://kodebaper.com/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://kodebaper.com/about/</guid>
-      <description>Tentang Kodebaper: Belajar Pemrograman dan Ngobrol seputar IT
-Hi, selamat datang di kodebaper, blog pribadi saya yang membahas seputar pembelajaran mengenai teknologi. Sebenarnya halaman ini bagi saya tidak terlalu penting untuk dibuat, akan tetapi dimana blog pada umumnya yang selalu menyertakan &#34;About Page&#34; yang selalu wajib ada maka saya pun membuatnya. Setidaknya yang sempat membaca mungkin ingin sekedar tau siapa di balik layar dari blog Kodebaper ini.</description>
     </item>
     
   </channel>

@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 03 Nov 2020 14:45:24 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2020 17:28:35 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Hugo SSG</title>
       <link>https://kodebaper.com/tags/hugo-ssg/</link>
-      <pubDate>Tue, 03 Nov 2020 14:45:24 +0700</pubDate>
+      <pubDate>Tue, 03 Nov 2020 17:28:35 +0700</pubDate>
       
       <guid>https://kodebaper.com/tags/hugo-ssg/</guid>
       <description></description>
@@ -23,9 +23,18 @@
     <item>
       <title>Tutorial Hugo</title>
       <link>https://kodebaper.com/tags/tutorial-hugo/</link>
-      <pubDate>Tue, 03 Nov 2020 14:45:24 +0700</pubDate>
+      <pubDate>Tue, 03 Nov 2020 17:28:35 +0700</pubDate>
       
       <guid>https://kodebaper.com/tags/tutorial-hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>static page Hugo</title>
+      <link>https://kodebaper.com/tags/static-page-hugo/</link>
+      <pubDate>Tue, 03 Nov 2020 17:28:35 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/tags/static-page-hugo/</guid>
       <description></description>
     </item>
     
