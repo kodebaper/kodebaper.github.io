@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tutorial Hugo on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</title>
+    <link>https://kodebaper.com/tags/tutorial-hugo/</link>
+    <description>Recent content in Tutorial Hugo on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-US</language>
+    <lastBuildDate>Tue, 03 Nov 2020 14:45:24 +0700</lastBuildDate>
+    
+	<atom:link href="https://kodebaper.com/tags/tutorial-hugo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Cara Menambahkan Static Page Di Hugo SSG</title>
+      <link>https://kodebaper.com/blog/cara-menambahkan-static-page-di-hugo-ssg/</link>
+      <pubDate>Tue, 03 Nov 2020 14:45:24 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/blog/cara-menambahkan-static-page-di-hugo-ssg/</guid>
+      <description>Cara Menambahkan Static Page Di Hugo SSG Site plain yang saya lakukan setelah blog sudah berjalan, saya melakukan penyempurnaan terhadap fitur dan performa terhadap blog. Namun ada hal yang saya rasa masih sangat sulit untuk saya realisasikan adalah mengoptimalkan performa blog yang lebih cepat dan familiar di skala search engine/optimasi SEO terhadap blog.
+Sebenarnya ada hal sulit lain yang sampai sekarang masih saya coba pelajari, yaitu merapihkan code yang sudah saya tulis, sudah sesuai dengan aturan penulisan code yang benar ataupun efektif tidaknya code-code yang di tulis untuk blog ini.</description>
+    </item>
+    
+  </channel>
+</rss>
