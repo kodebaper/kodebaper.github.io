@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blogs on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</title>
+    <title>Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</title>
     <link>https://kodebaper.com/blog/</link>
-    <description>Recent content in Blogs on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</description>
+    <description>Recent content on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 03 Nov 2020 17:28:35 +0700</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2020 18:55:37 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.com/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Cara Membuat About Page Di Hugo SSG</title>
-      <link>https://kodebaper.com/blog/cara-membuat-about-page-di-hugo-ssg/</link>
+      <link>https://kodebaper.com/blog/membuat-about-page-di-hugo/</link>
       <pubDate>Tue, 03 Nov 2020 17:28:35 +0700</pubDate>
       
-      <guid>https://kodebaper.com/blog/cara-membuat-about-page-di-hugo-ssg/</guid>
+      <guid>https://kodebaper.com/blog/membuat-about-page-di-hugo/</guid>
       <description>Cara Membuat About Page Di Hugo SSG Beberapa waktu yang lalu saya sempat mengalami kesulitan untuk membuat halaman about atau sering di sebut about page, saya mengalami kesulitan karena memang baru pertama kali mempelajari dunia programming sederhana dari praktek yang juga sederhana dengan studi kasus untuk membuat beberapa halaman static di blog dengan static site generator dari Hugo.
 Dan akhirnya saya menemukan beberapa langkah sederhana dan cukup mudah untuk membuat halaman di blog dengan menggunakan Hugo ssg, adapun cara yang saya dapat untuk membuat about page di hugo ssg yaitu sebagai berikut:</description>
     </item>

@@ -4,12 +4,13 @@
   
   <url>
     <loc>https://kodebaper.com/blog/</loc>
-    <lastmod>2020-11-03T17:28:35+07:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-11-04T18:55:37+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
-    <loc>https://kodebaper.com/blog/cara-membuat-about-page-di-hugo-ssg/</loc>
+    <loc>https://kodebaper.com/blog/membuat-about-page-di-hugo/</loc>
     <lastmod>2020-11-03T17:28:35+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>7</priority>
