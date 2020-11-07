@@ -13,11 +13,12 @@
     
     <item>
       <title>Cara Membuat About Page Di Hugo SSG</title>
-      <link>https://kodebaper.com/blog/membuat-about-page-di-hugo/</link>
+      <link>https://kodebaper.com/blog/cara-membuat-about-page-di-hugo-ssg/</link>
       <pubDate>Tue, 03 Nov 2020 17:28:35 +0700</pubDate>
       
-      <guid>https://kodebaper.com/blog/membuat-about-page-di-hugo/</guid>
-      <description></description>
+      <guid>https://kodebaper.com/blog/cara-membuat-about-page-di-hugo-ssg/</guid>
+      <description>Cara Membuat About Page Di Hugo SSG Beberapa waktu yang lalu saya sempat mengalami kesulitan untuk membuat halaman about atau sering di sebut about page, saya mengalami kesulitan karena memang baru pertama kali mempelajari dunia programming sederhana dari praktek yang juga sederhana dengan studi kasus untuk membuat beberapa halaman static di blog dengan static site generator dari Hugo.
+Dan akhirnya saya menemukan beberapa langkah sederhana dan cukup mudah untuk membuat halaman di blog dengan menggunakan Hugo ssg, adapun cara yang saya dapat untuk membuat about page di hugo ssg yaitu sebagai berikut:</description>
     </item>
     
     <item>
