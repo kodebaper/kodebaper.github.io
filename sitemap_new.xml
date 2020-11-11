@@ -3,6 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kodebaper.com/categories/</loc>
+    <lastmod>2020-11-08T23:44:41+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/hacking-sosial-media/</loc>
+    <lastmod>2020-11-08T23:44:41+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/</loc>
+    <lastmod>2020-11-08T23:44:41+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/blog/mengantisipasi-akun-sosial-media-dari-peretasan/</loc>
+    <lastmod>2020-11-08T23:44:41+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/ngobrol-it/</loc>
+    <lastmod>2020-11-08T23:44:41+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/ngobrol-security/</loc>
+    <lastmod>2020-11-08T23:44:41+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/categories/secangkir-kopi/</loc>
+    <lastmod>2020-11-08T23:44:41+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/</loc>
+    <lastmod>2020-11-08T23:44:41+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://kodebaper.com/blog/</loc>
     <lastmod>2020-11-04T18:55:37+07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -17,12 +66,6 @@
   </url>
   
   <url>
-    <loc>https://kodebaper.com/categories/</loc>
-    <lastmod>2020-11-03T17:28:35+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kodebaper.com/categories/hugo/</loc>
     <lastmod>2020-11-03T17:28:35+07:00</lastmod>
     <priority>0</priority>
@@ -30,18 +73,6 @@
   
   <url>
     <loc>https://kodebaper.com/tags/hugo-ssg/</loc>
-    <lastmod>2020-11-03T17:28:35+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/</loc>
-    <lastmod>2020-11-03T17:28:35+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/tags/</loc>
     <lastmod>2020-11-03T17:28:35+07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -75,18 +106,6 @@
   <url>
     <loc>https://kodebaper.com/tags/ngobrol-seo/</loc>
     <lastmod>2020-10-17T15:17:30+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/categories/secangkir-kopi/</loc>
-    <lastmod>2020-10-17T15:17:30+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/tags/ngobrol-it/</loc>
-    <lastmod>2020-09-28T22:35:16+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -392,7 +411,7 @@
   </url>
   
   <url>
-    <loc>https://kodebaper.com/blog/bingung/</loc>
+    <loc>https://kodebaper.com/blog/akhirnya-migrasi-ke-hugo-ssg/</loc>
     <lastmod>2020-08-19T04:23:11+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>7</priority>

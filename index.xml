@@ -6,10 +6,19 @@
     <description>Recent content on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 03 Nov 2020 17:28:35 +0700</lastBuildDate>
+    <lastBuildDate>Sun, 08 Nov 2020 23:44:41 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mengantisipasi Akun Sosial Media Dari Peretasan</title>
+      <link>https://kodebaper.com/blog/mengantisipasi-akun-sosial-media-dari-peretasan/</link>
+      <pubDate>Sun, 08 Nov 2020 23:44:41 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/blog/mengantisipasi-akun-sosial-media-dari-peretasan/</guid>
+      <description>Mengantisipasi Akun Sosial Media Dari Peretasan Sudah beberapa hari ini saya coba memperbaiki dua account instagram yang mengalamai peretasan, account instagram tersebut di gunakan untuk jualan dan instagram pribadi. Dimana saya menemukan beberapa pelajaran dari kasus peretasan yang menimpa 2 teman saya ini, oh ia saya ini bukan orang yang jago untuk urusan Security system, saya hanya dimintai tolong untuk menangani kejadian ini karena memang sebelumnya saya sempat melakukan hal yang sama yaitu mengambil alih account-account instagram yang mengalami peretasan.</description>
+    </item>
     
     <item>
       <title>Cara Membuat About Page Di Hugo SSG</title>
@@ -358,10 +367,10 @@ Berikut ini ada beberapa opini yang saya dapatkan sendiri selama menjadi mahasis
     
     <item>
       <title>Bingung, akhirnya migrasi ke Hugo</title>
-      <link>https://kodebaper.com/blog/bingung/</link>
+      <link>https://kodebaper.com/blog/akhirnya-migrasi-ke-hugo-ssg/</link>
       <pubDate>Wed, 19 Aug 2020 04:23:11 +0700</pubDate>
       
-      <guid>https://kodebaper.com/blog/bingung/</guid>
+      <guid>https://kodebaper.com/blog/akhirnya-migrasi-ke-hugo-ssg/</guid>
       <description>migrasi, dari CMS ke Static site Hugo Akhirnya dari CMS, saya memutuskan menggunakan framework yang katanya masuk jadi framework tercepat. Dan sangat terasa sekali saya baru pertama kalinya mencicipi asiknya nulis di blog menggunakan static site, untuk lai ini saya memutuskan static site generator dengan Hugo. karena saya sebelumnya sudah cukup familiar menggunakan terminal di linux, pengalaman menulis di blog menggunakan Hugo sunggu berasa ngeblog di dalam terminal Linux &amp;lsquo;menutu saya sih&amp;rsquo;.</description>
     </item>
     
