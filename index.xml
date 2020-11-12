@@ -374,5 +374,24 @@ Berikut ini ada beberapa opini yang saya dapatkan sendiri selama menjadi mahasis
       <description>migrasi, dari CMS ke Static site Hugo Akhirnya dari CMS, saya memutuskan menggunakan framework yang katanya masuk jadi framework tercepat. Dan sangat terasa sekali saya baru pertama kalinya mencicipi asiknya nulis di blog menggunakan static site, untuk lai ini saya memutuskan static site generator dengan Hugo. karena saya sebelumnya sudah cukup familiar menggunakan terminal di linux, pengalaman menulis di blog menggunakan Hugo sunggu berasa ngeblog di dalam terminal Linux &amp;lsquo;menutu saya sih&amp;rsquo;.</description>
     </item>
     
+    <item>
+      <title>Roadmap</title>
+      <link>https://kodebaper.com/roadmap/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kodebaper.com/roadmap/</guid>
+      <description> Jelajahi Kodebaper | mari belajar dan diskusi seputar teknologi           Devops Tutorial Hugo Tutorial Linux Tutorial        Pemrograman  Secangkir Kopi       Lebih Dekat ? Yuk, kenali Kodebaper disini   Baca Ebook |  My Slide |  Hugo Theme |  About |  Contact |  FaQ    </description>
+    </item>
+    
+    <item>
+      <title>Tentang Kodebaper</title>
+      <link>https://kodebaper.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kodebaper.com/about/</guid>
+      <description>Tentang Kodebaper: Belajar Pemrograman dan Ngobrol seputar IT
+Hi, selamat datang di kodebaper, blog pribadi saya yang membahas seputar pembelajaran mengenai teknologi. Sebenarnya halaman ini bagi saya tidak terlalu penting untuk dibuat, akan tetapi dimana blog pada umumnya yang selalu menyertakan &#34;About Page&#34; yang selalu wajib ada maka saya pun membuatnya. Setidaknya yang sempat membaca mungkin ingin sekedar tau siapa di balik layar dari blog Kodebaper ini.</description>
+    </item>
+    
   </channel>
 </rss>
