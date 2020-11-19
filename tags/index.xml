@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 08 Nov 2020 23:44:41 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2020 13:01:42 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Deploy</title>
+      <link>https://kodebaper.com/tags/deploy/</link>
+      <pubDate>Fri, 13 Nov 2020 13:01:42 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/tags/deploy/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo Error</title>
+      <link>https://kodebaper.com/tags/hugo-error/</link>
+      <pubDate>Fri, 13 Nov 2020 13:01:42 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/tags/hugo-error/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>static page Hugo</title>
+      <link>https://kodebaper.com/tags/static-page-hugo/</link>
+      <pubDate>Fri, 13 Nov 2020 13:01:42 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/tags/static-page-hugo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Hacking Sosial Media</title>
@@ -57,38 +84,11 @@
     </item>
     
     <item>
-      <title>static page Hugo</title>
-      <link>https://kodebaper.com/tags/static-page-hugo/</link>
-      <pubDate>Tue, 03 Nov 2020 17:28:35 +0700</pubDate>
-      
-      <guid>https://kodebaper.com/tags/static-page-hugo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Ngobrol SEO</title>
       <link>https://kodebaper.com/tags/ngobrol-seo/</link>
       <pubDate>Sat, 17 Oct 2020 15:17:30 +0700</pubDate>
       
       <guid>https://kodebaper.com/tags/ngobrol-seo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Deploy</title>
-      <link>https://kodebaper.com/tags/deploy/</link>
-      <pubDate>Sat, 26 Sep 2020 13:05:43 +0700</pubDate>
-      
-      <guid>https://kodebaper.com/tags/deploy/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo Error</title>
-      <link>https://kodebaper.com/tags/hugo-error/</link>
-      <pubDate>Fri, 25 Sep 2020 06:53:27 +0700</pubDate>
-      
-      <guid>https://kodebaper.com/tags/hugo-error/</guid>
       <description></description>
     </item>
     

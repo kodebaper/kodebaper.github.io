@@ -4,18 +4,55 @@
   
   <url>
     <loc>https://kodebaper.com/categories/</loc>
-    <lastmod>2020-11-08T23:44:41+07:00</lastmod>
+    <lastmod>2020-11-13T13:01:42+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kodebaper.com/tags/hacking-sosial-media/</loc>
-    <lastmod>2020-11-08T23:44:41+07:00</lastmod>
+    <loc>https://kodebaper.com/tags/deploy/</loc>
+    <lastmod>2020-11-13T13:01:42+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/categories/hugo/</loc>
+    <lastmod>2020-11-13T13:01:42+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/hugo-error/</loc>
+    <lastmod>2020-11-13T13:01:42+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.com/</loc>
+    <lastmod>2020-11-13T13:01:42+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/blog/mengatasi-halaman-hugo-static-tidak-ter-render-dengan-benar/</loc>
+    <lastmod>2020-11-13T13:01:42+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/</loc>
+    <lastmod>2020-11-13T13:01:42+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/static-page-hugo/</loc>
+    <lastmod>2020-11-13T13:01:42+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/hacking-sosial-media/</loc>
     <lastmod>2020-11-08T23:44:41+07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -46,12 +83,6 @@
   </url>
   
   <url>
-    <loc>https://kodebaper.com/tags/</loc>
-    <lastmod>2020-11-08T23:44:41+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kodebaper.com/blog/</loc>
     <lastmod>2020-11-04T18:55:37+07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -66,12 +97,6 @@
   </url>
   
   <url>
-    <loc>https://kodebaper.com/categories/hugo/</loc>
-    <lastmod>2020-11-03T17:28:35+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kodebaper.com/tags/hugo-ssg/</loc>
     <lastmod>2020-11-03T17:28:35+07:00</lastmod>
     <priority>0</priority>
@@ -79,12 +104,6 @@
   
   <url>
     <loc>https://kodebaper.com/tags/tutorial-hugo/</loc>
-    <lastmod>2020-11-03T17:28:35+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/tags/static-page-hugo/</loc>
     <lastmod>2020-11-03T17:28:35+07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -131,12 +150,6 @@
   </url>
   
   <url>
-    <loc>https://kodebaper.com/tags/deploy/</loc>
-    <lastmod>2020-09-26T13:05:43+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kodebaper.com/blog/cara-custom-domain-blog-hugo-di-github-page/</loc>
     <lastmod>2020-09-25T23:37:55+07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -144,13 +157,7 @@
   </url>
   
   <url>
-    <loc>https://kodebaper.com/tags/hugo-error/</loc>
-    <lastmod>2020-09-25T06:53:27+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/blog/solved-enforce-httpsunavailable-for-your-site-because-your-domain-is-not-properly-configured-to-support-https-github/</loc>
+    <loc>https://kodebaper.com/blog/solved-enforce-httpsunavailable-for-your-site-on-github/</loc>
     <lastmod>2020-09-25T06:53:27+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>7</priority>
@@ -413,18 +420,6 @@
   <url>
     <loc>https://kodebaper.com/blog/akhirnya-migrasi-ke-hugo-ssg/</loc>
     <lastmod>2020-08-19T04:23:11+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>7</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/roadmap/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>7</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/about/</loc>
     <changefreq>weekly</changefreq>
     <priority>7</priority>
   </url>

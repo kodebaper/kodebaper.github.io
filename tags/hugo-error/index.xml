@@ -6,17 +6,26 @@
     <description>Recent content in Hugo Error on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 25 Sep 2020 06:53:27 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2020 13:01:42 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.com/tags/hugo-error/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>Mengatasi halaman Hugo Static tidak ter-Render dengan benar</title>
+      <link>https://kodebaper.com/blog/mengatasi-halaman-hugo-static-tidak-ter-render-dengan-benar/</link>
+      <pubDate>Fri, 13 Nov 2020 13:01:42 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/blog/mengatasi-halaman-hugo-static-tidak-ter-render-dengan-benar/</guid>
+      <description>halaman Hugo tidak di render dengan benar Setelah beberapa waktu saya tidak meng update artikel yang membahas error di Hugo, kali ini akan ada pembahasan baru yang akan saya bagi terkait error yang saya alami beberapa waktu lalu. Dimana error ini penyelesaiannya bisa dikatakan sangatlah mudah, disini saya hanya perlu merubah baris perintah untuk permasalahan ini. Saya baru saja mendapati jika menggunakan perintah hugo server untuk menjalankan server hugo tidak sepenuhnya terjadi perubahan setelah saya melakukan pengaturan pada blog Hugo saya.</description>
+    </item>
+    
+    <item>
       <title>Solved : Enforce HTTPS—Unavailable for Your Site Because Your Domain Is Not Properly Configured to Support HTTPS Github</title>
-      <link>https://kodebaper.com/blog/solved-enforce-httpsunavailable-for-your-site-because-your-domain-is-not-properly-configured-to-support-https-github/</link>
+      <link>https://kodebaper.com/blog/solved-enforce-httpsunavailable-for-your-site-on-github/</link>
       <pubDate>Fri, 25 Sep 2020 06:53:27 +0700</pubDate>
       
-      <guid>https://kodebaper.com/blog/solved-enforce-httpsunavailable-for-your-site-because-your-domain-is-not-properly-configured-to-support-https-github/</guid>
+      <guid>https://kodebaper.com/blog/solved-enforce-httpsunavailable-for-your-site-on-github/</guid>
       <description>Solved : Enforce HTTPS—Unavailable for Your Site Dua hari setelah proses custom domain untuk blog saya ini di github page, setelah menunggu proses propagasi DNS yang memang cukup memakan waktu biasanya sampai 1x24 jam dan melakukan beberapa konfigurasi terkait dengan DNS di cloudflare, saya menemui masalah baru dimana blog saya ini untuk SSL dari sisi pengaturan di GitHub tidak bisa di aktifkan alhasil saya hanya bisa mengaktifkan SSL blog dari fitur yang ada di cloudflare namun tidak untuk di pengaturan GitHub Page, lalu dampaknya apa saja jika seperti ini ?</description>
     </item>
     

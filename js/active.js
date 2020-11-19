@@ -10,7 +10,7 @@
         } else {
             $('.header-area').removeClass('sticky');
         }
-        if ($('#post-toc').length > 0) {
+        if ($('#').length > 0) {
             if ($window.scrollTop() > 157) {
                 $('.post-sidebar-area').addClass('sticky');
             } else {
@@ -24,7 +24,7 @@
         $.scrollUp({
             scrollSpeed: 1000,
             easingType: 'easeInOutQuart',
-            scrollText: '<i class="fa fa-angle-up" aria-hidden="true"></i>'
+            scrollText: '<img src="/images/bootstrapicons/arahatas.svg" alt="" width="38" height="38">'
         });
     }
 })(jQuery);

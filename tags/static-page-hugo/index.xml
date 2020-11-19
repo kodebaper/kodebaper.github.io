@@ -6,10 +6,19 @@
     <description>Recent content in static page Hugo on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 03 Nov 2020 17:28:35 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 13 Nov 2020 13:01:42 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.com/tags/static-page-hugo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mengatasi halaman Hugo Static tidak ter-Render dengan benar</title>
+      <link>https://kodebaper.com/blog/mengatasi-halaman-hugo-static-tidak-ter-render-dengan-benar/</link>
+      <pubDate>Fri, 13 Nov 2020 13:01:42 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/blog/mengatasi-halaman-hugo-static-tidak-ter-render-dengan-benar/</guid>
+      <description>halaman Hugo tidak di render dengan benar Setelah beberapa waktu saya tidak meng update artikel yang membahas error di Hugo, kali ini akan ada pembahasan baru yang akan saya bagi terkait error yang saya alami beberapa waktu lalu. Dimana error ini penyelesaiannya bisa dikatakan sangatlah mudah, disini saya hanya perlu merubah baris perintah untuk permasalahan ini. Saya baru saja mendapati jika menggunakan perintah hugo server untuk menjalankan server hugo tidak sepenuhnya terjadi perubahan setelah saya melakukan pengaturan pada blog Hugo saya.</description>
+    </item>
     
     <item>
       <title>Cara Membuat About Page Di Hugo SSG</title>
