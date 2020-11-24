@@ -8,7 +8,7 @@
 
 <meta itemprop="datePublished" content="2020-11-20T08:51:45&#43;07:00" />
 <meta itemprop="dateModified" content="2020-11-20T08:51:45&#43;07:00" />
-<meta itemprop="wordCount" content="1171">
+<meta itemprop="wordCount" content="1258">
 
 
 
@@ -78,7 +78,7 @@ Navigasi
           <a class="dropdown-item" href="https://kodebaper.com/tags/"><b><font size="3"> Tags </b></font></a>
       </div>
     </li>
-    <a class="nav-link" href="http://localhost:1313/roadmap/"> Roadmap </a>
+    <a class="nav-link" href="https://kodebaper.com/roadmap/"> Roadmap </a>
 
 </li>
 </ul>
@@ -149,17 +149,17 @@ Navigasi
 
 <p>Secara umum saya tidak menemukan sejarah awal lahirnya teknologi <em>static site generator</em>, atau mungkin saya kurang mencari referensi untuk mengetahui hal ini. Disini saya hanya akan menjelaskan sedikit tentang apa itu <em>static site generator</em></p>
 
-<p>ini adalah penjelasan mengenai apa itu static site generator Hugo yang saya dapatkan dari laman resmi <strong>Hugo</strong>, atau lebih tepatnya pada situr resmi hugo <a href="https://gohugo.io/about/what-is-hugo/" ><font face="arial" color="blue" size="4"><b> DISINI </b></a></font></p>
+<p>ini adalah penjelasan mengenai apa itu <em>static site generator</em> Hugo yang saya dapatkan dari laman resmi <strong>Hugo</strong>, atau lebih tepatnya pada situr resmi hugo <a href="https://gohugo.io/about/what-is-hugo/" ><font face="arial" color="blue" size="4"><b> DISINI </b></a></font></p>
 
 <hr />
 
 <pre><code>PENGERTIAN HUGO DARI LAMAN RESMI
 -----------------------------------------------------------------------------
-Hugo is a fast and modern static site generator written in Go
+Hugo is a fast and modern *static site generator* written in Go
 and designed to make website creation fun again.
 
 Hugo is a general-purpose website framework. Technically speaking,
-Hugo is a static site generator. Unlike systems that dynamically 
+Hugo is a *static site generator*. Unlike systems that dynamically 
 build a page with each visitor request, 
 Hugo builds pages when you create or update your content. 
 Since websites are viewed far more often than they are edited, 
@@ -171,24 +171,24 @@ end users and an ideal writing experience for website authors.
 
 <hr />
 
-<p>Kalau bagi saya sendiri memahami pengertian static site generator dari pengertian diatas yaitu:</p>
+<p>Kalau bagi saya sendiri memahami pengertian <em>static site generator</em> dari pengertian diatas yaitu:</p>
 
 <p><br>Sebuah alat/teknologi yang dapat meng-<em>generate</em> <em>source code</em> untuk dapat menghasilkan static website dimana ini artinya teknologi static website tidak membutuhkan pengaturan dan konfigurasi dari sisi <em>BackEnd</em> atau konfigurasi pengaturan pada sisi server secara spesifik, itu artinya static website langsung memberikan html ke setiap pengunjung atau yang mengaksesnya.</p>
 
 <h2 id="3-peruntukan-penggunaan-static-site">3. Peruntukan penggunaan <em>static site</em></h2>
 
-<p><strong>Lalu untuk siapa static site generator ini di buat, atau di peruntukan ?</strong></p>
+<p><strong>Lalu untuk siapa <em>static site generator</em> ini di buat, atau di peruntukan ?</strong></p>
 
-<p>Lebih tepatnya static site generator menurut saya cocok di gunakan untuk personal yang suka menulis di blog dengan design dan fitur yang simple, di gunakan untuk membuat <strong>website landing page</strong> serta blog untuk media portfolio kita.</p>
+<p>Lebih tepatnya <em>static site generator</em> menurut saya cocok di gunakan untuk personal yang suka menulis di blog dengan design dan fitur yang simple, di gunakan untuk membuat <strong>website landing page</strong> serta blog untuk media portfolio kita.</p>
 
-<p>Namun apabila ingin memiliki website yang kaya akan fitur dan lebih kompleks, penggunaan static site generator tidak di anjurkan. Ini juga salah satu alasan saya menggunakan static site dari Hugo karena saya memang pure menggunakan blog ini untuk membuat catatan-catatan dari hasil pelajaran yang sudah saya pelajari. Selebihnya hanya sebagai media menyalurkan hobi karena saya juga senang menulis.</p>
+<p>Namun apabila ingin memiliki website yang kaya akan fitur dan lebih kompleks, penggunaan <em>static site generator</em> tidak di anjurkan. Ini juga salah satu alasan saya menggunakan static site dari Hugo karena saya memang pure menggunakan blog ini untuk membuat catatan-catatan dari hasil pelajaran yang sudah saya pelajari. Selebihnya hanya sebagai media menyalurkan hobi karena saya juga senang menulis.</p>
 
 <h2 id="4-kekurangan-dan-kelebihan-static-site">4. Kekurangan dan kelebihan <em>static site</em></h2>
 
-<p>Adapun untuk kelebihan dan kekurangan dari static site generator dari hugo sebagai berikut:</p>
+<p>Adapun untuk kelebihan dan kekurangan dari <em>static site generator</em> dari hugo sebagai berikut:</p>
 
 <blockquote>
-<p><strong>Kelebihan Static Site Generator</strong></p>
+<p><strong>Kelebihan *static site generator</strong>*</p>
 </blockquote>
 
 <ul>
@@ -203,7 +203,7 @@ Halaman statis keamanannya lebih terjaga, walaupun ini juga bukan sebuah jaminan
 </ul>
 
 <blockquote>
-<p><strong>Kekurangan Static Site Generator</strong></p>
+<p><strong>Kekurangan *static site generator</strong>*</p>
 </blockquote>
 
 <ul>
@@ -211,12 +211,12 @@ Halaman statis keamanannya lebih terjaga, walaupun ini juga bukan sebuah jaminan
 Yang ini sudah jelas dimana pemilik website tidak dapat dengan cepat dan mudah untuk melakukan update data, karena tidak dilengkapi dengan admin panel atau back end. itu yang salah satu penyebabnya seorang bloger dengan website statis saat  mengupdate konten harus menulis dan membuild ulang halamannya setiap kali ada perubahan terhadap blog tersebut.</p></li>
 
 <li><p>Memiliki Skils
-Untuk memulai pembuatan Static Site Generator, memerlukan <em>Setup</em> awal yang tampilannya berupa command melalui terminal. Namun ini juga bukan suatu syarat mutlak bahwa harus memiliki skill dasar yang mumpuni untuk hanya sekedar bisa membuat website/blog dengan static site generator, karena awam sekalipun bisa melakukannya dimana dokumentasi yang membahas mengenai static site generator saat ini sudah sangatlah banyak di internet.</p></li>
+Untuk memulai pembuatan <em>static site generator</em>, memerlukan <em>Setup</em> awal yang tampilannya berupa command melalui terminal. Namun ini juga bukan suatu syarat mutlak bahwa harus memiliki skill dasar yang mumpuni untuk hanya sekedar bisa membuat website/blog dengan <em>static site generator</em>, karena awam sekalipun bisa melakukannya dimana dokumentasi yang membahas mengenai <em>static site generator</em> saat ini sudah sangatlah banyak di internet.</p></li>
 </ul>
 
 <h2 id="5-jenis-jenis-platform-static-site-generator">5. Jenis-jenis Platform <em>static site generator</em></h2>
 
-<p>Pada dasarnya saat ini banyak sekali pilihan static site generator yang dapat menjadi pilihan untuk siapa saja yang ingin memiliki blog/website menggunakan teknologi static site generator. Adapun static site generator yang dapat di pilih antara lain:</p>
+<p>Pada dasarnya saat ini banyak sekali pilihan <em>static site generator</em> yang dapat menjadi pilihan untuk siapa saja yang ingin memiliki blog/website menggunakan teknologi <em>static site generator</em>. Adapun <em>static site generator</em> yang dapat di pilih antara lain:</p>
 
 <p>Hugo, Next.js, Gatsby, Jekyll, Hexo, Slate, dll. Semua memiliki kelebihan dan kekurangan masing-masing. nah sekarang framework mana yang akan kamu gunakan ?
 <br>dimana kebanyakan orang akan memilih framework berdasarkan bahasa pemrograman yang di gunakan sesuai dengan kemampuan juga setiap orang sudah memahami bahasa pemrograman apa. Hal ini penting karena akan memiliki dampak kedepan terhadap perkembangan blog/website yang di kelolanya.</p>
@@ -225,7 +225,7 @@ Untuk memulai pembuatan Static Site Generator, memerlukan <em>Setup</em> awal ya
 <p>Mengapa memilih Hugo ?</p>
 </blockquote>
 
-<p>Disini saya memilih static site generator dari Hugo bukan karena saya memiliki pemahaman tentang bahasa pemrograman Golang, ya hugo ini di bangun dengan bahasa yang di ciptakan oleh <code>Google</code> yaitu bahasa <em>golang</em>. Alasan utama saya memilih hugo karena saya tertarik dengan golang, dari beberapa yang saya baca juga golang memiliki hasil yang sangat bagus di beberapa benchmark di banding dengan bahasa pemrograman lain.</p>
+<p>Disini saya memilih <em>static site generator</em> dari Hugo bukan karena saya memiliki pemahaman tentang bahasa pemrograman Golang, ya hugo ini di bangun dengan bahasa yang di ciptakan oleh <code>Google</code> yaitu bahasa <em>golang</em>. Alasan utama saya memilih hugo karena saya tertarik dengan golang, dari beberapa yang saya baca juga golang memiliki hasil yang sangat bagus di beberapa benchmark di banding dengan bahasa pemrograman lain.</p>
 
 <h2 id="6-istilah-istilah-dalam-dunia-static-site-generator">6. Istilah-istilah dalam dunia <em>static site generator</em></h2>
 
@@ -241,13 +241,13 @@ Untuk memulai pembuatan Static Site Generator, memerlukan <em>Setup</em> awal ya
 <li><em>file config.toml</em></li>
 </ul>
 
-<p>Ini bukan sebuah istilah namun sengaja saya sematkan dimana nama file <code>config.toml</code> tidak akan asing lagi untuk pengguna static site generator dari hugo, namun ada opsi tidak harus file dengan ekstensi <code>.toml</code> saja karena hugo juga menyediakan eksetensi untuk file konfigurasinya dengan eksetensi <code>.YAML</code> ATAUPUN <code>.JSON</code>. File <code>config</code> ini merupakan file konfigurasi default pada root hugo untuk dimana biasanya digunakan untuk mengatur konfigurasi penamaan domain, theme, comment atau description pada blog hugo dan masih banyak lagi.</p>
+<p>Ini bukan sebuah istilah namun sengaja saya sematkan dimana nama file <code>config.toml</code> tidak akan asing lagi untuk pengguna <em>static site generator</em> dari hugo, namun ada opsi tidak harus file dengan ekstensi <code>.toml</code> saja karena hugo juga menyediakan eksetensi untuk file konfigurasinya dengan eksetensi <code>.YAML</code> ATAUPUN <code>.JSON</code>. File <code>config</code> ini merupakan file konfigurasi default pada root hugo untuk dimana biasanya digunakan untuk mengatur konfigurasi penamaan domain, theme, comment atau description pada blog hugo dan masih banyak lagi.</p>
 
 <ul>
 <li><em>Homepage/index.html, Halaman Artikel/single.html dan Halaman Taxonomy/list.html</em></li>
 </ul>
 
-<p>Pada umumnya istilah ini harus di pahami pengguna static site, dimana 3 halaman ini harus ada dalam sebuah static website.</p>
+<p>sekalipun ini bukan sebuah istilah namun pada umumnya pengguna static site Hugo harus memahami 3 halaman ini dalam sebuah static website.</p>
 
 <ul>
 <li><em>Front Matter</em></li>
@@ -256,8 +256,27 @@ Untuk memulai pembuatan Static Site Generator, memerlukan <em>Setup</em> awal ya
 <p>Front matter memungkinkan Anda untuk menyimpan metadata yang dilampirkan ke sebuah instance dari jenis konten yang disematkan di dalam file konten, front matter adalah data-data yang tersimpan untuk konten kita dimana biasanya berisi informasi meta dari file tersebut. Isinya sebagai contoh untuk memberi judul, tanggal dan opsi pilihan apakah postingannya ingin dalam draft atau dipublish.</p>
 
 <ul>
-<li>masih di sempurnakan artikel.</li>
+<li><em>Slug</em></li>
 </ul>
+
+<p>Slug merupakan sebuah teks yang akan diletakkan ataupun muncul setelah nama domain dan menjadi bagian dari permalink dimana ini akan berfungsi untuk mengarahkan pengunjung website masuk ke konten kamu, untuk mengetahui lebih jauh apa itu <em>slug</em> kamu tidak perlu khawatir karena sudah di dokumentasikan dan di jelaskan pada halaman dokumentasi resmi website Hugo.</p>
+
+<p><strong>NOTED!</strong></p>
+
+<p>Untuk sementara artikel ini saya cukupkan, adapun artikel akan saya update di lain kesempatan untuk melengkapi pada sesi pembahasan artikel ini.</p>
+
+<p>Sumber referensi belajar :</p>
+
+<hr />
+
+<p><i></p>
+
+<p><a href="https://www.petanikode.com/topik/hugo/" title="Petani Kode">Petani Kode</a>
+| <a href="https://sekolahkoding.com/seri/membuat-website-dengan-hugo/" title="Sekolah Koding">Sekolah Koding</a>
+| <a href="https://www.codepolitan.com/" title="Codepolitan">Codepolitan</a>
+| <a href="https://gohugo.io/documentation/" title="Hugo Documentation">Hugo Documentation</a></p>
+
+<p></i></p>
 
 </section>
 <time>
@@ -360,7 +379,7 @@ Untuk memulai pembuatan Static Site Generator, memerlukan <em>Setup</em> awal ya
       <p class="card-text"> Yuk kenalan sama kodebaper untuk lebih banyak menyebarkan ilmu yg bermanfaat.</p>
       <p class="card-text">Mungkin kita perlu untuk berdiskusi </p> 
       <a href="https://t.me/wsbna/" class="btn btn-outline-info"> Yuk ngobrol </a>
-       <a href="http://localhost:1313/about/" class="btn btn-outline-info"> About </a>
+       <a href="https://kodebaper.com/about/" class="btn btn-outline-info"> About </a>
       <a href="https://mailto:dimassetiyadi0@gmail.com" class="btn btn-outline-info"> Contact </a>
       <a href="#" class="btn btn-outline-info"> FaQ </a>
       <a href="#" class="btn btn-outline-info"> Kebijakan Privasi</a>
