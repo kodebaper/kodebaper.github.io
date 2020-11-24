@@ -6,10 +6,19 @@
     <description>Recent content in Hugo SSG on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 03 Nov 2020 17:28:35 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2020 08:51:45 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.com/tags/hugo-ssg/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Istilah Istilah Dalam Dunia static site generator</title>
+      <link>https://kodebaper.com/blog/istilah-istilah-dalam-dunia-static-site-generator/</link>
+      <pubDate>Fri, 20 Nov 2020 08:51:45 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/blog/istilah-istilah-dalam-dunia-static-site-generator/</guid>
+      <description>Istilah yang sering di gunakan dalam dunia static site generator 1. Prakata dalam pembahasan Artikel ini Pada pembahasan kali ini saya akan melakukan pembahasan dengan istilah-istilah yang sering digunakan dalam dunia static site generator, lebih tepatnya istilah ini yang sering digunakan untuk static site generator yang saya gunakan yaitu Hugo. Sebenarnya untuk di sebut istilah yang sering di gunakan dalam dunia static site generator saja juga tidak, karena istilah-istilah ini juga sering di gunakan untuk dunia website baik yang menggunakan engine CMS ataupun jenis website Dinamis.</description>
+    </item>
     
     <item>
       <title>Cara Membuat About Page Di Hugo SSG</title>

@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 13 Nov 2020 13:01:42 +0700</lastBuildDate>
+    <lastBuildDate>Fri, 20 Nov 2020 08:51:45 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Hugo SSG</title>
+      <link>https://kodebaper.com/tags/hugo-ssg/</link>
+      <pubDate>Fri, 20 Nov 2020 08:51:45 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/tags/hugo-ssg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial Hugo</title>
+      <link>https://kodebaper.com/tags/tutorial-hugo/</link>
+      <pubDate>Fri, 20 Nov 2020 08:51:45 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/tags/tutorial-hugo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Deploy</title>
@@ -62,24 +80,6 @@
       <pubDate>Sun, 08 Nov 2020 23:44:41 +0700</pubDate>
       
       <guid>https://kodebaper.com/tags/ngobrol-security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hugo SSG</title>
-      <link>https://kodebaper.com/tags/hugo-ssg/</link>
-      <pubDate>Tue, 03 Nov 2020 17:28:35 +0700</pubDate>
-      
-      <guid>https://kodebaper.com/tags/hugo-ssg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tutorial Hugo</title>
-      <link>https://kodebaper.com/tags/tutorial-hugo/</link>
-      <pubDate>Tue, 03 Nov 2020 17:28:35 +0700</pubDate>
-      
-      <guid>https://kodebaper.com/tags/tutorial-hugo/</guid>
       <description></description>
     </item>
     
