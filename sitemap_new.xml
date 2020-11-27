@@ -3,8 +3,39 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kodebaper.com/blog/belajar-programming-atau-termotivasi-jadi-pentester/</loc>
+    <lastmod>2020-11-27T17:53:36+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
     <loc>https://kodebaper.com/categories/</loc>
-    <lastmod>2020-11-20T08:51:45+07:00</lastmod>
+    <lastmod>2020-11-27T17:53:36+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/</loc>
+    <lastmod>2020-11-27T17:53:36+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/ngobrol-produktif/</loc>
+    <lastmod>2020-11-27T17:53:36+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/categories/secangkir-kopi/</loc>
+    <lastmod>2020-11-27T17:53:36+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/</loc>
+    <lastmod>2020-11-27T17:53:36+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -25,18 +56,6 @@
     <lastmod>2020-11-20T08:51:45+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>7</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/</loc>
-    <lastmod>2020-11-20T08:51:45+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/tags/</loc>
-    <lastmod>2020-11-20T08:51:45+07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -91,12 +110,6 @@
   
   <url>
     <loc>https://kodebaper.com/tags/ngobrol-security/</loc>
-    <lastmod>2020-11-08T23:44:41+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/categories/secangkir-kopi/</loc>
     <lastmod>2020-11-08T23:44:41+07:00</lastmod>
     <priority>0</priority>
   </url>
@@ -321,12 +334,6 @@
     <lastmod>2020-09-04T10:47:51+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>7</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/tags/ngobrol-produktif/</loc>
-    <lastmod>2020-09-04T10:47:51+07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

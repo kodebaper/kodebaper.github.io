@@ -13,7 +13,7 @@
 <meta property="og:type" content="website" />
 <meta property="og:url" content="https://kodebaper.com/" />
 
-<meta property="og:updated_time" content="2020-11-20T08:51:45&#43;07:00"/>
+<meta property="og:updated_time" content="2020-11-27T17:53:36&#43;07:00"/>
 
   <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT"/>
@@ -57,30 +57,46 @@
 <div class="collapse navbar-collapse" id="nav">
   <ul class="navbar-nav ml-auto">
     <li class="nav-item">
-
-<li class="nav-item dropdown">
-<a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-Navigasi
-</a>
-    <div class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
-          <a class="dropdown-item" href="https://kodebaper.com/"><b><font size="3"> Artikel </b></font></a>
-          <a class="dropdown-item" href="https://kodebaper.com/categories/"><b><font size="3"> Kategori </b></font></a>
-          <a class="dropdown-item" href="https://kodebaper.com/tags/"><b><font size="3"> Tags </b></font></a>
-      </div>
-    </li>
-    <a class="nav-link" href="https://kodebaper.com/roadmap/"> Roadmap </a>
-
-</li>
-</ul>
+      <a class="nav-item">
+      <a href="https://kodebaper.com/"> <img src="/images/bootstrapicons/home3.svg" alt="" width="28" height="28" title="home"></a>
+      </li>
+      <li class="nav-item dropdown">
+        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Menu
+        </a>
+        <div class="dropdown-menu" aria-labelledby="navbarDropdown">
+          <a class="dropdown-item" href="https://kodebaper.com/">Artikel</a>
+          <a class="dropdown-item" href="https://kodebaper.com/categories/">Kategori</a>
+          <a class="dropdown-item" href="https://kodebaper.com/tags/">Tags</a>
+          <div class="dropdown-divider"></div>
+          <a class="dropdown-item" href="https://kodebaper.com/about/">Tentang Kodebaper</a>
+        </div>
+      </li>
+      <li class="nav-item">
+        <a href="https://kodebaper.com/roadmap/" class="nav-link enable">Roadmap</a>
+      </li>
+    </ul>
 
 <div id="search-wrapper">
   <form action="https://google.com/search">
-    <input type="search" placeholder='Cari ilmu apa ?' name="q" class="search">
+    <input type="search" placeholder='Mau belajar apa ?' name="q" class="search">
       <i class="fa fa-search"></i>
         <input type="hidden" name="sitesearch" value="https://kodebaper.com/" />
      </form>             
   </div>
 </header>
+
+
+
+
+
+
+
+
+
+
+
+
 
 <header>
   <div class="jumbotron jumbotron-fluid bg-dark text-white ">
@@ -111,30 +127,6 @@ Navigasi
         <div class="col-12 col-lg-8">
 
  <article class="post">
-  <div class="post-title">
-    <a href="https://kodebaper.com/blog/cara-mengaktifkan-dnssec-cloudflare-untuk-blog-hugo/" title="Cara Mengaktifkan DNSSEC CloudFlare Untuk Blog Hugo">
-      <div class="post-meta">
-        <h2>Cara Mengaktifkan DNSSEC CloudFlare Untuk Blog Hugo</h2>
-        <time>
-          <i class="far fa-clock"></i>
-          Saturday, Sep 26, 2020 13:05
-        </time>
-         
-        <i class="far fa-folder"></i>
-        <a href="https://kodebaper.com//categories/hugo">Hugo</a>
-        
-      </div>
-    </a>
-  </div>
-  <div class="post-summary">
-    Cara Mengaktifkan DNSSEC CloudFlare Untuk Blog Hugo Pada artikel kali ini saya akan membahas mengenai cara mengaktifkan DNSSEC pada CloudFlare untuk blog hugo yang saya pakai ini, DNSSEC adalah layer keamanan untuk DNS sehingga lebih menambah keamanannya, sekalipun domain kita sudah menggunakan protokol https. Pada kasus ini saya menggunakan layanan DNSSEC dari CloudFlare, dan tentunya untuk fitur ini juga Gratis.
-Tahapan untuk mengaktifkan DNSSEC pada CloudFlare yang saya lakukan adalah 
-    <a href="/blog/cara-mengaktifkan-dnssec-cloudflare-untuk-blog-hugo/" class="summary-more">Read More</a>
-    
-  </div>
-  <hr class="summary-sep" />
-</article>
-  <article class="post">
   <div class="post-title">
     <a href="https://kodebaper.com/blog/cara-custom-domain-blog-hugo-di-github-page/" title="Cara Custom Domain Blog Hugo Di GitHub Page">
       <div class="post-meta">
@@ -206,6 +198,56 @@ Pastikan kamu sudah membeli domain ya, jika kamu menggunakan domain yang berbaya
   </div>
   <hr class="summary-sep" />
 </article>
+  <article class="post">
+  <div class="post-title">
+    <a href="https://kodebaper.com/blog/git-push-rejected-non-fast-forward/" title="Git push rejected non-fast-forward">
+      <div class="post-meta">
+        <h2>Git push rejected non-fast-forward</h2>
+        <time>
+          <i class="far fa-clock"></i>
+          Thursday, Sep 24, 2020 01:14
+        </time>
+         
+        <i class="far fa-folder"></i>
+        <a href="https://kodebaper.com//categories/hugo">Hugo</a>
+        
+      </div>
+    </a>
+  </div>
+  <div class="post-summary">
+    Git push rejected "non-fast-forward"
+beberapa hari yang lalu saya sempat mengalami error setelah melakukan custom domain di github page, dimana ketika perubahan blog ini saya lakukan dan ingin melakukan update perubahan tersebut dengan cara push hasil perubahan ke repository github namun di tolak, kurang lebih untuk pesan error seperti di bawah ini :
+Perintah git untuk untuk push perubahan sebagai berikut
+# git push -u origin master  Pada step ini saya mendapati error kurang lebih seperti di bawah ini : 
+    <a href="/blog/git-push-rejected-non-fast-forward/" class="summary-more">Read More</a>
+    
+  </div>
+  <hr class="summary-sep" />
+</article>
+  <article class="post">
+  <div class="post-title">
+    <a href="https://kodebaper.com/blog/kuliah-mau-mencari-ilmu/" title="Benarkah Kuliah untuk mencari ilmu ?">
+      <div class="post-meta">
+        <h2>Benarkah Kuliah untuk mencari ilmu ?</h2>
+        <time>
+          <i class="far fa-clock"></i>
+          Monday, Sep 21, 2020 21:46
+        </time>
+         
+        <i class="far fa-folder"></i>
+        <a href="https://kodebaper.com//categories/secangkir-kopi">Secangkir Kopi</a>
+        
+      </div>
+    </a>
+  </div>
+  <div class="post-summary">
+    Ini merupakan tanggapan saya menjadi mahasiswa yang sudah memasuki semester 5
+Apa kabar kamu mahasiswa IT, apa yang menyebabkan kamu hingga sampai di artikel ini ? semoga kamu selalu memiliki motivasi belajar untuk mencapai tujuan kamu ya sehingga memilih untuk melanjutkan pendidikan di jenjang bangku perkuliahan pasti kamu sudah memiliki goal untuk nantinya setelah kamu lulus ya. Oh ia apa kabar kamu anak teknik informatika dan sejenisnya yang ada hubunganya sama jurusan IT, semoga kamu tidak punya pikiran loh gua udah kuliah sampai semester 4/5/6/7 atau malah udah mau wisuda tapi selama kuliah bisa apa ya ? 
+    <a href="/blog/kuliah-mau-mencari-ilmu/" class="summary-more">Read More</a>
+    
+  </div>
+  <hr class="summary-sep" />
+</article>
  
 
  
@@ -239,9 +281,9 @@ Pastikan kamu sudah membeli domain ya, jika kamu menggunakan domain yang berbaya
     <li class="page-item">
       <a class="page-link" href="#">5</a>
     </li>
-                                                 
+                               
     <li class="page-item ">
-      <a class="page-link" href="/page/10/">10</a>
+      <a class="page-link" href="/page/8/">8</a>
     </li>
      
     <li class="page-item ">
@@ -249,7 +291,7 @@ Pastikan kamu sudah membeli domain ya, jika kamu menggunakan domain yang berbaya
     </li>
     
     <li class="page-item ">
-      <a class="page-link" href="/page/10/" tabindex="-1">&raquo;&raquo;</a>
+      <a class="page-link" href="/page/8/" tabindex="-1">&raquo;&raquo;</a>
     </li>
     
   </ul>
