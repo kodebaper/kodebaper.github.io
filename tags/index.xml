@@ -6,10 +6,28 @@
     <description>Recent content in Tags on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Fri, 27 Nov 2020 17:53:36 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 30 Nov 2020 17:56:17 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ngobrol SEO</title>
+      <link>https://kodebaper.com/tags/ngobrol-seo/</link>
+      <pubDate>Mon, 30 Nov 2020 17:56:17 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/tags/ngobrol-seo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial HUgo</title>
+      <link>https://kodebaper.com/tags/tutorial-hugo/</link>
+      <pubDate>Mon, 30 Nov 2020 17:56:17 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/tags/tutorial-hugo/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ngobrol Produktif</title>
@@ -26,15 +44,6 @@
       <pubDate>Fri, 20 Nov 2020 08:51:45 +0700</pubDate>
       
       <guid>https://kodebaper.com/tags/hugo-ssg/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Tutorial Hugo</title>
-      <link>https://kodebaper.com/tags/tutorial-hugo/</link>
-      <pubDate>Fri, 20 Nov 2020 08:51:45 +0700</pubDate>
-      
-      <guid>https://kodebaper.com/tags/tutorial-hugo/</guid>
       <description></description>
     </item>
     
@@ -89,15 +98,6 @@
       <pubDate>Sun, 08 Nov 2020 23:44:41 +0700</pubDate>
       
       <guid>https://kodebaper.com/tags/ngobrol-security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Ngobrol SEO</title>
-      <link>https://kodebaper.com/tags/ngobrol-seo/</link>
-      <pubDate>Sat, 17 Oct 2020 15:17:30 +0700</pubDate>
-      
-      <guid>https://kodebaper.com/tags/ngobrol-seo/</guid>
       <description></description>
     </item>
     

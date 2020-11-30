@@ -3,22 +3,53 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kodebaper.com/blog/belajar-programming-atau-termotivasi-jadi-pentester/</loc>
-    <lastmod>2020-11-27T17:53:36+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>7</priority>
+    <loc>https://kodebaper.com/categories/</loc>
+    <lastmod>2020-11-30T17:56:17+07:00</lastmod>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://kodebaper.com/categories/</loc>
-    <lastmod>2020-11-27T17:53:36+07:00</lastmod>
+    <loc>https://kodebaper.com/categories/hugo/</loc>
+    <lastmod>2020-11-30T17:56:17+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.com/</loc>
-    <lastmod>2020-11-27T17:53:36+07:00</lastmod>
+    <lastmod>2020-11-30T17:56:17+07:00</lastmod>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/blog/mengenal-analytic-tool-untuk-hugo-static-site/</loc>
+    <lastmod>2020-11-30T17:56:17+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/ngobrol-seo/</loc>
+    <lastmod>2020-11-30T17:56:17+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/</loc>
+    <lastmod>2020-11-30T17:56:17+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/tutorial-hugo/</loc>
+    <lastmod>2020-11-30T17:56:17+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/blog/belajar-programming-atau-termotivasi-jadi-pentester/</loc>
+    <lastmod>2020-11-27T17:53:36+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
@@ -34,18 +65,6 @@
   </url>
   
   <url>
-    <loc>https://kodebaper.com/tags/</loc>
-    <lastmod>2020-11-27T17:53:36+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/categories/hugo/</loc>
-    <lastmod>2020-11-20T08:51:45+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kodebaper.com/tags/hugo-ssg/</loc>
     <lastmod>2020-11-20T08:51:45+07:00</lastmod>
     <priority>0</priority>
@@ -56,12 +75,6 @@
     <lastmod>2020-11-20T08:51:45+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>7</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/tags/tutorial-hugo/</loc>
-    <lastmod>2020-11-20T08:51:45+07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -140,12 +153,6 @@
     <lastmod>2020-10-17T15:17:30+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>7</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/tags/ngobrol-seo/</loc>
-    <lastmod>2020-10-17T15:17:30+07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>

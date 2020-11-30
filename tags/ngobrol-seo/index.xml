@@ -6,10 +6,19 @@
     <description>Recent content in Ngobrol SEO on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 17 Oct 2020 15:17:30 +0700</lastBuildDate>
+    <lastBuildDate>Mon, 30 Nov 2020 17:56:17 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.com/tags/ngobrol-seo/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Mengenal Analytic Tool Untuk Hugo Static Site</title>
+      <link>https://kodebaper.com/blog/mengenal-analytic-tool-untuk-hugo-static-site/</link>
+      <pubDate>Mon, 30 Nov 2020 17:56:17 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/blog/mengenal-analytic-tool-untuk-hugo-static-site/</guid>
+      <description>Mengenal Analytic Tool Untuk Hugo Static Site Sudah dari dua hari yang lalu sampai pada Artikel ini saya posting, saya sedang sangat fokus untuk memahami persenjataan baru untuk kebutuhan SEO blog saya pribadi, yaitu JavaScript Analytic dan Google Tag Manager. Kedua produk ini dari google dan sejauh ini saya cukup mudah untuk memahami serta melakukan proses penerapannya pada blog saya. Namun banyaknya fitur yang di berikan oleh kedua tools untuk keperluan SEO / Marketing dari google ini tidak cukup satu atau dua hari untuk saya bisa memahami isi fitur di dalamnya.</description>
+    </item>
     
     <item>
       <title>Ngeblog Tidak Semudah Setelah Jadi</title>
