@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 30 Nov 2020 17:56:17 +0700</lastBuildDate>
+    <lastBuildDate>Thu, 10 Dec 2020 22:59:26 +0700</lastBuildDate>
     
 	<atom:link href="https://kodebaper.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,16 +14,25 @@
     <item>
       <title>Ngobrol SEO</title>
       <link>https://kodebaper.com/tags/ngobrol-seo/</link>
-      <pubDate>Mon, 30 Nov 2020 17:56:17 +0700</pubDate>
+      <pubDate>Thu, 10 Dec 2020 22:59:26 +0700</pubDate>
       
       <guid>https://kodebaper.com/tags/ngobrol-seo/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Tutorial HUgo</title>
+      <title>SEO Hugo</title>
+      <link>https://kodebaper.com/tags/seo-hugo/</link>
+      <pubDate>Thu, 10 Dec 2020 22:59:26 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/tags/seo-hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tutorial Hugo</title>
       <link>https://kodebaper.com/tags/tutorial-hugo/</link>
-      <pubDate>Mon, 30 Nov 2020 17:56:17 +0700</pubDate>
+      <pubDate>Thu, 10 Dec 2020 22:59:26 +0700</pubDate>
       
       <guid>https://kodebaper.com/tags/tutorial-hugo/</guid>
       <description></description>

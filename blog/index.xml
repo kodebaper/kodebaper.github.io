@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Teknik SEO Untuk Hugo Static Site</title>
+      <link>https://kodebaper.com/blog/teknik-seo-untuk-hugo-static-site/</link>
+      <pubDate>Thu, 10 Dec 2020 22:59:26 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/blog/teknik-seo-untuk-hugo-static-site/</guid>
+      <description>SEO untuk Hugo Static Site Kali ini tepat di malam minggu saya coba iseng-iseng untuk melihat prgres dari kinerja tools-tools untuk kebutuhan SEO yang di pasang pada blog pribadi saya, tool-tools itu antara lain saya memasang Google Analytic, Google Search Console, dan Bing Webmaster. Ternyata memang menarik karena ada beberapa kemudahan yang saya dapatkan dari tools-tools analytic yang saya pasang.
+Saya menemukan kemudahan untuk menganalisa seberapa jauh blog saya di kenal oleh mesin pencari dan sampai kepada user yang membaca tulisan-tulisan saya di blog, hal lain yang sangat menarik bagi saya adalah menggali pemahaman ilmu pemrograman saya pribadi, dimana saya dapat mengetahui seberapa baik performa dari blog yang saya kelola, mengetahui seberapa efektif penulisan kode-kode yang di tulis pada blog.</description>
+    </item>
+    
+    <item>
       <title>Mengenal Analytic Tool Untuk Hugo Static Site</title>
       <link>https://kodebaper.com/blog/mengenal-analytic-tool-untuk-hugo-static-site/</link>
       <pubDate>Mon, 30 Nov 2020 17:56:17 +0700</pubDate>
