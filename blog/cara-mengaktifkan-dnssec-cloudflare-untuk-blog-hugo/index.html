@@ -18,13 +18,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-M4V2QQN');</script>
 
   <meta charset="UTF-8" />
-  
-<meta itemprop="name" content="Cara Mengaktifkan DNSSEC CloudFlare Untuk Blog Hugo">
+  <meta itemprop="name" content="Cara Mengaktifkan DNSSEC CloudFlare Untuk Blog Hugo">
 <meta itemprop="description" content="Cara Mengaktifkan DNSSEC CloudFlare Untuk Blog Hugo">
-
-
-<meta itemprop="datePublished" content="2020-09-26T13:05:43&#43;07:00" />
-<meta itemprop="dateModified" content="2020-09-26T13:05:43&#43;07:00" />
+<meta itemprop="datePublished" content="2020-09-26T13:05:43+07:00" />
+<meta itemprop="dateModified" content="2020-09-26T13:05:43+07:00" />
 <meta itemprop="wordCount" content="422">
 
 
@@ -36,8 +33,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta property="og:description" content="Cara Mengaktifkan DNSSEC CloudFlare Untuk Blog Hugo" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://kodebaper.com/blog/cara-mengaktifkan-dnssec-cloudflare-untuk-blog-hugo/" />
-<meta property="article:published_time" content="2020-09-26T13:05:43&#43;07:00"/>
-<meta property="article:modified_time" content="2020-09-26T13:05:43&#43;07:00"/>
+<meta property="article:published_time" content="2020-09-26T13:05:43+07:00" />
+<meta property="article:modified_time" content="2020-09-26T13:05:43+07:00" />
 
   <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Cara Mengaktifkan DNSSEC CloudFlare Untuk Blog Hugo"/>
@@ -159,32 +156,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <section class="post-content">
   
-  
-
-<h1 id="cara-mengaktifkan-dnssec-cloudflare-untuk-blog-hugo">Cara Mengaktifkan DNSSEC CloudFlare Untuk Blog Hugo</h1>
-
-<hr />
-
+  <h1 id="cara-mengaktifkan-dnssec-cloudflare-untuk-blog-hugo">Cara Mengaktifkan DNSSEC CloudFlare Untuk Blog Hugo</h1>
+<hr>
 <p>Pada artikel kali ini saya akan membahas mengenai cara mengaktifkan DNSSEC pada CloudFlare untuk blog hugo yang saya pakai ini, DNSSEC adalah layer keamanan untuk DNS sehingga lebih menambah keamanannya, sekalipun domain kita sudah menggunakan protokol https. Pada kasus ini saya menggunakan layanan DNSSEC dari CloudFlare, dan tentunya untuk fitur ini juga Gratis.</p>
-
 <p>Tahapan untuk mengaktifkan DNSSEC pada CloudFlare yang saya lakukan adalah</p>
-
 <blockquote>
 <p>Aktifkan terlebih dahulu DNSSEC yang tersedia di cloudflare, dengan cara <strong>&gt; login ke cloudflare lalu buka domain yang telah di hubungkan dengan layanan cloudflare &gt; pilih pengaturan DNS &gt; kemudian Scroll kebawah hingga ada fitur DNSSEC</strong></p>
 </blockquote>
-
-<hr />
-
-<p><center>
-<img src="/images/DNSSEC.png" width="520" height="325">
-</center></p>
-
-<hr />
-
+<hr>
+<!-- raw HTML omitted -->
+<hr>
 <blockquote>
 <p>Kemudian klik DS Record kemudian disitu akan di tampilkan beberapa kode yang selanjutnya mesti kamu catat seluruh isinya untuk nantinya di berikan kepada penyedia layanan domain Kamu, untuk apa di berikan kepada penyedia layanan domain ? jawabannya ada pada langkah di bawah ini.</p>
 </blockquote>
-
 <pre><code>    DS Record for Kodebaper.com
     DS Record
     :
@@ -201,21 +185,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     Flags
     :
 </code></pre>
-
 <blockquote>
 <p>Pergi ke layanan tempat kamu sewa domain, disini saya membuka Dashboard-Domainesia untuk selanjutnya saya open tiket untuk pengaktifan fitur DNSSEC nya, karena sesuai petunjuk pada CloudFlare kita mesti menghubungi pihak penyedia domain untuk pengaktifan DNSSEC. Kemudian saya <em>open Ticket</em> lalu memberikan pesan dengan rincian seperti ini.</p>
 </blockquote>
-
-<hr />
-
-<p><center>
-<img src="/images/openticket.png" width="520" height="325">
-</center></p>
-
-<hr />
-
+<hr>
+<!-- raw HTML omitted -->
+<hr>
 <p>Oh ia, saat open ticket ke tim support jangan lupa sertakan juga DNS Record yang telah kita catat saat kita memilih meng-Enable fitur DNSSEC CloudFlare nya, seperti ini:</p>
-
 <pre><code>DS Record for Kodebaper.com
     DS Record
     : ** isi milik saya, tidak saya cantumkan disini**
@@ -232,31 +208,16 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     Flags
     : ** isi milik saya, tidak saya cantumkan disini**
 </code></pre>
-
 <p>Kemudian tidak membutuhkan waktu yang lama, Tim Support dari Domainesia pun membalas open tiket yang saya ajukan, dengan balasan seperti ini.</p>
-
-<hr />
-
-<p><center>
-<img src="/images/ticketreply.png" width="520" height="325">
-</center></p>
-
-<hr />
-
+<hr>
+<!-- raw HTML omitted -->
+<hr>
 <blockquote>
 <p>Disini saya tinggal menunggu saja hingga tim <em>support</em> mengaktifkan fitur DNSSEC nya, ini akan memakan waktu seberapa lama tim support melakukan aktifasi. Disini saya aktifasi malam hari lalu saya cek paginya, Alhamdulilah saya sudah mendapatkan balasan informasi dari tim support seperti ini.</p>
 </blockquote>
-
-<p><center>
-<img src="/images/dnssecreply.png" width="520" height="325">
-</center></p>
-
+<!-- raw HTML omitted -->
 <p>Tim support dari Domainesia juga mencantumkan Screenshot terkait pengujian DNSSEC yang sudah aktif, seperti ini.</p>
-
-<p><center>
-<img src="/images/dnssecscan.png" width="520" height="325">
-</center></p>
-
+<!-- raw HTML omitted -->
 <p>Dari hasil analyzing DNSSEC yang di lakukan ternyata sudah aktif keseluruhannya, dan untuk pengaktifan DNSSEC pada Cloudflare pun selesai, semoga bermanfaat.</p>
 
 </section>
@@ -324,11 +285,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     Daftar Isi Artikel
   </div>
   <div class="widget-content">
-    <nav id="TableOfContents">
-<ul>
-<li><a href="#cara-mengaktifkan-dnssec-cloudflare-untuk-blog-hugo">Cara Mengaktifkan DNSSEC CloudFlare Untuk Blog Hugo</a></li>
-</ul>
-</nav>
+    <nav id="TableOfContents"></nav>
   </div>
 </div>
 <div class="sidebar-widget-area">

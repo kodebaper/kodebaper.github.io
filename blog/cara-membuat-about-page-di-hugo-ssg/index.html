@@ -18,14 +18,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-M4V2QQN');</script>
 
   <meta charset="UTF-8" />
-  
-<meta itemprop="name" content="Cara Membuat About Page Di Hugo SSG">
+  <meta itemprop="name" content="Cara Membuat About Page Di Hugo SSG">
 <meta itemprop="description" content="Cara membuat About Page di Hugo SSG">
-
-
-<meta itemprop="datePublished" content="2020-11-03T17:28:35&#43;07:00" />
-<meta itemprop="dateModified" content="2020-11-03T17:28:35&#43;07:00" />
-<meta itemprop="wordCount" content="696">
+<meta itemprop="datePublished" content="2020-11-03T17:28:35+07:00" />
+<meta itemprop="dateModified" content="2020-11-03T17:28:35+07:00" />
+<meta itemprop="wordCount" content="690">
 
 
 
@@ -36,8 +33,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta property="og:description" content="Cara membuat About Page di Hugo SSG" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://kodebaper.com/blog/cara-membuat-about-page-di-hugo-ssg/" />
-<meta property="article:published_time" content="2020-11-03T17:28:35&#43;07:00"/>
-<meta property="article:modified_time" content="2020-11-03T17:28:35&#43;07:00"/>
+<meta property="article:published_time" content="2020-11-03T17:28:35+07:00" />
+<meta property="article:modified_time" content="2020-11-03T17:28:35+07:00" />
 
   <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Cara Membuat About Page Di Hugo SSG"/>
@@ -159,106 +156,70 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <section class="post-content">
   
-  
-
-<h1 id="cara-membuat-about-page-di-hugo-ssg">Cara Membuat About Page Di Hugo SSG</h1>
-
+  <h1 id="cara-membuat-about-page-di-hugo-ssg">Cara Membuat About Page Di Hugo SSG</h1>
 <p>Beberapa waktu yang lalu saya sempat mengalami kesulitan saat membuat halaman about atau sering di sebut about page, saya mengalami kesulitan karena memang baru pertama kali mempelajari dunia programming sederhana dari praktek yang juga sederhana dengan studi kasus untuk membuat beberapa halaman static di blog dengan static site generator dari Hugo.</p>
-
 <p>Dan akhirnya saya menemukan beberapa langkah sederhana dan cukup mudah untuk membuat halaman di blog dengan menggunakan Hugo ssg, adapun cara yang saya dapat untuk membuat about page di hugo ssg yaitu sebagai berikut:</p>
-
 <ol>
-<li><p>yang paling pertama kita mesti membuat <strong>about.md</strong> dimana file ini akan kita panggil yang nantinya akan di tampilkan pada halaman <code>about</code>, untuk membuatnya cukup ketikan perintah ini</p>
-
-<pre><code>hugo new about.md
+<li>
+<p>yang paling pertama kita mesti membuat <strong>about.md</strong> dimana file ini akan kita panggil yang nantinya akan di tampilkan pada halaman <code>about</code>, untuk membuatnya cukup ketikan perintah ini</p>
+<pre><code> hugo new about.md
 </code></pre>
-
 <p>Setelah kita buat, mari kita perikas file about.md yang baru kita buat di folder <code>Content</code> pada file blog hugo kita. Untuk lebih jelasnya lihat gambar di bawah ini.</p>
-
-<p><center>
-    <img src="/images/about.png" width="642" height="362">
-</center></p>
-
+<!-- raw HTML omitted -->
 <p>Seperti yang kita lihat pada gambar di atas ini, di dalam folder <strong>/Blog</strong>, ada file <code>about.md</code> bukan ? ini berlaku sama, artinya jika kita ingin membuat halaman lain misalnya <code>halaman contact, halaman FaQ, dll</code> saya cukup membuat file <code>.md</code> layaknya file <code>about.md</code> yang tadi saya buat. Sampai sini ada gambaran ?</p>
-
 <p>Oke mari kita lanjutkan, setelah file <code>about.md</code> kita buat, mari kita lihat isinya. disini sudah saya isi, tinggal kalian sesuaikan dengan kebutuhan untuk isi dari halaman <strong>about page</strong> nya.</p>
-
-<p><center>
-    <img src="/images/isiabout1.png" width="642" height="362">
-</center></p>
-
+<!-- raw HTML omitted -->
 <p>Saya menambahkan beberapa baris kode <code>Html, css, bootstrap, dll</code> untuk kebutuhan isi dari halaman about agar tampak lebih menarik dan disesuaikan dengan layout halaman sesuai keinginan saya.</p>
-
 <p>sekarang mari kita kupas satu persatu dari isi file <code>about.md</code> ya.</p>
-
-<pre><code>title: &quot;Tentang Kodebaper&quot;
-layout: staticpage
-draft: false
+<pre><code> title: &quot;Tentang Kodebaper&quot;
+ layout: staticpage
+ draft: false
 </code></pre>
-
 <blockquote>
 <p><code>title: &quot;Tentang Kodebaper&quot;</code> ini akan kita gunakan sebagai file judul dari halaman yang dimana saat halaman about page ini di akses maka akan akan muncul.</p>
 </blockquote>
-
-<hr />
-
+<hr>
 <blockquote>
 <p><code>layout: staticpage</code> ini adalah sebuah halaman HTML yang nantinya akan saya beri nama <code>staticpage.html</code> yang akan di gunakan untuk memanggil file <code>about.md</code> <em>lebih jelasnya akan saya kupas di langkah ke 2</em></p>
 </blockquote>
-
-<hr />
-
+<hr>
 <blockquote>
 <p><code>draft: false</code> ini adalah deklarasi agar file about page tidak tampil pada halaman post dan hanya akan tampil pada page about saja nantinya, ini berbeda dengan artikel yang mesti kita isikan dengan menyebutkan <code>draft: true</code> agar tampil pada halaman postingan. <strong>&ldquo;koreksi jika penjelasan saya salah pada kolom komentar ya&rdquo;</strong></p>
 </blockquote>
-
-<p>Mari kita akan memasuki langkah ke dua.</p></li>
-
-<li><p>sekarang kita akan membuat file <u><b>staticpage.html</b></u> di dalam folde <strong>Theme</strong> utama blog hugo kita dimana file <u><b>staticpage.html</b></u> akan saya letakan di dalam folder <strong>_default</strong> dengan urutan seperti ini</p>
-
-<pre><code>theme--
-    |
-    namaTheme--
-        |           
-        layouts--
-                |
-                _default
-                    |
-                    staticpage.html
+<p>Mari kita akan memasuki langkah ke dua.</p>
+</li>
+<li>
+<p>sekarang kita akan membuat file <!-- raw HTML omitted --><!-- raw HTML omitted -->staticpage.html<!-- raw HTML omitted --><!-- raw HTML omitted --> di dalam folde <strong>Theme</strong> utama blog hugo kita dimana file <!-- raw HTML omitted --><!-- raw HTML omitted -->staticpage.html<!-- raw HTML omitted --><!-- raw HTML omitted --> akan saya letakan di dalam folder <strong>_default</strong> dengan urutan seperti ini</p>
+<pre><code> theme--
+     |
+     namaTheme--
+         |			
+         layouts--
+                 |
+                 _default
+                     |
+                     staticpage.html
 </code></pre>
-
-<p>ingat, untuk penamaan file HTML <code>staticpage.html</code> harus sama dengan nama <code>layout: staticpage</code> pada file <code>about.md</code> di atas, untuk lebih jelasnya dalam peletakan file <u><b>staticpage.html</b></u> bisa lihat gambar di bawah ini.</p>
-
-<p><center>
-    <img src="/images/staticp.png" width="642" height="362">
-</center></p>
-
-<p>Bisa di lihat bukan, adal file <u><b>staticpage.html</b></u> di dalam folder <code>_default</code> . Nah sekarang mari kita lihat isi dari file <u><b>staticpage.html</b></u> untuk kemudian kita kupas isi dari file tersebut.</p>
-
-<p><center>
-    <img src="/images/staticp1.png" width="642" height="362">
-</center></p>
-
-<p>adapun untuk penjelasan dari isi file <u><b>staticpage.html</b></u> yaitu sebagai berikut:</p>
-
+<p>ingat, untuk penamaan file HTML <code>staticpage.html</code> harus sama dengan nama <code>layout: staticpage</code> pada file <code>about.md</code> di atas, untuk lebih jelasnya dalam peletakan file <!-- raw HTML omitted --><!-- raw HTML omitted -->staticpage.html<!-- raw HTML omitted --><!-- raw HTML omitted --> bisa lihat gambar di bawah ini.</p>
+<!-- raw HTML omitted -->
+<p>Bisa di lihat bukan, adal file <!-- raw HTML omitted --><!-- raw HTML omitted -->staticpage.html<!-- raw HTML omitted --><!-- raw HTML omitted --> di dalam folder <code>_default</code> . Nah sekarang mari kita lihat isi dari file <!-- raw HTML omitted --><!-- raw HTML omitted -->staticpage.html<!-- raw HTML omitted --><!-- raw HTML omitted --> untuk kemudian kita kupas isi dari file tersebut.</p>
+<!-- raw HTML omitted -->
+<p>adapun untuk penjelasan dari isi file <!-- raw HTML omitted --><!-- raw HTML omitted -->staticpage.html<!-- raw HTML omitted --><!-- raw HTML omitted --> yaitu sebagai berikut:</p>
 <blockquote>
 <p>Untuk mempersingkat penjelasan, akan saya jelaskan secara global untuk mempersingkatnya, disini terdapat beberapa baris kode seperti <strong>{{ partial &ldquo;head.html&rdquo; . }}
 {{ partial &ldquo;header.html&rdquo; . }} dan {{ partial &ldquo;footer.html&rdquo; . }}</strong></p>
 </blockquote>
-
 <p>maksudnya adalah, ini akan memanggil file HTML dari head, header, dan footer pada folder <code>/Partials</code> di theme hugo kita, supaya halaman about nantinya akan tampil secara utuh sesuai tampilan blog dimana di dalam layout blog tersusun dari header sampai footer secara berurutan dan akan menjadi tampilan yang tidak hanya halaman polos dimana saat kita buka halaman about tidak hanya tampilan dari isi about page saja.</p>
-
 <p>Ada gambaran sampi di sini ? untuk lebih pahamnya bisa di coba-coba sendiri ya langsung praktek agar mengerti.</p>
-
-<hr />
-
+<hr>
 <blockquote>
 <p>Kemudian akan kita jumpai baris kode <code>&lt;section&gt; {{ .Content }} &lt;/section&gt;</code> dimana baris kode ini akan memanggil dan menampilkan isi dari file <code>about.md</code> yang kita buat di awal.</p>
-</blockquote></li>
-
-<li><p>sekarang kita sudah selesai membuat halaman about page, dan kita saatnya menghubungkan dengan link about tersebut ke menu yang akan membuka about page. disini saya membuat <code>menu about</code> jadi link yang saya isi pada <code>menu about</code> seperti ini <u><a href="https://kodebaper.com/about">https://kodebaper.com/about</a></u></p></li>
+</blockquote>
+</li>
+<li>
+<p>sekarang kita sudah selesai membuat halaman about page, dan kita saatnya menghubungkan dengan link about tersebut ke menu yang akan membuka about page. disini saya membuat <code>menu about</code> jadi link yang saya isi pada <code>menu about</code> seperti ini <!-- raw HTML omitted --><a href="https://kodebaper.com/about">https://kodebaper.com/about</a><!-- raw HTML omitted --></p>
+</li>
 </ol>
-
 <p>Akihrnya kita sampai di penghujung praktek dari tutorial membuat about page pada blog hugo, mudah bukan untuk membuatnya, selamat mencoba ya!</p>
 
 </section>
@@ -326,11 +287,7 @@ draft: false
     Daftar Isi Artikel
   </div>
   <div class="widget-content">
-    <nav id="TableOfContents">
-<ul>
-<li><a href="#cara-membuat-about-page-di-hugo-ssg">Cara Membuat About Page Di Hugo SSG</a></li>
-</ul>
-</nav>
+    <nav id="TableOfContents"></nav>
   </div>
 </div>
 <div class="sidebar-widget-area">

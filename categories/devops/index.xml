@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>DevOps on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</title>
@@ -6,20 +6,15 @@
     <description>Recent content in DevOps on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 01 Sep 2020 16:15:01 +0700</lastBuildDate>
-    
-	<atom:link href="https://kodebaper.com/categories/devops/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 01 Sep 2020 16:15:01 +0700</lastBuildDate><atom:link href="https://kodebaper.com/categories/devops/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Perintah Dasar Git Untuk Pemula</title>
       <link>https://kodebaper.com/blog/perintah-dasar-git-untuk-pemula/</link>
       <pubDate>Tue, 01 Sep 2020 16:15:01 +0700</pubDate>
       
       <guid>https://kodebaper.com/blog/perintah-dasar-git-untuk-pemula/</guid>
-      <description>Yuk belajar! Perintah Dasar Git Untuk Pemula
- 
-Berikut merupakan perintah dasar dalam penggunaan Git yang cocok untuk di ketahui dan di pahami oleh seorang pemula, lebih tepatnya untuk saya pribadi karena dengan hadirnya artikel ini salah satunya sebagai tempat saya merangkum apa-apa yang sudah saya pelajari, dan untuk seorang pemula seperti saya ini sangatlah perlu. Saya sendiri sampai dengan artikel ini di posting, saya baru mengenal Git sekitar 7 bulan yang lalu.</description>
+      <description>Berikut merupakan perintah dasar dalam penggunaan Git yang cocok untuk di ketahui dan di pahami oleh seorang pemula, lebih tepatnya untuk saya pribadi karena dengan hadirnya artikel ini salah satunya sebagai tempat saya merangkum apa-apa yang sudah saya pelajari, dan untuk seorang pemula seperti saya ini sangatlah perlu. Saya sendiri sampai dengan artikel ini di posting, saya baru mengenal Git sekitar 7 bulan yang lalu.
+Kemudian secara berkala artikel ini juga akan saya update dengan melanjutkan untuk pembahasan yang serupa dengan artikel ini namun dengan perintah Git dan penjelasan yang lain seiring berjalannya waktu saya menggunakan git.</description>
     </item>
     
     <item>

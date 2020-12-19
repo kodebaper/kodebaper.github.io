@@ -18,13 +18,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-M4V2QQN');</script>
 
   <meta charset="UTF-8" />
-  
-<meta itemprop="name" content="Cara Custom Domain Blog Hugo Di GitHub Page">
+  <meta itemprop="name" content="Cara Custom Domain Blog Hugo Di GitHub Page">
 <meta itemprop="description" content="Cara Custom Domain Blog Hugo Di GitHub Page">
-
-
-<meta itemprop="datePublished" content="2020-09-25T23:37:55&#43;07:00" />
-<meta itemprop="dateModified" content="2020-09-25T23:37:55&#43;07:00" />
+<meta itemprop="datePublished" content="2020-09-25T23:37:55+07:00" />
+<meta itemprop="dateModified" content="2020-09-25T23:37:55+07:00" />
 <meta itemprop="wordCount" content="713">
 
 
@@ -36,8 +33,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta property="og:description" content="Cara Custom Domain Blog Hugo Di GitHub Page" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://kodebaper.com/blog/cara-custom-domain-blog-hugo-di-github-page/" />
-<meta property="article:published_time" content="2020-09-25T23:37:55&#43;07:00"/>
-<meta property="article:modified_time" content="2020-09-25T23:37:55&#43;07:00"/>
+<meta property="article:published_time" content="2020-09-25T23:37:55+07:00" />
+<meta property="article:modified_time" content="2020-09-25T23:37:55+07:00" />
 
   <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Cara Custom Domain Blog Hugo Di GitHub Page"/>
@@ -159,66 +156,34 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <section class="post-content">
   
-  
-
-<h1 id="cara-custom-domain-blog-hugo-di-github-page">Cara Custom Domain Blog Hugo Di GitHub Page</h1>
-
+  <h1 id="cara-custom-domain-blog-hugo-di-github-page">Cara Custom Domain Blog Hugo Di GitHub Page</h1>
 <p>Beberapa waktu yang lalu saya telah menuliskan artike tentang 3 persiapan sebelum melakukan custom domain untuk blog hugo di layanan GitHub page, nah untuk kesempatan kali ini saya akan membahas mengenai bagaimana caranya melakukan konfigurasi custom domain di GitHub page. untuk itu artikel saya buat urutan daftar langkah pengerjaanya. Untuk di kasus ini saya anggap kamu sudah melakukan dua hal ini sebelum kamu mulai untuk mempraktekannya.</p>
-
 <blockquote>
 <p><strong>Pertama</strong> yaitu sudah memiliki domain aktif yang akan di masukan di konfigurasi ke Github Page</p>
 </blockquote>
-
-<hr />
-
+<hr>
 <blockquote>
 <p><strong>Kedua</strong> kamu sudah mendaftar dan memiliki Account aktif di Cloudflare</p>
 </blockquote>
-
 <p>Pembahasan saya mulai dari urutan <strong>Langkah 1 s.d Langkah 4</strong> dan berikut ini untuk langkah-langkahnya:</p>
-
 <h2 id="langkah-i-pada-sisi-cloudflare">Langkah I pada sisi CloudFlare</h2>
-
 <p>Hal pertama yang harus kamu lakukan setelah domain yang di beli aktif, langsung login ke CloudFlare untuk mulai setup, kita mesti <code>add site</code> dari domain yang kita akan di terapkan pada CloudFlare. Seperti contoh gambar di bawah ini adalah domain yang sudah saya tambahkan</p>
-
-<hr />
-
-<p><center>
-<img src="/images/clf2.png" width="520" height="325">
-</center></p>
-
-<hr />
-
+<hr>
+<!-- raw HTML omitted -->
+<hr>
 <p>Untuk kamu yang belum menambahkan nama domain kamu, caranya sangat mudah kamu tinggal klik <code>Add a site</code> kemudian ikuti petunjuk sesuai dengan yang di berikan. Sampai pada proses yang menunjukan bahwa adanya Name Server yang di rekomendasikan dari CloudFlare bahwa Name Server pada penyedia domain harus di ganti dengan Name Server dari CloudFlare seperti gambar di bawah ini, oh ia disini juga petunjuk pemasangan Name Server dari Cloudflare ke pengaturan di layanan domain yang kita gunakan sudah di jelaskan dengan sangat lengkap. Untuk memudahkannya bisa lihat gambar di bawah ini.</p>
-
-<hr />
-
-<p><center>
-<img src="/images/ns.png" width="520" height="325">
-</center></p>
-
-<hr />
-
+<hr>
+<!-- raw HTML omitted -->
+<hr>
 <p>Karena saya menggunakan layanan dari Domainesia maka saya harus mengganti Name Server dari domainesia seperti yang tertera pada petunjuk nomor 1 pada gambar, saya merubah ke Name server dari CloudFlare.</p>
-
 <h2 id="langkah-ii-pada-sisi-penyedia-domain">Langkah II pada sisi Penyedia Domain</h2>
-
 <p>Pada langkah ini yang akan kita lakukan hanya sebatas mengganti Name Server dimana sebelumnya untuk Name Server masih menggunakan bawaan default dari penyedia layanan domain, namun untuk kali ini kita akan mengganti NS (Name server) dengan yang sudah di rekomendasikan oleh cloudflare. Gambar tertera seperti pada langkah I dimana menunjukan instruksi untuk merubah DNS yang sesuai dengan petunjuk dari cloudflare.</p>
-
-<hr />
-
-<p><center>
-<img src="/images/dsia.png" width="520" height="325">
-</center></p>
-
-<hr />
-
+<hr>
+<!-- raw HTML omitted -->
+<hr>
 <p>Disini saya merubah Name Server di pengaturan dashboard domain dari <strong>Domainesia</strong>. Saya telah mengganti dan memasukan Name Server dari CloudFlare tersebut seperti yang tertera pada gambar diatas.</p>
-
 <h2 id="langkah-iii-pada-sisi-github-page">Langkah III pada sisi GitHub Page</h2>
-
 <p>Pada langka ke Tiga ini saatnya domain kita insert ke dalam konfigurasi dari GitHub Page nya, langkahnya pun mudah.</p>
-
 <ol>
 <li>Login ke GitHub</li>
 <li>Masuk ke Repository utama</li>
@@ -227,21 +192,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <li>isi saja pada form <em>Custom Domain</em> dengan nama domain Kamu</li>
 <li>Lalu klik <em>Save</em></li>
 </ol>
-
-<hr />
-
-<p><center>
-<img src="/images/ghpage.png" width="520" height="325">
-</center></p>
-
-<hr />
-
+<hr>
+<!-- raw HTML omitted -->
+<hr>
 <p>Pada proses ketiga ini, konfigurasi untuk custom domain di GitHub Page hampir selesai dengan menyisakan satu langkah lagi.</p>
-
 <h2 id="langkah-iv-dns-management-pada-cloudflare">Langkah IV DNS Management pada CloudFlare</h2>
-
 <p>Adapun untuk langkah terakhir ini kita masuk kembali ke pengaturan pada cloudflare, caranya yaitu:</p>
-
 <ol>
 <li>Pastikan kamu sudah login ke CloudFlare</li>
 <li>pada tampilan awal Cloudflare <strong>Klik nama Domain</strong> kamu yang sudah di <code>tambahkan</code> seperti di
@@ -249,17 +205,10 @@ jelaskan pada langkah <code>satu</code> di atas</li>
 <li>Kemudian pilih ke pengaturan <strong>DNS</strong> lalu sesuaikan dengan nama domain kamu ya, untuk memudahkan
 pengaturan DNS pada domain kamu, disini saya sertakan gambar seperti tertera di bawah ini dimana <strong>Management DNS pada CloudFlare</strong> pada gambar tersebut merupakan pengaturan untuk DNS domain saya. Kamu tinggal menyamakan sesuai gambar di bawah ini.</li>
 </ol>
-
-<hr />
-
-<p><center>
-<img src="/images/clf.png" width="520" height="325">
-</center></p>
-
-<hr />
-
+<hr>
+<!-- raw HTML omitted -->
+<hr>
 <p>Dan untuk sampai proses ke 4 ini sudah cukup, namun ada satu lagi kamu mesti merubah nama domain juga pada file <strong>config.toml</strong> pada file Hugo kamu pada baris pertama <strong>baseURL</strong></p>
-
 <pre><code>Ini adalah pengaturan base url pada file **config.toml** hugo saya.
 *
 Sebelum di ganti
@@ -270,13 +219,9 @@ Sesudah di ganti
 ---------------- 
 baseURL = &quot;https://kodebaper.com/&quot;
 </code></pre>
-
 <h2 id="langkah-v-rangkuman">Langkah V Rangkuman</h2>
-
 <p>Rangkuman dari isi artike ini adalah, custom domain yang saya tulis ini setelah penyempurnaan dari beberapa kendala yang saya alami. Sehingga dengan merujuk pada artikel ini seharusnya <strong>custom domain pada GitHub Page</strong> tidak akan mengalami <em>error</em>, namun disin saya juga menulis artikel terkait error yang saya alami saat <strong>custom domain pada GitHub Page</strong> . Untuk kamu yang ingin membacanya, kamu bisa membaca artikel yang saya tulis ini.</p>
-
-<p>[ <a href="https://kodebaper.com/blog/solved-enforce-httpsunavailable-for-your-site-because-your-domain-is-not-properly-configured-to-support-https-github/"> Solved : Enforce HTTPS—Unavailable for Your Site pada GitHub Page </a> ]</p>
-
+<p>[ <!-- raw HTML omitted --> Solved : Enforce HTTPS—Unavailable for Your Site pada GitHub Page <!-- raw HTML omitted --> ]</p>
 <p>Oke, untuk artikel pembahasana <strong>cara custom domain pada GitHub Page</strong> sudah cukup,lalu untuk penyempurnaan lain bisa mempelajarinya sediri. Selamat bereksperimen dengan Hugo !</p>
 
 </section>
@@ -345,16 +290,13 @@ baseURL = &quot;https://kodebaper.com/&quot;
   </div>
   <div class="widget-content">
     <nav id="TableOfContents">
-<ul>
-<li><a href="#cara-custom-domain-blog-hugo-di-github-page">Cara Custom Domain Blog Hugo Di GitHub Page</a>
-<ul>
-<li><a href="#langkah-i-pada-sisi-cloudflare">Langkah I pada sisi CloudFlare</a></li>
-<li><a href="#langkah-ii-pada-sisi-penyedia-domain">Langkah II pada sisi Penyedia Domain</a></li>
-<li><a href="#langkah-iii-pada-sisi-github-page">Langkah III pada sisi GitHub Page</a></li>
-<li><a href="#langkah-iv-dns-management-pada-cloudflare">Langkah IV DNS Management pada CloudFlare</a></li>
-<li><a href="#langkah-v-rangkuman">Langkah V Rangkuman</a></li>
-</ul></li>
-</ul>
+  <ul>
+    <li><a href="#langkah-i-pada-sisi-cloudflare">Langkah I pada sisi CloudFlare</a></li>
+    <li><a href="#langkah-ii-pada-sisi-penyedia-domain">Langkah II pada sisi Penyedia Domain</a></li>
+    <li><a href="#langkah-iii-pada-sisi-github-page">Langkah III pada sisi GitHub Page</a></li>
+    <li><a href="#langkah-iv-dns-management-pada-cloudflare">Langkah IV DNS Management pada CloudFlare</a></li>
+    <li><a href="#langkah-v-rangkuman">Langkah V Rangkuman</a></li>
+  </ul>
 </nav>
   </div>
 </div>

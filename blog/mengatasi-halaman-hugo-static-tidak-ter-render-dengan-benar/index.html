@@ -18,13 +18,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-M4V2QQN');</script>
 
   <meta charset="UTF-8" />
-  
-<meta itemprop="name" content="Mengatasi halaman Hugo Static tidak ter-Render dengan benar">
+  <meta itemprop="name" content="Mengatasi halaman Hugo Static tidak ter-Render dengan benar">
 <meta itemprop="description" content="Mengatasi halaman Hugo Static tidak ter-Render dengan benar">
-
-
-<meta itemprop="datePublished" content="2020-11-13T13:01:42&#43;07:00" />
-<meta itemprop="dateModified" content="2020-11-13T13:01:42&#43;07:00" />
+<meta itemprop="datePublished" content="2020-11-13T13:01:42+07:00" />
+<meta itemprop="dateModified" content="2020-11-13T13:01:42+07:00" />
 <meta itemprop="wordCount" content="313">
 
 
@@ -36,8 +33,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta property="og:description" content="Mengatasi halaman Hugo Static tidak ter-Render dengan benar" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://kodebaper.com/blog/mengatasi-halaman-hugo-static-tidak-ter-render-dengan-benar/" />
-<meta property="article:published_time" content="2020-11-13T13:01:42&#43;07:00"/>
-<meta property="article:modified_time" content="2020-11-13T13:01:42&#43;07:00"/>
+<meta property="article:published_time" content="2020-11-13T13:01:42+07:00" />
+<meta property="article:modified_time" content="2020-11-13T13:01:42+07:00" />
 
   <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Mengatasi halaman Hugo Static tidak ter-Render dengan benar"/>
@@ -159,26 +156,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <section class="post-content">
   
-  
-
-<h1 id="halaman-hugo-tidak-di-render-dengan-benar">halaman Hugo tidak di render dengan benar</h1>
-
+  <h1 id="halaman-hugo-tidak-di-render-dengan-benar">halaman Hugo tidak di render dengan benar</h1>
 <p>Setelah beberapa waktu saya tidak meng <em>update</em> artikel yang membahas <em>error</em> di <strong>Hugo</strong>, kali ini akan ada pembahasan baru yang akan saya bagi terkait <em>error</em> yang saya alami beberapa waktu lalu. Dimana <em>error</em> ini penyelesaiannya bisa dikatakan sangatlah mudah, disini saya hanya perlu merubah baris perintah untuk permasalahan ini.
-<br>Saya baru saja mendapati jika menggunakan perintah <code>hugo server</code>  untuk menjalankan <strong>server hugo</strong> tidak sepenuhnya terjadi perubahan setelah saya melakukan pengaturan pada <strong>blog Hugo</strong> saya.</p>
-
+<!-- raw HTML omitted -->Saya baru saja mendapati jika menggunakan perintah <code>hugo server</code>  untuk menjalankan <strong>server hugo</strong> tidak sepenuhnya terjadi perubahan setelah saya melakukan pengaturan pada <strong>blog Hugo</strong> saya.</p>
 <blockquote>
 <p>Apa masalahnya disini ?</p>
 </blockquote>
-
 <p>Permasalahan terjadi saat saya mendapati hasil deploy yang tidak sempurna begitu saya cek perubahan yang sudah saya buat, contoh disini pada saat saya mengakses halaman <strong>About</strong> tidak sepenuhnya ter <em>deploy</em> seperti tulisan artikel yang saya update tidak berubah, yang semulanya saya menambahkan gambar pada halaman <strong>About</strong> namun sama sekali tidak ada saat saya mengaksesnya secara online. Lalu kenapa ini bisa terjadi ?</p>
-
 <blockquote>
 <p>Apakah saat mencoba menjalankan melalui <code>localhost</code> ada perubahan ?</p>
 </blockquote>
-
 <p>Jawabannya sama, disini saya tidak mendapati perubahannya juga. Hal ini terjadi karena saat saya menjalankan server hugo ternyata tidak ter <em>render</em> dengan sempurna, alhasil saat saya melakukan <em>deploy</em> tidak ada perubahan pada direktori <em>/public</em>, <em>rendering</em> yang tidak sempurna juga menyebabkan saat saya menjalankan <em>server Hugo</em> pada <em>localhost</em> tidak terjadi perubahan juga.
-<br>Adapun pemecahan permasalahan pada kasus ini, saya dapati hanya dengan cukup merubah perintah untuk menjalankan <code>server Hugo</code> nya, agar perubahan ter<em>render</em> dengan sempurna sebelum kita melanjutkanya untuk men <em>Deploy</em> nya.</p>
-
+<!-- raw HTML omitted -->Adapun pemecahan permasalahan pada kasus ini, saya dapati hanya dengan cukup merubah perintah untuk menjalankan <code>server Hugo</code> nya, agar perubahan ter<em>render</em> dengan sempurna sebelum kita melanjutkanya untuk men <em>Deploy</em> nya.</p>
 <pre><code>Perintah sebelumnya yang saya gunakan untuk menjalankan server hugo
 
 - hugo server
@@ -187,9 +176,7 @@ Kemudian saya rubah dengan perintah ini dan berhasil
 
 - hugo -D server
  
-</code></pre>
-
-<p>Dan permasalahan pun teratasi, namun disini penjelasan saya kuran rinci sampai saya update artikel ini. Saya masih mencari letak perbedaan penggunaan perintah <code>hugo server</code> dan penggunaan perintah <code>hugo -D server</code> <em>next time</em> saya akan mengupdate artikel ini untuk menjelaskan perbedaan kedua perintah tersebut untuk menjalankan <strong>server Hugo</strong>, semoga bermanfaat artikel ini ya!</p>
+</code></pre><p>Dan permasalahan pun teratasi, namun disini penjelasan saya kuran rinci sampai saya update artikel ini. Saya masih mencari letak perbedaan penggunaan perintah <code>hugo server</code> dan penggunaan perintah <code>hugo -D server</code> <em>next time</em> saya akan mengupdate artikel ini untuk menjelaskan perbedaan kedua perintah tersebut untuk menjalankan <strong>server Hugo</strong>, semoga bermanfaat artikel ini ya!</p>
 
 </section>
 <time>
@@ -256,11 +243,7 @@ Kemudian saya rubah dengan perintah ini dan berhasil
     Daftar Isi Artikel
   </div>
   <div class="widget-content">
-    <nav id="TableOfContents">
-<ul>
-<li><a href="#halaman-hugo-tidak-di-render-dengan-benar">halaman Hugo tidak di render dengan benar</a></li>
-</ul>
-</nav>
+    <nav id="TableOfContents"></nav>
   </div>
 </div>
 <div class="sidebar-widget-area">

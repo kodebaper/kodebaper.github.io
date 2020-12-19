@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</title>
@@ -6,10 +6,17 @@
     <description>Recent content on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 04 Nov 2020 18:55:37 +0700</lastBuildDate>
-    
-	<atom:link href="https://kodebaper.com/blog/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Wed, 04 Nov 2020 18:55:37 +0700</lastBuildDate><atom:link href="https://kodebaper.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Upgrade Hugo Ke Versi Terbaru Di MacOS</title>
+      <link>https://kodebaper.com/blog/cara-upgrade-hugo-ke-versi-terbaru-di-macos/</link>
+      <pubDate>Sat, 19 Dec 2020 22:58:00 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/blog/cara-upgrade-hugo-ke-versi-terbaru-di-macos/</guid>
+      <description>Cara upgrade Hugo ke versi terbaru di MacOS Pada pembahsan artikel kali ini, saya akan mebahas bagaimana caranya melakukan upgrade Hugo versi lama ke Hugo versi paling terbaru (latest version). Berikut ini merupakan cara yang saya gunakan saat melakukan upgrade versi Hugo yang paling terbaru.
+ Versi Hugo sebelumnya yang saya gunakan
+ Hugo Static Site Generator v0.55.4-57900417 darwin/amd64 Kemudian saya lakukan ke upgrade ke Versi terbaru pada versi ini yang sekarang saya gunakan.</description>
+    </item>
     
     <item>
       <title>Hadiah Serangan Bruteforce Di Akhir Tahun 2020</title>
@@ -27,7 +34,7 @@ Intinya file ini berisi text informasi percobaan untuk melakukan Matching Passwo
       <pubDate>Thu, 10 Dec 2020 22:59:26 +0700</pubDate>
       
       <guid>https://kodebaper.com/blog/teknik-seo-untuk-hugo-static-site/</guid>
-      <description>SEO untuk Hugo Static Site Kali ini tepat di malam minggu saya coba iseng-iseng untuk melihat prgres dari kinerja tools-tools untuk kebutuhan SEO yang di pasang pada blog pribadi saya, tool-tools itu antara lain saya memasang Google Analytic, Google Search Console, dan Bing Webmaster. Ternyata memang menarik karena ada beberapa kemudahan yang saya dapatkan dari tools-tools analytic yang saya pasang.
+      <description>SEO untuk Hugo Static Site  Kali ini tepat di malam minggu saya coba iseng-iseng untuk melihat prgres dari kinerja tools-tools untuk kebutuhan SEO yang di pasang pada blog pribadi saya, tool-tools itu antara lain saya memasang Google Analytic, Google Search Console, dan Bing Webmaster. Ternyata memang menarik karena ada beberapa kemudahan yang saya dapatkan dari tools-tools analytic yang saya pasang.
 Saya menemukan kemudahan untuk menganalisa seberapa jauh blog saya di kenal oleh mesin pencari dan sampai kepada user yang membaca tulisan-tulisan saya di blog, hal lain yang sangat menarik bagi saya adalah menggali pemahaman ilmu pemrograman saya pribadi, dimana saya dapat mengetahui seberapa baik performa dari blog yang saya kelola, mengetahui seberapa efektif penulisan kode-kode yang di tulis pada blog.</description>
     </item>
     
@@ -37,7 +44,7 @@ Saya menemukan kemudahan untuk menganalisa seberapa jauh blog saya di kenal oleh
       <pubDate>Mon, 30 Nov 2020 17:56:17 +0700</pubDate>
       
       <guid>https://kodebaper.com/blog/mengenal-analytic-tool-untuk-hugo-static-site/</guid>
-      <description>Mengenal Analytic Tool Untuk Hugo Static Site Sudah dari dua hari yang lalu sampai pada Artikel ini saya posting, saya sedang sangat fokus untuk memahami persenjataan baru untuk kebutuhan SEO blog saya pribadi, yaitu JavaScript Analytic dan Google Tag Manager. Kedua produk ini dari google dan sejauh ini saya cukup mudah untuk memahami serta melakukan proses penerapannya pada blog saya. Namun banyaknya fitur yang di berikan oleh kedua tools untuk keperluan SEO / Marketing dari google ini tidak cukup satu atau dua hari untuk saya bisa memahami isi fitur di dalamnya.</description>
+      <description>Mengenal Analytic Tool Untuk Hugo Static Site  Sudah dari dua hari yang lalu sampai pada Artikel ini saya posting, saya sedang sangat fokus untuk memahami persenjataan baru untuk kebutuhan SEO blog saya pribadi, yaitu JavaScript Analytic dan Google Tag Manager. Kedua produk ini dari google dan sejauh ini saya cukup mudah untuk memahami serta melakukan proses penerapannya pada blog saya. Namun banyaknya fitur yang di berikan oleh kedua tools untuk keperluan SEO / Marketing dari google ini tidak cukup satu atau dua hari untuk saya bisa memahami isi fitur di dalamnya.</description>
     </item>
     
     <item>
@@ -55,7 +62,7 @@ Saya menemukan kemudahan untuk menganalisa seberapa jauh blog saya di kenal oleh
       <pubDate>Fri, 20 Nov 2020 08:51:45 +0700</pubDate>
       
       <guid>https://kodebaper.com/blog/istilah-istilah-dalam-dunia-static-site-generator/</guid>
-      <description>Istilah yang sering di gunakan dalam dunia static site generator 1. Prakata dalam pembahasan Artikel ini Pada pembahasan kali ini saya akan melakukan pembahasan dengan istilah-istilah yang sering digunakan dalam dunia static site generator, lebih tepatnya istilah ini yang sering digunakan untuk static site generator yang saya gunakan yaitu Hugo. Sebenarnya untuk di sebut istilah yang sering di gunakan dalam dunia static site generator saja juga tidak, karena istilah-istilah ini juga sering di gunakan untuk dunia website baik yang menggunakan engine CMS ataupun jenis website Dinamis.</description>
+      <description>Istilah yang sering di gunakan dalam dunia static site generator  1. Prakata dalam pembahasan Artikel ini Pada pembahasan kali ini saya akan melakukan pembahasan dengan istilah-istilah yang sering digunakan dalam dunia static site generator, lebih tepatnya istilah ini yang sering digunakan untuk static site generator yang saya gunakan yaitu Hugo. Sebenarnya untuk di sebut istilah yang sering di gunakan dalam dunia static site generator saja juga tidak, karena istilah-istilah ini juga sering di gunakan untuk dunia website baik yang menggunakan engine CMS ataupun jenis website Dinamis.</description>
     </item>
     
     <item>
@@ -130,7 +137,7 @@ DevOps DevOps adalah serangkaian pekerjaan yang mengotomatisasi proses antara So
       <pubDate>Sat, 26 Sep 2020 13:05:43 +0700</pubDate>
       
       <guid>https://kodebaper.com/blog/cara-mengaktifkan-dnssec-cloudflare-untuk-blog-hugo/</guid>
-      <description>Cara Mengaktifkan DNSSEC CloudFlare Untuk Blog Hugo Pada artikel kali ini saya akan membahas mengenai cara mengaktifkan DNSSEC pada CloudFlare untuk blog hugo yang saya pakai ini, DNSSEC adalah layer keamanan untuk DNS sehingga lebih menambah keamanannya, sekalipun domain kita sudah menggunakan protokol https. Pada kasus ini saya menggunakan layanan DNSSEC dari CloudFlare, dan tentunya untuk fitur ini juga Gratis.
+      <description>Cara Mengaktifkan DNSSEC CloudFlare Untuk Blog Hugo  Pada artikel kali ini saya akan membahas mengenai cara mengaktifkan DNSSEC pada CloudFlare untuk blog hugo yang saya pakai ini, DNSSEC adalah layer keamanan untuk DNS sehingga lebih menambah keamanannya, sekalipun domain kita sudah menggunakan protokol https. Pada kasus ini saya menggunakan layanan DNSSEC dari CloudFlare, dan tentunya untuk fitur ini juga Gratis.
 Tahapan untuk mengaktifkan DNSSEC pada CloudFlare yang saya lakukan adalah</description>
     </item>
     
@@ -149,7 +156,7 @@ Tahapan untuk mengaktifkan DNSSEC pada CloudFlare yang saya lakukan adalah</desc
       <pubDate>Fri, 25 Sep 2020 06:53:27 +0700</pubDate>
       
       <guid>https://kodebaper.com/blog/solved-enforce-httpsunavailable-for-your-site-on-github/</guid>
-      <description>Solved : Enforce HTTPS—Unavailable for Your Site Dua hari setelah proses custom domain untuk blog saya ini di github page, setelah menunggu proses propagasi DNS yang memang cukup memakan waktu biasanya sampai 1x24 jam dan melakukan beberapa konfigurasi terkait dengan DNS di cloudflare, saya menemui masalah baru dimana blog saya ini untuk SSL dari sisi pengaturan di GitHub tidak bisa di aktifkan alhasil saya hanya bisa mengaktifkan SSL blog dari fitur yang ada di cloudflare namun tidak untuk di pengaturan GitHub Page, lalu dampaknya apa saja jika seperti ini ?</description>
+      <description>Solved : Enforce HTTPS—Unavailable for Your Site  Dua hari setelah proses custom domain untuk blog saya ini di github page, setelah menunggu proses propagasi DNS yang memang cukup memakan waktu biasanya sampai 1x24 jam dan melakukan beberapa konfigurasi terkait dengan DNS di cloudflare, saya menemui masalah baru dimana blog saya ini untuk SSL dari sisi pengaturan di GitHub tidak bisa di aktifkan alhasil saya hanya bisa mengaktifkan SSL blog dari fitur yang ada di cloudflare namun tidak untuk di pengaturan GitHub Page, lalu dampaknya apa saja jika seperti ini ?</description>
     </item>
     
     <item>
@@ -158,9 +165,8 @@ Tahapan untuk mengaktifkan DNSSEC pada CloudFlare yang saya lakukan adalah</desc
       <pubDate>Thu, 24 Sep 2020 01:56:21 +0700</pubDate>
       
       <guid>https://kodebaper.com/blog/prepare-sebelum-custom-domain-blog-hugo-di-github-page/</guid>
-      <description>Prepare Sebelum Custom Domain Blog Hugo Di Github Page
-Berikut merupakan hal-hal yang perlu di siapkan sebelum melakukan custom domain terhadap Blog Hugo ini, dimana saya mealkukan perubahan atau custom domain ini dengan menggunakan layanan dari Github Page, adapun untuk persiapannya sebagai berikut.
- Menyiapkan domain
+      <description>Berikut merupakan hal-hal yang perlu di siapkan sebelum melakukan custom domain terhadap Blog Hugo ini, dimana saya mealkukan perubahan atau custom domain ini dengan menggunakan layanan dari Github Page, adapun untuk persiapannya sebagai berikut.
+  Menyiapkan domain
 Pastikan kamu sudah membeli domain ya, jika kamu menggunakan domain yang berbayar. disini saya mendokumentasikan persiapan saya sebelum melakukan custom domain di github page dengan menggunakan domain berbayar, saya membeli domain .</description>
     </item>
     
@@ -170,10 +176,9 @@ Pastikan kamu sudah membeli domain ya, jika kamu menggunakan domain yang berbaya
       <pubDate>Thu, 24 Sep 2020 01:14:45 +0700</pubDate>
       
       <guid>https://kodebaper.com/blog/git-push-rejected-non-fast-forward/</guid>
-      <description>Git push rejected &#34;non-fast-forward&#34;
-beberapa hari yang lalu saya sempat mengalami error setelah melakukan custom domain di github page, dimana ketika perubahan blog ini saya lakukan dan ingin melakukan update perubahan tersebut dengan cara push hasil perubahan ke repository github namun di tolak, kurang lebih untuk pesan error seperti di bawah ini :
+      <description>beberapa hari yang lalu saya sempat mengalami error setelah melakukan custom domain di github page, dimana ketika perubahan blog ini saya lakukan dan ingin melakukan update perubahan tersebut dengan cara push hasil perubahan ke repository github namun di tolak, kurang lebih untuk pesan error seperti di bawah ini :
 Perintah git untuk untuk push perubahan sebagai berikut
-# git push -u origin master  Pada step ini saya mendapati error kurang lebih seperti di bawah ini :</description>
+# git push -u origin master	 Pada step ini saya mendapati error kurang lebih seperti di bawah ini :</description>
     </item>
     
     <item>
@@ -182,8 +187,7 @@ Perintah git untuk untuk push perubahan sebagai berikut
       <pubDate>Mon, 21 Sep 2020 21:46:46 +0700</pubDate>
       
       <guid>https://kodebaper.com/blog/kuliah-mau-mencari-ilmu/</guid>
-      <description>Ini merupakan tanggapan saya menjadi mahasiswa yang sudah memasuki semester 5
-Apa kabar kamu mahasiswa IT, apa yang menyebabkan kamu hingga sampai di artikel ini ? semoga kamu selalu memiliki motivasi belajar untuk mencapai tujuan kamu ya sehingga memilih untuk melanjutkan pendidikan di jenjang bangku perkuliahan pasti kamu sudah memiliki goal untuk nantinya setelah kamu lulus ya. Oh ia apa kabar kamu anak teknik informatika dan sejenisnya yang ada hubunganya sama jurusan IT, semoga kamu tidak punya pikiran loh gua udah kuliah sampai semester 4/5/6/7 atau malah udah mau wisuda tapi selama kuliah bisa apa ya ?</description>
+      <description>Apa kabar kamu mahasiswa IT, apa yang menyebabkan kamu hingga sampai di artikel ini ? semoga kamu selalu memiliki motivasi belajar untuk mencapai tujuan kamu ya sehingga memilih untuk melanjutkan pendidikan di jenjang bangku perkuliahan pasti kamu sudah memiliki goal untuk nantinya setelah kamu lulus ya. Oh ia apa kabar kamu anak teknik informatika dan sejenisnya yang ada hubunganya sama jurusan IT, semoga kamu tidak punya pikiran loh gua udah kuliah sampai semester 4/5/6/7 atau malah udah mau wisuda tapi selama kuliah bisa apa ya ?</description>
     </item>
     
     <item>
@@ -193,7 +197,7 @@ Apa kabar kamu mahasiswa IT, apa yang menyebabkan kamu hingga sampai di artikel 
       
       <guid>https://kodebaper.com/blog/persiapan-membuat-server-cloud-storage-menggunakan-sistem-operasi-ubuntu/</guid>
       <description>SESION 2 Persiapan membangun server Cloud Storage Artikel ini melanjutkan dan rangkaian dari pada bagian sesion 1 kemudian di artikel sesion 2 ini meliputi persiapan yang saya lakukan dalam praktek membuat server cloud Storage tentang apa saja yang mesti di persiapkan, adapun persiapan yang saya lakukan sebelum praktek adalah sebagai berikut:
- Sistem Operasi Ubuntu 16.04 Server Edition
+  Sistem Operasi Ubuntu 16.04 Server Edition
 Saya memutuskan untuk praktek pembuatan server cloud storage dengan menggunakan sistem operasi linux Ubuntu 16.</description>
     </item>
     
@@ -203,8 +207,7 @@ Saya memutuskan untuk praktek pembuatan server cloud storage dengan menggunakan 
       <pubDate>Sun, 20 Sep 2020 01:17:40 +0700</pubDate>
       
       <guid>https://kodebaper.com/blog/rencana-belajar-membangun-cloud-storage-di-server-sendiri/</guid>
-      <description>SESION 1 Pengenalan tujuan pembuatan Server Cloud Storage  
-Praktek membuat cloud storage dari server sendiri yang saya buat dari nol di dasari keinginan saya untuk memilik tempat backup terhadap data-data yang saya miliki alih-alih ingin mempunyai backup penyimpanan data seperti layaknya Google Drive akhirnya saya putuskan untuk membuat cloud storage versi sendiri, Artikel ini merupakan bagian dari 3 artikel yang akan saya bahas kedepan, seperti biasa saya menuliskan panduan dalam bentuk artikel ini secara berseri mulai dari</description>
+      <description>SESION 1 Pengenalan tujuan pembuatan Server Cloud Storage Praktek membuat cloud storage dari server sendiri yang saya buat dari nol di dasari keinginan saya untuk memilik tempat backup terhadap data-data yang saya miliki alih-alih ingin mempunyai backup penyimpanan data seperti layaknya Google Drive akhirnya saya putuskan untuk membuat cloud storage versi sendiri, Artikel ini merupakan bagian dari 3 artikel yang akan saya bahas kedepan, seperti biasa saya menuliskan panduan dalam bentuk artikel ini secara berseri mulai dari</description>
     </item>
     
     <item>
@@ -282,10 +285,8 @@ Praktek membuat cloud storage dari server sendiri yang saya buat dari nol di das
       <pubDate>Sat, 05 Sep 2020 18:39:13 +0700</pubDate>
       
       <guid>https://kodebaper.com/blog/first-impression-belajar-kotlin/</guid>
-      <description>Yakin mau belajar KOTLIN?
-
- 
-Ini merupakan artikel perdana saya, dimana pada artikel ini merupakan catatan pertama kalinya saya belajar pemrograman mobile menggunakan Kotlin, lebih tepatnya ini bukan merupakan catatan belajar sih tapi agenda paling awal yang saya susun untuk mempelajari bahasa pemrograman dengan menggunakan Kotlin, dimana rencananya saya akan fokus belajar mobile programming menggunaka bahasa pemrograman Kotlin. Lalu disini saua akan menguraikan beberapa hal yang mendasari saya belajar Kotlin diantaranya yaitu :</description>
+      <description>Ini merupakan artikel perdana saya, dimana pada artikel ini merupakan catatan pertama kalinya saya belajar pemrograman mobile menggunakan Kotlin, lebih tepatnya ini bukan merupakan catatan belajar sih tapi agenda paling awal yang saya susun untuk mempelajari bahasa pemrograman dengan menggunakan Kotlin, dimana rencananya saya akan fokus belajar mobile programming menggunaka bahasa pemrograman Kotlin. Lalu disini saua akan menguraikan beberapa hal yang mendasari saya belajar Kotlin diantaranya yaitu :
+  Prospek Kedepan yang bagus terhadap profesi menjadi seorang Programmer aplikasi mobile.</description>
     </item>
     
     <item>
@@ -294,9 +295,7 @@ Ini merupakan artikel perdana saya, dimana pada artikel ini merupakan catatan pe
       <pubDate>Fri, 04 Sep 2020 23:57:14 +0700</pubDate>
       
       <guid>https://kodebaper.com/blog/saya-terinspirasi-petani-kode-dan-kecanduan-baca-di-medium/</guid>
-      <description>Petani Kode   &amp;amp;  Medium ? 
- 
-Blog ini di bangun karena hobi saya membaca dan suka menulis sesuatu yang sudah pernah saya pelajari, serta saya senang mengagendakan ilmu-ilmu yang kedepan ingin saya pelajari dan kuasai. Itu sebabnya dari dulu saya suka ngeblog dan salah satu hal yang menarik perhatian saya yaitu Medium sebagai platform untuk menulis blog, di Medium kita bisa menemukan berbagai macam artikel dari tulisan orang-orang di seluruh dunia yang begitu menarik dan sangat enak untuk di baca menurut saya.</description>
+      <description>Blog ini di bangun karena hobi saya membaca dan suka menulis sesuatu yang sudah pernah saya pelajari, serta saya senang mengagendakan ilmu-ilmu yang kedepan ingin saya pelajari dan kuasai. Itu sebabnya dari dulu saya suka ngeblog dan salah satu hal yang menarik perhatian saya yaitu Mediumsebagai platform untuk menulis blog, di Mediumkita bisa menemukan berbagai macam artikel dari tulisan orang-orang di seluruh dunia yang begitu menarik dan sangat enak untuk di baca menurut saya.</description>
     </item>
     
     <item>
@@ -305,8 +304,7 @@ Blog ini di bangun karena hobi saya membaca dan suka menulis sesuatu yang sudah 
       <pubDate>Fri, 04 Sep 2020 10:47:51 +0700</pubDate>
       
       <guid>https://kodebaper.com/blog/membuat-website-mudah-cukup-dari-terminal/</guid>
-      <description>Buat blog dari nol cukup dipersenjatai aplikasi console Terminal dan Text Editor
-Saya mengawali dunia Blogging dari CMS&amp;hellip;.. Ngobrol produktif kali ini saya akan bercerita sedikit tentang pertama kalinya saya membuat website sendiri lebih tepatnya blog sebenarnya hingga dapat di akses di internet, karena ternyata tidak semua website di buat dengan kerumitan yang selalu di bayangkan oleh seorang yang masih awam dalam dunia programming khususnya web progrmming, orang awamnya itu saya sendiri tentunya.</description>
+      <description>Saya mengawali dunia Blogging dari CMS&amp;hellip;.. Ngobrol produktif kali ini saya akan bercerita sedikit tentang pertama kalinya saya membuat website sendiri lebih tepatnya blog sebenarnya hingga dapat di akses di internet, karena ternyata tidak semua website di buat dengan kerumitan yang selalu di bayangkan oleh seorang yang masih awam dalam dunia programming khususnya web progrmming, orang awamnya itu saya sendiri tentunya. Saya sendiri sempat membayangkan untuk membuat website itu sulit dan butuh keahlian yang baik dalam bidang programming, lebih jauhnya saya membayangkan ingin memiliki blog tempat saya meletakan tulisan-tulisan saya di internet dimana seluruh isi dari blog baik proses pembuatan hingga mengisi konten saya harus paham seluruhnya.</description>
     </item>
     
     <item>
@@ -315,10 +313,8 @@ Saya mengawali dunia Blogging dari CMS&amp;hellip;.. Ngobrol produktif kali ini 
       <pubDate>Fri, 04 Sep 2020 00:41:46 +0700</pubDate>
       
       <guid>https://kodebaper.com/blog/cara-memasang-komentar-disqus-di-hugo/</guid>
-      <description>Bagaimana Memasang komentar Disqus di Hugo?
-
-  
-Pekerjaan selanjutnya setelah kita membuat blog dengan static site Hugo lalu memasang template dan mulai mengisi dengan konten, hal yang tak kalah penting adalah menghadirkan fitur komentar di setiap artikel pada blog. Ini akan sangat penting agar tulisan kita layaknya sebuah percakapan yang membutuhkan lawan bicara untuk menanggapi percakapan kita yaitu melalui kolom komentar cara lawan bicara kita menanggapinya.</description>
+      <description>Pekerjaan selanjutnya setelah kita membuat blog dengan static site Hugo lalu memasang template dan mulai mengisi dengan konten, hal yang tak kalah penting adalah menghadirkan fitur komentar di setiap artikel pada blog. Ini akan sangat penting agar tulisan kita layaknya sebuah percakapan yang membutuhkan lawan bicara untuk menanggapi percakapan kita yaitu melalui kolom komentar cara lawan bicara kita menanggapinya.
+Pada kesempatan kali ini saya akan membahas konfigurasi Disqus comment yang di hadirkan pada blog hugo saya, pada dasarnya di website resmi hugo pada bagian dokumentasinya sudah di jelaskan dengan sangat rinci untuk bagaimana mengkonfigurasi disqus comment di hugo.</description>
     </item>
     
     <item>
@@ -327,8 +323,7 @@ Pekerjaan selanjutnya setelah kita membuat blog dengan static site Hugo lalu mem
       <pubDate>Wed, 02 Sep 2020 19:35:23 +0700</pubDate>
       
       <guid>https://kodebaper.com/blog/tips-menulis-artikel-di-hugo-static-site/</guid>
-      <description>Tips Menulis Artikel Di Hugo Static Site
-Sebagai seorang blogger yang menggunakan static site Hugo sebagai mesin blognya, ngeblog dengan terminal merupakan suatu hal yang cukup berbeda bagi saya karena sebelumnya dari dulu saya selalu membuat blog menggunakan CMS yang kaya akan fitur graphical user interfacenya. Namun kali ini saya dihadapkan dengan keadaan yang berbeda dimana menulis artikel di blog menggunakan Hugo cukup menggunakan text editor saja.</description>
+      <description>Sebagai seorang blogger yang menggunakan static site Hugo sebagai mesin blognya, ngeblog dengan terminal merupakan suatu hal yang cukup berbeda bagi saya karena sebelumnya dari dulu saya selalu membuat blog menggunakan CMS yang kaya akan fitur graphical user interfacenya. Namun kali ini saya dihadapkan dengan keadaan yang berbeda dimana menulis artikel di blog menggunakan Hugo cukup menggunakan text editor saja. Artikel ini akan saya update dengan pembahasan yang lebih lengkap lagi di lain waktu dengan tips-tips yang lain mengenai cara penulisan artikel di Hugo, adapun tips yang saya tulis saat ini masih sebatas keseluruhan yang saya pakai dalam penulisan di blog saya saat ini.</description>
     </item>
     
     <item>
@@ -337,9 +332,8 @@ Sebagai seorang blogger yang menggunakan static site Hugo sebagai mesin blognya,
       <pubDate>Tue, 01 Sep 2020 16:15:01 +0700</pubDate>
       
       <guid>https://kodebaper.com/blog/perintah-dasar-git-untuk-pemula/</guid>
-      <description>Yuk belajar! Perintah Dasar Git Untuk Pemula
- 
-Berikut merupakan perintah dasar dalam penggunaan Git yang cocok untuk di ketahui dan di pahami oleh seorang pemula, lebih tepatnya untuk saya pribadi karena dengan hadirnya artikel ini salah satunya sebagai tempat saya merangkum apa-apa yang sudah saya pelajari, dan untuk seorang pemula seperti saya ini sangatlah perlu. Saya sendiri sampai dengan artikel ini di posting, saya baru mengenal Git sekitar 7 bulan yang lalu.</description>
+      <description>Berikut merupakan perintah dasar dalam penggunaan Git yang cocok untuk di ketahui dan di pahami oleh seorang pemula, lebih tepatnya untuk saya pribadi karena dengan hadirnya artikel ini salah satunya sebagai tempat saya merangkum apa-apa yang sudah saya pelajari, dan untuk seorang pemula seperti saya ini sangatlah perlu. Saya sendiri sampai dengan artikel ini di posting, saya baru mengenal Git sekitar 7 bulan yang lalu.
+Kemudian secara berkala artikel ini juga akan saya update dengan melanjutkan untuk pembahasan yang serupa dengan artikel ini namun dengan perintah Git dan penjelasan yang lain seiring berjalannya waktu saya menggunakan git.</description>
     </item>
     
     <item>
@@ -348,9 +342,8 @@ Berikut merupakan perintah dasar dalam penggunaan Git yang cocok untuk di ketahu
       <pubDate>Tue, 01 Sep 2020 13:26:03 +0700</pubDate>
       
       <guid>https://kodebaper.com/blog/solved-fatal-not-a-git-repository-or-any-of-the-parent-directories/</guid>
-      <description>Solved : Fatal Not a Git Repository or Any of the Parent Directories.
- 
-Bagi saya untuk mendokumentasikan setiap error yang di temui dalam setiap pembelajaran sangatlah penting, terlebih saya adalah seorang pemula untuk belajar membangun blog dengan menggunakan static site Hugo, kemudian belajar programming dengan Kotlin maka dari itu mendokumentasikan setiap pembelajaran dengan menuangkan dalam sebuah tulisan di blog merupakan suatu keharusan untuk saya sendiri dimana ini akan bermanfaat kedepannya.</description>
+      <description>Bagi saya untuk mendokumentasikan setiap error yang di temui dalam setiap pembelajaran sangatlah penting, terlebih saya adalah seorang pemula untuk belajar membangun blog dengan menggunakan static site Hugo, kemudian belajar programming dengan Kotlin maka dari itu mendokumentasikan setiap pembelajaran dengan menuangkan dalam sebuah tulisan di blog merupakan suatu keharusan untuk saya sendiri dimana ini akan bermanfaat kedepannya.
+Ini adalah dokumentasi kesekian kalinya, dimana pada kasus ini saya mengalami kendala dimana template yang ingin saya clone dari hasil template karya orang lain tidak bisa di pasang melalui git ke blog saya.</description>
     </item>
     
     <item>
@@ -368,7 +361,8 @@ Bagi saya untuk mendokumentasikan setiap error yang di temui dalam setiap pembel
       <pubDate>Sat, 29 Aug 2020 22:21:33 +0700</pubDate>
       
       <guid>https://kodebaper.com/blog/error-failed-to-push-some-refs-to/</guid>
-      <description>Masalah error Saat Upload Artikel Beberapa waktu lalu saya sempat menemui error pada saat akan melakukan posting artikel terbaru, seperti biasa saya update artikel di blog ini karena masih menggunakan layanan dari GitHub page dan belum ada niatan untuk pindah menggunakan layanan dari Netlifiy ataupun Forestry karena saya merasa masih nyaman untuk melakukan segala sesuatu baik update artikel terbaru penyempurnaan blog ataupun perubahan dengan cara push ke GitHub.</description>
+      <description>Masalah error Saat Upload Artikel Beberapa waktu lalu saya sempat menemui error pada saat akan melakukan posting artikel terbaru, seperti biasa saya update artikel di blog ini karena masih menggunakan layanan dari GitHub page dan belum ada niatan untuk pindah menggunakan layanan dari Netlifiy ataupun Forestry karena saya merasa masih nyaman untuk melakukan segala sesuatu baik update artikel terbaru penyempurnaan blog ataupun perubahan dengan cara push ke GitHub.
+Oke tanpa bermaksud untuk lebih jauh keluar dari topik pembahasan pada artikel ini pembahasan saya lanjutkan, sebetulnya error yang terjadi saya sendiri kurang tau penyebabnya apa, karena sebelumnya saya tidak pernah melakukan perubahan atau aktifitas sebelum menemui error ini.</description>
     </item>
     
     <item>
@@ -377,7 +371,7 @@ Bagi saya untuk mendokumentasikan setiap error yang di temui dalam setiap pembel
       <pubDate>Fri, 28 Aug 2020 00:39:06 +0700</pubDate>
       
       <guid>https://kodebaper.com/blog/error-saat-deploy-hugo-ke-github-page/</guid>
-      <description>1. Prakata sebelum pembahasana di Artikel ini Pada artikel pembahasan kali ini akan lebih mudah dan nyambung jika sebelumnya kamu sudah terlebih dahulu membaca artikel yang saya tulis sebelumnya yang berjudul Langkah mudah Deploy Hugo static site ke GitHub page karena dengan membaca artikel tersebut terlebih dahulu maka akan mudah memahami script error yang terjadi di setiap langkah saat melakukan proses deploy.
+      <description>1. Prakata sebelum pembahasana di Artikel ini Pada artikel pembahasan kali ini akan lebih mudah dan nyambung jika sebelumnya kamu sudah terlebih dahulu membaca artikel yang saya tulis sebelumnya yang berjudul Langkah mudah Deploy Hugo static site ke GitHub pagekarena dengan membaca artikel tersebut terlebih dahulu maka akan mudah memahami script error yang terjadi di setiap langkah saat melakukan proses deploy.
 2. Untuk Pertama Kalinya Deploy Hugo di GitHub Page Pertama kali melakukan Deploy blog static site Hugo saya ini ke repository GitHub yang sudah saya buat dan saya persiapkan sebelumnya, saya sempat mengalami beberapa error.</description>
     </item>
     
@@ -406,9 +400,8 @@ Berawal dari blog ini mendeploy ke GitHub page lalu memesan Domain dot com dari 
       <pubDate>Fri, 21 Aug 2020 00:44:44 +0700</pubDate>
       
       <guid>https://kodebaper.com/blog/mengenal-static-site-generator-hugo/</guid>
-      <description>Apa itu Static Site Generator Hugo ?  
-Pada kesempatan kali ini kita akan mengenal lebih jauh apa itu static site generator Hugo dan 5 alasan utama saya memilih ngeblog menggunakan Hugo.
-Hal ini berawal dari keinginan kuat saya belajar programming dimana saya mencoba keluar dari rutinitas keilmuan saya yang lebih banyak berkecimpung dengan Networking, akhirnya saya memutuskan untuk belajar permrograman yang sedang tren yaitu pemrograman untuk mobile apps.</description>
+      <description>Apa itu Static Site Generator Hugo ? Pada kesempatan kali ini kita akan mengenal lebih jauh apa itu static site generator Hugo dan 5 alasan utama saya memilih ngeblog menggunakan Hugo.
+Hal ini berawal dari keinginan kuat saya belajar programming dimana saya mencoba keluar dari rutinitas keilmuan saya yang lebih banyak berkecimpung dengan Networking, akhirnya saya memutuskan untuk belajar permrograman yang sedang tren yaitu pemrograman untuk mobile apps. Dimana langkah pertama yang saya lakukan yaitu membuat sebuah blog pribadi sebagai catatan pribadi saya sendiri sejauh mana saya akan belajar pemrograman aplikasi mobile.</description>
     </item>
     
     <item>
@@ -417,8 +410,7 @@ Hal ini berawal dari keinginan kuat saya belajar programming dimana saya mencoba
       <pubDate>Fri, 21 Aug 2020 00:36:50 +0700</pubDate>
       
       <guid>https://kodebaper.com/blog/opini-saya-tentang-mahasiswa/</guid>
-      <description>Opini Saya Tentang Mahasiswa  
-Berikut ini ada beberapa opini yang saya dapatkan sendiri selama menjadi mahasiswa dan saat ini baru menginjak semester IV, berbicara seorang mahasiswa khusunya yang ambil kuliah jurusan teknik komputer tentunya ada beberapa harapan &amp;ldquo;harusnya sih meurut saya pribadi&amp;rdquo; yang bisa di sematkan buat mahasiswa dengan jurusan tersebut. Opini saya sendiri juga bukan berarti saya ini paling hebat di bidang IT, tapi lebih ke pendapat saya sendiri tentang karakter-karakter mahasiswa yang saya temui di kampus tempat saya kuliah.</description>
+      <description>Opini Saya Tentang Mahasiswa Berikut ini ada beberapa opini yang saya dapatkan sendiri selama menjadi mahasiswa dan saat ini baru menginjak semester IV, berbicara seorang mahasiswa khusunya yang ambil kuliah jurusan teknik komputer tentunya ada beberapa harapan &amp;ldquo;harusnya sih meurut saya pribadi&amp;rdquo; yang bisa di sematkan buat mahasiswa dengan jurusan tersebut. Opini saya sendiri juga bukan berarti saya ini paling hebat di bidang IT, tapi lebih ke pendapat saya sendiri tentang karakter-karakter mahasiswa yang saya temui di kampus tempat saya kuliah.</description>
     </item>
     
     <item>

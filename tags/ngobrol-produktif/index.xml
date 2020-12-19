@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ngobrol Produktif on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</title>
@@ -6,11 +6,7 @@
     <description>Recent content in Ngobrol Produktif on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sat, 19 Dec 2020 11:19:04 +0700</lastBuildDate>
-    
-	<atom:link href="https://kodebaper.com/tags/ngobrol-produktif/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 19 Dec 2020 11:19:04 +0700</lastBuildDate><atom:link href="https://kodebaper.com/tags/ngobrol-produktif/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hadiah Serangan Bruteforce Di Akhir Tahun 2020</title>
       <link>https://kodebaper.com/blog/hadiah-serangan-bruteforce-di-akhir-tahun-2020/</link>
@@ -36,8 +32,7 @@ Intinya file ini berisi text informasi percobaan untuk melakukan Matching Passwo
       <pubDate>Fri, 04 Sep 2020 10:47:51 +0700</pubDate>
       
       <guid>https://kodebaper.com/blog/membuat-website-mudah-cukup-dari-terminal/</guid>
-      <description>Buat blog dari nol cukup dipersenjatai aplikasi console Terminal dan Text Editor
-Saya mengawali dunia Blogging dari CMS&amp;hellip;.. Ngobrol produktif kali ini saya akan bercerita sedikit tentang pertama kalinya saya membuat website sendiri lebih tepatnya blog sebenarnya hingga dapat di akses di internet, karena ternyata tidak semua website di buat dengan kerumitan yang selalu di bayangkan oleh seorang yang masih awam dalam dunia programming khususnya web progrmming, orang awamnya itu saya sendiri tentunya.</description>
+      <description>Saya mengawali dunia Blogging dari CMS&amp;hellip;.. Ngobrol produktif kali ini saya akan bercerita sedikit tentang pertama kalinya saya membuat website sendiri lebih tepatnya blog sebenarnya hingga dapat di akses di internet, karena ternyata tidak semua website di buat dengan kerumitan yang selalu di bayangkan oleh seorang yang masih awam dalam dunia programming khususnya web progrmming, orang awamnya itu saya sendiri tentunya. Saya sendiri sempat membayangkan untuk membuat website itu sulit dan butuh keahlian yang baik dalam bidang programming, lebih jauhnya saya membayangkan ingin memiliki blog tempat saya meletakan tulisan-tulisan saya di internet dimana seluruh isi dari blog baik proses pembuatan hingga mengisi konten saya harus paham seluruhnya.</description>
     </item>
     
   </channel>

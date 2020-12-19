@@ -18,13 +18,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-M4V2QQN');</script>
 
   <meta charset="UTF-8" />
-  
-<meta itemprop="name" content="Error Failed to Push Some Refs To">
+  <meta itemprop="name" content="Error Failed to Push Some Refs To">
 <meta itemprop="description" content="Error Saat push ke Git">
-
-
-<meta itemprop="datePublished" content="2020-08-29T22:21:33&#43;07:00" />
-<meta itemprop="dateModified" content="2020-08-29T22:21:33&#43;07:00" />
+<meta itemprop="datePublished" content="2020-08-29T22:21:33+07:00" />
+<meta itemprop="dateModified" content="2020-08-29T22:21:33+07:00" />
 <meta itemprop="wordCount" content="363">
 
 
@@ -36,8 +33,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta property="og:description" content="Error Saat push ke Git" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://kodebaper.com/blog/error-failed-to-push-some-refs-to/" />
-<meta property="article:published_time" content="2020-08-29T22:21:33&#43;07:00"/>
-<meta property="article:modified_time" content="2020-08-29T22:21:33&#43;07:00"/>
+<meta property="article:published_time" content="2020-08-29T22:21:33+07:00" />
+<meta property="article:modified_time" content="2020-08-29T22:21:33+07:00" />
 
   <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Error Failed to Push Some Refs To"/>
@@ -159,46 +156,29 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <section class="post-content">
   
-  
-
-<p><center>
-<img src="/images/errorpush.png" width="642" height="362">
-</center></p>
-
+  <!-- raw HTML omitted -->
 <h1 id="masalah-error-saat-upload-artikel">Masalah error Saat Upload Artikel</h1>
-
 <p>Beberapa waktu lalu saya sempat menemui error pada saat akan melakukan posting artikel terbaru, seperti biasa saya update artikel di blog ini karena masih menggunakan layanan dari GitHub page dan belum ada niatan untuk pindah menggunakan layanan dari <em>Netlifiy</em> ataupun <em>Forestry</em> karena saya merasa masih nyaman untuk melakukan segala sesuatu baik update artikel terbaru penyempurnaan blog ataupun perubahan dengan cara push ke GitHub.</p>
-
 <p>Oke tanpa bermaksud untuk lebih jauh keluar dari topik pembahasan pada artikel ini pembahasan saya lanjutkan, sebetulnya error yang terjadi saya sendiri kurang tau penyebabnya apa, karena sebelumnya saya tidak pernah melakukan perubahan atau aktifitas sebelum menemui error ini. Seperti biasa yang saya lakukan setiap posting artikel terbaru atau melakukan update berkala perubahan pada blog, saya selalu push ke GitHub Page dengan 5 perintah ini.</p>
-
 <pre><code># hugo
 # cd public/
 # git add .
 # git commit -m &quot;pesan-commit-kamu&quot;
 # git push -u origin master
 </code></pre>
-
 <p>Dari perintah yang saya masukan 1 sampai 4 berjalan seperti biasa, tapi begitu saya masukan perintah push ke 5.</p>
-
 <pre><code># git push -u origin master
 </code></pre>
-
 <p>Saya mendapatkan pesan error seperti ini.</p>
-
 <pre><code>error: failed to push some refs to 'https://github.com/kodebaper/kodebaper.github.io.git'
 hint : Updates were rejected because the tip of your current branch is behind
 hint : 'git pul ...') before pushing again.
 </code></pre>
-
 <p>Kurang lebih pesan error seperti di atas, hal yang selalu saya lakukan setiap menemui error adalah saya akan mulai membaca satu-persatu pesan error yang di berikan. Karena hampir setiap kita menggunakan layanan Git kemudian kita menemui permasalahan, sepengalaman saya pasti pesan error di sertakan dimana ini akan memudahkan kita untuk melakukan trace terhadap error untuk kita perbaiki. Tips lain untuk memudahkan kita dalam memahami pesan error adalah berusaha belajar bahasa inggris karena dengan memahami dan bisa bahasa inggris akan memudahkan kit dalam segala hal, terlebih sebagian besar artikel di internet menurut saya banyak sekali yang tersedia dalam bahasa inggris ataupun untuk membaca sebuah dokumentasi.</p>
-
 <h2 id="error-dapat-teratasi-dengan-perintah-ini">Error dapat teratasi dengan perintah ini</h2>
-
 <p>Akhirnya saya mendapatkan solusi untuk mengatasi permasalahan seperti di atas agar kita bisa push kembali untuk update ke GitHub Page, ini adalah scriptnya</p>
-
 <pre><code># git pull –rebase   
 </code></pre>
-
 <p>Dan permasalahan pun selesai, saya dapat kembali push ke git, selamat mencoba!</p>
 
 </section>
@@ -267,12 +247,9 @@ hint : 'git pul ...') before pushing again.
   </div>
   <div class="widget-content">
     <nav id="TableOfContents">
-<ul>
-<li><a href="#masalah-error-saat-upload-artikel">Masalah error Saat Upload Artikel</a>
-<ul>
-<li><a href="#error-dapat-teratasi-dengan-perintah-ini">Error dapat teratasi dengan perintah ini</a></li>
-</ul></li>
-</ul>
+  <ul>
+    <li><a href="#error-dapat-teratasi-dengan-perintah-ini">Error dapat teratasi dengan perintah ini</a></li>
+  </ul>
 </nav>
   </div>
 </div>

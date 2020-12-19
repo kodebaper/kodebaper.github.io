@@ -1,11 +1,54 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kodebaper.com/blog/cara-upgrade-hugo-ke-versi-terbaru-di-macos/</loc>
+    <lastmod>2020-12-19T22:58:00+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
     <loc>https://kodebaper.com/categories/</loc>
-    <lastmod>2020-12-19T11:19:04+07:00</lastmod>
-    <priority>0</priority>
+    <lastmod>2020-12-19T22:58:00+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/categories/hugo/</loc>
+    <lastmod>2020-12-19T22:58:00+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/hugo-ssg/</loc>
+    <lastmod>2020-12-19T22:58:00+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/</loc>
+    <lastmod>2020-12-19T22:58:00+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/</loc>
+    <lastmod>2020-12-19T22:58:00+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/tutorial-hugo/</loc>
+    <lastmod>2020-12-19T22:58:00+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
@@ -18,55 +61,43 @@
   <url>
     <loc>https://kodebaper.com/tags/kerentanan-sistem/</loc>
     <lastmod>2020-12-19T11:19:04+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/</loc>
-    <lastmod>2020-12-19T11:19:04+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.com/tags/ngobrol-produktif/</loc>
     <lastmod>2020-12-19T11:19:04+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.com/categories/secangkir-kopi/</loc>
     <lastmod>2020-12-19T11:19:04+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.com/tags/serangan-keamanan/</loc>
     <lastmod>2020-12-19T11:19:04+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/tags/</loc>
-    <lastmod>2020-12-19T11:19:04+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/categories/hugo/</loc>
-    <lastmod>2020-12-10T22:59:26+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.com/tags/ngobrol-seo/</loc>
     <lastmod>2020-12-10T22:59:26+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.com/tags/seo-hugo/</loc>
     <lastmod>2020-12-10T22:59:26+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
@@ -74,12 +105,6 @@
     <lastmod>2020-12-10T22:59:26+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>7</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/tags/tutorial-hugo/</loc>
-    <lastmod>2020-12-10T22:59:26+07:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -97,12 +122,6 @@
   </url>
   
   <url>
-    <loc>https://kodebaper.com/tags/hugo-ssg/</loc>
-    <lastmod>2020-11-20T08:51:45+07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>https://kodebaper.com/blog/istilah-istilah-dalam-dunia-static-site-generator/</loc>
     <lastmod>2020-11-20T08:51:45+07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -112,13 +131,15 @@
   <url>
     <loc>https://kodebaper.com/tags/deploy/</loc>
     <lastmod>2020-11-13T13:01:42+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.com/tags/hugo-error/</loc>
     <lastmod>2020-11-13T13:01:42+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
@@ -131,13 +152,15 @@
   <url>
     <loc>https://kodebaper.com/tags/static-page-hugo/</loc>
     <lastmod>2020-11-13T13:01:42+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.com/tags/hacking-sosial-media/</loc>
     <lastmod>2020-11-08T23:44:41+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
@@ -150,13 +173,15 @@
   <url>
     <loc>https://kodebaper.com/tags/ngobrol-it/</loc>
     <lastmod>2020-11-08T23:44:41+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.com/tags/ngobrol-security/</loc>
     <lastmod>2020-11-08T23:44:41+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
@@ -239,7 +264,8 @@
   <url>
     <loc>https://kodebaper.com/tags/anak-kampus/</loc>
     <lastmod>2020-09-21T21:46:46+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
@@ -252,19 +278,22 @@
   <url>
     <loc>https://kodebaper.com/tags/belajar-server/</loc>
     <lastmod>2020-09-20T01:17:57+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.com/tags/cloud-server/</loc>
     <lastmod>2020-09-20T01:17:57+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.com/categories/linux-enthusiast/</loc>
     <lastmod>2020-09-20T01:17:57+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
@@ -284,7 +313,8 @@
   <url>
     <loc>https://kodebaper.com/tags/linux-dasar/</loc>
     <lastmod>2020-09-13T23:56:26+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
@@ -339,7 +369,8 @@
   <url>
     <loc>https://kodebaper.com/tags/belajar-kotlin/</loc>
     <lastmod>2020-09-05T18:39:13+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
@@ -352,13 +383,15 @@
   <url>
     <loc>https://kodebaper.com/categories/pemrograman/</loc>
     <lastmod>2020-09-05T18:39:13+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.com/tags/inspirasi-saya/</loc>
     <lastmod>2020-09-04T23:57:14+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
@@ -392,13 +425,15 @@
   <url>
     <loc>https://kodebaper.com/categories/devops/</loc>
     <lastmod>2020-09-01T16:15:01+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.com/tags/github/</loc>
     <lastmod>2020-09-01T16:15:01+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>
@@ -439,7 +474,8 @@
   <url>
     <loc>https://kodebaper.com/tags/cloud/</loc>
     <lastmod>2020-08-21T00:46:17+07:00</lastmod>
-    <priority>0</priority>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
   </url>
   
   <url>

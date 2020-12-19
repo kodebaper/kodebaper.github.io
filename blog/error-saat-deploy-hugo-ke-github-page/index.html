@@ -18,14 +18,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-M4V2QQN');</script>
 
   <meta charset="UTF-8" />
-  
-<meta itemprop="name" content="Error Saat Deploy Hugo Ke GitHub Page">
+  <meta itemprop="name" content="Error Saat Deploy Hugo Ke GitHub Page">
 <meta itemprop="description" content="Error Saat Deploy Hugo Ke GitHub Page">
-
-
-<meta itemprop="datePublished" content="2020-08-28T00:39:06&#43;07:00" />
-<meta itemprop="dateModified" content="2020-08-28T00:39:06&#43;07:00" />
-<meta itemprop="wordCount" content="682">
+<meta itemprop="datePublished" content="2020-08-28T00:39:06+07:00" />
+<meta itemprop="dateModified" content="2020-08-28T00:39:06+07:00" />
+<meta itemprop="wordCount" content="680">
 
 
 
@@ -36,8 +33,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta property="og:description" content="Error Saat Deploy Hugo Ke GitHub Page" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://kodebaper.com/blog/error-saat-deploy-hugo-ke-github-page/" />
-<meta property="article:published_time" content="2020-08-28T00:39:06&#43;07:00"/>
-<meta property="article:modified_time" content="2020-08-28T00:39:06&#43;07:00"/>
+<meta property="article:published_time" content="2020-08-28T00:39:06+07:00" />
+<meta property="article:modified_time" content="2020-08-28T00:39:06+07:00" />
 
   <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Error Saat Deploy Hugo Ke GitHub Page"/>
@@ -159,86 +156,51 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <section class="post-content">
   
-  
-
-<p><center>
-<img src="/images/hugoerror.png">
-</center></p>
-
+  <!-- raw HTML omitted -->
 <h1 id="1-prakata-sebelum-pembahasana-di-artikel-ini">1. Prakata sebelum pembahasana di Artikel ini</h1>
-
-<p>Pada artikel pembahasan kali ini akan lebih mudah dan nyambung jika sebelumnya kamu sudah terlebih dahulu membaca artikel yang saya tulis sebelumnya yang berjudul <u><strong>Langkah mudah Deploy Hugo static site ke GitHub page</strong></u> karena dengan membaca artikel tersebut terlebih dahulu maka akan mudah memahami script error yang terjadi di setiap langkah saat melakukan proses deploy.</p>
-
+<p>Pada artikel pembahasan kali ini akan lebih mudah dan nyambung jika sebelumnya kamu sudah terlebih dahulu membaca artikel yang saya tulis sebelumnya yang berjudul <!-- raw HTML omitted --><strong>Langkah mudah Deploy Hugo static site ke GitHub page</strong><!-- raw HTML omitted --> karena dengan membaca artikel tersebut terlebih dahulu maka akan mudah memahami script error yang terjadi di setiap langkah saat melakukan proses deploy.</p>
 <h2 id="2-untuk-pertama-kalinya-deploy-hugo-di-github-page">2. Untuk Pertama Kalinya Deploy Hugo di GitHub Page</h2>
-
 <p>Pertama kali melakukan Deploy blog static site Hugo saya ini ke repository GitHub yang sudah saya buat dan saya persiapkan sebelumnya, saya sempat mengalami beberapa error.</p>
-
 <p>Adapun error yang saya alami selama proses Deploy telah saya rangkum, semoga beberapa <strong>[error-solved]</strong> yang saya dokumentasikan di blog ini dapat membantu untuk siapa saja yang sedang melakukan deploy kemudian menemui kendala dengan permasalahan yang sama seperti yang saya temui.
 Walaupun sebenarnya saya tidak secara lengkap mendokumentasikan error karena terlalu banyak error yang saya temui waktu itu sehingga saya tidak sempat mencatat satu persatu dengan rinci setiap error pada saat saya melakukan deploy ke GitHub page.
 Akan tetapi sejauh ini apa yang saya dokumentasikan ini akan cukup membantu untuk permasalahan seputar <strong>langkah melakukan deploy hugo static site ke GitHub page</strong>, dan berikut ini beberapa error yang saya temui selama proses Deploy Hugo ke github page.</p>
-
 <h2 id="3-permasalahan-pada-repository-yang-telah-ada">3. Permasalahan pada repository yang telah ada</h2>
-
 <p>Ini adalah permasalahan pertama yang saya temui, dimana saya mengalami kendala saat mencoba melakukan deploy pertama kali ke github page, saya menemui masalah dengan pesan yang tertera seperti di bawah ini.</p>
-
 <pre><code>$ git remote add origin git@github.com:mazzempong/blog.git [perintah yang saya masukan]
   fatal: remote origin already exists [pesan errornya]
 </code></pre>
-
 <p>Setelah mencari beberapa saat untuk memperbaiki error tersebut, akhirnya saya menemukan untuk mengatasi permasalahan dengan pesan seperti diatas, saya menemukan solusi ini di situs <em>stackoverflow</em> berikut untuk mengatasinya.</p>
-
 <pre><code>$ git remote rm origin
 </code></pre>
-
 <p>Dan permasalahan pun selesai dengan baris perintah ini.</p>
-
 <h2 id="4-gagal-clone-repository-ke-dalam-direktori-public">4. Gagal clone repository ke dalam direktori public</h2>
-
 <p>Ini adalah masalah yang cukup panjang penyelesaiinya yang membuat saya stuck pada step ini, dimana pada tahap ini saya harus mencari kesana kemari artikel yang memberikan solusi untuk permasalahan yang saya temui. Pada akhirnya saya menemukan solusinya setelah berselancar kesana kemari untuk hal ini.</p>
-
 <p>pertama, pada tahap ini saya ingin melakukan clone dari repository yang saya buat di github dengan nama repositorynya yaitu <strong>kodebaper.github.io</strong> dimana repository ini sebelumnya adalah kosong, lalu saya buatkan submodule dari repository init.</p>
-
 <p>Nah loh, repository intinya yang mana ?&hellip;.</p>
-
 <p>Repository intinya adalah, blogbackup [ini repository inti yang saya buat]</p>
-
 <p>Jadi ada 2 repository yang saya siapkan yaitu repo blogbackup dan kodebaper.github.io, disini semua berawal dimana saat saya berada di direktori blog saya, saya mencoba untuk menambahkan <em>submodule</em> dimana submodule tersebut akan melakukan clone repository kodebaper.github.io ke dalam direktori public, namun apa yang terjadi pada saya ? banyak sekali saat itu saya dapati error yang tidak mau push ke direktori public.</p>
-
 <pre><code>Tahap ini saya lupa Dokumentasikan setiap pesan error
-[saking banyaknya error]    
+[saking banyaknya error]	
 </code></pre>
-
 <p>Oke, tidak masalah karena pada akhirnya saya menemukan solusi dari sekian banyak artikel yang saya selami untuk mengatasi permasalahan tersebut, saya lagi lagi berterimakasih kepada <em>stackoverflow</em> karena ada salah satu artikel yang membantu sehingga blog ini dapat ter-deploy di GitHub page. Langkahnya adalah :</p>
-
 <pre><code>pastikan tetap di direktori blog kamu
 </code></pre>
-
-<p>Kemudian jalankan perintah Hugo, dimana ini akan menghasilkan sekumpulan file web statis di dalam direktori <u>public</u></p>
-
+<p>Kemudian jalankan perintah Hugo, dimana ini akan menghasilkan sekumpulan file web statis di dalam direktori <!-- raw HTML omitted -->public<!-- raw HTML omitted --></p>
 <pre><code># hugo 
 </code></pre>
-
 <p>Setelah itu kita masuk ke direktori <em>public</em> untuk melakukan push</p>
-
 <pre><code># cd public/
 </code></pre>
-
 <p>Kemudian saatnya kita melakukan clone repository kodebaper.github.io ke dalam direktori public, dengan 3 baris perintah ini</p>
-
 <pre><code># git add .
 # git commit -m &quot;pesan commit kamu&quot;
 # git push -u origin master
 </code></pre>
-
 <p>Setelah selesai, saatnya kita mengecek repository username.github.io (sesuaikan repo ini dengan username github kamu ya) seharusnya sejauh ini repo kamu sudah terisi dengan file blog static hasil clone tadi.</p>
-
 <h2 id="5-fyi-untuk-langkah-ini">5. FYI untuk langkah ini</h2>
-
 <p>FYI ! langkah ini kita lakukan apabila dalam keadaan seperti yang saya alami dimana kita tidak bisa melanjutkan perintah untuk membuat submodule dengan perintah seperti di bawah ini.</p>
-
 <pre><code>git submodule add -b master git@github.com: [username-kamu]/[username-kamu].github.io.git public
 </code></pre>
-
 <p>Mungkin apabila kamu menemui hal yang sama, maka panduan ini bisa menjadi solusi, selamat mencoba !</p>
 
 </section>
@@ -307,15 +269,12 @@ Akan tetapi sejauh ini apa yang saya dokumentasikan ini akan cukup membantu untu
   </div>
   <div class="widget-content">
     <nav id="TableOfContents">
-<ul>
-<li><a href="#1-prakata-sebelum-pembahasana-di-artikel-ini">1. Prakata sebelum pembahasana di Artikel ini</a>
-<ul>
-<li><a href="#2-untuk-pertama-kalinya-deploy-hugo-di-github-page">2. Untuk Pertama Kalinya Deploy Hugo di GitHub Page</a></li>
-<li><a href="#3-permasalahan-pada-repository-yang-telah-ada">3. Permasalahan pada repository yang telah ada</a></li>
-<li><a href="#4-gagal-clone-repository-ke-dalam-direktori-public">4. Gagal clone repository ke dalam direktori public</a></li>
-<li><a href="#5-fyi-untuk-langkah-ini">5. FYI untuk langkah ini</a></li>
-</ul></li>
-</ul>
+  <ul>
+    <li><a href="#2-untuk-pertama-kalinya-deploy-hugo-di-github-page">2. Untuk Pertama Kalinya Deploy Hugo di GitHub Page</a></li>
+    <li><a href="#3-permasalahan-pada-repository-yang-telah-ada">3. Permasalahan pada repository yang telah ada</a></li>
+    <li><a href="#4-gagal-clone-repository-ke-dalam-direktori-public">4. Gagal clone repository ke dalam direktori public</a></li>
+    <li><a href="#5-fyi-untuk-langkah-ini">5. FYI untuk langkah ini</a></li>
+  </ul>
 </nav>
   </div>
 </div>

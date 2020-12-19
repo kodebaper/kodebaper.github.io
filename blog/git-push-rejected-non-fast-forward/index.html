@@ -18,14 +18,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-M4V2QQN');</script>
 
   <meta charset="UTF-8" />
-  
-<meta itemprop="name" content="Git push rejected non-fast-forward">
+  <meta itemprop="name" content="Git push rejected non-fast-forward">
 <meta itemprop="description" content="Git push rejected non-fast-forward">
-
-
-<meta itemprop="datePublished" content="2020-09-24T01:14:45&#43;07:00" />
-<meta itemprop="dateModified" content="2020-09-24T01:14:45&#43;07:00" />
-<meta itemprop="wordCount" content="284">
+<meta itemprop="datePublished" content="2020-09-24T01:14:45+07:00" />
+<meta itemprop="dateModified" content="2020-09-24T01:14:45+07:00" />
+<meta itemprop="wordCount" content="280">
 
 
 
@@ -36,8 +33,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta property="og:description" content="Git push rejected non-fast-forward" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://kodebaper.com/blog/git-push-rejected-non-fast-forward/" />
-<meta property="article:published_time" content="2020-09-24T01:14:45&#43;07:00"/>
-<meta property="article:modified_time" content="2020-09-24T01:14:45&#43;07:00"/>
+<meta property="article:published_time" content="2020-09-24T01:14:45+07:00" />
+<meta property="article:modified_time" content="2020-09-24T01:14:45+07:00" />
 
   <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Git push rejected non-fast-forward"/>
@@ -159,19 +156,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <section class="post-content">
   
-  <p>
-<p align="left"><font size="8"><b> Git push rejected "non-fast-forward"</b></font></p>
-</p>
-
+  <!-- raw HTML omitted -->
 <p>beberapa hari yang lalu saya sempat mengalami error setelah melakukan custom domain di github page, dimana ketika perubahan blog ini saya lakukan dan ingin melakukan update perubahan tersebut dengan cara push hasil perubahan ke repository github namun di tolak, kurang lebih untuk pesan error seperti di bawah ini :</p>
-
 <p>Perintah git untuk untuk push perubahan sebagai berikut</p>
-
-<pre><code># git push -u origin master     
+<pre><code># git push -u origin master		
 </code></pre>
-
 <p>Pada step ini saya mendapati error kurang lebih seperti di bawah ini :</p>
-
 <pre><code>error: failed to push some refs to 'https://github.com/kodebaper/kodebaper.github.io.git'
 hint: Updates were rejected because the remote contains work that you do
 hint: not have locally. This is usually caused by another repository pushing
@@ -179,24 +169,19 @@ hint: to the same ref. You may want to first integrate the remote changes
 hint: (e.g., 'git pull ...') before pushing again.
 hint: See the 'Note about fast-forwards' in 'git push --help' for details.
 </code></pre>
-
 <p>Sedikit penjelasan dari yang saya baca dari Stackoverflow untuk kasus ini, bahwa perubahan dari blog untuk di push ke repository github di tolak karena ada indikasinya repository lain yang terdorong ke repository sebelumnya, disini mungkin penyebabnya saya melakukan perubahan terhadap file <code>.toml</code> dimana saya merubah domain saya yang semula <code>https://kodebaper.github.io</code> menjadi <code>https://kodebaper.com</code>. Tapi tidak perlu khawatir karena disini ada penyelesaian singkatnya melalui perintah dibawah ini.</p>
-
 <pre><code>git fetch origin master:tmp
 git rebase tmp
 git push origin HEAD:master
 git branch -D tmp
 </code></pre>
-
 <p>setelah ini di masukan saatnya kita tes dengan melakukan perubahan kembali terhadap blog, kemudian seperti biasa push ulang ke Github Page dengan cara seperti berikut :</p>
-
 <pre><code>hugo
 cd /public
 git add .
 git commit -m &quot;catatan push&quot;
 git push -u origin master
 </code></pre>
-
 <p>selanjutnya untuk tahapan ini semestinya sudah bisa berjalan normal, demikian artikel kali ini semoga bermanfaat !</p>
 
 </section>
@@ -264,7 +249,7 @@ git push -u origin master
     Daftar Isi Artikel
   </div>
   <div class="widget-content">
-    
+    <nav id="TableOfContents"></nav>
   </div>
 </div>
 <div class="sidebar-widget-area">

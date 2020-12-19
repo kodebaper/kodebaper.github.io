@@ -18,13 +18,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-M4V2QQN');</script>
 
   <meta charset="UTF-8" />
-  
-<meta itemprop="name" content="Memanfaatkan Github Page Untuk Deploy Hugo">
+  <meta itemprop="name" content="Memanfaatkan Github Page Untuk Deploy Hugo">
 <meta itemprop="description" content="Mengenal Github Page Untuk Deploy Hugo">
-
-
-<meta itemprop="datePublished" content="2020-08-21T00:45:39&#43;07:00" />
-<meta itemprop="dateModified" content="2020-08-21T00:45:39&#43;07:00" />
+<meta itemprop="datePublished" content="2020-08-21T00:45:39+07:00" />
+<meta itemprop="dateModified" content="2020-08-21T00:45:39+07:00" />
 <meta itemprop="wordCount" content="703">
 
 
@@ -36,8 +33,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <meta property="og:description" content="Mengenal Github Page Untuk Deploy Hugo" />
 <meta property="og:type" content="article" />
 <meta property="og:url" content="https://kodebaper.com/blog/mengenal-github-page-untuk-deploy-hugo/" />
-<meta property="article:published_time" content="2020-08-21T00:45:39&#43;07:00"/>
-<meta property="article:modified_time" content="2020-08-21T00:45:39&#43;07:00"/>
+<meta property="article:published_time" content="2020-08-21T00:45:39+07:00" />
+<meta property="article:modified_time" content="2020-08-21T00:45:39+07:00" />
 
   <meta name="twitter:card" content="summary"/>
 <meta name="twitter:title" content="Memanfaatkan Github Page Untuk Deploy Hugo"/>
@@ -159,70 +156,62 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <section class="post-content">
   
-  
-
-<h1 id="memanfaatkan-github-page-untuk-deploy-hugo">Memanfaatkan Github Page Untuk Deploy Hugo</h1>
-
+  <h1 id="memanfaatkan-github-page-untuk-deploy-hugo">Memanfaatkan Github Page Untuk Deploy Hugo</h1>
 <p>Beberapa waktu yang lalu saya sudah memposting artikel tentang perkenalan singkat blog pribadi saya ini yang menggunakan static site generator dari Hugo, nah untuk kesempatan kali ini saya akan mengenalkan alternatif yang saya gunakan untuk menghosting blog hugo saya secara gratis, setelah baca-baca dokumentasi yang tersedia di website resmi Hugo, ternyata saya menemukan cara yang sudah di dokumentasikan dengan sangat jelas oleh tim Hugo tentang bagaimana melakukan deploy hugo di layanan GitHub Page. Pada dasarnya banyak cara yang bisa kita lakukan untuk mendeploy Hugo ini ke github namun perlu menjadi catatan disini terkadang tidak semua cara yang terdokumentasi di website resmi hugo dapat kita ikuti.</p>
-
 <p>Mengapa demikian ? ya, karena sepengalaman saya pada langkah tertentu terkadang kita akan menemui error contohnya saya sendiri. Ini bisa terjadi karena ada beberapa faktor dan lain hal, untuk itu dokumentasi yang saya tulis ini adalah dokumentasi dimana saya melakukan deploy Hugo ke GitHub setelah mengalami beberapa error.</p>
-
 <p>Berikut merupakan langkah-langkah mendeploy Hugo ke GitHub page:</p>
-
 <ul>
-<li><p>Pastikan kamu sudah membuat account di github melalui situs resminya <strong><a href="https://github.com/">https://github.com/</a></strong></p></li>
-
-<li><p>Kemudian sebelum melangkah lebih jauh ada baiknya seting SSH terlebih dahulu ke github agar saat push file ke repositori di github tidak repot. [optional ya, ini hanya saran saya]</p></li>
-
-<li><p>Kemudian buatlah 2 Repositori di github, yaitu repositori:</p>
-
+<li>
+<p>Pastikan kamu sudah membuat account di github melalui situs resminya <strong><a href="https://github.com/">https://github.com/</a></strong></p>
+</li>
+<li>
+<p>Kemudian sebelum melangkah lebih jauh ada baiknya seting SSH terlebih dahulu ke github agar saat push file ke repositori di github tidak repot. [optional ya, ini hanya saran saya]</p>
+</li>
+<li>
+<p>Kemudian buatlah 2 Repositori di github, yaitu repositori:</p>
 <blockquote>
 <p>blogku [terserah mau di kasih nama apa]</p>
-
+</blockquote>
+<blockquote>
 <p>username.github.io</p>
 </blockquote>
-
-<p><center>
-<img src="/images/gitaccount.png" width="642" height="362">
-</center></p>
-
+<!-- raw HTML omitted -->
 <p>Kurang lebih seperti gamabr di atas dengan nama repositori yang sudah kamu siapkan, lakukan 2 kali namun untuk yang keduanya, wajib ya buat nama Repositori <strong>username.github.io</strong> sesuaikan saja dengan username account GitHub kamu.</p>
-
-<p>Mungkin ada yang bertanya kedua repositori itu fungsinya untuk apa, oke disini akan saya jelaskan berdasarkan sepengetahuan saya. Jadi repositori yang pertama sebenarnya repositori optional yang akan kita maksudkan sebagai backup dari isi file hugo kita, kemudian untuk repositori kedua akan di pusatkan sebagai repositori hasil render / menyimpan file yang ada di <em>public</em> nantinya. Kurang lebih seperti ini pemahaman saya ya, mari kita lanjut ke langkah selanjutnya.</p></li>
-
-<li><p>Pastikan kita sudah masuk ke direktori hugo kita, saya menggunakan terminal pada kasus ini dimana saya simpan file Hugo saya di direktori /Hugo Project</p>
-
-<pre><code>admin$ [ini direktori pertama saya buka Terminal]
-dimas admin$ [saya sudah pindah ke direktori Hugo saya]
-</code></pre></li>
-
-<li><p>lakukan inisialisasi git terlebih dahulu dengan mengetikan perintah</p>
-
-<pre><code>git init
-</code></pre></li>
-
-<li><p>Kemudian kita tambahkan repositori remote nya ,pada kasus ini saya menggunakan SSH</p>
-
-<pre><code>git remote add origin git@github.com:UserNameKamu/NamaRepoKamu.git
-</code></pre></li>
-
-<li><p>sampai tahap ini seharusnya belum ada kendala, repositori lokal sudah selesai di persiapkan sekarang saatnya kita upload ke GitHub dengan 3 perintah ini</p>
-
-<pre><code>/git add .
-/git commit -m &quot;kasih pesan commit kamu disini ya&quot;
-/git push -u origin master
-</code></pre></li>
-
-<li><p>Pada tahap ini seharusnya repositori yang pertama kali di buat tadi di awal sudah terisi file hugo kita.</p></li>
-
-<li><p>Kemudian pada langkah ini saya menemukan cara yang sedikit berbeda dimana seharusnya kita membuat submodule dari repositori intinya yaitu [repositori blogku], mengapa mesti seperti ini ? karena, repositori [usernamekamu.github.io] masih kosong belum ada isinya itu sebabnya saat kita akses [<a href="https://usernamekamu.github.io">https://usernamekamu.github.io</a>] masih belum bisa di akses blog Hugo kamu. Cara ini saya temukan dari artikel di <em>stackoverflow</em> karena pada langkah ini dimana saya memasukan perintah</p>
-
-<pre><code>git submodule add -b master git@github.com:{username}/{username}.github.io.git public
-</code></pre></li>
+<p>Mungkin ada yang bertanya kedua repositori itu fungsinya untuk apa, oke disini akan saya jelaskan berdasarkan sepengetahuan saya. Jadi repositori yang pertama sebenarnya repositori optional yang akan kita maksudkan sebagai backup dari isi file hugo kita, kemudian untuk repositori kedua akan di pusatkan sebagai repositori hasil render / menyimpan file yang ada di <em>public</em> nantinya. Kurang lebih seperti ini pemahaman saya ya, mari kita lanjut ke langkah selanjutnya.</p>
+</li>
+<li>
+<p>Pastikan kita sudah masuk ke direktori hugo kita, saya menggunakan terminal pada kasus ini dimana saya simpan file Hugo saya di direktori /Hugo Project</p>
+<pre><code>  admin$ [ini direktori pertama saya buka Terminal]
+  dimas admin$ [saya sudah pindah ke direktori Hugo saya]
+</code></pre>
+</li>
+<li>
+<p>lakukan inisialisasi git terlebih dahulu dengan mengetikan perintah</p>
+<pre><code>  git init
+</code></pre>
+</li>
+<li>
+<p>Kemudian kita tambahkan repositori remote nya ,pada kasus ini saya menggunakan SSH</p>
+<pre><code>  git remote add origin git@github.com:UserNameKamu/NamaRepoKamu.git
+</code></pre>
+</li>
+<li>
+<p>sampai tahap ini seharusnya belum ada kendala, repositori lokal sudah selesai di persiapkan sekarang saatnya kita upload ke GitHub dengan 3 perintah ini</p>
+<pre><code>  /git add .
+  /git commit -m &quot;kasih pesan commit kamu disini ya&quot;
+  /git push -u origin master
+</code></pre>
+</li>
+<li>
+<p>Pada tahap ini seharusnya repositori yang pertama kali di buat tadi di awal sudah terisi file hugo kita.</p>
+</li>
+<li>
+<p>Kemudian pada langkah ini saya menemukan cara yang sedikit berbeda dimana seharusnya kita membuat submodule dari repositori intinya yaitu [repositori blogku], mengapa mesti seperti ini ? karena, repositori [usernamekamu.github.io] masih kosong belum ada isinya itu sebabnya saat kita akses [https://usernamekamu.github.io] masih belum bisa di akses blog Hugo kamu. Cara ini saya temukan dari artikel di <em>stackoverflow</em> karena pada langkah ini dimana saya memasukan perintah</p>
+<pre><code>  git submodule add -b master git@github.com:{username}/{username}.github.io.git public
+</code></pre>
+</li>
 </ul>
-
 <p>Terjadi error tidak mau membuat submodule <strong>[lupa saya tidak sempat catat pesan errornya waktu itu]</strong> untuk itu saya hanya menggunakan 5 langkah ini</p>
-
 <pre><code>    *Pertama masukan perintah*
     \hugo
     *Kemudian masuk direktori /public*
@@ -232,24 +221,18 @@ dimas admin$ [saya sudah pindah ke direktori Hugo saya]
     *Kemudian saatnya kita push*
     \git push -u origin master
 </code></pre>
-
 <p>Sekarang coba cek repositori di github kamu, seharusnya repositori [usernamekamu.github.io] sudah terisi file hugonya, cara ini terbukti berhasil karena saya sudah menggunakan cara ini sampai blog hugo saya saat ini dapat di akses. Satu lagi jangan sampai lupa sebelumnya tadi kita mesti mengganti URL di file <strong>config.toml</strong> dengan url repo di github kita.</p>
-
 <p>isinya kurang lebih seperti ini.</p>
-
 <pre><code>baseURL = &quot;https://usernameKamu.github.io/&quot; [sesuaikan dengan punya kamu]
 languageCode = &quot;en-US&quot;
 title = &quot;blog ku&quot;
 theme = &quot;namathemekamu&quot;
 </code></pre>
-
 <p>Sebelum artikel ini saya akhiri, perlu di ingat bahwa setiap kali kita melakukan perubahan blog lalu kita akan mengupdate untuk bisa di akses di internet kita mesti selalu memasukan perintah ini.</p>
-
 <pre><code>/git add .
 /git commit -m &quot;kasih pesan commit kamu disini ya&quot;
 /git push -u origin master
 </code></pre>
-
 <p>Semoga artikel ini bermanfaat, selamat belajar!</p>
 
 </section>
@@ -317,11 +300,7 @@ theme = &quot;namathemekamu&quot;
     Daftar Isi Artikel
   </div>
   <div class="widget-content">
-    <nav id="TableOfContents">
-<ul>
-<li><a href="#memanfaatkan-github-page-untuk-deploy-hugo">Memanfaatkan Github Page Untuk Deploy Hugo</a></li>
-</ul>
-</nav>
+    <nav id="TableOfContents"></nav>
   </div>
 </div>
 <div class="sidebar-widget-area">
