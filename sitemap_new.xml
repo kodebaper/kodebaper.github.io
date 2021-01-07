@@ -3,6 +3,76 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://kodebaper.com/blog/cara-mengatasi-earnings-at-riskyou-need-to-fix-some-ads-txt-file/</loc>
+    <lastmod>2021-01-02T01:34:14+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/categories/</loc>
+    <lastmod>2021-01-02T01:34:14+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/google-adsense/</loc>
+    <lastmod>2021-01-02T01:34:14+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/categories/hugo/</loc>
+    <lastmod>2021-01-02T01:34:14+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/hugo-error/</loc>
+    <lastmod>2021-01-02T01:34:14+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/</loc>
+    <lastmod>2021-01-02T01:34:14+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/ngobrol-seo/</loc>
+    <lastmod>2021-01-02T01:34:14+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/seo-hugo/</loc>
+    <lastmod>2021-01-02T01:34:14+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/</loc>
+    <lastmod>2021-01-02T01:34:14+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/tutorial-hugo/</loc>
+    <lastmod>2021-01-02T01:34:14+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
     <loc>https://kodebaper.com/blog/cara-upgrade-hugo-ke-versi-terbaru-di-macos/</loc>
     <lastmod>2020-12-19T22:58:00+07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -10,42 +80,7 @@
   </url>
   
   <url>
-    <loc>https://kodebaper.com/categories/</loc>
-    <lastmod>2020-12-19T22:58:00+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>7</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/categories/hugo/</loc>
-    <lastmod>2020-12-19T22:58:00+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>7</priority>
-  </url>
-  
-  <url>
     <loc>https://kodebaper.com/tags/hugo-ssg/</loc>
-    <lastmod>2020-12-19T22:58:00+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>7</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/</loc>
-    <lastmod>2020-12-19T22:58:00+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>7</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/tags/</loc>
-    <lastmod>2020-12-19T22:58:00+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>7</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/tags/tutorial-hugo/</loc>
     <lastmod>2020-12-19T22:58:00+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>7</priority>
@@ -87,20 +122,6 @@
   </url>
   
   <url>
-    <loc>https://kodebaper.com/tags/ngobrol-seo/</loc>
-    <lastmod>2020-12-10T22:59:26+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>7</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/tags/seo-hugo/</loc>
-    <lastmod>2020-12-10T22:59:26+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>7</priority>
-  </url>
-  
-  <url>
     <loc>https://kodebaper.com/blog/teknik-seo-untuk-hugo-static-site/</loc>
     <lastmod>2020-12-10T22:59:26+07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -130,13 +151,6 @@
   
   <url>
     <loc>https://kodebaper.com/tags/deploy/</loc>
-    <lastmod>2020-11-13T13:01:42+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>7</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/tags/hugo-error/</loc>
     <lastmod>2020-11-13T13:01:42+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>7</priority>
