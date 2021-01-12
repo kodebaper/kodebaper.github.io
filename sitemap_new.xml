@@ -3,14 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kodebaper.com/blog/cara-mengatasi-earnings-at-riskyou-need-to-fix-some-ads-txt-file/</loc>
-    <lastmod>2021-01-02T01:34:14+07:00</lastmod>
+    <loc>https://kodebaper.com/categories/</loc>
+    <lastmod>2021-01-13T00:49:26+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>7</priority>
   </url>
   
   <url>
-    <loc>https://kodebaper.com/categories/</loc>
+    <loc>https://kodebaper.com/tags/kerentanan-sistem/</loc>
+    <lastmod>2021-01-13T00:49:26+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/</loc>
+    <lastmod>2021-01-13T00:49:26+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/blog/mengenal-apa-itu-data-forgery/</loc>
+    <lastmod>2021-01-13T00:49:26+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/ngobrol-produktif/</loc>
+    <lastmod>2021-01-13T00:49:26+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/categories/secangkir-kopi/</loc>
+    <lastmod>2021-01-13T00:49:26+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/serangan-keamanan/</loc>
+    <lastmod>2021-01-13T00:49:26+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/</loc>
+    <lastmod>2021-01-13T00:49:26+07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>7</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/blog/cara-mengatasi-earnings-at-riskyou-need-to-fix-some-ads-txt-file/</loc>
     <lastmod>2021-01-02T01:34:14+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>7</priority>
@@ -38,13 +87,6 @@
   </url>
   
   <url>
-    <loc>https://kodebaper.com/</loc>
-    <lastmod>2021-01-02T01:34:14+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>7</priority>
-  </url>
-  
-  <url>
     <loc>https://kodebaper.com/tags/ngobrol-seo/</loc>
     <lastmod>2021-01-02T01:34:14+07:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -53,13 +95,6 @@
   
   <url>
     <loc>https://kodebaper.com/tags/seo-hugo/</loc>
-    <lastmod>2021-01-02T01:34:14+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>7</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/tags/</loc>
     <lastmod>2021-01-02T01:34:14+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>7</priority>
@@ -88,34 +123,6 @@
   
   <url>
     <loc>https://kodebaper.com/blog/hadiah-serangan-bruteforce-di-akhir-tahun-2020/</loc>
-    <lastmod>2020-12-19T11:19:04+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>7</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/tags/kerentanan-sistem/</loc>
-    <lastmod>2020-12-19T11:19:04+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>7</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/tags/ngobrol-produktif/</loc>
-    <lastmod>2020-12-19T11:19:04+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>7</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/categories/secangkir-kopi/</loc>
-    <lastmod>2020-12-19T11:19:04+07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>7</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/tags/serangan-keamanan/</loc>
     <lastmod>2020-12-19T11:19:04+07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>7</priority>
