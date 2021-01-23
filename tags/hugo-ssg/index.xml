@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Hugo SSG on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</title>
+    <title>Hugo SSG on Kodebaper: Tempat Belajar dan Ngbrol  IT</title>
     <link>https://kodebaper.com/tags/hugo-ssg/</link>
-    <description>Recent content in Hugo SSG on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</description>
+    <description>Recent content in Hugo SSG on Kodebaper: Tempat Belajar dan Ngbrol  IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 19 Dec 2020 22:58:00 +0700</lastBuildDate><atom:link href="https://kodebaper.com/tags/hugo-ssg/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cara Upgrade Hugo Ke Versi Terbaru Di MacOS</title>
-      <link>https://kodebaper.com/blog/cara-upgrade-hugo-ke-versi-terbaru-di-macos/</link>
+      <link>https://kodebaper.com/post/cara-upgrade-hugo-ke-versi-terbaru-di-macos/</link>
       <pubDate>Sat, 19 Dec 2020 22:58:00 +0700</pubDate>
       
-      <guid>https://kodebaper.com/blog/cara-upgrade-hugo-ke-versi-terbaru-di-macos/</guid>
+      <guid>https://kodebaper.com/post/cara-upgrade-hugo-ke-versi-terbaru-di-macos/</guid>
       <description>Cara upgrade Hugo ke versi terbaru di MacOS Pada pembahsan artikel kali ini, saya akan mebahas bagaimana caranya melakukan upgrade Hugo versi lama ke Hugo versi paling terbaru (latest version). Berikut ini merupakan cara yang saya gunakan saat melakukan upgrade versi Hugo yang paling terbaru.
  Versi Hugo sebelumnya yang saya gunakan
  Hugo Static Site Generator v0.55.4-57900417 darwin/amd64 Kemudian saya lakukan ke upgrade ke Versi terbaru pada versi ini yang sekarang saya gunakan.</description>
@@ -20,77 +20,77 @@
     
     <item>
       <title>Istilah Istilah Dalam Dunia static site generator</title>
-      <link>https://kodebaper.com/blog/istilah-istilah-dalam-dunia-static-site-generator/</link>
+      <link>https://kodebaper.com/post/istilah-istilah-dalam-dunia-static-site-generator/</link>
       <pubDate>Fri, 20 Nov 2020 08:51:45 +0700</pubDate>
       
-      <guid>https://kodebaper.com/blog/istilah-istilah-dalam-dunia-static-site-generator/</guid>
+      <guid>https://kodebaper.com/post/istilah-istilah-dalam-dunia-static-site-generator/</guid>
       <description>Istilah yang sering di gunakan dalam dunia static site generator  1. Prakata dalam pembahasan Artikel ini Pada pembahasan kali ini saya akan melakukan pembahasan dengan istilah-istilah yang sering digunakan dalam dunia static site generator, lebih tepatnya istilah ini yang sering digunakan untuk static site generator yang saya gunakan yaitu Hugo. Sebenarnya untuk di sebut istilah yang sering di gunakan dalam dunia static site generator saja juga tidak, karena istilah-istilah ini juga sering di gunakan untuk dunia website baik yang menggunakan engine CMS ataupun jenis website Dinamis.</description>
     </item>
     
     <item>
       <title>Cara Membuat About Page Di Hugo SSG</title>
-      <link>https://kodebaper.com/blog/cara-membuat-about-page-di-hugo-ssg/</link>
+      <link>https://kodebaper.com/post/cara-membuat-about-page-di-hugo-ssg/</link>
       <pubDate>Tue, 03 Nov 2020 17:28:35 +0700</pubDate>
       
-      <guid>https://kodebaper.com/blog/cara-membuat-about-page-di-hugo-ssg/</guid>
+      <guid>https://kodebaper.com/post/cara-membuat-about-page-di-hugo-ssg/</guid>
       <description>Cara Membuat About Page Di Hugo SSG Beberapa waktu yang lalu saya sempat mengalami kesulitan saat membuat halaman about atau sering di sebut about page, saya mengalami kesulitan karena memang baru pertama kali mempelajari dunia programming sederhana dari praktek yang juga sederhana dengan studi kasus untuk membuat beberapa halaman static di blog dengan static site generator dari Hugo.
 Dan akhirnya saya menemukan beberapa langkah sederhana dan cukup mudah untuk membuat halaman di blog dengan menggunakan Hugo ssg, adapun cara yang saya dapat untuk membuat about page di hugo ssg yaitu sebagai berikut:</description>
     </item>
     
     <item>
       <title>Cara Menambahkan Static Page Di Hugo SSG</title>
-      <link>https://kodebaper.com/blog/cara-menambahkan-static-page-di-hugo-ssg/</link>
+      <link>https://kodebaper.com/post/cara-menambahkan-static-page-di-hugo-ssg/</link>
       <pubDate>Tue, 03 Nov 2020 14:45:24 +0700</pubDate>
       
-      <guid>https://kodebaper.com/blog/cara-menambahkan-static-page-di-hugo-ssg/</guid>
+      <guid>https://kodebaper.com/post/cara-menambahkan-static-page-di-hugo-ssg/</guid>
       <description>Cara Menambahkan Static Page Di Hugo SSG Site plain yang saya lakukan setelah blog sudah berjalan, saya melakukan penyempurnaan terhadap fitur dan performa terhadap blog. Namun ada hal yang saya rasa masih sangat sulit untuk saya realisasikan adalah mengoptimalkan performa blog yang lebih cepat dan familiar di skala search engine/optimasi SEO terhadap blog.
 Sebenarnya ada hal sulit lain yang sampai sekarang masih saya coba pelajari, yaitu merapihkan code yang sudah saya tulis, sudah sesuai dengan aturan penulisan code yang benar ataupun efektif tidaknya code-code yang di tulis untuk blog ini.</description>
     </item>
     
     <item>
       <title>Cara Memasang Komentar Disqus Di Hugo</title>
-      <link>https://kodebaper.com/blog/cara-memasang-komentar-disqus-di-hugo/</link>
+      <link>https://kodebaper.com/post/cara-memasang-komentar-disqus-di-hugo/</link>
       <pubDate>Fri, 04 Sep 2020 00:41:46 +0700</pubDate>
       
-      <guid>https://kodebaper.com/blog/cara-memasang-komentar-disqus-di-hugo/</guid>
+      <guid>https://kodebaper.com/post/cara-memasang-komentar-disqus-di-hugo/</guid>
       <description>Pekerjaan selanjutnya setelah kita membuat blog dengan static site Hugo lalu memasang template dan mulai mengisi dengan konten, hal yang tak kalah penting adalah menghadirkan fitur komentar di setiap artikel pada blog. Ini akan sangat penting agar tulisan kita layaknya sebuah percakapan yang membutuhkan lawan bicara untuk menanggapi percakapan kita yaitu melalui kolom komentar cara lawan bicara kita menanggapinya.
 Pada kesempatan kali ini saya akan membahas konfigurasi Disqus comment yang di hadirkan pada blog hugo saya, pada dasarnya di website resmi hugo pada bagian dokumentasinya sudah di jelaskan dengan sangat rinci untuk bagaimana mengkonfigurasi disqus comment di hugo.</description>
     </item>
     
     <item>
       <title>Tips Menulis Artikel Di Hugo Static Site</title>
-      <link>https://kodebaper.com/blog/tips-menulis-artikel-di-hugo-static-site/</link>
+      <link>https://kodebaper.com/post/tips-menulis-artikel-di-hugo-static-site/</link>
       <pubDate>Wed, 02 Sep 2020 19:35:23 +0700</pubDate>
       
-      <guid>https://kodebaper.com/blog/tips-menulis-artikel-di-hugo-static-site/</guid>
+      <guid>https://kodebaper.com/post/tips-menulis-artikel-di-hugo-static-site/</guid>
       <description>Sebagai seorang blogger yang menggunakan static site Hugo sebagai mesin blognya, ngeblog dengan terminal merupakan suatu hal yang cukup berbeda bagi saya karena sebelumnya dari dulu saya selalu membuat blog menggunakan CMS yang kaya akan fitur graphical user interfacenya. Namun kali ini saya dihadapkan dengan keadaan yang berbeda dimana menulis artikel di blog menggunakan Hugo cukup menggunakan text editor saja. Artikel ini akan saya update dengan pembahasan yang lebih lengkap lagi di lain waktu dengan tips-tips yang lain mengenai cara penulisan artikel di Hugo, adapun tips yang saya tulis saat ini masih sebatas keseluruhan yang saya pakai dalam penulisan di blog saya saat ini.</description>
     </item>
     
     <item>
       <title>Saya Meracik Templat Hugo Buatan Orang Lain</title>
-      <link>https://kodebaper.com/blog/saya-meracik-templat-hugo-buatan-orang-lain/</link>
+      <link>https://kodebaper.com/post/saya-meracik-templat-hugo-buatan-orang-lain/</link>
       <pubDate>Mon, 31 Aug 2020 23:44:45 +0700</pubDate>
       
-      <guid>https://kodebaper.com/blog/saya-meracik-templat-hugo-buatan-orang-lain/</guid>
+      <guid>https://kodebaper.com/post/saya-meracik-templat-hugo-buatan-orang-lain/</guid>
       <description>0. Tips menggunakan template karya orang lain Pada pembahasan artikel kali ini, saya akan membahas detail template yang di pakai pada blog saya saat ini. Namun sebelum membahasnya saya sempatkan juga untuk membahas tips menggunakan template hasil karya orang lain agar kita memahami setiap bagian dan tata letaknya. Dimana hal yang saya lakukan setelah mendownload template hasil karya orang lain saya akan membedah dan bila perlu mencatat satu persatu isi dari file yang ada di template tersebut.</description>
     </item>
     
     <item>
       <title>Apa itu Static Site Generator Hugo ?</title>
-      <link>https://kodebaper.com/blog/mengenal-static-site-generator-hugo/</link>
+      <link>https://kodebaper.com/post/mengenal-static-site-generator-hugo/</link>
       <pubDate>Fri, 21 Aug 2020 00:44:44 +0700</pubDate>
       
-      <guid>https://kodebaper.com/blog/mengenal-static-site-generator-hugo/</guid>
+      <guid>https://kodebaper.com/post/mengenal-static-site-generator-hugo/</guid>
       <description>Apa itu Static Site Generator Hugo ? Pada kesempatan kali ini kita akan mengenal lebih jauh apa itu static site generator Hugo dan 5 alasan utama saya memilih ngeblog menggunakan Hugo.
 Hal ini berawal dari keinginan kuat saya belajar programming dimana saya mencoba keluar dari rutinitas keilmuan saya yang lebih banyak berkecimpung dengan Networking, akhirnya saya memutuskan untuk belajar permrograman yang sedang tren yaitu pemrograman untuk mobile apps. Dimana langkah pertama yang saya lakukan yaitu membuat sebuah blog pribadi sebagai catatan pribadi saya sendiri sejauh mana saya akan belajar pemrograman aplikasi mobile.</description>
     </item>
     
     <item>
       <title>Bingung akhirnya migrasi ke Hugo</title>
-      <link>https://kodebaper.com/blog/akhirnya-migrasi-ke-hugo-ssg/</link>
+      <link>https://kodebaper.com/post/akhirnya-migrasi-ke-hugo-ssg/</link>
       <pubDate>Wed, 19 Aug 2020 04:23:11 +0700</pubDate>
       
-      <guid>https://kodebaper.com/blog/akhirnya-migrasi-ke-hugo-ssg/</guid>
+      <guid>https://kodebaper.com/post/akhirnya-migrasi-ke-hugo-ssg/</guid>
       <description>migrasi, dari CMS ke Static site Hugo Akhirnya dari CMS, saya memutuskan menggunakan framework yang katanya masuk jadi framework tercepat. Dan sangat terasa sekali saya baru pertama kalinya mencicipi asiknya nulis di blog menggunakan static site, untuk lai ini saya memutuskan static site generator dengan Hugo. karena saya sebelumnya sudah cukup familiar menggunakan terminal di linux, pengalaman menulis di blog menggunakan Hugo sunggu berasa ngeblog di dalam terminal Linux &amp;lsquo;menutu saya sih&amp;rsquo;.</description>
     </item>
     

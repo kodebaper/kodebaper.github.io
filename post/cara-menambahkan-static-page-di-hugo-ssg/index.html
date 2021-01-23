@@ -1,0 +1,306 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <script type="application/javascript" src='https://kodebaper.com/js/theme-mode.js'></script>
+    <link rel="stylesheet" href='https://kodebaper.com/css/frameworks.min.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/github.min.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/github-style.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/light.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/dark.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/syntax.css' />
+    <title>Cara Menambahkan Static Page Di Hugo SSG - Kodebaper: Tempat Belajar dan Ngbrol  IT</title>
+    
+    <link rel="icon" type="image/x-icon" href='/images/favicon.ico'>
+    
+    <meta name="theme-color" content="#1e2327">
+
+
+<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+
+<script data-ad-client="ca-pub-5756387925386548" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-178855929-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M4V2QQN');</script>
+
+
+    
+    <meta name="description"
+  content="Cara Menambahkan Static Page Di Hugo SSG Site plain yang saya lakukan setelah blog sudah berjalan, saya melakukan penyempurnaan terhadap fitur dan performa terhadap blog. Namun ada hal yang saya rasa masih sangat sulit untuk saya realisasikan adalah mengoptimalkan performa blog yang lebih cepat dan familiar di skala search engine/optimasi SEO terhadap blog.
+Sebenarnya ada hal sulit lain yang sampai sekarang masih saya coba pelajari, yaitu merapihkan code yang sudah saya tulis, sudah sesuai dengan aturan penulisan code yang benar ataupun efektif tidaknya code-code yang di tulis untuk blog ini." />
+<meta name="keywords"
+  content='blog, google analytics' />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://kodebaper.com/post/cara-menambahkan-static-page-di-hugo-ssg/" />
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Cara Menambahkan Static Page Di Hugo SSG - Kodebaper: Tempat Belajar dan Ngbrol  IT" />
+<meta name="twitter:description"
+  content="Cara Menambahkan Static Page Di Hugo SSG Site plain yang saya lakukan setelah blog sudah berjalan, saya melakukan penyempurnaan terhadap fitur dan performa terhadap blog. Namun ada hal yang saya rasa masih sangat sulit untuk saya realisasikan adalah mengoptimalkan performa blog yang lebih cepat dan familiar di skala search engine/optimasi SEO terhadap blog.
+Sebenarnya ada hal sulit lain yang sampai sekarang masih saya coba pelajari, yaitu merapihkan code yang sudah saya tulis, sudah sesuai dengan aturan penulisan code yang benar ataupun efektif tidaknya code-code yang di tulis untuk blog ini." />
+<meta name="twitter:site" content="https://kodebaper.com/" />
+<meta name="twitter:creator" content="" />
+<meta name="twitter:image"
+  content="https://kodebaper.com/">
+
+
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Cara Menambahkan Static Page Di Hugo SSG - Kodebaper: Tempat Belajar dan Ngbrol  IT">
+<meta property="og:description"
+  content="Cara Menambahkan Static Page Di Hugo SSG Site plain yang saya lakukan setelah blog sudah berjalan, saya melakukan penyempurnaan terhadap fitur dan performa terhadap blog. Namun ada hal yang saya rasa masih sangat sulit untuk saya realisasikan adalah mengoptimalkan performa blog yang lebih cepat dan familiar di skala search engine/optimasi SEO terhadap blog.
+Sebenarnya ada hal sulit lain yang sampai sekarang masih saya coba pelajari, yaitu merapihkan code yang sudah saya tulis, sudah sesuai dengan aturan penulisan code yang benar ataupun efektif tidaknya code-code yang di tulis untuk blog ini." />
+<meta property="og:url" content="https://kodebaper.com/post/cara-menambahkan-static-page-di-hugo-ssg/" />
+<meta property="og:site_name" content="Cara Menambahkan Static Page Di Hugo SSG" />
+<meta property="og:image"
+  content="https://kodebaper.com/">
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+<meta property="article:published_time" content="2020-11-03 14:45:24 &#43;0700 WIB" />
+
+
+
+
+
+
+
+
+
+
+</head>
+
+<body>
+  <div style="position: relative">
+  <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap open Details--on">
+    <div class="Header-item mobile-none" style="margin-top: -4px; margin-bottom: -4px;">
+      <a class="Header-link" href="https://kodebaper.com/">
+        <svg class="octicon" height="32" viewBox="0 0 16 16" version="1.1" width="32"></svg>
+      </a>
+    </div>
+    <div class="Header-item d-md-none">
+      <button class="Header-link btn-link js-details-target" type="button"
+        onclick="document.querySelector('#header-search').style.display = document.querySelector('#header-search').style.display == 'none'? 'block': 'none'">
+        <svg height="24" class="octicon octicon-three-bars" viewBox="0 0 16 16" version="1.1" width="24">
+          <path fill-rule="evenodd"
+            d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z">
+          </path>
+        </svg>
+      </button>
+    </div>
+    <div style="display: none;" id="header-search"
+      class="Header-item Header-item--full flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mr-md-3 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex">
+      <div
+        class="Header-search header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to">
+        <div class="position-relative">
+          <form target="_blank" action="https://www.google.com/search" accept-charset="UTF-8" method="get"
+            autocomplete="off">
+            <label
+              class="Header-search-label form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
+              <input type="text"
+                class="Header-search-input form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+                name="q" value="" placeholder="Mau belajar apa?" autocomplete="off">
+              <input type="hidden" name="q" value="site:https://kodebaper.com/">
+            </label>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <div class="Header-item Header-item--full flex-justify-center d-md-none position-relative">
+      <a class="Header-link " href="https://kodebaper.com/">
+        <svg class="octicon octicon-mark-github v-align-middle" height="32" viewBox="0 0 16 16" version="1.1"
+          width="32">
+          <path fill-rule="evenodd"
+            d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+          </path>
+        </svg>
+      </a>
+    </div>
+    <div class="Header-item" style="margin-right: 0;">
+      <a href="javascript:void(0)" class="Header-link no-select" onclick="switchTheme()">
+        <svg style="fill: var(--color-profile-color-modes-toggle-moon);" class="no-select" viewBox="0 0 16 16"
+          version="1.1" width="16" height="16">
+          <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M4.52208 7.71754C7.5782 7.71754 10.0557 5.24006 10.0557 2.18394C10.0557 1.93498 10.0392 1.68986 10.0074 1.44961C9.95801 1.07727 10.3495 0.771159 10.6474 0.99992C12.1153 2.12716 13.0615 3.89999 13.0615 5.89383C13.0615 9.29958 10.3006 12.0605 6.89485 12.0605C3.95334 12.0605 1.49286 10.001 0.876728 7.24527C0.794841 6.87902 1.23668 6.65289 1.55321 6.85451C2.41106 7.40095 3.4296 7.71754 4.52208 7.71754Z">
+          </path>
+        </svg>
+      </a>
+    </div>
+  </header>
+</div>
+  
+<div>
+  <main>
+    <div class="gisthead pagehead bg-gray-light pb-0 pt-3 mb-4">
+      <div class="px-0">
+        <div class="mb-3 d-flex px-3 px-md-3 px-lg-5">
+          <div class="flex-auto min-width-0 width-fit mr-3">
+            <div class="d-flex">
+              <div class="d-none d-md-block">
+                <a class="avatar mr-2 flex-shrink-0" href="https://kodebaper.com/">
+                  <img class=" avatar-user"
+                    src="https://kodebaper.com/images/baperlogo.svg"
+                    width="32" height="32"></a>
+              </div>
+              <div class="d-flex flex-column">
+                <h1 class="break-word f3 text-normal mb-md-0 mb-1">
+                  <span class="author">
+                    <a href="https://kodebaper.com/">Kodebaper.com</a></span><span
+                    class="path-divider">/</span><strong class="css-truncate-target mr-1" style="max-width: 410px"><a
+                      href="https://kodebaper.com/post/cara-menambahkan-static-page-di-hugo-ssg/">Cara Menambahkan Static Page Di Hugo SSG</a></strong>
+                </h1>
+                <div class="note m-0">
+                  Created <relative-time datetime="Tue, 03 Nov 2020 14:45:24 &#43;0700"
+                    class="no-wrap">
+                    Tue, 03 Nov 2020 14:45:24 &#43;0700</relative-time>
+
+                  
+                  <span class="file-info-divider"></span>
+                  Modified <relative-time datetime="Thu, 19 Nov 2020 10:50:56 &#43;0700"
+                    class="no-wrap">
+                    Thu, 19 Nov 2020 10:50:56 &#43;0700</relative-time>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-lg px-3 new-discussion-timeline">
+      <div class="repository-content gist-content">
+        <div>
+          <div class="js-gist-file-update-container js-task-list-container file-box">
+            <div id="file-pytest" class="file my-2">
+              <div class="file-header d-flex flex-md-items-center flex-items-start">
+                <div class="file-info d-flex flex-md-items-center flex-items-start flex-order-1 flex-auto">
+                  <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
+                    438 Words
+                    
+
+                  </div>
+                  <div class="file-actions flex-order-2 pt-0">
+                    
+                    
+                    <a class="muted-link mr-3" href="/tags/hugo-ssg">
+                      <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                        <path fill-rule="evenodd"
+                          d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                        </path>
+                      </svg>
+                      Hugo SSG
+                    </a>
+                    
+                    <a class="muted-link mr-3" href="/tags/tutorial-hugo">
+                      <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                        <path fill-rule="evenodd"
+                          d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                        </path>
+                      </svg>
+                      Tutorial Hugo
+                    </a>
+                    
+                    
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="Box-body px-5 pb-5">
+                <article class="markdown-body entry-content container-lg"><h1 id="cara-menambahkan-static-page-di-hugo-ssg">Cara Menambahkan Static Page Di Hugo SSG</h1>
+<p>Site plain yang saya lakukan setelah blog sudah berjalan, saya melakukan penyempurnaan terhadap fitur dan performa terhadap blog. Namun ada hal yang saya rasa masih sangat sulit untuk saya realisasikan adalah mengoptimalkan performa blog yang lebih cepat dan familiar di skala search engine/optimasi SEO terhadap blog.</p>
+<p>Sebenarnya ada hal sulit lain yang sampai sekarang masih saya coba pelajari, yaitu merapihkan code yang sudah saya tulis, sudah sesuai dengan aturan penulisan code yang benar ataupun efektif tidaknya code-code yang di tulis untuk blog ini. Namun tidak berakhir sampai disini karena dua kendala kesulitan yang saya hadapi saat ini tidak menurunkan semangat saya belajar, sembari mempelajarinya saya melakukan langkah lain untuk optimasi penyempurnaan blog ini tentunya.</p>
+<hr>
+<p>Dalam hal ini yang saya lakukan adalam melakukan optimasi terhadap fitur, optimasi yang saya lakukan disini meliputi 2 fitur diantarnya ;</p>
+<blockquote>
+<ol>
+<li>Memberikan tambahan page baru untuk memperkaya fitur, yaitu about page, contact page dan FaQ page, saat ini baru terealisasi untuk about page karena kesibukan pekerjaan dan laih hal sehingga saya belum bisa melengkapi keseluruhan page yang mestinya saya buat.</li>
+</ol>
+</blockquote>
+<hr>
+<blockquote>
+<ol start="2">
+<li>Menambahkan menu Roadmap untuk mengumpulkan seluruh fitur dan menu yang ada di dalam blog.
+Dua fitur yang saya lakukan ini cukup mudah untuk di lakukan, terutama fitur pertama untuk menambahkan page baru di Hugo.</li>
+</ol>
+</blockquote>
+<hr>
+<p>Hal menarik justru saya dapat pelajaran banyak, disini saya menambahkan fitur Roadmap dimana sama-sama page namun lebih komplek.
+Ceritanya disini saya menambahkan menu Roadmap untuk mengumpulkan seluruh menu dan fitur yang ada di blog, initnya semua menu blog bisa di akses di satu page yaitu page pada Roadmap.</p>
+<h1 id="apa-alasan-utama-membuat-menu-roadmap-">Apa alasan utama membuat menu Roadmap ?</h1>
+<hr>
+<p>Roadmap disini saya terinspirasi dari dokumentasi dari sebuah pelajaran/program, dimana saat orang ingin mempelajari sesuatu dan membuka roadmap, maka di dalam Roadmap akan memberikan seluruh isi panduan dari sebuah program yang di urutkan langkah-langkahnya secara sistematis dan terstruktur.</p>
+<p>Maka dari pengalaman sebuah Roadmap yang mengagumkan, saya akhirnya memiliki ide menghadirkan Roadmap di blog ini dan saya merencanakan untuk menyempurnakan fitur ini untuk memudahkan dalam hal menjangkau seluruh isi dari blog saya ini.</p>
+<p>Menyenangkan memang semakin mendalami static site generator dari Hugo ini, berawal dari nol saya tidak mengetahui sama sekali apa itu ilmu programming akhirnya saya mulai mengenal apa it <code>HTML, CSS, JAVASCRIPT, GOLANG, Bootstrap</code> dan beberapa hal lain yang berkaitan dengan hal-hal yang berbau dengan dunia web programming.</p>
+<p>Sederhana memang bagi orang yang ahli di bidang website untuk memahami apa itu static site generator, namun bagi saya hugo merupakan langkah yang sangat baik untuk memulai sebuah belajar. Belajar dunia website dan programming sederhana untuk menambah batu loncatan yang lebih kompleks lagi kedepannya mengenai apa itu dunia programming.</p>
+</article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-gi-3+16-3z+5c"
+     data-ad-client="ca-pub-5756387925386548"
+     data-ad-slot="9728752411"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<amp-ad width="100vw" height="320"
+     type="adsense"
+     data-ad-client="ca-pub-5756387925386548"
+     data-ad-slot="7666212778"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
+
+  <div class="footer container-xl width-full p-responsive">
+  <div
+    class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between flex-sm-items-center pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mr-lg-4" href="https://kodebaper.com/">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24">
+        <path fill-rule="evenodd"
+          d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+        </path>
+      </svg>
+    </a>
+    <ul class="list-style-none d-flex flex-wrap col-12 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+      
+      <li class="mr-3 mr-lg-0"> © 2021 SantriCyber | <a href='https://github.com/kodebaper'> Kodebaper.com</a></li>
+      
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+</div>
+</body>
+
+<script type="application/javascript" src="https://kodebaper.com/js/github-style.js"></script>
+
+
+
+</html>

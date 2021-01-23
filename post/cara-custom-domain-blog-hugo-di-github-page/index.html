@@ -1,0 +1,335 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <script type="application/javascript" src='https://kodebaper.com/js/theme-mode.js'></script>
+    <link rel="stylesheet" href='https://kodebaper.com/css/frameworks.min.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/github.min.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/github-style.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/light.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/dark.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/syntax.css' />
+    <title>Cara Custom Domain Blog Hugo Di GitHub Page - Kodebaper: Tempat Belajar dan Ngbrol  IT</title>
+    
+    <link rel="icon" type="image/x-icon" href='/images/favicon.ico'>
+    
+    <meta name="theme-color" content="#1e2327">
+
+
+<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+
+<script data-ad-client="ca-pub-5756387925386548" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-178855929-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M4V2QQN');</script>
+
+
+    
+    <meta name="description"
+  content="Cara Custom Domain Blog Hugo Di GitHub Page Beberapa waktu yang lalu saya telah menuliskan artike tentang 3 persiapan sebelum melakukan custom domain untuk blog hugo di layanan GitHub page, nah untuk kesempatan kali ini saya akan membahas mengenai bagaimana caranya melakukan konfigurasi custom domain di GitHub page. untuk itu artikel saya buat urutan daftar langkah pengerjaanya. Untuk di kasus ini saya anggap kamu sudah melakukan dua hal ini sebelum kamu mulai untuk mempraktekannya." />
+<meta name="keywords"
+  content='blog, google analytics' />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://kodebaper.com/post/cara-custom-domain-blog-hugo-di-github-page/" />
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Cara Custom Domain Blog Hugo Di GitHub Page - Kodebaper: Tempat Belajar dan Ngbrol  IT" />
+<meta name="twitter:description"
+  content="Cara Custom Domain Blog Hugo Di GitHub Page Beberapa waktu yang lalu saya telah menuliskan artike tentang 3 persiapan sebelum melakukan custom domain untuk blog hugo di layanan GitHub page, nah untuk kesempatan kali ini saya akan membahas mengenai bagaimana caranya melakukan konfigurasi custom domain di GitHub page. untuk itu artikel saya buat urutan daftar langkah pengerjaanya. Untuk di kasus ini saya anggap kamu sudah melakukan dua hal ini sebelum kamu mulai untuk mempraktekannya." />
+<meta name="twitter:site" content="https://kodebaper.com/" />
+<meta name="twitter:creator" content="" />
+<meta name="twitter:image"
+  content="https://kodebaper.com/">
+
+
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Cara Custom Domain Blog Hugo Di GitHub Page - Kodebaper: Tempat Belajar dan Ngbrol  IT">
+<meta property="og:description"
+  content="Cara Custom Domain Blog Hugo Di GitHub Page Beberapa waktu yang lalu saya telah menuliskan artike tentang 3 persiapan sebelum melakukan custom domain untuk blog hugo di layanan GitHub page, nah untuk kesempatan kali ini saya akan membahas mengenai bagaimana caranya melakukan konfigurasi custom domain di GitHub page. untuk itu artikel saya buat urutan daftar langkah pengerjaanya. Untuk di kasus ini saya anggap kamu sudah melakukan dua hal ini sebelum kamu mulai untuk mempraktekannya." />
+<meta property="og:url" content="https://kodebaper.com/post/cara-custom-domain-blog-hugo-di-github-page/" />
+<meta property="og:site_name" content="Cara Custom Domain Blog Hugo Di GitHub Page" />
+<meta property="og:image"
+  content="https://kodebaper.com/">
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+<meta property="article:published_time" content="2020-09-25 23:37:55 &#43;0700 WIB" />
+
+
+
+
+
+
+
+
+
+
+</head>
+
+<body>
+  <div style="position: relative">
+  <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap open Details--on">
+    <div class="Header-item mobile-none" style="margin-top: -4px; margin-bottom: -4px;">
+      <a class="Header-link" href="https://kodebaper.com/">
+        <svg class="octicon" height="32" viewBox="0 0 16 16" version="1.1" width="32"></svg>
+      </a>
+    </div>
+    <div class="Header-item d-md-none">
+      <button class="Header-link btn-link js-details-target" type="button"
+        onclick="document.querySelector('#header-search').style.display = document.querySelector('#header-search').style.display == 'none'? 'block': 'none'">
+        <svg height="24" class="octicon octicon-three-bars" viewBox="0 0 16 16" version="1.1" width="24">
+          <path fill-rule="evenodd"
+            d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z">
+          </path>
+        </svg>
+      </button>
+    </div>
+    <div style="display: none;" id="header-search"
+      class="Header-item Header-item--full flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mr-md-3 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex">
+      <div
+        class="Header-search header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to">
+        <div class="position-relative">
+          <form target="_blank" action="https://www.google.com/search" accept-charset="UTF-8" method="get"
+            autocomplete="off">
+            <label
+              class="Header-search-label form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
+              <input type="text"
+                class="Header-search-input form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+                name="q" value="" placeholder="Mau belajar apa?" autocomplete="off">
+              <input type="hidden" name="q" value="site:https://kodebaper.com/">
+            </label>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <div class="Header-item Header-item--full flex-justify-center d-md-none position-relative">
+      <a class="Header-link " href="https://kodebaper.com/">
+        <svg class="octicon octicon-mark-github v-align-middle" height="32" viewBox="0 0 16 16" version="1.1"
+          width="32">
+          <path fill-rule="evenodd"
+            d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+          </path>
+        </svg>
+      </a>
+    </div>
+    <div class="Header-item" style="margin-right: 0;">
+      <a href="javascript:void(0)" class="Header-link no-select" onclick="switchTheme()">
+        <svg style="fill: var(--color-profile-color-modes-toggle-moon);" class="no-select" viewBox="0 0 16 16"
+          version="1.1" width="16" height="16">
+          <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M4.52208 7.71754C7.5782 7.71754 10.0557 5.24006 10.0557 2.18394C10.0557 1.93498 10.0392 1.68986 10.0074 1.44961C9.95801 1.07727 10.3495 0.771159 10.6474 0.99992C12.1153 2.12716 13.0615 3.89999 13.0615 5.89383C13.0615 9.29958 10.3006 12.0605 6.89485 12.0605C3.95334 12.0605 1.49286 10.001 0.876728 7.24527C0.794841 6.87902 1.23668 6.65289 1.55321 6.85451C2.41106 7.40095 3.4296 7.71754 4.52208 7.71754Z">
+          </path>
+        </svg>
+      </a>
+    </div>
+  </header>
+</div>
+  
+<div>
+  <main>
+    <div class="gisthead pagehead bg-gray-light pb-0 pt-3 mb-4">
+      <div class="px-0">
+        <div class="mb-3 d-flex px-3 px-md-3 px-lg-5">
+          <div class="flex-auto min-width-0 width-fit mr-3">
+            <div class="d-flex">
+              <div class="d-none d-md-block">
+                <a class="avatar mr-2 flex-shrink-0" href="https://kodebaper.com/">
+                  <img class=" avatar-user"
+                    src="https://kodebaper.com/images/baperlogo.svg"
+                    width="32" height="32"></a>
+              </div>
+              <div class="d-flex flex-column">
+                <h1 class="break-word f3 text-normal mb-md-0 mb-1">
+                  <span class="author">
+                    <a href="https://kodebaper.com/">Kodebaper.com</a></span><span
+                    class="path-divider">/</span><strong class="css-truncate-target mr-1" style="max-width: 410px"><a
+                      href="https://kodebaper.com/post/cara-custom-domain-blog-hugo-di-github-page/">Cara Custom Domain Blog Hugo Di GitHub Page</a></strong>
+                </h1>
+                <div class="note m-0">
+                  Created <relative-time datetime="Fri, 25 Sep 2020 23:37:55 &#43;0700"
+                    class="no-wrap">
+                    Fri, 25 Sep 2020 23:37:55 &#43;0700</relative-time>
+
+                  
+                  <span class="file-info-divider"></span>
+                  Modified <relative-time datetime="Thu, 19 Nov 2020 23:26:42 &#43;0700"
+                    class="no-wrap">
+                    Thu, 19 Nov 2020 23:26:42 &#43;0700</relative-time>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-lg px-3 new-discussion-timeline">
+      <div class="repository-content gist-content">
+        <div>
+          <div class="js-gist-file-update-container js-task-list-container file-box">
+            <div id="file-pytest" class="file my-2">
+              <div class="file-header d-flex flex-md-items-center flex-items-start">
+                <div class="file-info d-flex flex-md-items-center flex-items-start flex-order-1 flex-auto">
+                  <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
+                    729 Words
+                    
+
+                  </div>
+                  <div class="file-actions flex-order-2 pt-0">
+                    
+                    
+                    <a class="muted-link mr-3" href="/tags/deploy">
+                      <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                        <path fill-rule="evenodd"
+                          d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                        </path>
+                      </svg>
+                      Deploy
+                    </a>
+                    
+                    
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="Box-body px-5 pb-5">
+                <article class="markdown-body entry-content container-lg"><h1 id="cara-custom-domain-blog-hugo-di-github-page">Cara Custom Domain Blog Hugo Di GitHub Page</h1>
+<p>Beberapa waktu yang lalu saya telah menuliskan artike tentang 3 persiapan sebelum melakukan custom domain untuk blog hugo di layanan GitHub page, nah untuk kesempatan kali ini saya akan membahas mengenai bagaimana caranya melakukan konfigurasi custom domain di GitHub page. untuk itu artikel saya buat urutan daftar langkah pengerjaanya. Untuk di kasus ini saya anggap kamu sudah melakukan dua hal ini sebelum kamu mulai untuk mempraktekannya.</p>
+<blockquote>
+<p><strong>Pertama</strong> yaitu sudah memiliki domain aktif yang akan di masukan di konfigurasi ke Github Page</p>
+</blockquote>
+<hr>
+<blockquote>
+<p><strong>Kedua</strong> kamu sudah mendaftar dan memiliki Account aktif di Cloudflare</p>
+</blockquote>
+<p>Pembahasan saya mulai dari urutan <strong>Langkah 1 s.d Langkah 4</strong> dan berikut ini untuk langkah-langkahnya:</p>
+<h2 id="langkah-i-pada-sisi-cloudflare">Langkah I pada sisi CloudFlare</h2>
+<p>Hal pertama yang harus kamu lakukan setelah domain yang di beli aktif, langsung login ke CloudFlare untuk mulai setup, kita mesti <code>add site</code> dari domain yang kita akan di terapkan pada CloudFlare. Seperti contoh gambar di bawah ini adalah domain yang sudah saya tambahkan</p>
+<hr>
+<!-- raw HTML omitted -->
+<hr>
+<p>Untuk kamu yang belum menambahkan nama domain kamu, caranya sangat mudah kamu tinggal klik <code>Add a site</code> kemudian ikuti petunjuk sesuai dengan yang di berikan. Sampai pada proses yang menunjukan bahwa adanya Name Server yang di rekomendasikan dari CloudFlare bahwa Name Server pada penyedia domain harus di ganti dengan Name Server dari CloudFlare seperti gambar di bawah ini, oh ia disini juga petunjuk pemasangan Name Server dari Cloudflare ke pengaturan di layanan domain yang kita gunakan sudah di jelaskan dengan sangat lengkap. Untuk memudahkannya bisa lihat gambar di bawah ini.</p>
+<hr>
+<!-- raw HTML omitted -->
+<hr>
+<p>Karena saya menggunakan layanan dari Domainesia maka saya harus mengganti Name Server dari domainesia seperti yang tertera pada petunjuk nomor 1 pada gambar, saya merubah ke Name server dari CloudFlare.</p>
+<h2 id="langkah-ii-pada-sisi-penyedia-domain">Langkah II pada sisi Penyedia Domain</h2>
+<p>Pada langkah ini yang akan kita lakukan hanya sebatas mengganti Name Server dimana sebelumnya untuk Name Server masih menggunakan bawaan default dari penyedia layanan domain, namun untuk kali ini kita akan mengganti NS (Name server) dengan yang sudah di rekomendasikan oleh cloudflare. Gambar tertera seperti pada langkah I dimana menunjukan instruksi untuk merubah DNS yang sesuai dengan petunjuk dari cloudflare.</p>
+<hr>
+<!-- raw HTML omitted -->
+<hr>
+<p>Disini saya merubah Name Server di pengaturan dashboard domain dari <strong>Domainesia</strong>. Saya telah mengganti dan memasukan Name Server dari CloudFlare tersebut seperti yang tertera pada gambar diatas.</p>
+<h2 id="langkah-iii-pada-sisi-github-page">Langkah III pada sisi GitHub Page</h2>
+<p>Pada langka ke Tiga ini saatnya domain kita insert ke dalam konfigurasi dari GitHub Page nya, langkahnya pun mudah.</p>
+<ol>
+<li>Login ke GitHub</li>
+<li>Masuk ke Repository utama</li>
+<li>Kemudian ke menu Setting</li>
+<li>Scroll ke bawah sampai pada pengaturan GitHub Page, seperti gambar di bawah ini.</li>
+<li>isi saja pada form <em>Custom Domain</em> dengan nama domain Kamu</li>
+<li>Lalu klik <em>Save</em></li>
+</ol>
+<hr>
+<!-- raw HTML omitted -->
+<hr>
+<p>Pada proses ketiga ini, konfigurasi untuk custom domain di GitHub Page hampir selesai dengan menyisakan satu langkah lagi.</p>
+<h2 id="langkah-iv-dns-management-pada-cloudflare">Langkah IV DNS Management pada CloudFlare</h2>
+<p>Adapun untuk langkah terakhir ini kita masuk kembali ke pengaturan pada cloudflare, caranya yaitu:</p>
+<ol>
+<li>Pastikan kamu sudah login ke CloudFlare</li>
+<li>pada tampilan awal Cloudflare <strong>Klik nama Domain</strong> kamu yang sudah di <code>tambahkan</code> seperti di
+jelaskan pada langkah <code>satu</code> di atas</li>
+<li>Kemudian pilih ke pengaturan <strong>DNS</strong> lalu sesuaikan dengan nama domain kamu ya, untuk memudahkan
+pengaturan DNS pada domain kamu, disini saya sertakan gambar seperti tertera di bawah ini dimana <strong>Management DNS pada CloudFlare</strong> pada gambar tersebut merupakan pengaturan untuk DNS domain saya. Kamu tinggal menyamakan sesuai gambar di bawah ini.</li>
+</ol>
+<hr>
+<!-- raw HTML omitted -->
+<hr>
+<p>Dan untuk sampai proses ke 4 ini sudah cukup, namun ada satu lagi kamu mesti merubah nama domain juga pada file <strong>config.toml</strong> pada file Hugo kamu pada baris pertama <strong>baseURL</strong></p>
+<pre><code>Ini adalah pengaturan base url pada file **config.toml** hugo saya.
+*
+Sebelum di ganti
+----------------
+baseURL = &quot;https://kodebaper.github.io/&quot;
+*
+Sesudah di ganti
+---------------- 
+baseURL = &quot;https://kodebaper.com/&quot;
+</code></pre>
+<h2 id="langkah-v-rangkuman">Langkah V Rangkuman</h2>
+<p>Rangkuman dari isi artike ini adalah, custom domain yang saya tulis ini setelah penyempurnaan dari beberapa kendala yang saya alami. Sehingga dengan merujuk pada artikel ini seharusnya <strong>custom domain pada GitHub Page</strong> tidak akan mengalami <em>error</em>, namun disin saya juga menulis artikel terkait error yang saya alami saat <strong>custom domain pada GitHub Page</strong> . Untuk kamu yang ingin membacanya, kamu bisa membaca artikel yang saya tulis ini.</p>
+<p>[ <!-- raw HTML omitted --> Solved : Enforce HTTPS—Unavailable for Your Site pada GitHub Page <!-- raw HTML omitted --> ]</p>
+<p>Oke, untuk artikel pembahasana <strong>cara custom domain pada GitHub Page</strong> sudah cukup,lalu untuk penyempurnaan lain bisa mempelajarinya sediri. Selamat bereksperimen dengan Hugo !</p>
+</article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-gi-3+16-3z+5c"
+     data-ad-client="ca-pub-5756387925386548"
+     data-ad-slot="9728752411"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<amp-ad width="100vw" height="320"
+     type="adsense"
+     data-ad-client="ca-pub-5756387925386548"
+     data-ad-slot="7666212778"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
+
+  <div class="footer container-xl width-full p-responsive">
+  <div
+    class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between flex-sm-items-center pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mr-lg-4" href="https://kodebaper.com/">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24">
+        <path fill-rule="evenodd"
+          d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+        </path>
+      </svg>
+    </a>
+    <ul class="list-style-none d-flex flex-wrap col-12 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+      
+      <li class="mr-3 mr-lg-0"> © 2021 SantriCyber | <a href='https://github.com/kodebaper'> Kodebaper.com</a></li>
+      
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+</div>
+</body>
+
+<script type="application/javascript" src="https://kodebaper.com/js/github-style.js"></script>
+
+
+
+</html>

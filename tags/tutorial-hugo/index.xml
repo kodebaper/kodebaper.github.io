@@ -1,27 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tutorial Hugo on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</title>
+    <title>Tutorial Hugo on Kodebaper: Tempat Belajar dan Ngbrol  IT</title>
     <link>https://kodebaper.com/tags/tutorial-hugo/</link>
-    <description>Recent content in Tutorial Hugo on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</description>
+    <description>Recent content in Tutorial Hugo on Kodebaper: Tempat Belajar dan Ngbrol  IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Sat, 02 Jan 2021 01:34:14 +0700</lastBuildDate><atom:link href="https://kodebaper.com/tags/tutorial-hugo/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Cara Mengatasi Earnings at Risk–You Need to Fix Some Ads.txt File</title>
-      <link>https://kodebaper.com/blog/cara-mengatasi-earnings-at-riskyou-need-to-fix-some-ads-txt-file/</link>
+      <link>https://kodebaper.com/post/cara-mengatasi-earnings-at-riskyou-need-to-fix-some-ads-txt-file/</link>
       <pubDate>Sat, 02 Jan 2021 01:34:14 +0700</pubDate>
       
-      <guid>https://kodebaper.com/blog/cara-mengatasi-earnings-at-riskyou-need-to-fix-some-ads-txt-file/</guid>
+      <guid>https://kodebaper.com/post/cara-mengatasi-earnings-at-riskyou-need-to-fix-some-ads-txt-file/</guid>
       <description>Cara mengatasi Earnings at risk – You need to fix some ads.txt file Berikut merupakan pengalaman yang saya alami saat pertama kali mendaftarkan blog static Hugo pertama saya di program monetasi dari Google Adsense, saat mendaftarkan email ke Google Adsense semua berjalan dengan lancar dan tidak ada hambatan hingga saya mendapatkan email dari team Google Adsense bahwa blog saya di terima dan berhak menampilkan iklan yang di berikan oleh Google untuk selanjutnya mulai mendapatkan penghasilan.</description>
     </item>
     
     <item>
       <title>Cara Upgrade Hugo Ke Versi Terbaru Di MacOS</title>
-      <link>https://kodebaper.com/blog/cara-upgrade-hugo-ke-versi-terbaru-di-macos/</link>
+      <link>https://kodebaper.com/post/cara-upgrade-hugo-ke-versi-terbaru-di-macos/</link>
       <pubDate>Sat, 19 Dec 2020 22:58:00 +0700</pubDate>
       
-      <guid>https://kodebaper.com/blog/cara-upgrade-hugo-ke-versi-terbaru-di-macos/</guid>
+      <guid>https://kodebaper.com/post/cara-upgrade-hugo-ke-versi-terbaru-di-macos/</guid>
       <description>Cara upgrade Hugo ke versi terbaru di MacOS Pada pembahsan artikel kali ini, saya akan mebahas bagaimana caranya melakukan upgrade Hugo versi lama ke Hugo versi paling terbaru (latest version). Berikut ini merupakan cara yang saya gunakan saat melakukan upgrade versi Hugo yang paling terbaru.
  Versi Hugo sebelumnya yang saya gunakan
  Hugo Static Site Generator v0.55.4-57900417 darwin/amd64 Kemudian saya lakukan ke upgrade ke Versi terbaru pada versi ini yang sekarang saya gunakan.</description>
@@ -29,48 +29,48 @@
     
     <item>
       <title>Teknik SEO Untuk Hugo Static Site</title>
-      <link>https://kodebaper.com/blog/teknik-seo-untuk-hugo-static-site/</link>
+      <link>https://kodebaper.com/post/teknik-seo-untuk-hugo-static-site/</link>
       <pubDate>Thu, 10 Dec 2020 22:59:26 +0700</pubDate>
       
-      <guid>https://kodebaper.com/blog/teknik-seo-untuk-hugo-static-site/</guid>
+      <guid>https://kodebaper.com/post/teknik-seo-untuk-hugo-static-site/</guid>
       <description>SEO untuk Hugo Static Site  Kali ini tepat di malam minggu saya coba iseng-iseng untuk melihat prgres dari kinerja tools-tools untuk kebutuhan SEO yang di pasang pada blog pribadi saya, tool-tools itu antara lain saya memasang Google Analytic, Google Search Console, dan Bing Webmaster. Ternyata memang menarik karena ada beberapa kemudahan yang saya dapatkan dari tools-tools analytic yang saya pasang.
 Saya menemukan kemudahan untuk menganalisa seberapa jauh blog saya di kenal oleh mesin pencari dan sampai kepada user yang membaca tulisan-tulisan saya di blog, hal lain yang sangat menarik bagi saya adalah menggali pemahaman ilmu pemrograman saya pribadi, dimana saya dapat mengetahui seberapa baik performa dari blog yang saya kelola, mengetahui seberapa efektif penulisan kode-kode yang di tulis pada blog.</description>
     </item>
     
     <item>
       <title>Mengenal Analytic Tool Untuk Hugo Static Site</title>
-      <link>https://kodebaper.com/blog/mengenal-analytic-tool-untuk-hugo-static-site/</link>
+      <link>https://kodebaper.com/post/mengenal-analytic-tool-untuk-hugo-static-site/</link>
       <pubDate>Mon, 30 Nov 2020 17:56:17 +0700</pubDate>
       
-      <guid>https://kodebaper.com/blog/mengenal-analytic-tool-untuk-hugo-static-site/</guid>
+      <guid>https://kodebaper.com/post/mengenal-analytic-tool-untuk-hugo-static-site/</guid>
       <description>Mengenal Analytic Tool Untuk Hugo Static Site  Sudah dari dua hari yang lalu sampai pada Artikel ini saya posting, saya sedang sangat fokus untuk memahami persenjataan baru untuk kebutuhan SEO blog saya pribadi, yaitu JavaScript Analytic dan Google Tag Manager. Kedua produk ini dari google dan sejauh ini saya cukup mudah untuk memahami serta melakukan proses penerapannya pada blog saya. Namun banyaknya fitur yang di berikan oleh kedua tools untuk keperluan SEO / Marketing dari google ini tidak cukup satu atau dua hari untuk saya bisa memahami isi fitur di dalamnya.</description>
     </item>
     
     <item>
       <title>Istilah Istilah Dalam Dunia static site generator</title>
-      <link>https://kodebaper.com/blog/istilah-istilah-dalam-dunia-static-site-generator/</link>
+      <link>https://kodebaper.com/post/istilah-istilah-dalam-dunia-static-site-generator/</link>
       <pubDate>Fri, 20 Nov 2020 08:51:45 +0700</pubDate>
       
-      <guid>https://kodebaper.com/blog/istilah-istilah-dalam-dunia-static-site-generator/</guid>
+      <guid>https://kodebaper.com/post/istilah-istilah-dalam-dunia-static-site-generator/</guid>
       <description>Istilah yang sering di gunakan dalam dunia static site generator  1. Prakata dalam pembahasan Artikel ini Pada pembahasan kali ini saya akan melakukan pembahasan dengan istilah-istilah yang sering digunakan dalam dunia static site generator, lebih tepatnya istilah ini yang sering digunakan untuk static site generator yang saya gunakan yaitu Hugo. Sebenarnya untuk di sebut istilah yang sering di gunakan dalam dunia static site generator saja juga tidak, karena istilah-istilah ini juga sering di gunakan untuk dunia website baik yang menggunakan engine CMS ataupun jenis website Dinamis.</description>
     </item>
     
     <item>
       <title>Cara Membuat About Page Di Hugo SSG</title>
-      <link>https://kodebaper.com/blog/cara-membuat-about-page-di-hugo-ssg/</link>
+      <link>https://kodebaper.com/post/cara-membuat-about-page-di-hugo-ssg/</link>
       <pubDate>Tue, 03 Nov 2020 17:28:35 +0700</pubDate>
       
-      <guid>https://kodebaper.com/blog/cara-membuat-about-page-di-hugo-ssg/</guid>
+      <guid>https://kodebaper.com/post/cara-membuat-about-page-di-hugo-ssg/</guid>
       <description>Cara Membuat About Page Di Hugo SSG Beberapa waktu yang lalu saya sempat mengalami kesulitan saat membuat halaman about atau sering di sebut about page, saya mengalami kesulitan karena memang baru pertama kali mempelajari dunia programming sederhana dari praktek yang juga sederhana dengan studi kasus untuk membuat beberapa halaman static di blog dengan static site generator dari Hugo.
 Dan akhirnya saya menemukan beberapa langkah sederhana dan cukup mudah untuk membuat halaman di blog dengan menggunakan Hugo ssg, adapun cara yang saya dapat untuk membuat about page di hugo ssg yaitu sebagai berikut:</description>
     </item>
     
     <item>
       <title>Cara Menambahkan Static Page Di Hugo SSG</title>
-      <link>https://kodebaper.com/blog/cara-menambahkan-static-page-di-hugo-ssg/</link>
+      <link>https://kodebaper.com/post/cara-menambahkan-static-page-di-hugo-ssg/</link>
       <pubDate>Tue, 03 Nov 2020 14:45:24 +0700</pubDate>
       
-      <guid>https://kodebaper.com/blog/cara-menambahkan-static-page-di-hugo-ssg/</guid>
+      <guid>https://kodebaper.com/post/cara-menambahkan-static-page-di-hugo-ssg/</guid>
       <description>Cara Menambahkan Static Page Di Hugo SSG Site plain yang saya lakukan setelah blog sudah berjalan, saya melakukan penyempurnaan terhadap fitur dan performa terhadap blog. Namun ada hal yang saya rasa masih sangat sulit untuk saya realisasikan adalah mengoptimalkan performa blog yang lebih cepat dan familiar di skala search engine/optimasi SEO terhadap blog.
 Sebenarnya ada hal sulit lain yang sampai sekarang masih saya coba pelajari, yaitu merapihkan code yang sudah saya tulis, sudah sesuai dengan aturan penulisan code yang benar ataupun efektif tidaknya code-code yang di tulis untuk blog ini.</description>
     </item>

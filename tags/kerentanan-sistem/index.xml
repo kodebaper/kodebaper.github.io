@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Kerentanan Sistem on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</title>
+    <title>Kerentanan Sistem on Kodebaper: Tempat Belajar dan Ngbrol  IT</title>
     <link>https://kodebaper.com/tags/kerentanan-sistem/</link>
-    <description>Recent content in Kerentanan Sistem on Kodebaper: Belajar Pemrograman dan Ngobrol Seputar IT</description>
+    <description>Recent content in Kerentanan Sistem on Kodebaper: Tempat Belajar dan Ngbrol  IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <lastBuildDate>Wed, 13 Jan 2021 00:49:26 +0700</lastBuildDate><atom:link href="https://kodebaper.com/tags/kerentanan-sistem/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Mengenal Apa Itu Data Forgery</title>
-      <link>https://kodebaper.com/blog/mengenal-apa-itu-data-forgery/</link>
+      <link>https://kodebaper.com/post/mengenal-apa-itu-data-forgery/</link>
       <pubDate>Wed, 13 Jan 2021 00:49:26 +0700</pubDate>
       
-      <guid>https://kodebaper.com/blog/mengenal-apa-itu-data-forgery/</guid>
+      <guid>https://kodebaper.com/post/mengenal-apa-itu-data-forgery/</guid>
       <description>Mengenal Apa Itu Data Forgery Guna dalam pemenuhan tugas pada mata kuliah EPTIK berikut merupaka hasil dari makalah yang saya buat dengan mengambil tema mengenai Data Foregry. adapun makalah dapat di akses melalui link berikut ini
  Tugas Pertemuan 13 Mata Kuliah EPTIK Makalah Data Forgery
  </description>
@@ -20,10 +20,10 @@
     
     <item>
       <title>Hadiah Serangan Bruteforce Di Akhir Tahun 2020</title>
-      <link>https://kodebaper.com/blog/hadiah-serangan-bruteforce-di-akhir-tahun-2020/</link>
+      <link>https://kodebaper.com/post/hadiah-serangan-bruteforce-di-akhir-tahun-2020/</link>
       <pubDate>Sat, 19 Dec 2020 11:19:04 +0700</pubDate>
       
-      <guid>https://kodebaper.com/blog/hadiah-serangan-bruteforce-di-akhir-tahun-2020/</guid>
+      <guid>https://kodebaper.com/post/hadiah-serangan-bruteforce-di-akhir-tahun-2020/</guid>
       <description>Hadiah serangan Bruteforce di akhir tahun 2020 Artikel kali ini saya akan membahas sesuatu yang berbeda dari yang biasanya, saya akan membahas kejadian yang baru-baru ini terjadi di penghujung akhir tahun 2020, sesuai judul saya menyebutnya Hadiah serangan Bruteforce di akhir tahun 2020. Dimana baru-baru ini saya mendapatkan sebuah dokumen Log yang saya ambil dari laporan pada notifikasi sistem di kantor.
 Intinya file ini berisi text informasi percobaan untuk melakukan Matching Password secara paksa, atau istilah kerennya Bruteforce ke dalam salah satu server di kantor tempat saya bekerja.</description>
     </item>

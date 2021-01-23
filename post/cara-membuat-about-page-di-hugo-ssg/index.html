@@ -1,0 +1,354 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <script type="application/javascript" src='https://kodebaper.com/js/theme-mode.js'></script>
+    <link rel="stylesheet" href='https://kodebaper.com/css/frameworks.min.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/github.min.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/github-style.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/light.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/dark.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/syntax.css' />
+    <title>Cara Membuat About Page Di Hugo SSG - Kodebaper: Tempat Belajar dan Ngbrol  IT</title>
+    
+    <link rel="icon" type="image/x-icon" href='/images/favicon.ico'>
+    
+    <meta name="theme-color" content="#1e2327">
+
+
+<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+
+<script data-ad-client="ca-pub-5756387925386548" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+ga('create', 'UA-178855929-1', 'auto');
+ga('send', 'pageview');
+</script>
+<script async src='https://www.google-analytics.com/analytics.js'></script>
+
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M4V2QQN');</script>
+
+
+    
+    <meta name="description"
+  content="Cara Membuat About Page Di Hugo SSG Beberapa waktu yang lalu saya sempat mengalami kesulitan saat membuat halaman about atau sering di sebut about page, saya mengalami kesulitan karena memang baru pertama kali mempelajari dunia programming sederhana dari praktek yang juga sederhana dengan studi kasus untuk membuat beberapa halaman static di blog dengan static site generator dari Hugo.
+Dan akhirnya saya menemukan beberapa langkah sederhana dan cukup mudah untuk membuat halaman di blog dengan menggunakan Hugo ssg, adapun cara yang saya dapat untuk membuat about page di hugo ssg yaitu sebagai berikut:" />
+<meta name="keywords"
+  content='blog, google analytics' />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://kodebaper.com/post/cara-membuat-about-page-di-hugo-ssg/" />
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Cara Membuat About Page Di Hugo SSG - Kodebaper: Tempat Belajar dan Ngbrol  IT" />
+<meta name="twitter:description"
+  content="Cara Membuat About Page Di Hugo SSG Beberapa waktu yang lalu saya sempat mengalami kesulitan saat membuat halaman about atau sering di sebut about page, saya mengalami kesulitan karena memang baru pertama kali mempelajari dunia programming sederhana dari praktek yang juga sederhana dengan studi kasus untuk membuat beberapa halaman static di blog dengan static site generator dari Hugo.
+Dan akhirnya saya menemukan beberapa langkah sederhana dan cukup mudah untuk membuat halaman di blog dengan menggunakan Hugo ssg, adapun cara yang saya dapat untuk membuat about page di hugo ssg yaitu sebagai berikut:" />
+<meta name="twitter:site" content="https://kodebaper.com/" />
+<meta name="twitter:creator" content="" />
+<meta name="twitter:image"
+  content="https://kodebaper.com/">
+
+
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Cara Membuat About Page Di Hugo SSG - Kodebaper: Tempat Belajar dan Ngbrol  IT">
+<meta property="og:description"
+  content="Cara Membuat About Page Di Hugo SSG Beberapa waktu yang lalu saya sempat mengalami kesulitan saat membuat halaman about atau sering di sebut about page, saya mengalami kesulitan karena memang baru pertama kali mempelajari dunia programming sederhana dari praktek yang juga sederhana dengan studi kasus untuk membuat beberapa halaman static di blog dengan static site generator dari Hugo.
+Dan akhirnya saya menemukan beberapa langkah sederhana dan cukup mudah untuk membuat halaman di blog dengan menggunakan Hugo ssg, adapun cara yang saya dapat untuk membuat about page di hugo ssg yaitu sebagai berikut:" />
+<meta property="og:url" content="https://kodebaper.com/post/cara-membuat-about-page-di-hugo-ssg/" />
+<meta property="og:site_name" content="Cara Membuat About Page Di Hugo SSG" />
+<meta property="og:image"
+  content="https://kodebaper.com/">
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+<meta property="article:published_time" content="2020-11-03 17:28:35 &#43;0700 WIB" />
+
+
+
+
+
+
+
+
+
+
+</head>
+
+<body>
+  <div style="position: relative">
+  <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap open Details--on">
+    <div class="Header-item mobile-none" style="margin-top: -4px; margin-bottom: -4px;">
+      <a class="Header-link" href="https://kodebaper.com/">
+        <svg class="octicon" height="32" viewBox="0 0 16 16" version="1.1" width="32"></svg>
+      </a>
+    </div>
+    <div class="Header-item d-md-none">
+      <button class="Header-link btn-link js-details-target" type="button"
+        onclick="document.querySelector('#header-search').style.display = document.querySelector('#header-search').style.display == 'none'? 'block': 'none'">
+        <svg height="24" class="octicon octicon-three-bars" viewBox="0 0 16 16" version="1.1" width="24">
+          <path fill-rule="evenodd"
+            d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z">
+          </path>
+        </svg>
+      </button>
+    </div>
+    <div style="display: none;" id="header-search"
+      class="Header-item Header-item--full flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mr-md-3 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex">
+      <div
+        class="Header-search header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to">
+        <div class="position-relative">
+          <form target="_blank" action="https://www.google.com/search" accept-charset="UTF-8" method="get"
+            autocomplete="off">
+            <label
+              class="Header-search-label form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
+              <input type="text"
+                class="Header-search-input form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+                name="q" value="" placeholder="Mau belajar apa?" autocomplete="off">
+              <input type="hidden" name="q" value="site:https://kodebaper.com/">
+            </label>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <div class="Header-item Header-item--full flex-justify-center d-md-none position-relative">
+      <a class="Header-link " href="https://kodebaper.com/">
+        <svg class="octicon octicon-mark-github v-align-middle" height="32" viewBox="0 0 16 16" version="1.1"
+          width="32">
+          <path fill-rule="evenodd"
+            d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+          </path>
+        </svg>
+      </a>
+    </div>
+    <div class="Header-item" style="margin-right: 0;">
+      <a href="javascript:void(0)" class="Header-link no-select" onclick="switchTheme()">
+        <svg style="fill: var(--color-profile-color-modes-toggle-moon);" class="no-select" viewBox="0 0 16 16"
+          version="1.1" width="16" height="16">
+          <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M4.52208 7.71754C7.5782 7.71754 10.0557 5.24006 10.0557 2.18394C10.0557 1.93498 10.0392 1.68986 10.0074 1.44961C9.95801 1.07727 10.3495 0.771159 10.6474 0.99992C12.1153 2.12716 13.0615 3.89999 13.0615 5.89383C13.0615 9.29958 10.3006 12.0605 6.89485 12.0605C3.95334 12.0605 1.49286 10.001 0.876728 7.24527C0.794841 6.87902 1.23668 6.65289 1.55321 6.85451C2.41106 7.40095 3.4296 7.71754 4.52208 7.71754Z">
+          </path>
+        </svg>
+      </a>
+    </div>
+  </header>
+</div>
+  
+<div>
+  <main>
+    <div class="gisthead pagehead bg-gray-light pb-0 pt-3 mb-4">
+      <div class="px-0">
+        <div class="mb-3 d-flex px-3 px-md-3 px-lg-5">
+          <div class="flex-auto min-width-0 width-fit mr-3">
+            <div class="d-flex">
+              <div class="d-none d-md-block">
+                <a class="avatar mr-2 flex-shrink-0" href="https://kodebaper.com/">
+                  <img class=" avatar-user"
+                    src="https://kodebaper.com/images/baperlogo.svg"
+                    width="32" height="32"></a>
+              </div>
+              <div class="d-flex flex-column">
+                <h1 class="break-word f3 text-normal mb-md-0 mb-1">
+                  <span class="author">
+                    <a href="https://kodebaper.com/">Kodebaper.com</a></span><span
+                    class="path-divider">/</span><strong class="css-truncate-target mr-1" style="max-width: 410px"><a
+                      href="https://kodebaper.com/post/cara-membuat-about-page-di-hugo-ssg/">Cara Membuat About Page Di Hugo SSG</a></strong>
+                </h1>
+                <div class="note m-0">
+                  Created <relative-time datetime="Tue, 03 Nov 2020 17:28:35 &#43;0700"
+                    class="no-wrap">
+                    Tue, 03 Nov 2020 17:28:35 &#43;0700</relative-time>
+
+                  
+                  <span class="file-info-divider"></span>
+                  Modified <relative-time datetime="Sat, 19 Dec 2020 11:35:05 &#43;0700"
+                    class="no-wrap">
+                    Sat, 19 Dec 2020 11:35:05 &#43;0700</relative-time>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <div class="container-lg px-3 new-discussion-timeline">
+      <div class="repository-content gist-content">
+        <div>
+          <div class="js-gist-file-update-container js-task-list-container file-box">
+            <div id="file-pytest" class="file my-2">
+              <div class="file-header d-flex flex-md-items-center flex-items-start">
+                <div class="file-info d-flex flex-md-items-center flex-items-start flex-order-1 flex-auto">
+                  <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
+                    690 Words
+                    
+
+                  </div>
+                  <div class="file-actions flex-order-2 pt-0">
+                    
+                    
+                    <a class="muted-link mr-3" href="/tags/hugo-ssg">
+                      <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                        <path fill-rule="evenodd"
+                          d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                        </path>
+                      </svg>
+                      Hugo SSG
+                    </a>
+                    
+                    <a class="muted-link mr-3" href="/tags/tutorial-hugo">
+                      <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                        <path fill-rule="evenodd"
+                          d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                        </path>
+                      </svg>
+                      Tutorial Hugo
+                    </a>
+                    
+                    <a class="muted-link mr-3" href="/tags/static-page-hugo">
+                      <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                        <path fill-rule="evenodd"
+                          d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                        </path>
+                      </svg>
+                      static page Hugo
+                    </a>
+                    
+                    
+                  </div>
+                </div>
+              </div>
+
+
+              <div class="Box-body px-5 pb-5">
+                <article class="markdown-body entry-content container-lg"><h1 id="cara-membuat-about-page-di-hugo-ssg">Cara Membuat About Page Di Hugo SSG</h1>
+<p>Beberapa waktu yang lalu saya sempat mengalami kesulitan saat membuat halaman about atau sering di sebut about page, saya mengalami kesulitan karena memang baru pertama kali mempelajari dunia programming sederhana dari praktek yang juga sederhana dengan studi kasus untuk membuat beberapa halaman static di blog dengan static site generator dari Hugo.</p>
+<p>Dan akhirnya saya menemukan beberapa langkah sederhana dan cukup mudah untuk membuat halaman di blog dengan menggunakan Hugo ssg, adapun cara yang saya dapat untuk membuat about page di hugo ssg yaitu sebagai berikut:</p>
+<ol>
+<li>
+<p>yang paling pertama kita mesti membuat <strong>about.md</strong> dimana file ini akan kita panggil yang nantinya akan di tampilkan pada halaman <code>about</code>, untuk membuatnya cukup ketikan perintah ini</p>
+<pre><code> hugo new about.md
+</code></pre>
+<p>Setelah kita buat, mari kita perikas file about.md yang baru kita buat di folder <code>Content</code> pada file blog hugo kita. Untuk lebih jelasnya lihat gambar di bawah ini.</p>
+<!-- raw HTML omitted -->
+<p>Seperti yang kita lihat pada gambar di atas ini, di dalam folder <strong>/Blog</strong>, ada file <code>about.md</code> bukan ? ini berlaku sama, artinya jika kita ingin membuat halaman lain misalnya <code>halaman contact, halaman FaQ, dll</code> saya cukup membuat file <code>.md</code> layaknya file <code>about.md</code> yang tadi saya buat. Sampai sini ada gambaran ?</p>
+<p>Oke mari kita lanjutkan, setelah file <code>about.md</code> kita buat, mari kita lihat isinya. disini sudah saya isi, tinggal kalian sesuaikan dengan kebutuhan untuk isi dari halaman <strong>about page</strong> nya.</p>
+<!-- raw HTML omitted -->
+<p>Saya menambahkan beberapa baris kode <code>Html, css, bootstrap, dll</code> untuk kebutuhan isi dari halaman about agar tampak lebih menarik dan disesuaikan dengan layout halaman sesuai keinginan saya.</p>
+<p>sekarang mari kita kupas satu persatu dari isi file <code>about.md</code> ya.</p>
+<pre><code> title: &quot;Tentang Kodebaper&quot;
+ layout: staticpage
+ draft: false
+</code></pre>
+<blockquote>
+<p><code>title: &quot;Tentang Kodebaper&quot;</code> ini akan kita gunakan sebagai file judul dari halaman yang dimana saat halaman about page ini di akses maka akan akan muncul.</p>
+</blockquote>
+<hr>
+<blockquote>
+<p><code>layout: staticpage</code> ini adalah sebuah halaman HTML yang nantinya akan saya beri nama <code>staticpage.html</code> yang akan di gunakan untuk memanggil file <code>about.md</code> <em>lebih jelasnya akan saya kupas di langkah ke 2</em></p>
+</blockquote>
+<hr>
+<blockquote>
+<p><code>draft: false</code> ini adalah deklarasi agar file about page tidak tampil pada halaman post dan hanya akan tampil pada page about saja nantinya, ini berbeda dengan artikel yang mesti kita isikan dengan menyebutkan <code>draft: true</code> agar tampil pada halaman postingan. <strong>&ldquo;koreksi jika penjelasan saya salah pada kolom komentar ya&rdquo;</strong></p>
+</blockquote>
+<p>Mari kita akan memasuki langkah ke dua.</p>
+</li>
+<li>
+<p>sekarang kita akan membuat file <!-- raw HTML omitted --><!-- raw HTML omitted -->staticpage.html<!-- raw HTML omitted --><!-- raw HTML omitted --> di dalam folde <strong>Theme</strong> utama blog hugo kita dimana file <!-- raw HTML omitted --><!-- raw HTML omitted -->staticpage.html<!-- raw HTML omitted --><!-- raw HTML omitted --> akan saya letakan di dalam folder <strong>_default</strong> dengan urutan seperti ini</p>
+<pre><code> theme--
+     |
+     namaTheme--
+         |			
+         layouts--
+                 |
+                 _default
+                     |
+                     staticpage.html
+</code></pre>
+<p>ingat, untuk penamaan file HTML <code>staticpage.html</code> harus sama dengan nama <code>layout: staticpage</code> pada file <code>about.md</code> di atas, untuk lebih jelasnya dalam peletakan file <!-- raw HTML omitted --><!-- raw HTML omitted -->staticpage.html<!-- raw HTML omitted --><!-- raw HTML omitted --> bisa lihat gambar di bawah ini.</p>
+<!-- raw HTML omitted -->
+<p>Bisa di lihat bukan, adal file <!-- raw HTML omitted --><!-- raw HTML omitted -->staticpage.html<!-- raw HTML omitted --><!-- raw HTML omitted --> di dalam folder <code>_default</code> . Nah sekarang mari kita lihat isi dari file <!-- raw HTML omitted --><!-- raw HTML omitted -->staticpage.html<!-- raw HTML omitted --><!-- raw HTML omitted --> untuk kemudian kita kupas isi dari file tersebut.</p>
+<!-- raw HTML omitted -->
+<p>adapun untuk penjelasan dari isi file <!-- raw HTML omitted --><!-- raw HTML omitted -->staticpage.html<!-- raw HTML omitted --><!-- raw HTML omitted --> yaitu sebagai berikut:</p>
+<blockquote>
+<p>Untuk mempersingkat penjelasan, akan saya jelaskan secara global untuk mempersingkatnya, disini terdapat beberapa baris kode seperti <strong>{{ partial &ldquo;head.html&rdquo; . }}
+{{ partial &ldquo;header.html&rdquo; . }} dan {{ partial &ldquo;footer.html&rdquo; . }}</strong></p>
+</blockquote>
+<p>maksudnya adalah, ini akan memanggil file HTML dari head, header, dan footer pada folder <code>/Partials</code> di theme hugo kita, supaya halaman about nantinya akan tampil secara utuh sesuai tampilan blog dimana di dalam layout blog tersusun dari header sampai footer secara berurutan dan akan menjadi tampilan yang tidak hanya halaman polos dimana saat kita buka halaman about tidak hanya tampilan dari isi about page saja.</p>
+<p>Ada gambaran sampi di sini ? untuk lebih pahamnya bisa di coba-coba sendiri ya langsung praktek agar mengerti.</p>
+<hr>
+<blockquote>
+<p>Kemudian akan kita jumpai baris kode <code>&lt;section&gt; {{ .Content }} &lt;/section&gt;</code> dimana baris kode ini akan memanggil dan menampilkan isi dari file <code>about.md</code> yang kita buat di awal.</p>
+</blockquote>
+</li>
+<li>
+<p>sekarang kita sudah selesai membuat halaman about page, dan kita saatnya menghubungkan dengan link about tersebut ke menu yang akan membuka about page. disini saya membuat <code>menu about</code> jadi link yang saya isi pada <code>menu about</code> seperti ini <!-- raw HTML omitted --><a href="https://kodebaper.com/about">https://kodebaper.com/about</a><!-- raw HTML omitted --></p>
+</li>
+</ol>
+<p>Akihrnya kita sampai di penghujung praktek dari tutorial membuat about page pada blog hugo, mudah bukan untuk membuatnya, selamat mencoba ya!</p>
+</article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block"
+     data-ad-format="fluid"
+     data-ad-layout-key="-gi-3+16-3z+5c"
+     data-ad-client="ca-pub-5756387925386548"
+     data-ad-slot="9728752411"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+<amp-ad width="100vw" height="320"
+     type="adsense"
+     data-ad-client="ca-pub-5756387925386548"
+     data-ad-slot="7666212778"
+     data-auto-format="rspv"
+     data-full-width="">
+  <div overflow=""></div>
+</amp-ad>
+
+  <div class="footer container-xl width-full p-responsive">
+  <div
+    class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between flex-sm-items-center pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mr-lg-4" href="https://kodebaper.com/">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24">
+        <path fill-rule="evenodd"
+          d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+        </path>
+      </svg>
+    </a>
+    <ul class="list-style-none d-flex flex-wrap col-12 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+      
+      <li class="mr-3 mr-lg-0"> © 2021 SantriCyber | <a href='https://github.com/kodebaper'> Kodebaper.com</a></li>
+      
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+</div>
+</body>
+
+<script type="application/javascript" src="https://kodebaper.com/js/github-style.js"></script>
+
+
+
+</html>
