@@ -6,7 +6,17 @@
     <description>Recent content on Kodebaper: Tempat Belajar dan Ngbrol  IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 04 Feb 2021 23:39:23 +0700</lastBuildDate><atom:link href="https://kodebaper.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 06 Feb 2021 23:20:04 +0700</lastBuildDate><atom:link href="https://kodebaper.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SVG Path Icon Untuk Blog Hugo Static</title>
+      <link>https://kodebaper.com/post/svg-path-icon-untuk-blog-hugo-static/</link>
+      <pubDate>Sat, 06 Feb 2021 23:20:04 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/post/svg-path-icon-untuk-blog-hugo-static/</guid>
+      <description>Artikel kali ini akan membahas tentang optimasi blog untuk meningkatkan performa akses blog yang lebih cepat, tips ini saya ikut dari hasil pengetesan kecepatan di google speed test, kemudian saya ikuti setiap petunjuk optimasi yang mesti di lakukan. Salah satunya yaitu disini. Saya melakukan optimasi yang memperlambat load akses ke blog saya akibat file svg yang saya gunakan di dalam konten blog.
+Lalu bagimana untuk mengatasi ini semua ? Hal yang saya lakukan adalah, mesti mencari solusi terhadap pemakaian file image dengan format SVG yang banyak saya terapkan di dalam blog sehingga menjadi penyebab lambatnya blog, namun perlu di garis bawahi, bahwa penggunaan file berformat SVG sebenarnya jauh lebih baik daripada penggunaan file berformat JPG ata PNG.</description>
+    </item>
+    
     <item>
       <title>Cara Terbaru Memasang Disqus Comment Di Blog Hugo Static</title>
       <link>https://kodebaper.com/post/cara-terbaru-memasang-disqus-comment-di-blog-hugo-static/</link>
