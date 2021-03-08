@@ -3,37 +3,52 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kodebaper.com/</loc>
-    <lastmod>2021-03-04T07:04:50+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/post/svg-path-icon-untuk-blog-hugo-static/</loc>
-    <lastmod>2021-03-03T00:24:45+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/post/cara-terbaru-memasang-disqus-comment-di-blog-hugo-static/</loc>
-    <lastmod>2021-02-06T22:12:15+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kodebaper.com/categories/</loc>
-    <lastmod>2021-03-04T07:04:50+07:00</lastmod>
+    <lastmod>2021-03-06T22:30:13+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://kodebaper.com/categories/hugo/</loc>
-    <lastmod>2021-02-06T22:12:15+07:00</lastmod>
+    <lastmod>2021-03-06T22:30:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/hugo-ssg/</loc>
+    <lastmod>2021-03-06T22:30:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/</loc>
+    <lastmod>2021-03-06T22:30:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/post/optimasi-blog-static-berdasarkan-pagespeed-insights-dari-google/</loc>
+    <lastmod>2021-03-06T22:30:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/tags/static-page-hugo/</loc>
+    <lastmod>2021-03-06T22:30:13+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://kodebaper.com/tags/</loc>
-    <lastmod>2021-03-04T07:04:50+07:00</lastmod>
+    <lastmod>2021-03-06T22:30:13+07:00</lastmod>
   </url>
   
   <url>
     <loc>https://kodebaper.com/tags/tutorial-hugo/</loc>
+    <lastmod>2021-03-06T22:30:13+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/post/svg-path-icon-untuk-blog-hugo-static/</loc>
+    <lastmod>2021-03-06T22:28:48+07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.com/post/cara-terbaru-memasang-disqus-comment-di-blog-hugo-static/</loc>
     <lastmod>2021-02-06T22:12:15+07:00</lastmod>
   </url>
   
@@ -98,11 +113,6 @@
   </url>
   
   <url>
-    <loc>https://kodebaper.com/tags/hugo-ssg/</loc>
-    <lastmod>2020-12-25T22:27:11+07:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://kodebaper.com/post/hadiah-serangan-bruteforce-di-akhir-tahun-2020/</loc>
     <lastmod>2020-12-19T11:26:10+07:00</lastmod>
   </url>
@@ -145,11 +155,6 @@
   <url>
     <loc>https://kodebaper.com/post/mengatasi-halaman-hugo-static-tidak-ter-render-dengan-benar/</loc>
     <lastmod>2020-11-19T10:51:17+07:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.com/tags/static-page-hugo/</loc>
-    <lastmod>2020-12-19T11:35:05+07:00</lastmod>
   </url>
   
   <url>
