@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Cyber Security on Kodebaper: Tempat Belajar dan Ngobrol  IT</title>
-    <link>https://kodebaper.com/tags/cyber-security/</link>
-    <description>Recent content in Cyber Security on Kodebaper: Tempat Belajar dan Ngobrol  IT</description>
+    <title>CyberTalks on Kodebaper: Tempat Belajar dan Ngobrol  IT</title>
+    <link>https://kodebaper.com/tags/cybertalks/</link>
+    <description>Recent content in CyberTalks on Kodebaper: Tempat Belajar dan Ngobrol  IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 25 Mar 2021 06:54:39 +0700</lastBuildDate><atom:link href="https://kodebaper.com/tags/cyber-security/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 25 Mar 2021 06:54:39 +0700</lastBuildDate><atom:link href="https://kodebaper.com/tags/cybertalks/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Aplikasi Hacking Untuk Seorang Pemula</title>
       <link>https://kodebaper.com/post/aplikasi-hacking-untuk-seorang-pemula/</link>
@@ -15,16 +15,6 @@
       <guid>https://kodebaper.com/post/aplikasi-hacking-untuk-seorang-pemula/</guid>
       <description>Aplikasi Hacking Untuk Seorang Pemula Apa kabar para pejuang selembar pengakuan dari kasta bergengsi seorang Pentesting ? Semoga kita yang memiliki passion yang sama akan mengikuti jejak ahli-ahli di bidang keamanan di luar sana untuk bisa menyelesaikan tantangan sertifiksi yang banyak di idam-idamkan, yaitu OSCP (Offensive Security Certified Professional).
 Tidak perlu jauh untuk mencapai di tingkat OSCP, tapi kita mulai dahulu dari impian saya yaitu CHFI (COMPUTER HACKING FORENSIC INVESTIGATION). Oke kedepan saya akan jadikan blog ini sebagai dokumentasi terstruktur yang akan menjadi saksi perjalanan saya di tahun ini 2021 untuk mengambil tantangan dengan mengikuti sertifikasi CHFI, sebelum impian terbesar saya sampai pada tingkat sertifikasi OSCP</description>
-    </item>
-    
-    <item>
-      <title>Memahami Cyber Security Body of Knowledge</title>
-      <link>https://kodebaper.com/post/memahami-cyber-security-body-of-knowledge/</link>
-      <pubDate>Wed, 24 Mar 2021 15:18:02 +0700</pubDate>
-      
-      <guid>https://kodebaper.com/post/memahami-cyber-security-body-of-knowledge/</guid>
-      <description>Cyber Security body of knowledge  Prakata : Ini merupakan sesi yang akan berkelanjutan pada belajar saya mengenai Cyber Scurity, untuk itu agar mudah saya mengurutkan dokumentasi yang saya buat, pada setiap artikel Cyber Security akan saya berikan HASHTAG #Cyberseri1 #Cyberseri 2, 3, 4 dan seterusnya.
- Berikut merupakan Cyber Security body of knowledge dari salah satu video yang saya tonton di youtube Channel milik Pak Doddy Ferdiansyah yang berjudul BINGUNG MULAI DARI MANA?</description>
     </item>
     
   </channel>
