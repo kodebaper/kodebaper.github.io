@@ -3,14 +3,63 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kodebaper.comhttps://kodebaper.com/post/6-jenis-cyber-security/</loc>
-    <lastmod>2021-04-17T07:10:39+07:00</lastmod>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/cara-membuat-open-new-tab-external-link-di-hugo/</loc>
+    <lastmod>2021-04-28T11:33:38+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.comhttps://kodebaper.com/categories/</loc>
+    <lastmod>2021-04-28T11:33:38+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/categories/hugo/</loc>
+    <lastmod>2021-04-28T11:33:38+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/hugo-ssg/</loc>
+    <lastmod>2021-04-28T11:33:38+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/</loc>
+    <lastmod>2021-04-28T11:33:38+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/static-page-hugo/</loc>
+    <lastmod>2021-04-28T11:33:38+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/</loc>
+    <lastmod>2021-04-28T11:33:38+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/tutorial-hugo/</loc>
+    <lastmod>2021-04-28T11:33:38+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/6-jenis-cyber-security/</loc>
     <lastmod>2021-04-17T07:10:39+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -45,20 +94,6 @@
   </url>
   
   <url>
-    <loc>https://kodebaper.comhttps://kodebaper.com/</loc>
-    <lastmod>2021-04-17T07:10:39+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.comhttps://kodebaper.com/tags/</loc>
-    <lastmod>2021-04-17T07:10:39+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://kodebaper.comhttps://kodebaper.com/post/aplikasi-hacking-untuk-seorang-pemula/</loc>
     <lastmod>2021-03-30T08:19:15+07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -80,35 +115,7 @@
   </url>
   
   <url>
-    <loc>https://kodebaper.comhttps://kodebaper.com/categories/hugo/</loc>
-    <lastmod>2021-03-11T08:13:58+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.comhttps://kodebaper.com/tags/hugo-ssg/</loc>
-    <lastmod>2021-03-11T08:13:58+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://kodebaper.comhttps://kodebaper.com/post/optimasi-blog-static-berdasarkan-pagespeed-insights-dari-google/</loc>
-    <lastmod>2021-03-11T08:13:58+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.comhttps://kodebaper.com/tags/static-page-hugo/</loc>
-    <lastmod>2021-03-11T08:13:58+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.comhttps://kodebaper.com/tags/tutorial-hugo/</loc>
     <lastmod>2021-03-11T08:13:58+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
