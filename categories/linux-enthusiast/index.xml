@@ -6,7 +6,17 @@
     <description>Recent content in Linux Enthusiast on Kodebaper: Tempat Belajar dan Ngobrol  IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 20 Sep 2020 01:17:57 +0700</lastBuildDate><atom:link href="https://kodebaper.com/categories/linux-enthusiast/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 May 2021 07:20:29 +0700</lastBuildDate><atom:link href="https://kodebaper.com/categories/linux-enthusiast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Failed to Open a Session for the Virtual Machine Linux Ubuntu Mac 0S Big Sur</title>
+      <link>https://kodebaper.com/post/failed-to-open-a-session-for-the-virtual-machine-linux-ubuntu-mac-0s-big-sur/</link>
+      <pubDate>Sun, 16 May 2021 07:20:29 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/post/failed-to-open-a-session-for-the-virtual-machine-linux-ubuntu-mac-0s-big-sur/</guid>
+      <description>Mac OS Big Sur:Failed to open a session for the virtual machine linux ubuntu Baru-baru ini terjadi permasalahan pada VirtualBox yang saya jalankan pada MacBook saya setelah saya selesai mengupgrade sistem operasi Mac OS Catalina ke BigSur, dimana VirtualBox yang sebelumnya error berjalan sistem operasi bahan praktek-praktek saya yaitu ubuntu server dan kali linux. Kurang lebih terjadi pesan error seperti ini.
+Failed to open a session for the virtual machine linux ubuntu.</description>
+    </item>
+    
     <item>
       <title>Persiapan Membuat Server Cloud Storage Menggunakan Sistem Operasi Ubuntu</title>
       <link>https://kodebaper.com/post/persiapan-membuat-server-cloud-storage-menggunakan-sistem-operasi-ubuntu/</link>

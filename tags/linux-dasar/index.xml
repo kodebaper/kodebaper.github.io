@@ -6,7 +6,17 @@
     <description>Recent content in Linux Dasar on Kodebaper: Tempat Belajar dan Ngobrol  IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 13 Sep 2020 23:56:26 +0700</lastBuildDate><atom:link href="https://kodebaper.com/tags/linux-dasar/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 16 May 2021 07:20:29 +0700</lastBuildDate><atom:link href="https://kodebaper.com/tags/linux-dasar/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Failed to Open a Session for the Virtual Machine Linux Ubuntu Mac 0S Big Sur</title>
+      <link>https://kodebaper.com/post/failed-to-open-a-session-for-the-virtual-machine-linux-ubuntu-mac-0s-big-sur/</link>
+      <pubDate>Sun, 16 May 2021 07:20:29 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/post/failed-to-open-a-session-for-the-virtual-machine-linux-ubuntu-mac-0s-big-sur/</guid>
+      <description>Mac OS Big Sur:Failed to open a session for the virtual machine linux ubuntu Baru-baru ini terjadi permasalahan pada VirtualBox yang saya jalankan pada MacBook saya setelah saya selesai mengupgrade sistem operasi Mac OS Catalina ke BigSur, dimana VirtualBox yang sebelumnya error berjalan sistem operasi bahan praktek-praktek saya yaitu ubuntu server dan kali linux. Kurang lebih terjadi pesan error seperti ini.
+Failed to open a session for the virtual machine linux ubuntu.</description>
+    </item>
+    
     <item>
       <title>Mencoba Bermain Main Dengan Perintah Dasar Terminal Untuk Pemula</title>
       <link>https://kodebaper.com/post/mencoba-bermain-main-dengan-perintah-dasar-terminal-untuk-pemula/</link>

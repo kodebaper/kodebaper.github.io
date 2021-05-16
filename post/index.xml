@@ -8,6 +8,16 @@
     <language>en-US</language>
     <lastBuildDate>Wed, 04 Nov 2020 18:55:37 +0700</lastBuildDate><atom:link href="https://kodebaper.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Failed to Open a Session for the Virtual Machine Linux Ubuntu Mac 0S Big Sur</title>
+      <link>https://kodebaper.com/post/failed-to-open-a-session-for-the-virtual-machine-linux-ubuntu-mac-0s-big-sur/</link>
+      <pubDate>Sun, 16 May 2021 07:20:29 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/post/failed-to-open-a-session-for-the-virtual-machine-linux-ubuntu-mac-0s-big-sur/</guid>
+      <description>Mac OS Big Sur:Failed to open a session for the virtual machine linux ubuntu Baru-baru ini terjadi permasalahan pada VirtualBox yang saya jalankan pada MacBook saya setelah saya selesai mengupgrade sistem operasi Mac OS Catalina ke BigSur, dimana VirtualBox yang sebelumnya error berjalan sistem operasi bahan praktek-praktek saya yaitu ubuntu server dan kali linux. Kurang lebih terjadi pesan error seperti ini.
+Failed to open a session for the virtual machine linux ubuntu.</description>
+    </item>
+    
+    <item>
       <title>Cara Membuat Open New Tab External Link Di Hugo</title>
       <link>https://kodebaper.com/post/cara-membuat-open-new-tab-external-link-di-hugo/</link>
       <pubDate>Tue, 27 Apr 2021 21:55:18 +0700</pubDate>
