@@ -6,7 +6,18 @@
     <description>Recent content in Linux Enthusiast on Kodebaper: Tempat Belajar dan Ngobrol  IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Sun, 16 May 2021 07:20:29 +0700</lastBuildDate><atom:link href="https://kodebaper.com/categories/linux-enthusiast/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 19 May 2021 13:44:47 +0700</lastBuildDate><atom:link href="https://kodebaper.com/categories/linux-enthusiast/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Menggunakan Ubuntu Dengan Multipass Di Mac OS BigSur</title>
+      <link>https://kodebaper.com/post/cara-menggunakan-ubuntu-dengan-multipass-di-mac-os-bigsur/</link>
+      <pubDate>Wed, 19 May 2021 13:44:47 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/post/cara-menggunakan-ubuntu-dengan-multipass-di-mac-os-bigsur/</guid>
+      <description>Cara Menggunakan Ubuntu Dengan Multipass Di Mac OS BigSur Beberapa waktu yang lalu, saya menemukan cara terbaru untuk tetap bisa menggunakan sistem operasi ubuntu pada perangkat MacBook Pro saya yang terpasang sistem operasi Mac OS, tanpa menggunakan VirtualBox atau VMware seperti yang biasa saya lakukan untuk meng-install sistem operasi Linux Ubuntu di dalamnya.
+Lalu caranya bagimana ?
+Saya hanya perlu menggunakan Multipass untuk dapat menggunakan sistem operasi ubuntu, kemudian cukup dengan baris perintah menggunakan aplikasi Terminal default bawaan dari sistem operasi Mac Os.</description>
+    </item>
+    
     <item>
       <title>Failed to Open a Session for the Virtual Machine Linux Ubuntu Mac 0S Big Sur</title>
       <link>https://kodebaper.com/post/failed-to-open-a-session-for-the-virtual-machine-linux-ubuntu-mac-0s-big-sur/</link>

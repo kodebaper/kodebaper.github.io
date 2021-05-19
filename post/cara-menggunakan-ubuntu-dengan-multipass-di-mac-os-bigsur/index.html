@@ -1,0 +1,394 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <script type="application/javascript" src='https://kodebaper.com/js/theme-mode.js'></script>
+    <link rel="stylesheet" href='https://kodebaper.com/css/frameworks.min.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/github.min.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/github-style.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/light.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/dark.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/syntax.css' />
+    <title>Cara Menggunakan Ubuntu Dengan Multipass Di Mac OS BigSur - Kodebaper: Tempat Belajar dan Ngobrol  IT</title>
+    
+    <link rel="icon" type="image/x-icon" href='/images/favicon.ico'>
+    
+    <meta name="theme-color" content="#1e2327">
+
+
+<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+
+<script data-ad-client="ca-pub-5756387925386548" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M4V2QQN');</script>
+
+
+    
+    <meta name="description"
+  content="Cara Menggunakan Ubuntu Dengan Multipass Di Mac OS BigSur Beberapa waktu yang lalu, saya menemukan cara terbaru untuk tetap bisa menggunakan sistem operasi ubuntu pada perangkat MacBook Pro saya yang terpasang sistem operasi Mac OS, tanpa menggunakan VirtualBox atau VMware seperti yang biasa saya lakukan untuk meng-install sistem operasi Linux Ubuntu di dalamnya.
+Lalu caranya bagimana ?
+Saya hanya perlu menggunakan Multipass untuk dapat menggunakan sistem operasi ubuntu, kemudian cukup dengan baris perintah menggunakan aplikasi Terminal default bawaan dari sistem operasi Mac Os." />
+<meta name="keywords"
+  content='blog, Tempat Belajar Seputar Dunia IT' />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://kodebaper.com/post/cara-menggunakan-ubuntu-dengan-multipass-di-mac-os-bigsur/" />
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Cara Menggunakan Ubuntu Dengan Multipass Di Mac OS BigSur - Kodebaper: Tempat Belajar dan Ngobrol  IT" />
+<meta name="twitter:description"
+  content="Cara Menggunakan Ubuntu Dengan Multipass Di Mac OS BigSur Beberapa waktu yang lalu, saya menemukan cara terbaru untuk tetap bisa menggunakan sistem operasi ubuntu pada perangkat MacBook Pro saya yang terpasang sistem operasi Mac OS, tanpa menggunakan VirtualBox atau VMware seperti yang biasa saya lakukan untuk meng-install sistem operasi Linux Ubuntu di dalamnya.
+Lalu caranya bagimana ?
+Saya hanya perlu menggunakan Multipass untuk dapat menggunakan sistem operasi ubuntu, kemudian cukup dengan baris perintah menggunakan aplikasi Terminal default bawaan dari sistem operasi Mac Os." />
+<meta name="twitter:site" content="https://kodebaper.com/" />
+<meta name="twitter:creator" content="" />
+<meta name="twitter:image"
+  content="https://kodebaper.com/">
+
+
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Cara Menggunakan Ubuntu Dengan Multipass Di Mac OS BigSur - Kodebaper: Tempat Belajar dan Ngobrol  IT">
+<meta property="og:description"
+  content="Cara Menggunakan Ubuntu Dengan Multipass Di Mac OS BigSur Beberapa waktu yang lalu, saya menemukan cara terbaru untuk tetap bisa menggunakan sistem operasi ubuntu pada perangkat MacBook Pro saya yang terpasang sistem operasi Mac OS, tanpa menggunakan VirtualBox atau VMware seperti yang biasa saya lakukan untuk meng-install sistem operasi Linux Ubuntu di dalamnya.
+Lalu caranya bagimana ?
+Saya hanya perlu menggunakan Multipass untuk dapat menggunakan sistem operasi ubuntu, kemudian cukup dengan baris perintah menggunakan aplikasi Terminal default bawaan dari sistem operasi Mac Os." />
+<meta property="og:url" content="https://kodebaper.com/post/cara-menggunakan-ubuntu-dengan-multipass-di-mac-os-bigsur/" />
+<meta property="og:site_name" content="Cara Menggunakan Ubuntu Dengan Multipass Di Mac OS BigSur" />
+<meta property="og:image"
+  content="https://kodebaper.com/">
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+<meta property="article:published_time" content="2021-05-19 13:44:47 &#43;0700 WIB" />
+
+
+
+
+
+
+
+
+
+
+</head>
+
+<body>
+  <div style="position: relative">
+  <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap open Details--on">
+    <div class="Header-item mobile-none" style="margin-top: -4px; margin-bottom: -4px;">
+      <a class="Header-link" href="https://kodebaper.com/">
+        <svg class="octicon" height="32" viewBox="0 0 16 16" version="1.1" width="32"></svg>
+      </a>
+    </div>
+    <div class="Header-item d-md-none">
+      <button class="Header-link btn-link js-details-target" type="button"
+        onclick="document.querySelector('#header-search').style.display = document.querySelector('#header-search').style.display == 'none'? 'block': 'none'">
+        <svg height="24" class="octicon octicon-three-bars" viewBox="0 0 16 16" version="1.1" width="24">
+          <path fill-rule="evenodd"
+            d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z">
+          </path>
+        </svg>
+      </button>
+    </div>
+    <div style="display: none;" id="header-search"
+      class="Header-item Header-item--full flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mr-md-3 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex">
+      <div
+        class="Header-search header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to">
+        <div class="position-relative">
+          <form target="_blank" action="https://www.google.com/search" accept-charset="UTF-8" method="get"
+            autocomplete="off">
+            <label
+              class="Header-search-label form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
+              <input type="text"
+                class="Header-search-input form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+                name="q" value="" placeholder="Mau belajar apa?" autocomplete="off">
+              <input type="hidden" name="q" value="site:https://kodebaper.com/">
+            </label>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <div class="Header-item Header-item--full flex-justify-center d-md-none position-relative">
+      <a class="Header-link " href="https://kodebaper.com/">
+        <svg class="octicon octicon-mark-github v-align-middle" height="32" viewBox="0 0 16 16" version="1.1"
+          width="32">
+          <path fill-rule="evenodd"
+            d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+          </path>
+        </svg>
+      </a>
+    </div>
+    <div class="Header-item" style="margin-right: 0;">
+      <a href="javascript:void(0)" class="Header-link no-select" onclick="switchTheme()">
+        <svg style="fill: var(--color-profile-color-modes-toggle-moon);" class="no-select" viewBox="0 0 16 16"
+          version="1.1" width="16" height="16">
+          <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M4.52208 7.71754C7.5782 7.71754 10.0557 5.24006 10.0557 2.18394C10.0557 1.93498 10.0392 1.68986 10.0074 1.44961C9.95801 1.07727 10.3495 0.771159 10.6474 0.99992C12.1153 2.12716 13.0615 3.89999 13.0615 5.89383C13.0615 9.29958 10.3006 12.0605 6.89485 12.0605C3.95334 12.0605 1.49286 10.001 0.876728 7.24527C0.794841 6.87902 1.23668 6.65289 1.55321 6.85451C2.41106 7.40095 3.4296 7.71754 4.52208 7.71754Z">
+          </path>
+        </svg>
+      </a>
+    </div>
+  </header>
+</div>
+
+  
+<div>
+  <main>
+    <div class="gisthead pagehead bg-gray-light pb-0 pt-3 mb-4">
+      <div class="px-0">
+        <div class="mb-3 d-flex px-3 px-md-3 px-lg-5">
+          <div class="flex-auto min-width-0 width-fit mr-3">
+            <div class="d-flex">
+              <div class="d-none d-md-block">
+                <a class="avatar mr-2 flex-shrink-0" href="https://kodebaper.com/">
+                  <img class=" avatar-user"
+                    src="https://kodebaper.com/images/baperlogo.svg"
+                    width="32" height="32"></a>
+              </div>
+              <div class="d-flex flex-column">
+                <h1 class="break-word f3 text-normal mb-md-0 mb-1">
+                  <span class="author">
+                    <a href="https://kodebaper.com/">Kodebaper.com</a></span><span
+                    class="path-divider">/</span><strong class="css-truncate-target mr-1" style="max-width: 410px"><a
+                      href="https://kodebaper.com/post/cara-menggunakan-ubuntu-dengan-multipass-di-mac-os-bigsur/">Cara Menggunakan Ubuntu Dengan Multipass Di Mac OS BigSur</a></strong>
+                </h1>
+                <div class="note m-0">
+                  Created <relative-time datetime="Wed, 19 May 2021 13:44:47 &#43;0700"
+                    class="no-wrap">
+                    Wed, 19 May 2021 13:44:47 &#43;0700</relative-time>
+
+                  
+                  <span class="file-info-divider"></span>
+                  Modified <relative-time datetime="Wed, 19 May 2021 15:17:31 &#43;0700"
+                    class="no-wrap">
+                    Wed, 19 May 2021 15:17:31 &#43;0700</relative-time>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container-lg px-3 new-discussion-timeline">
+      <div class="repository-content gist-content">
+        <div>
+          <div class="js-gist-file-update-container js-task-list-container file-box">
+            <div id="file-pytest" class="file my-2">
+              <div class="file-header d-flex flex-md-items-center flex-items-start">
+                <div class="file-info d-flex flex-md-items-center flex-items-start flex-order-1 flex-auto">
+                  <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
+                    734 Words
+                    
+
+                  </div>
+                  <div class="file-actions flex-order-2 pt-0">
+                    
+                    
+                    <a class="muted-link mr-3" href="/tags/linux-dasar">
+                      <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                        <path fill-rule="evenodd"
+                          d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                        </path>
+                      </svg>
+                      Linux Dasar
+                    </a>
+                    
+                    <a class="muted-link mr-3" href="/tags/linux-tips">
+                      <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                        <path fill-rule="evenodd"
+                          d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                        </path>
+                      </svg>
+                      Linux Tips
+                    </a>
+                    
+                    
+                  </div>
+                </div>
+              </div>
+              <div class="Box-body px-5 pb-5">
+                <article class="markdown-body entry-content container-lg"><h3 id="cara-menggunakan-ubuntu-dengan-multipass-di-mac-os-bigsur">Cara Menggunakan Ubuntu Dengan Multipass Di Mac OS BigSur</h3>
+<p>Beberapa waktu yang lalu, saya menemukan cara terbaru untuk tetap bisa menggunakan <strong>sistem operasi ubuntu</strong> pada perangkat MacBook Pro saya yang terpasang sistem operasi <strong>Mac OS</strong>, tanpa menggunakan <strong>VirtualBox</strong> atau <strong>VMware</strong> seperti yang biasa saya lakukan untuk meng-<em>install</em> <strong>sistem operasi Linux Ubuntu</strong> di dalamnya.</p>
+<p>Lalu caranya bagimana ?</p>
+<p>Saya hanya perlu menggunakan <em>Multipass</em> untuk dapat menggunakan sistem operasi <strong>ubuntu</strong>, kemudian cukup dengan baris perintah menggunakan aplikasi Terminal default bawaan dari sistem operasi <strong>Mac Os</strong>. Simpel bukan ?</p>
+<p>Sebelum melangkah lebih jauh, saya akan menjelaskan sedikit apa itu teknologi <strong>Multipass</strong>. Penjelasan ini saya ambil langsung dari <strong>GitHub canonical/multipass</strong> untuk kita dapat memahami lebih dalam lagi.</p>
+<pre><code>Multipass is a lightweight VM manager for Linux, Windows and macOS. It's
+designed for developers who want a fresh Ubuntu environment with a single command. 
+It uses KVM on Linux, Hyper-V on Windows and HyperKit on macOS to run the VM with minimal 
+overhead. It can also use VirtualBox on Windows and macOS. 
+Multipass will fetch images for you and keep them up to date.
+
+Since it supports metadata for cloud-init, you can simulate a small cloud deployment 
+on your laptop or workstation.
+</code></pre><p>Untuk langkah ini saya praktekan menggunakan sistem operasi MacOS, jadi untuk pengguna Windows atau Linux yang ingin menggunakan <strong>Multipass</strong> mungkin bisa mengikuti panduan dari <a href="https://github.com/canonical/multipass" rel="noopener noreferrer" target="_blank">GitHub canonical/multipass Disini</a>
+</p>
+<p>Oke mari ke langkah <em>instalasi Multipass di sistem operasi MacOS BigSur</em>.</p>
+<p>Langkah paling awal buka aplikasi <strong>Terminal</strong> bawaan pada sistem operasi <em>MacOS</em> kita.</p>
+<p>Saya memasang <em>multipass</em> lebih suka menggunakan <strong>Homebrew</strong> jadi perintahnya seperti ini.</p>
+<pre><code>$brew install --cask multipass
+</code></pre><p>Kemudian cek ketersediaan <em>images</em> setelah kita berhasil meng-<em>install</em> <em>Multipass</em> nya. Dan ini hasilnya pada perangkat saya.</p>
+<pre><code>Image                       Aliases           Version          Description
+snapcraft:core18                              20201111         Snapcraft builder for Core 18
+snapcraft:core20                              20201111         Snapcraft builder for Core 20
+snapcraft:core                                20210430         Snapcraft builder for Core 16
+18.04                       bionic            20210512         Ubuntu 18.04 LTS
+20.04                       focal,lts         20210510         Ubuntu 20.04 LTS
+20.10                       groovy            20210511.1       Ubuntu 20.10
+</code></pre><p>Kemudian saatnya saya meluncurkan <strong>Ubuntu</strong> versi terbarunya dengan perintah dibawah ini. Apabila sampai langkah ini tidak mengalami kendala harusnya hasilnya akan seperti dibawah ini</p>
+<pre><code>$ multipass launch ubuntu
+the Multipass developers, by sending anonymous usage data?
+This includes your operating system, which images you use,
+the number of instances, their properties and how long you use them.
+We’d also like to measure Multipass’s speed.
+
+Send usage data (yes/no/Later)? yes
+Thank you!
+Launched: master-butterfish 
+</code></pre><p>Saatnya kita cek ketersediaan images yang telah selesai di download seperti langkah di atas ini. cukup ketikan baris perintah di bawah ini dan mestinya akan menampilkan pesan seperti ini.</p>
+<pre><code>multipass list
+Name                    State             IPv4             Image
+master-butterfish       Running           192.168.64.2     Ubuntu 20.04 LTS
+</code></pre><p>Bisa di ketahui dari info seperti diatas ini bahwa image yang terpasang adalah <strong>ubuntu versi 20.04 LTS</strong> dengan IP Address yang terdeteksi 192.168.64.2 dengan status sedang berjalan.</p>
+<p>Oke, mari kita lanjutkan lagi praktenya&hellip;&hellip;</p>
+<p>Saatnya kita ketahui lebih lanjut mengenai instance VM yang baru saja kita luncurkan dengan perintah ini. Seharusnya akan menampilkan informasi lengkap seperti di bawah ini.</p>
+<pre><code>$ multipass info master-butterfish
+Name:           master-butterfish
+State:          Running
+IPv4:           192.168.64.2
+Release:        Ubuntu 20.04.2 LTS
+Image hash:     9dd5cb9f73c4 (Ubuntu 20.04 LTS)
+Load:           0.01 0.08 0.07
+Disk usage:     1.3G out of 4.7G
+Memory usage:   130.0M out of 981.3M
+dive:~ admin$ multipass shell master-butterfish
+Welcome to Ubuntu 20.04.2 LTS (GNU/Linux 5.4.0-73-generic x86_64)
+
+ * Documentation:  https://help.ubuntu.com
+ * Management:     https://landscape.canonical.com
+ * Support:        https://ubuntu.com/advantage
+
+  System information as of Tue May 18 08:00:47 WIB 2021
+
+  System load:  0.0               Processes:               106
+  Usage of /:   26.9% of 4.67GB   Users logged in:         0
+  Memory usage: 18%               IPv4 address for enp0s2: 192.168.64.2
+  Swap usage:   0%
+
+1 update can be applied immediately.
+To see these additional updates run: apt list --upgradable
+
+The list of available updates is more than a week old.
+To check for new updates run: sudo apt update
+
+To run a command as administrator (user &quot;root&quot;), use &quot;sudo &lt;command&gt;&quot;.
+See &quot;man sudo_root&quot; for details.
+</code></pre><p>Sampai dengan tahapan ini kita sudah berhasil meluncurkan ubuntu dengan multipass dan kita dapat menggunakan sistem operasi Linux Ubuntu nya cukup dengan aplikasi terminal bawaan kita di sistem operasi Mac OS</p>
+<p>Ini contohnya, saya sudah melakukan update Repository sistem operasi Linux ubuntu saya dengan baris perintah Linux ubuntu di aplikasi Terminal MacOS saya.</p>
+<pre><code>ubuntu@master-butterfish:~$ apt list --upgradable
+Listing... Done
+ubuntu@master-butterfish:~$ sudo apt-get update
+Hit:1 http://archive.ubuntu.com/ubuntu focal InRelease
+Get:2 http://security.ubuntu.com/ubuntu focal-security InRelease [109 kB]
+Get:3 http://archive.ubuntu.com/ubuntu focal-updates InRelease [114 kB]
+</code></pre><p>Semoga tutorial ini bermanfaat. Selamat belajar!</p>
+</article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+
+  
+    <div class="container">
+      <main>
+      <div class="gisthead pagehead bg-gray-light pb-0 pt-3 mb-4">
+      <div class="mb-2 d-flex px-2 px-md-2 px-lg-5">
+      <div class="flex-auto min-width-2 width-fit mr-2">
+      <div class="d-flex">
+      
+        <div class="col-md-3">
+          <img class="mr-3 rounded-circle lazyload lazyloaded" src="/images/logoblog.webp" data-src="/images/logoblog.webp" style="width:128px;height:128px" alt="Author avatar">
+        </div>
+        <div class="col-md-8">
+          <div class="card-body">
+            <h3 class="card-title">Dukungan Untuk Penulis</h3>
+            <p class="card-text">Sebagai apresiasi Kamu kepada Penulis, Kamu bisa share Artikel ini dan Publish ke media manapun agar banyak yang belajar dari tulisan di Kodebaper.</p>
+            <p class="card-text"><small class="text-muted">***Jangan lupa cantumkan 'source' setiap mengambil isi konten di kodebaper yaa :) </small></p>
+          </div>
+      
+      <div>
+        <h4>Hubungi Saya Jika Kamu Butuh Informasi Lebih Lanjut</h4>
+      <br>
+      <div></div>
+        <a href="https://t.me/wsbna/" class="btn btn-outline-info"> Yuk ngobrol </a>
+        <a href="https://kodebaper.com/Aboutme/" class="btn btn-outline-info"> About Me </a>
+        <a href="#" class="btn btn-outline-info"> Kebijakan Privasi</a>
+        <a href="#" class="btn btn-outline-info"> FaQ </a>
+      </div>
+          </div>
+        </div>
+      </div>
+    </main>
+    </div>    
+  
+
+  
+<div class="container">
+    <div class="row">
+      <div class="col-12">
+        <nav class="navbar navbar-expand-lg">
+        <div class="jumbotron jumbotron-fluid ">
+            <div class="container">
+      <div class="card-body">
+<div id="disqus_thread"></div>
+<script>
+    
+
+    
+
+    (function() { 
+    var d = document, s = d.createElement('script');
+    s.src = 'https://kodebaper.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+  <div class="footer container-xl width-full p-responsive">
+  <div
+    class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between flex-sm-items-center pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mr-lg-4" href="https://kodebaper.com/">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24">
+        <path fill-rule="evenodd"
+          d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+        </path>
+      </svg>
+    </a>
+    <ul class="list-style-none d-flex flex-wrap col-12 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+      
+      <li class="mr-3 mr-lg-0"> © 2021 SantriCyber | <a href='https://github.com/kodebaper'> Kodebaper.com</a></li>
+      
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+</div>
+</body>
+
+<script type="application/javascript" src="https://kodebaper.com/js/github-style.js"></script>
+
+
+
+</html>
