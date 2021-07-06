@@ -1,467 +1,656 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset
-      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
-            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
-
-
-<url>
-  <loc>https://kodebaper.com/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>1.00</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/tutorial-hugo/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/linux-dasar/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/deploy/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/cara-menggunakan-ubuntu-dengan-multipass-di-mac-os-bigsur/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/linux-tips/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/failed-to-open-a-session-for-the-virtual-machine-linux-ubuntu-mac-0s-big-sur/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/tips-linux/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/cara-membuat-open-new-tab-external-link-di-hugo/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/hugo-ssg/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/static-page-hugo/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/6-jenis-cyber-security/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/cyber-security/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/cybersesi/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/aplikasi-hacking-untuk-seorang-pemula/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/cybertalks/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/memahami-cyber-security-body-of-knowledge/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.80</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/optimasi-blog-static-berdasarkan-pagespeed-insights-dari-google/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/svg-path-icon-untuk-blog-hugo-static/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/cara-terbaru-memasang-disqus-comment-di-blog-hugo-static/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/membicarakan-blog-yang-efektif/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/ngobrol-it/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/cara-mengatasi-earnings-at-riskyou-need-to-fix-some-ads-txt-file/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/hugo-error/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/ngobrol-seo/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/seo-hugo/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/google-adsense/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/cara-upgrade-hugo-ke-versi-terbaru-di-macos/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/teknik-seo-untuk-hugo-static-site/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/mengenal-analytic-tool-untuk-hugo-static-site/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/istilah-istilah-dalam-dunia-static-site-generator/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/cara-membuat-about-page-di-hugo-ssg/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/mencoba-bermain-main-dengan-perintah-dasar-terminal-untuk-pemula/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/apakah-penting-dual-booting-linux-dan-windows/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/pemahaman-dasar-sistem-operasi-linux-ubuntu-untuk-pemula/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/alasan-migrasi-ke-sistem-operasi-linux/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/distro-linux-untuk-seorang-pemula/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/pertama-kali-saya-migrasi-ke-os-linux-ubuntu/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/mengatasi-halaman-hugo-static-tidak-ter-render-dengan-benar/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/cara-mengaktifkan-dnssec-cloudflare-untuk-blog-hugo/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/cara-custom-domain-blog-hugo-di-github-page/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/solved-enforce-httpsunavailable-for-your-site-on-github/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/prepare-sebelum-custom-domain-blog-hugo-di-github-page/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/git-push-rejected-non-fast-forward/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/solved-fatal-not-a-git-repository-or-any-of-the-parent-directories/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/cara-menambahkan-static-page-di-hugo-ssg/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/cara-memasang-komentar-disqus-di-hugo/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/tips-menulis-artikel-di-hugo-static-site/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/saya-meracik-templat-hugo-buatan-orang-lain/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.64</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/mengantisipasi-akun-sosial-media-dari-peretasan/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/hacking-sosial-media/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/ngobrol-security/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/ngobrolin-isi-pembahasan-dari-blog-kodebaper/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/pengalaman-langganan-domain-di-domainesia/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/peran-teknologi-di-masa-pandemi-covid19/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/error-failed-to-push-some-refs-to/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/error-saat-deploy-hugo-ke-github-page/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/ngeblog-tidak-semudah-setelah-jadi/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/about/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.51</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/categories/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/roadmap/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.41</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/categories/linux-enthusiast/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/categories/hugo/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/categories/cyber-security/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/categories/secangkir-kopi/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/categories/pemrograman/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/categories/devops/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.33</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/persiapan-membuat-server-cloud-storage-menggunakan-sistem-operasi-ubuntu/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/belajar-server/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/cloud-server/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/rencana-belajar-membangun-cloud-storage-di-server-sendiri/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/mengatasi-wifi-pada-macbook-pro-mati-saat-dongle-atau-konektor-terhubung/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/ngobrol-produktif/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/tips-macbook/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/hadiah-serangan-bruteforce-di-akhir-tahun-2020/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/kerentanan-sistem/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/serangan-keamanan/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/belajar-programming-atau-termotivasi-jadi-pentester/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/kuliah-mau-mencari-ilmu/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/anak-kampus/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/first-impression-belajar-kotlin/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/programming/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/perintah-dasar-git-untuk-pemula/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/github/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/mengenal-layanan-dns-cloudflare/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/tags/cloud/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/mengenal-github-page-untuk-deploy-hugo/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.26</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/membuat-website-mudah-cukup-dari-terminal/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.21</priority>
-</url>
-<url>
-  <loc>https://kodebaper.com/post/opini-saya-tentang-mahasiswa/</loc>
-  <lastmod>2021-05-19T08:18:57+00:00</lastmod>
-  <priority>0.21</priority>
-</url>
-
-
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/cara-menggunakan-ubuntu-dengan-multipass-di-mac-os-bigsur/</loc>
+    <lastmod>2021-05-19T15:17:31+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/categories/</loc>
+    <lastmod>2021-05-19T15:17:31+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/</loc>
+    <lastmod>2021-05-19T15:17:31+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/linux-dasar/</loc>
+    <lastmod>2021-05-19T15:17:31+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/categories/linux-enthusiast/</loc>
+    <lastmod>2021-05-19T15:17:31+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/linux-tips/</loc>
+    <lastmod>2021-05-19T15:17:31+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/</loc>
+    <lastmod>2021-05-19T15:17:31+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/failed-to-open-a-session-for-the-virtual-machine-linux-ubuntu-mac-0s-big-sur/</loc>
+    <lastmod>2021-05-16T07:36:13+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/tips-linux/</loc>
+    <lastmod>2021-05-16T07:36:13+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/cara-membuat-open-new-tab-external-link-di-hugo/</loc>
+    <lastmod>2021-04-28T11:33:38+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/categories/hugo/</loc>
+    <lastmod>2021-04-28T11:33:38+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/hugo-ssg/</loc>
+    <lastmod>2021-04-28T11:33:38+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/static-page-hugo/</loc>
+    <lastmod>2021-04-28T11:33:38+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/tutorial-hugo/</loc>
+    <lastmod>2021-04-28T11:33:38+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/6-jenis-cyber-security/</loc>
+    <lastmod>2021-04-17T07:10:39+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/cyber-security/</loc>
+    <lastmod>2021-04-17T07:10:39+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/categories/cyber-security/</loc>
+    <lastmod>2021-04-17T07:10:39+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/cybersesi/</loc>
+    <lastmod>2021-04-17T07:10:39+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/deploy/</loc>
+    <lastmod>2021-04-17T07:10:39+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/aplikasi-hacking-untuk-seorang-pemula/</loc>
+    <lastmod>2021-03-30T08:19:15+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/cybertalks/</loc>
+    <lastmod>2021-03-30T08:19:15+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/memahami-cyber-security-body-of-knowledge/</loc>
+    <lastmod>2021-04-17T07:04:01+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/optimasi-blog-static-berdasarkan-pagespeed-insights-dari-google/</loc>
+    <lastmod>2021-03-11T08:13:58+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/svg-path-icon-untuk-blog-hugo-static/</loc>
+    <lastmod>2021-03-06T22:28:48+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/cara-terbaru-memasang-disqus-comment-di-blog-hugo-static/</loc>
+    <lastmod>2021-02-06T22:12:15+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/membicarakan-blog-yang-efektif/</loc>
+    <lastmod>2021-02-04T23:35:46+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/ngobrol-it/</loc>
+    <lastmod>2021-02-04T23:35:46+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/categories/secangkir-kopi/</loc>
+    <lastmod>2021-02-04T23:35:46+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/mengatasi-wifi-pada-macbook-pro-mati-saat-dongle-atau-konektor-terhubung/</loc>
+    <lastmod>2021-01-14T23:22:22+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/ngobrol-produktif/</loc>
+    <lastmod>2021-01-14T23:22:22+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/tips-macbook/</loc>
+    <lastmod>2021-01-14T23:22:22+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/cara-mengatasi-earnings-at-riskyou-need-to-fix-some-ads-txt-file/</loc>
+    <lastmod>2021-01-08T00:19:15+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/google-adsense/</loc>
+    <lastmod>2021-01-08T00:19:15+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/hugo-error/</loc>
+    <lastmod>2021-01-08T00:19:15+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/ngobrol-seo/</loc>
+    <lastmod>2021-01-08T00:19:15+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/seo-hugo/</loc>
+    <lastmod>2021-01-08T00:19:15+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/cara-upgrade-hugo-ke-versi-terbaru-di-macos/</loc>
+    <lastmod>2020-12-19T23:10:44+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/hadiah-serangan-bruteforce-di-akhir-tahun-2020/</loc>
+    <lastmod>2020-12-19T11:26:10+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/kerentanan-sistem/</loc>
+    <lastmod>2020-12-19T11:26:10+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/serangan-keamanan/</loc>
+    <lastmod>2020-12-19T11:26:10+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/teknik-seo-untuk-hugo-static-site/</loc>
+    <lastmod>2020-12-10T23:04:08+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/mengenal-analytic-tool-untuk-hugo-static-site/</loc>
+    <lastmod>2020-11-30T19:07:16+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/belajar-programming-atau-termotivasi-jadi-pentester/</loc>
+    <lastmod>2020-11-27T19:15:26+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/istilah-istilah-dalam-dunia-static-site-generator/</loc>
+    <lastmod>2020-11-27T17:10:35+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/mengatasi-halaman-hugo-static-tidak-ter-render-dengan-benar/</loc>
+    <lastmod>2020-11-19T10:51:17+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/hacking-sosial-media/</loc>
+    <lastmod>2020-11-19T23:28:48+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/mengantisipasi-akun-sosial-media-dari-peretasan/</loc>
+    <lastmod>2020-11-19T23:28:48+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/ngobrol-security/</loc>
+    <lastmod>2020-11-19T23:28:48+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/</loc>
+    <lastmod>2020-11-09T00:05:22+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/cara-membuat-about-page-di-hugo-ssg/</loc>
+    <lastmod>2020-12-19T11:35:05+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/cara-menambahkan-static-page-di-hugo-ssg/</loc>
+    <lastmod>2020-11-19T10:50:56+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/ngeblog-tidak-semudah-setelah-jadi/</loc>
+    <lastmod>2020-11-19T23:29:08+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/ngobrolin-isi-pembahasan-dari-blog-kodebaper/</loc>
+    <lastmod>2020-11-19T23:29:13+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/pengalaman-langganan-domain-di-domainesia/</loc>
+    <lastmod>2020-11-19T23:29:30+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/cara-mengaktifkan-dnssec-cloudflare-untuk-blog-hugo/</loc>
+    <lastmod>2020-11-19T23:27:58+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/cara-custom-domain-blog-hugo-di-github-page/</loc>
+    <lastmod>2020-11-19T23:26:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/solved-enforce-httpsunavailable-for-your-site-on-github/</loc>
+    <lastmod>2020-11-19T23:30:04+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/prepare-sebelum-custom-domain-blog-hugo-di-github-page/</loc>
+    <lastmod>2020-09-24T13:38:27+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/git-push-rejected-non-fast-forward/</loc>
+    <lastmod>2020-09-24T01:45:44+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/anak-kampus/</loc>
+    <lastmod>2020-11-19T23:29:18+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/kuliah-mau-mencari-ilmu/</loc>
+    <lastmod>2020-09-21T22:39:42+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/belajar-server/</loc>
+    <lastmod>2020-11-19T23:29:50+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/cloud-server/</loc>
+    <lastmod>2020-11-19T23:29:50+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/persiapan-membuat-server-cloud-storage-menggunakan-sistem-operasi-ubuntu/</loc>
+    <lastmod>2020-11-19T23:29:38+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/rencana-belajar-membangun-cloud-storage-di-server-sendiri/</loc>
+    <lastmod>2020-11-19T23:29:50+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/mencoba-bermain-main-dengan-perintah-dasar-terminal-untuk-pemula/</loc>
+    <lastmod>2020-11-19T23:28:44+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/apakah-penting-dual-booting-linux-dan-windows/</loc>
+    <lastmod>2020-11-19T23:26:32+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/pemahaman-dasar-sistem-operasi-linux-ubuntu-untuk-pemula/</loc>
+    <lastmod>2020-11-19T23:29:25+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/alasan-migrasi-ke-sistem-operasi-linux/</loc>
+    <lastmod>2020-11-19T23:26:27+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/peran-teknologi-di-masa-pandemi-covid19/</loc>
+    <lastmod>2020-09-13T08:01:02+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/distro-linux-untuk-seorang-pemula/</loc>
+    <lastmod>2020-11-19T23:28:04+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/pertama-kali-saya-migrasi-ke-os-linux-ubuntu/</loc>
+    <lastmod>2020-11-19T23:29:43+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/first-impression-belajar-kotlin/</loc>
+    <lastmod>2021-03-04T07:04:50+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/categories/pemrograman/</loc>
+    <lastmod>2021-03-04T07:04:50+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/programming/</loc>
+    <lastmod>2021-03-04T07:04:50+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/inspirasi-saya/</loc>
+    <lastmod>2020-09-05T14:26:01+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/saya-terinspirasi-petani-kode-dan-kecanduan-baca-di-medium/</loc>
+    <lastmod>2020-09-05T14:26:01+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/membuat-website-mudah-cukup-dari-terminal/</loc>
+    <lastmod>2020-09-04T22:25:25+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/cara-memasang-komentar-disqus-di-hugo/</loc>
+    <lastmod>2020-09-04T23:50:46+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/tips-menulis-artikel-di-hugo-static-site/</loc>
+    <lastmod>2020-11-19T23:30:13+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/categories/devops/</loc>
+    <lastmod>2020-11-19T23:28:58+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/github/</loc>
+    <lastmod>2020-11-19T23:28:54+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/perintah-dasar-git-untuk-pemula/</loc>
+    <lastmod>2020-09-28T21:53:20+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/solved-fatal-not-a-git-repository-or-any-of-the-parent-directories/</loc>
+    <lastmod>2020-09-01T14:28:48+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/saya-meracik-templat-hugo-buatan-orang-lain/</loc>
+    <lastmod>2020-11-19T23:29:54+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/error-failed-to-push-some-refs-to/</loc>
+    <lastmod>2020-11-19T23:28:22+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/error-saat-deploy-hugo-ke-github-page/</loc>
+    <lastmod>2020-11-19T23:28:26+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/cloud/</loc>
+    <lastmod>2020-11-19T23:28:58+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/mengenal-layanan-dns-cloudflare/</loc>
+    <lastmod>2020-11-19T23:28:58+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/mengenal-github-page-untuk-deploy-hugo/</loc>
+    <lastmod>2020-11-19T23:28:54+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/mengenal-static-site-generator-hugo/</loc>
+    <lastmod>2020-11-19T23:29:03+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/opini-saya-tentang-mahasiswa/</loc>
+    <lastmod>2020-11-19T23:29:18+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/akhirnya-migrasi-ke-hugo-ssg/</loc>
+    <lastmod>2020-12-25T22:27:11+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
 </urlset>
