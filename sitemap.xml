@@ -3,21 +3,56 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://kodebaper.comhttps://kodebaper.com/post/cara-menggunakan-ubuntu-dengan-multipass-di-mac-os-bigsur/</loc>
-    <lastmod>2021-05-19T15:17:31+07:00</lastmod>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/cara-menggupgrade-git-di-macos/</loc>
+    <lastmod>2021-07-13T07:35:50+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.comhttps://kodebaper.com/categories/</loc>
-    <lastmod>2021-05-19T15:17:31+07:00</lastmod>
+    <lastmod>2021-07-13T07:35:50+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/deploy/</loc>
+    <lastmod>2021-07-13T07:35:50+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/categories/hugo/</loc>
+    <lastmod>2021-07-13T07:35:50+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/hugo-error/</loc>
+    <lastmod>2021-07-13T07:35:50+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
     <loc>https://kodebaper.comhttps://kodebaper.com/</loc>
+    <lastmod>2021-07-13T07:35:50+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/tags/</loc>
+    <lastmod>2021-07-13T07:35:50+07:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://kodebaper.comhttps://kodebaper.com/post/cara-menggunakan-ubuntu-dengan-multipass-di-mac-os-bigsur/</loc>
     <lastmod>2021-05-19T15:17:31+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -45,13 +80,6 @@
   </url>
   
   <url>
-    <loc>https://kodebaper.comhttps://kodebaper.com/tags/</loc>
-    <lastmod>2021-05-19T15:17:31+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
     <loc>https://kodebaper.comhttps://kodebaper.com/post/failed-to-open-a-session-for-the-virtual-machine-linux-ubuntu-mac-0s-big-sur/</loc>
     <lastmod>2021-05-16T07:36:13+07:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -67,13 +95,6 @@
   
   <url>
     <loc>https://kodebaper.comhttps://kodebaper.com/post/cara-membuat-open-new-tab-external-link-di-hugo/</loc>
-    <lastmod>2021-04-28T11:33:38+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.comhttps://kodebaper.com/categories/hugo/</loc>
     <lastmod>2021-04-28T11:33:38+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -123,13 +144,6 @@
   
   <url>
     <loc>https://kodebaper.comhttps://kodebaper.com/tags/cybersesi/</loc>
-    <lastmod>2021-04-17T07:10:39+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.comhttps://kodebaper.com/tags/deploy/</loc>
     <lastmod>2021-04-17T07:10:39+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -228,13 +242,6 @@
   
   <url>
     <loc>https://kodebaper.comhttps://kodebaper.com/tags/google-adsense/</loc>
-    <lastmod>2021-01-08T00:19:15+07:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url>
-  
-  <url>
-    <loc>https://kodebaper.comhttps://kodebaper.com/tags/hugo-error/</loc>
     <lastmod>2021-01-08T00:19:15+07:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>

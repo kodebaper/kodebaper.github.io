@@ -8,6 +8,20 @@
     <language>en-US</language>
     <lastBuildDate>Wed, 04 Nov 2020 18:55:37 +0700</lastBuildDate><atom:link href="https://kodebaper.com/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Cara Melakukan upgrade GIT Di MacOS</title>
+      <link>https://kodebaper.com/post/cara-menggupgrade-git-di-macos/</link>
+      <pubDate>Thu, 08 Jul 2021 07:25:35 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/post/cara-menggupgrade-git-di-macos/</guid>
+      <description>Cara Upgrade Git di MacOS BigSur beriut merupakan cara upgrade Git ke versi git yang paling terbaru pada sistem operasi MacOs BigSur
+pastikan kita update terlebih dahulu dengan homebrew
+-&amp;gt; brew update
+Setelah proses update selesai kita akan masuk kedalam tahap selanjutnya yaitu melakukan upgrade untuk git itu sendiri, lakukan dengan mengetikan perintah dibawah ini.
+-&amp;gt; brew upgrade git
+Tunggu hingga selesai proses upgrade, kemudian jika muncul pesan seperti dibawah ini.</description>
+    </item>
+    
+    <item>
       <title>Cara Menggunakan Ubuntu Dengan Multipass Di Mac OS BigSur</title>
       <link>https://kodebaper.com/post/cara-menggunakan-ubuntu-dengan-multipass-di-mac-os-bigsur/</link>
       <pubDate>Wed, 19 May 2021 13:44:47 +0700</pubDate>

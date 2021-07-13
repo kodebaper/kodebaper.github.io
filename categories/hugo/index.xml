@@ -6,7 +6,21 @@
     <description>Recent content in Hugo on Kodebaper: Tempat Belajar dan Ngobrol  IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 27 Apr 2021 21:55:18 +0700</lastBuildDate><atom:link href="https://kodebaper.com/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 08 Jul 2021 07:25:35 +0700</lastBuildDate><atom:link href="https://kodebaper.com/categories/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cara Melakukan upgrade GIT Di MacOS</title>
+      <link>https://kodebaper.com/post/cara-menggupgrade-git-di-macos/</link>
+      <pubDate>Thu, 08 Jul 2021 07:25:35 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/post/cara-menggupgrade-git-di-macos/</guid>
+      <description>Cara Upgrade Git di MacOS BigSur beriut merupakan cara upgrade Git ke versi git yang paling terbaru pada sistem operasi MacOs BigSur
+pastikan kita update terlebih dahulu dengan homebrew
+-&amp;gt; brew update
+Setelah proses update selesai kita akan masuk kedalam tahap selanjutnya yaitu melakukan upgrade untuk git itu sendiri, lakukan dengan mengetikan perintah dibawah ini.
+-&amp;gt; brew upgrade git
+Tunggu hingga selesai proses upgrade, kemudian jika muncul pesan seperti dibawah ini.</description>
+    </item>
+    
     <item>
       <title>Cara Membuat Open New Tab External Link Di Hugo</title>
       <link>https://kodebaper.com/post/cara-membuat-open-new-tab-external-link-di-hugo/</link>
