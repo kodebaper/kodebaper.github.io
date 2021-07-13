@@ -6,7 +6,17 @@
     <description>Recent content on Kodebaper: Tempat Belajar dan Ngobrol  IT</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Thu, 08 Jul 2021 07:25:35 +0700</lastBuildDate><atom:link href="https://kodebaper.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 13 Jul 2021 23:45:29 +0700</lastBuildDate><atom:link href="https://kodebaper.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Perbedaan Antara APT Dan APT GET Di Linux Debian</title>
+      <link>https://kodebaper.com/post/perbedaan-antara-apt-dan-apt-get-di-linux-debian/</link>
+      <pubDate>Tue, 13 Jul 2021 23:45:29 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/post/perbedaan-antara-apt-dan-apt-get-di-linux-debian/</guid>
+      <description>Perbedaan penggunaan perintah APT dan APT-GET Baru baru ini saya membaca sebuah artikel di Medium dimana artikel ini ditulis oleh seorang bernama Alfian Dwi Nugroho di artikel ini sangat menarik karena membahas persoalan perbedaan penggunaan perintah APT dan APT-GET. Dari artikel ini setelah saya baca artikelnya ada hal menarik yang kemudian bisa saya ambil kesimpulan sebagai berikut:
+  Mana yang relevan saat ini penggunaan perintah apt atau apt-get? relevan tidaknya untuk saat ini adalah persoalan penggunaan perintah ini akan digunakan untuk mengeksekusi apa, jadi kita mesti paham perbedaan apt dan apt-get.</description>
+    </item>
+    
     <item>
       <title>Cara Melakukan upgrade GIT Di MacOS</title>
       <link>https://kodebaper.com/post/cara-melakukan-upgrade-git-di-macos/</link>
