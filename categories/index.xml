@@ -6,7 +6,25 @@
     <description>Recent content in Categories on Kodebaper: Tempat Belajar Seputar Teknologi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Tue, 13 Jul 2021 23:45:29 +0700</lastBuildDate><atom:link href="https://kodebaper.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 14 Jul 2021 15:24:23 +0700</lastBuildDate><atom:link href="https://kodebaper.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pemrograman</title>
+      <link>https://kodebaper.com/categories/pemrograman/</link>
+      <pubDate>Wed, 14 Jul 2021 15:24:23 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/categories/pemrograman/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://kodebaper.com/categories/python/</link>
+      <pubDate>Wed, 14 Jul 2021 15:24:23 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/categories/python/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Linux Enthusiast</title>
       <link>https://kodebaper.com/categories/linux-enthusiast/</link>
@@ -40,15 +58,6 @@
       <pubDate>Thu, 04 Feb 2021 23:17:38 +0700</pubDate>
       
       <guid>https://kodebaper.com/categories/secangkir-kopi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Pemrograman</title>
-      <link>https://kodebaper.com/categories/pemrograman/</link>
-      <pubDate>Sat, 05 Sep 2020 18:39:13 +0700</pubDate>
-      
-      <guid>https://kodebaper.com/categories/pemrograman/</guid>
       <description></description>
     </item>
     
