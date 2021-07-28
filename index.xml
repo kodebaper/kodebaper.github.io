@@ -6,7 +6,17 @@
     <description>Recent content on Kodebaper: Tempat Belajar Seputar Teknologi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 14 Jul 2021 15:24:23 +0700</lastBuildDate><atom:link href="https://kodebaper.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 28 Jul 2021 13:23:07 +0700</lastBuildDate><atom:link href="https://kodebaper.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Post Artikel Pelatihan</title>
+      <link>https://kodebaper.com/post/post-artikel-pelatihan/</link>
+      <pubDate>Wed, 28 Jul 2021 13:23:07 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/post/post-artikel-pelatihan/</guid>
+      <description>SAYA COBA TES UNTUK MEMPUBLIKASI HASIL DARI PELATIHAN HARI INI
+ini contoh laporan untuk pelatihan yang di publikasi ke dalam website</description>
+    </item>
+    
     <item>
       <title>Mengatasi Error Saat Instalasi Django Menggunakan Pip Pada MacOS</title>
       <link>https://kodebaper.com/post/mengatasi-error-saat-instalasi-django-menggunakan-pip-pada-macos/</link>
