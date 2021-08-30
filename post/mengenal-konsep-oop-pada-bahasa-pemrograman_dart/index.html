@@ -1,0 +1,387 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width">
+    <script type="application/javascript" src='https://kodebaper.com/js/theme-mode.js'></script>
+    <link rel="stylesheet" href='https://kodebaper.com/css/frameworks.min.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/github.min.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/github-style.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/light.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/dark.css' />
+    <link rel="stylesheet" href='https://kodebaper.com/css/syntax.css' />
+    <title>Mengenal Konsep OOP Pada Bahasa Pemrograman Dart - Kodebaper: Tempat Belajar Seputar Teknologi</title>
+    
+    <link rel="icon" type="image/x-icon" href='/images/favicon.ico'>
+    
+    <meta name="theme-color" content="#1e2327">
+
+
+<script async custom-element="amp-ad" src="https://cdn.ampproject.org/v0/amp-ad-0.1.js"></script>
+
+<script data-ad-client="ca-pub-5756387925386548" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-M4V2QQN');</script>
+
+
+    
+    <meta name="description"
+  content="Yuk mengenal pondasi dasar yang sangat penting sebelum melangkah untuk mempelajari dari bahasa pemrograman Dart, hal pertama yang saya mesti pelajari adalah belajar dari hal yang paling dasar yaitu OOP dari bahasa pemrograman Dart itu sendiri. Lalu apa it OOP?
+Object Oriented Programming adalah suatu teknik dalam pemrograman yang berdasarkan konsep &amp;ldquo;Object&amp;rdquo; dimana Object tersebut dapat berisi data, dalam bentuk variabel atau dikenal juga sebagai atribute, serta fungsi/prosedur atau dikenal juga sebagai method." />
+<meta name="keywords"
+  content='blog, Tempat Belajar Seputar Teknologi' />
+<meta name="robots" content="noodp" />
+<link rel="canonical" href="https://kodebaper.com/post/mengenal-konsep-oop-pada-bahasa-pemrograman_dart/" />
+
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content="Mengenal Konsep OOP Pada Bahasa Pemrograman Dart - Kodebaper: Tempat Belajar Seputar Teknologi" />
+<meta name="twitter:description"
+  content="Yuk mengenal pondasi dasar yang sangat penting sebelum melangkah untuk mempelajari dari bahasa pemrograman Dart, hal pertama yang saya mesti pelajari adalah belajar dari hal yang paling dasar yaitu OOP dari bahasa pemrograman Dart itu sendiri. Lalu apa it OOP?
+Object Oriented Programming adalah suatu teknik dalam pemrograman yang berdasarkan konsep &amp;ldquo;Object&amp;rdquo; dimana Object tersebut dapat berisi data, dalam bentuk variabel atau dikenal juga sebagai atribute, serta fungsi/prosedur atau dikenal juga sebagai method." />
+<meta name="twitter:site" content="https://kodebaper.com/" />
+<meta name="twitter:creator" content="" />
+<meta name="twitter:image"
+  content="https://kodebaper.com/">
+
+
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Mengenal Konsep OOP Pada Bahasa Pemrograman Dart - Kodebaper: Tempat Belajar Seputar Teknologi">
+<meta property="og:description"
+  content="Yuk mengenal pondasi dasar yang sangat penting sebelum melangkah untuk mempelajari dari bahasa pemrograman Dart, hal pertama yang saya mesti pelajari adalah belajar dari hal yang paling dasar yaitu OOP dari bahasa pemrograman Dart itu sendiri. Lalu apa it OOP?
+Object Oriented Programming adalah suatu teknik dalam pemrograman yang berdasarkan konsep &amp;ldquo;Object&amp;rdquo; dimana Object tersebut dapat berisi data, dalam bentuk variabel atau dikenal juga sebagai atribute, serta fungsi/prosedur atau dikenal juga sebagai method." />
+<meta property="og:url" content="https://kodebaper.com/post/mengenal-konsep-oop-pada-bahasa-pemrograman_dart/" />
+<meta property="og:site_name" content="Mengenal Konsep OOP Pada Bahasa Pemrograman Dart" />
+<meta property="og:image"
+  content="https://kodebaper.com/">
+<meta property="og:image:width" content="2048">
+<meta property="og:image:height" content="1024">
+
+<meta property="article:published_time" content="2021-08-09 07:59:29 &#43;0700 WIB" />
+
+
+
+
+
+
+
+
+
+
+</head>
+
+
+<body>
+  <div style="position: relative">
+  <header class="Header js-details-container Details px-3 px-md-4 px-lg-5 flex-wrap flex-md-nowrap open Details--on">
+    <div class="Header-item mobile-none" style="margin-top: -4px; margin-bottom: -4px;">
+      <a class="Header-link" href="https://kodebaper.com/">
+        <svg class="octicon" height="32" viewBox="0 0 16 16" version="1.1" width="32"></svg>
+      </a>
+    </div>
+    <div class="Header-item d-md-none">
+      <button class="Header-link btn-link js-details-target" type="button"
+        onclick="document.querySelector('#header-search').style.display = document.querySelector('#header-search').style.display == 'none'? 'block': 'none'">
+        <svg height="24" class="octicon octicon-three-bars" viewBox="0 0 16 16" version="1.1" width="24">
+          <path fill-rule="evenodd"
+            d="M1 2.75A.75.75 0 011.75 2h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 2.75zm0 5A.75.75 0 011.75 7h12.5a.75.75 0 110 1.5H1.75A.75.75 0 011 7.75zM1.75 12a.75.75 0 100 1.5h12.5a.75.75 0 100-1.5H1.75z">
+          </path>
+        </svg>
+      </button>
+    </div>
+    <div style="display: none;" id="header-search"
+      class="Header-item Header-item--full flex-column flex-md-row width-full flex-order-2 flex-md-order-none mr-0 mr-md-3 mt-3 mt-md-0 Details-content--hidden-not-important d-md-flex">
+      <div
+        class="Header-search header-search flex-auto js-site-search position-relative flex-self-stretch flex-md-self-auto mb-3 mb-md-0 mr-0 mr-md-3 scoped-search site-scoped-search js-jump-to">
+        <div class="position-relative">
+          <form target="_blank" action="https://www.google.com/search" accept-charset="UTF-8" method="get"
+            autocomplete="off">
+            <label
+              class="Header-search-label form-control input-sm header-search-wrapper p-0 js-chromeless-input-container header-search-wrapper-jump-to position-relative d-flex flex-justify-between flex-items-center">
+              <input type="text"
+                class="Header-search-input form-control input-sm header-search-input jump-to-field js-jump-to-field js-site-search-focus js-site-search-field is-clearable"
+                name="q" value="" placeholder="Mau belajar apa?" autocomplete="off">
+              <input type="hidden" name="q" value="site:https://kodebaper.com/">
+            </label>
+          </form>
+        </div>
+      </div>
+    </div>
+
+    <div class="Header-item Header-item--full flex-justify-center d-md-none position-relative">
+      <a class="Header-link " href="https://kodebaper.com/">
+        <svg class="octicon octicon-mark-github v-align-middle" height="32" viewBox="0 0 16 16" version="1.1"
+          width="32">
+          <path fill-rule="evenodd"
+            d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+          </path>
+        </svg>
+      </a>
+    </div>
+    <div class="Header-item" style="margin-right: 0;">
+      <a href="javascript:void(0)" class="Header-link no-select" onclick="switchTheme()">
+        <svg style="fill: var(--color-profile-color-modes-toggle-moon);" class="no-select" viewBox="0 0 16 16"
+          version="1.1" width="16" height="16">
+          <path fill-rule="evenodd" clip-rule="evenodd"
+            d="M4.52208 7.71754C7.5782 7.71754 10.0557 5.24006 10.0557 2.18394C10.0557 1.93498 10.0392 1.68986 10.0074 1.44961C9.95801 1.07727 10.3495 0.771159 10.6474 0.99992C12.1153 2.12716 13.0615 3.89999 13.0615 5.89383C13.0615 9.29958 10.3006 12.0605 6.89485 12.0605C3.95334 12.0605 1.49286 10.001 0.876728 7.24527C0.794841 6.87902 1.23668 6.65289 1.55321 6.85451C2.41106 7.40095 3.4296 7.71754 4.52208 7.71754Z">
+          </path>
+        </svg>
+      </a>
+    </div>
+  </header>
+</div>
+
+  
+<div>
+  <main>
+    <div class="gisthead pagehead bg-gray-light pb-0 pt-3 mb-4">
+      <div class="px-0">
+        <div class="mb-3 d-flex px-3 px-md-3 px-lg-5">
+          <div class="flex-auto min-width-0 width-fit mr-3">
+            <div class="d-flex">
+              <div class="d-none d-md-block">
+                <a class="avatar mr-2 flex-shrink-0" href="https://kodebaper.com/">
+                  <img class=" avatar-user"
+                    src="https://kodebaper.com/images/baperlogo.svg"
+                    width="32" height="32"></a>
+              </div>
+              <div class="d-flex flex-column">
+                <h1 class="break-word f3 text-normal mb-md-0 mb-1">
+                  <span class="author">
+                    <a href="https://kodebaper.com/">Kodebaper.com</a></span><span
+                    class="path-divider">/</span><strong class="css-truncate-target mr-1" style="max-width: 410px"><a
+                      href="https://kodebaper.com/post/mengenal-konsep-oop-pada-bahasa-pemrograman_dart/">Mengenal Konsep OOP Pada Bahasa Pemrograman Dart</a></strong>
+                </h1>
+                <div class="note m-0">
+                  Created <relative-time datetime="Mon, 09 Aug 2021 07:59:29 &#43;0700"
+                    class="no-wrap">
+                    Mon, 09 Aug 2021 07:59:29 &#43;0700</relative-time>
+
+                  
+                  <span class="file-info-divider"></span>
+                  Modified <relative-time datetime="Mon, 30 Aug 2021 23:42:42 &#43;0700"
+                    class="no-wrap">
+                    Mon, 30 Aug 2021 23:42:42 &#43;0700</relative-time>
+                  
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container-lg px-3 new-discussion-timeline">
+      <div class="repository-content gist-content">
+        <div>
+          <div class="js-gist-file-update-container js-task-list-container file-box">
+            <div id="file-pytest" class="file my-2">
+              <div class="file-header d-flex flex-md-items-center flex-items-start">
+                <div class="file-info d-flex flex-md-items-center flex-items-start flex-order-1 flex-auto">
+                  <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1 mt-2 mt-md-0">
+                    719 Words
+                    
+
+                  </div>
+                  <div class="file-actions flex-order-2 pt-0">
+                    
+                    
+                    <a class="muted-link mr-3" href="/tags/programming">
+                      <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                        <path fill-rule="evenodd"
+                          d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                        </path>
+                      </svg>
+                      Programming
+                    </a>
+                    
+                    <a class="muted-link mr-3" href="/tags/dart">
+                      <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                        <path fill-rule="evenodd"
+                          d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                        </path>
+                      </svg>
+                      Dart
+                    </a>
+                    
+                    <a class="muted-link mr-3" href="/tags/sesi-oop">
+                      <svg class="octicon octicon-tag" viewBox="0 0 16 16" version="1.1" width="16" height="16">
+                        <path fill-rule="evenodd"
+                          d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z">
+                        </path>
+                      </svg>
+                      Sesi OOP
+                    </a>
+                    
+                    
+                  </div>
+                </div>
+              </div>
+              <div class="Box-body px-5 pb-5">
+                <article class="markdown-body entry-content container-lg"><p>Yuk mengenal pondasi dasar yang sangat penting sebelum melangkah untuk mempelajari dari bahasa pemrograman <em>Dart</em>, hal pertama yang saya mesti pelajari adalah belajar dari hal yang paling dasar yaitu OOP dari bahasa pemrograman <em>Dart</em> itu sendiri. Lalu apa it OOP?</p>
+<p><em>Object</em> Oriented Programming adalah suatu teknik dalam pemrograman yang berdasarkan konsep &ldquo;<em>Object</em>&rdquo; dimana <em>Object</em> tersebut dapat berisi data, dalam bentuk variabel atau dikenal juga sebagai atribute, serta fungsi/prosedur atau dikenal juga sebagai method.</p>
+<p>inti dari pembelajaraan ini saya akan membahas 6 pokok pembahasan, yang diantaranya yaitu:</p>
+<ol>
+<li><em>Object</em></li>
+<li><em>Class</em></li>
+<li><em>Inheritance</em></li>
+<li><em>Polymorphism</em></li>
+<li><em>Interfaces</em></li>
+<li><em>Abstract</em> <em>Class</em></li>
+</ol>
+<ul>
+<li>
+<p>Apa itu <strong>Object</strong>?</p>
+<p>Adalah suatu abstraksi yang dimaksud untuk menyajikan komponen dari program. Dimana <em>Object</em> ini dapat di ciptakan, dapat dihapus, dapat diberikan atribut dan dapat melakukan suatu aksi.</p>
+<p>Mudahnya kalau saya sendiri memahami <em>Object</em> ini adalah dimana komponen dari suatu program yang dapat di ciptakan dihapus atau ditambahkan yang dapat melakukan suatu aksi tertentu nah si program ini di buat di dalam suatu alur menggunakan prosedur/method.</p>
+</li>
+<li>
+<p>Apa itu <strong>Class</strong>?</p>
+<p>Secara singkat <em>Class</em> dapat diartikan sebagai sebuah blueprint dari suatu <em>Object</em>, dimana kita mendesain suatu <em>Object</em> berdasarkan <em>Class</em> yang kita buat, saya contohkan di dalam dunia nyata, contohnya jika kita ingin membuat suatu rumah tentu kita memerlukan desain dari rancangan rumah tersebut, detali denah ruangan, ukuran serta ruang apa saja yang akan di include di dalam desain rumah tersebut. Lebih mendetail lagi kita akan membuat desain barang apa saja nantinya yang akan kita letakan di rumah tersebut di setiap ruangannya.</p>
+<p>Dapat saya simpulkan bahwa <em>Class</em> sendiri merupakan hasil dari sebuah rancangan dan hasil dari rancangan itu berupa objeknya, yang kalau kita tarik dari analogi saya diatas yaitu, rancangan berupa detail denah dari sebuah rumah lalu hasil dari rancangan tersebut berupa rumah dan dengan segala jenis ruangan dan beserta isinya.</p>
+</li>
+<li>
+<p>Apa itu <em><strong>Inheritance</strong></em>?</p>
+<p>Inheritance atau pewarisan ini mengadopsi dunia nyata dimana suatu entitas/objek dapat mempunyai entitas/objek turunan, ini dimaksudkan agar suatu <em>Class</em> dapat mempunyai <em>Class</em> turunan. Nah lalu mengapa perlu adanya Inheritance dalam sebuah konsep OOP?</p>
+<p>Jawabanya adalah kita perlu menerapkan Inheritance pada saat kita menjumpai ada suatu <em>Class</em> yang perlu perluasan <em>Class</em> lain yang sudah ada.</p>
+<p>Kemudian pada bahasa pemrograman <em>Dart</em> itu sendiri mendukung adanya pewarisan, yang digunakan untuk membuat <em>Class</em> baru dan dari <em>Class</em> yang sudah ada. <em>Class</em> yang akan di-extend disebut <em>parent/super</em>Class**, dan *Class* yang baru dibuat disebut child/sub*Class*. *Dart* menyediakan kata kunci extends untuk mewarisi properti kelas induk di kelas anak.</p>
+</li>
+<li>
+<p>Apa itu <strong>Polymorphism</strong>?</p>
+<p>Cukup membingungkan saya memahami istilah ini dalam bahasa pemrograman <em>Dart</em>, mudahnya saya memahami <em>Polymorphism</em> adalah mengacu pada pengertian ini. Dimana <em>Polymorphism</em> dapat diartikan dalam konsep OOP adalah sebuah metode agar beberapa <em>Object</em> dapat memiliki beberapa bentuk, kemudian <em>Polymorphism</em> sendiri merupakan suatu nama tunggal dengan menyatakan <em>Object</em> dari <em>Class</em> - <em>Class</em> yang berbeda yang terhubung pada satu <em>superClass</em></p>
+</li>
+<li>
+<p>Apa itu <em>Interface</em>?</p>
+<p>Dalam bahasa pemrograman <em>Dart</em>, Interface mendefinisikan sintaks yang harus di patuhi dalam setiap entitas. Interface menentukan sekumpulan metode yang tersedia pada suatu <em>Object</em>. <em>Dart</em> tidak memiliki sintaks untuk mendeklarasikan interface. Deklarasi <em>Class</em> sendiri merupakan Interface di <em>Dart</em>.</p>
+</li>
+<li>
+<p>Apa itu <em>Abstract <em>Class</em></em>?</p>
+<p>Abstract <em>Class</em> adalah <em>Class</em> yang masih dalam bentuk abstract, karena bentuknya masih abstract dia tidak bisa dibuat langsung menjadi <em>Object</em>. Lebih mudahnya memahami analogi abstract pada konsep OOP adalah saat kita menyebutkan kata &ldquo;KENDARAAN&rdquo; tentu saat kita definisikan lebih detail akan timbul pemahaman yang begitu banyak pula, kendaraan yang dimaksud bisa berupa kendaraan berupa transportasi darat, laut, ataupun udara, belum lagi dia berjalan atau terbang? bentuknya dalam bentuk seperti apa?</p>
+<p>Tentu ini akan sangat banyak definisi bukan? ini yang di sebut masih abstrak karena kita belum menyebutkannya secara spesifik.</p>
+</li>
+</ul>
+<p>Pembahasann OOP pada bahasa pemrograman <strong>Dart</strong> ini saya merasa belum maksimal, tentu jika saya bahas sekaligus disini akan terasa sangat membosankan jika harus membaca artikel sebanyak ini, nah untuk itu saya akan mengupdate konsep OOP pada bahasa pemrograman <em>Dart</em> agar bisa menjadi bahan belajar saya sendiri khususnya dan menjadi pondasi yang baik untuk mempelajari bahasa pemrograman yang berorientasi pada basis <em>Object</em>. Kemudian saya juga akan membuat part-part pembahasan Konsep OOP agar tidak terlalu panjang di setiap sesi artikelnya.</p>
+<p>Memerlukan ketelitian atau belajar yang tidak tergesa-gesa untuk memahami ini semua, saya pribadi memahami sambil saya catat di buku dan saya tuangkan di dalam dokumentasi blog pribadi saya.
+Sampai bertemu di pembahasan artikel selanjutnya.</p>
+<hr>
+<p>Sumber artikel ini berasal antara lain dari:</p>
+<ol>
+<li><a href="https://*Dart*.dev/" rel="noopener noreferrer" target="_blank">https://Dart.dev/</a>
+</li>
+<li><a href="https://www.petanikode.com/java-oop-abstract/" rel="noopener noreferrer" target="_blank">https://www.petanikode.com/</a>
+</li>
+<li><a href="https://www.geeksforgeeks.org/abstract-*Class*es-in-*Dart*/" rel="noopener noreferrer" target="_blank">https://www.geeksforgeeks.org/</a>
+</li>
+<li><a href="https://pdfcoffee.com/belajar-*Dart*-pdf-free.html" rel="noopener noreferrer" target="_blank">https://pdfcoffee.com/</a>
+</li>
+<li><a href="https://www.kawankoding.id/typescript-oop-*Polymorphism*/" rel="noopener noreferrer" target="_blank">https://www.kawankoding.id/</a>
+</li>
+<li><a href="https://repository.unikom.ac.id/35916/1/Inheritance-Polymorpisme.pdf" rel="noopener noreferrer" target="_blank">https://repository.unikom.ac.id/</a>
+</li>
+<li><a href="https://www.javatpoint.com/*Dart*-*Object*-oriented-concepts" rel="noopener noreferrer" target="_blank">https://www.javatpoint.com/</a>
+</li>
+<li><a href="https://repository.unikom.ac.id/68466/1/Kelas%20dan%20Objek%20Dalam%20Pemrograman%20*Dart*.pdf" rel="noopener noreferrer" target="_blank">https://repository.unikom.ac.id/</a>
+</li>
+<li><a href="https://www.konsepkoding.com/2020/05/8-tutorial-flutter-*Dart*-*Class*.html" rel="noopener noreferrer" target="_blank">https://www.konsepkoding.com/</a>
+</li>
+<li><a href="https://codekey.id/*Dart*/interface-*Dart*/" rel="noopener noreferrer" target="_blank">https://codekey.id/</a>
+</li>
+</ol>
+<hr>
+</article>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </main>
+</div>
+
+  
+    <div class="container">
+      <main>
+      <div class="gisthead pagehead bg-gray-light pb-0 pt-3 mb-4">
+      <div class="mb-2 d-flex px-2 px-md-2 px-lg-5">
+      <div class="flex-auto min-width-2 width-fit mr-2">
+      <div class="d-flex">
+      
+        <div class="col-md-3">
+          <img class="mr-3 rounded-circle lazyload lazyloaded" src="/images/logoblog.webp" data-src="/images/logoblog.webp" style="width:128px;height:128px" alt="Author avatar">
+        </div>
+        <div class="col-md-8">
+          <div class="card-body">
+            <h3 class="card-title">Dukungan Untuk Penulis</h3>
+            <p class="card-text">Sebagai apresiasi Kamu kepada Penulis, Kamu bisa share Artikel ini dan Publish ke media manapun agar banyak yang belajar dari tulisan di Kodebaper.</p>
+            <p class="card-text"><small class="text-muted">***Jangan lupa cantumkan 'source' setiap mengambil isi konten di kodebaper yaa :) </small></p>
+          </div>
+      
+      <div>
+        <h4>Hubungi Saya Jika Kamu Butuh Informasi Lebih Lanjut</h4>
+      <br>
+      <div></div>
+        <a href="https://t.me/wsbna/" class="btn btn-outline-info"> Yuk ngobrol </a>
+        <a href="https://kodebaper.com/Aboutme/" class="btn btn-outline-info"> About Me </a>
+        <a href="#" class="btn btn-outline-info"> Kebijakan Privasi</a>
+        <a href="#" class="btn btn-outline-info"> FaQ </a>
+      </div>
+          </div>
+        </div>
+      </div>
+    </main>
+    </div>    
+  
+
+  
+<div class="container">
+    <div class="row">
+      <div class="col-12">
+        <nav class="navbar navbar-expand-lg">
+        <div class="jumbotron jumbotron-fluid ">
+            <div class="container">
+      <div class="card-body">
+<div id="disqus_thread"></div>
+<script>
+    
+
+    
+
+    (function() { 
+    var d = document, s = d.createElement('script');
+    s.src = 'https://kodebaper.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+
+  <div class="footer container-xl width-full p-responsive">
+  <div
+    class="position-relative d-flex flex-row-reverse flex-lg-row flex-wrap flex-lg-nowrap flex-justify-center flex-lg-justify-between flex-sm-items-center pt-6 pb-2 mt-6 f6 text-gray border-top border-gray-light ">
+    <a aria-label="Homepage" title="GitHub" class="footer-octicon d-none d-lg-block mr-lg-4" href="https://kodebaper.com/">
+      <svg height="24" class="octicon octicon-mark-github" viewBox="0 0 16 16" version="1.1" width="24">
+        <path fill-rule="evenodd"
+          d="M8 0C3.58 0 0 3.58 0 8c0 3.54 2.29 6.53 5.47 7.59.4.07.55-.17.55-.38 0-.19-.01-.82-.01-1.49-2.01.37-2.53-.49-2.69-.94-.09-.23-.48-.94-.82-1.13-.28-.15-.68-.52-.01-.53.63-.01 1.08.58 1.23.82.72 1.21 1.87.87 2.33.66.07-.52.28-.87.51-1.07-1.78-.2-3.64-.89-3.64-3.95 0-.87.31-1.59.82-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.21 2.2.82.64-.18 1.32-.27 2-.27.68 0 1.36.09 2 .27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.51.56.82 1.27.82 2.15 0 3.07-1.87 3.75-3.65 3.95.29.25.54.73.54 1.48 0 1.07-.01 1.93-.01 2.2 0 .21.15.46.55.38A8.013 8.013 0 0016 8c0-4.42-3.58-8-8-8z">
+        </path>
+      </svg>
+    </a>
+    <ul class="list-style-none d-flex flex-wrap col-12 flex-justify-center flex-lg-justify-between mb-2 mb-lg-0">
+      
+      <li class="mr-3 mr-lg-0"> © 2021 SantriCyber | <a href='https://github.com/kodebaper'> Kodebaper.com</a></li>
+      
+    </ul>
+  </div>
+  <div class="d-flex flex-justify-center pb-6">
+    <span class="f6 text-gray-light"></span>
+  </div>
+</div>
+</body>
+
+<script type="application/javascript" src="https://kodebaper.com/js/github-style.js"></script>
+
+
+
+</html>

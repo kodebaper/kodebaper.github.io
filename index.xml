@@ -6,7 +6,17 @@
     <description>Recent content on Kodebaper: Tempat Belajar Seputar Teknologi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Wed, 14 Jul 2021 15:24:23 +0700</lastBuildDate><atom:link href="https://kodebaper.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Aug 2021 07:59:29 +0700</lastBuildDate><atom:link href="https://kodebaper.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mengenal Konsep OOP Pada Bahasa Pemrograman Dart</title>
+      <link>https://kodebaper.com/post/mengenal-konsep-oop-pada-bahasa-pemrograman_dart/</link>
+      <pubDate>Mon, 09 Aug 2021 07:59:29 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/post/mengenal-konsep-oop-pada-bahasa-pemrograman_dart/</guid>
+      <description>Yuk mengenal pondasi dasar yang sangat penting sebelum melangkah untuk mempelajari dari bahasa pemrograman Dart, hal pertama yang saya mesti pelajari adalah belajar dari hal yang paling dasar yaitu OOP dari bahasa pemrograman Dart itu sendiri. Lalu apa it OOP?
+Object Oriented Programming adalah suatu teknik dalam pemrograman yang berdasarkan konsep &amp;ldquo;Object&amp;rdquo; dimana Object tersebut dapat berisi data, dalam bentuk variabel atau dikenal juga sebagai atribute, serta fungsi/prosedur atau dikenal juga sebagai method.</description>
+    </item>
+    
     <item>
       <title>Mengatasi Error Saat Instalasi Django Menggunakan Pip Pada MacOS</title>
       <link>https://kodebaper.com/post/mengatasi-error-saat-instalasi-django-menggunakan-pip-pada-macos/</link>
