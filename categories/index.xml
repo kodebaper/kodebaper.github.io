@@ -6,11 +6,20 @@
     <description>Recent content in Categories on Kodebaper: Tempat Belajar Seputar Teknologi</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <lastBuildDate>Mon, 09 Aug 2021 07:59:29 +0700</lastBuildDate><atom:link href="https://kodebaper.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Aug 2021 23:33:30 +0700</lastBuildDate><atom:link href="https://kodebaper.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Secangkir Kopi</title>
+      <link>https://kodebaper.com/categories/secangkir-kopi/</link>
+      <pubDate>Tue, 31 Aug 2021 23:33:30 +0700</pubDate>
+      
+      <guid>https://kodebaper.com/categories/secangkir-kopi/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>Dart</title>
       <link>https://kodebaper.com/categories/dart/</link>
-      <pubDate>Mon, 09 Aug 2021 07:59:29 +0700</pubDate>
+      <pubDate>Tue, 31 Aug 2021 23:22:47 +0700</pubDate>
       
       <guid>https://kodebaper.com/categories/dart/</guid>
       <description></description>
@@ -19,7 +28,7 @@
     <item>
       <title>Pemrograman</title>
       <link>https://kodebaper.com/categories/pemrograman/</link>
-      <pubDate>Mon, 09 Aug 2021 07:59:29 +0700</pubDate>
+      <pubDate>Tue, 31 Aug 2021 23:22:47 +0700</pubDate>
       
       <guid>https://kodebaper.com/categories/pemrograman/</guid>
       <description></description>
@@ -58,15 +67,6 @@
       <pubDate>Fri, 16 Apr 2021 08:04:45 +0700</pubDate>
       
       <guid>https://kodebaper.com/categories/cyber-security/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Secangkir Kopi</title>
-      <link>https://kodebaper.com/categories/secangkir-kopi/</link>
-      <pubDate>Thu, 04 Feb 2021 23:17:38 +0700</pubDate>
-      
-      <guid>https://kodebaper.com/categories/secangkir-kopi/</guid>
       <description></description>
     </item>
     
